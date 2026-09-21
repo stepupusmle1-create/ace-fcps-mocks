@@ -4,7 +4,7 @@ import Image from "next/image";
 import Link from "next/link";
 import { usePathname } from "next/navigation";
 import { useEffect, useState } from "react";
-import { LayoutDashboard, Menu, PlusCircle, ShieldCheck, TrendingUp, Trophy, X, History as HistoryIcon } from "lucide-react";
+import { GraduationCap, LayoutDashboard, Menu, PlusCircle, ShieldCheck, TrendingUp, Trophy, X, History as HistoryIcon } from "lucide-react";
 import { LogoutButton } from "@/components/logout-button";
 
 // Q Bank is hidden from navigation for now — the app is mocks-only.
@@ -22,12 +22,28 @@ const NAV_ITEMS = [
   { href: "/history", label: "History", icon: HistoryIcon, match: (p: string) => p.startsWith("/history") || p.startsWith("/attempt") },
 ];
 
+const RECALLS_NAV_ITEM = {
+  href: "/recalls",
+  label: "Recalls",
+  icon: GraduationCap,
+  match: (p: string) => p.startsWith("/recalls") || p.startsWith("/exam/recall") || p.startsWith("/tutor/recall"),
+};
+
 const ADMIN_NAV_ITEM = { href: "/admin", label: "Admin", icon: ShieldCheck, match: (p: string) => p.startsWith("/admin") };
 
-export function AppSidebar({ user }: { user: { name: string; email: string; isAdmin: boolean } }) {
+export function AppSidebar({
+  user,
+  hasRecalls = false,
+}: {
+  user: { name: string; email: string; isAdmin: boolean };
+  hasRecalls?: boolean;
+}) {
   const pathname = usePathname();
   const [open, setOpen] = useState(false);
-  const navItems = user.isAdmin ? [ADMIN_NAV_ITEM, ...NAV_ITEMS] : NAV_ITEMS;
+  let navItems = hasRecalls
+    ? [...NAV_ITEMS.slice(0, 3), RECALLS_NAV_ITEM, ...NAV_ITEMS.slice(3)]
+    : NAV_ITEMS;
+  if (user.isAdmin) navItems = [ADMIN_NAV_ITEM, ...navItems];
   const initial = user.name.trim().charAt(0).toUpperCase() || "?";
   const homeHref = user.isAdmin ? "/admin" : "/dashboard";
 
