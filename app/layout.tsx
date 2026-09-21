@@ -27,7 +27,7 @@ export default async function RootLayout({
     <html lang="en" className={plusJakarta.variable}>
       <body className="min-h-screen bg-slate-50 font-sans antialiased text-slate-900">
         {user ? (
-          <div className="flex min-h-screen">
+          <div className="flex min-h-screen flex-col md:flex-row">
             <AppSidebar user={{ name: user.name, email: user.email, isAdmin: user.isAdmin }} />
             <div className="min-w-0 flex-1">
               <main>{children}</main>
