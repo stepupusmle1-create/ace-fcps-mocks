@@ -41,11 +41,13 @@ export async function POST(req: NextRequest) {
   if (!examType) {
     return NextResponse.json({ error: "Invalid exam type." }, { status: 400 });
   }
-  // Custom multi-topic selections are always untimed Q Bank practice.
-  const mode = examType === "CUSTOM" ? "PRACTICE" : body?.mode === "PRACTICE" ? "PRACTICE" : "MOCK";
   // Recall sets (e.g. "July attempt recalls") are a fixed pool per system/topic — testing
   // mode draws the whole set instead of a random sample, same as tutor mode.
   const recallOnly = body?.recallOnly === true;
+  // Custom multi-topic Q Bank selections are always untimed practice; custom recall
+  // selections can be either Testing (timed) or Tutor (untimed), same as everywhere else.
+  const mode =
+    examType === "CUSTOM" && !recallOnly ? "PRACTICE" : body?.mode === "PRACTICE" ? "PRACTICE" : "MOCK";
 
   let systemId: string | null = null;
   let systemName: string | null = null;
@@ -61,6 +63,7 @@ export async function POST(req: NextRequest) {
       return NextResponse.json({ error: "Select at least one topic." }, { status: 400 });
     }
     where = { topicId: { in: topicIds } };
+    if (recallOnly) storedExamType = "RECALL_CUSTOM";
   } else if (examType === "TOPIC") {
     const slug = typeof body?.topicSlug === "string" ? body.topicSlug : "";
     const topic = await prisma.topic.findUnique({ where: { slug }, include: { system: true } });

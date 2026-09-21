@@ -26,7 +26,7 @@ const RECALLS_NAV_ITEM = {
   href: "/recalls",
   label: "Recalls",
   icon: GraduationCap,
-  match: (p: string) => p.startsWith("/recalls") || p.startsWith("/exam/recall") || p.startsWith("/tutor/recall"),
+  match: (p: string) => p.startsWith("/recalls"),
 };
 
 const ADMIN_NAV_ITEM = { href: "/admin", label: "Admin", icon: ShieldCheck, match: (p: string) => p.startsWith("/admin") };

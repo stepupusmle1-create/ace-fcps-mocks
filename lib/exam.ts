@@ -67,6 +67,8 @@ export function attemptTitle(attempt: {
       return isPractice ? `${attempt.topicName} Q Bank` : `${attempt.topicName} Mock`;
     case "CUSTOM":
       return "Custom Q Bank Practice";
+    case "RECALL_CUSTOM":
+      return isPractice ? "Recall Tutor" : "Recall Testing";
     case "RECALL_TOPIC":
       return isPractice ? `${attempt.topicName} Recall (Tutor)` : `${attempt.topicName} Recall (Testing)`;
     case "RECALL_SYSTEM":

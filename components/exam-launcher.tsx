@@ -1,7 +1,7 @@
 "use client";
 
 import { useState } from "react";
-import { AlertCircle, BookOpen, GraduationCap, Loader2, Timer } from "lucide-react";
+import { AlertCircle, BookOpen, Loader2, Timer } from "lucide-react";
 import { ExamRunner } from "@/components/exam-runner";
 import type { QuestionForExam } from "@/lib/exam";
 
@@ -14,7 +14,6 @@ export function ExamLauncher({
   questionCount,
   minutes,
   mode = "MOCK",
-  recallOnly = false,
 }: {
   examType: "SYSTEM" | "TOPIC" | "GRAND";
   systemSlug?: string;
@@ -24,7 +23,6 @@ export function ExamLauncher({
   questionCount: number;
   minutes: number;
   mode?: "MOCK" | "PRACTICE";
-  recallOnly?: boolean;
 }) {
   const practiceMode = mode === "PRACTICE";
   const [state, setState] = useState<
@@ -39,7 +37,7 @@ export function ExamLauncher({
     const res = await fetch("/api/exam/start", {
       method: "POST",
       headers: { "Content-Type": "application/json" },
-      body: JSON.stringify({ examType, systemSlug, topicSlug, mode, recallOnly }),
+      body: JSON.stringify({ examType, systemSlug, topicSlug, mode }),
     });
     const data = await res.json().catch(() => ({}));
     if (!res.ok) {
@@ -68,16 +66,10 @@ export function ExamLauncher({
   return (
     <div className="mx-auto max-w-2xl px-4 py-16 sm:px-6">
       <div className="rounded-2xl border border-slate-200 bg-white p-8 text-center shadow-premium">
-        {recallOnly ? (
-          <span className="mb-3 inline-flex items-center gap-1.5 rounded-full bg-gold-50 px-3 py-1 text-[12px] font-semibold text-gold-700">
-            <GraduationCap size={13} /> {practiceMode ? "Recall · Tutor mode" : "Recall · Testing mode"}
+        {practiceMode && (
+          <span className="mb-3 inline-flex items-center gap-1.5 rounded-full bg-brand-50 px-3 py-1 text-[12px] font-semibold text-brand-700">
+            <BookOpen size={13} /> Q Bank practice
           </span>
-        ) : (
-          practiceMode && (
-            <span className="mb-3 inline-flex items-center gap-1.5 rounded-full bg-brand-50 px-3 py-1 text-[12px] font-semibold text-brand-700">
-              <BookOpen size={13} /> Q Bank practice
-            </span>
-          )
         )}
         <h1 className="text-2xl font-bold text-slate-900">{title}</h1>
         <p className="mt-2 text-sm leading-relaxed text-slate-500">{description}</p>
@@ -93,9 +85,8 @@ export function ExamLauncher({
           <div className="mt-5 rounded-xl bg-brand-50 px-4 py-3 text-left text-[13px] text-brand-800">
             <p className="flex gap-2">
               <BookOpen size={16} className="mt-0.5 flex-none" />
-              {recallOnly
-                ? "Tutor mode covers every recalled question in this scope with no time limit. You'll see whether each answer is correct, plus its explanation, right after you pick it."
-                : "Q Bank practice covers every question in this scope with no time limit. You'll see whether each answer is correct, plus its explanation, right after you pick it."}
+              Q Bank practice covers every question in this scope with no time limit. You&apos;ll see whether
+              each answer is correct, plus its explanation, right after you pick it.
             </p>
           </div>
         ) : (
@@ -118,13 +109,7 @@ export function ExamLauncher({
           className="mt-6 flex w-full items-center justify-center gap-2 rounded-xl bg-gradient-to-br from-brand-600 to-brand-800 px-5 py-3.5 text-sm font-bold text-white shadow-sm transition hover:shadow-md disabled:opacity-60"
         >
           {state.view === "loading" && <Loader2 size={16} className="animate-spin" />}
-          {recallOnly
-            ? practiceMode
-              ? "Begin tutor session"
-              : "Begin testing"
-            : practiceMode
-            ? "Begin practice"
-            : "Begin mock"}
+          {practiceMode ? "Begin practice" : "Begin mock"}
         </button>
       </div>
     </div>
