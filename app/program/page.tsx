@@ -122,6 +122,12 @@ export default async function ProgramPage() {
               &larr; Back home
             </Link>
           </div>
+          <Link
+            href="/exams"
+            className="mt-5 inline-flex items-center gap-1.5 text-[13px] font-semibold text-gold-700 hover:underline"
+          >
+            Looking for the mock exams instead? View Mocks <ArrowRight size={13} />
+          </Link>
         </div>
       </div>
 

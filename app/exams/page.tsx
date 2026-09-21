@@ -103,6 +103,12 @@ export default async function ExamsPage() {
               &larr; Back home
             </Link>
           </div>
+          <Link
+            href="/program"
+            className="mt-5 inline-flex items-center gap-1.5 text-[13px] font-semibold text-brand-700 hover:underline"
+          >
+            Want the full study schedule? View Program Details <ArrowRight size={13} />
+          </Link>
         </div>
       </div>
 
