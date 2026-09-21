@@ -22,12 +22,6 @@ export function SiteHeader({ user }: { user: null }) {
             Mocks
           </Link>
           <Link
-            href="/program"
-            className="hidden rounded-lg px-3.5 py-1.5 text-sm font-medium text-slate-600 transition hover:bg-slate-100 sm:block"
-          >
-            Program
-          </Link>
-          <Link
             href="/login"
             className="hidden items-center gap-1.5 rounded-lg px-3 py-1.5 text-[13px] font-medium text-slate-400 transition hover:bg-slate-100 hover:text-slate-600 sm:flex"
           >

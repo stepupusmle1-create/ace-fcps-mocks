@@ -58,7 +58,7 @@ const FEATURES = [
     bg: "bg-rose-50",
     text: "text-rose-600",
     title: "100% free",
-    description: "Every mock, every mode, every explanation — free with the program, no separate charge.",
+    description: "Every mock, every mode, every explanation — always free, whether or not you join the coaching program.",
   },
 ];
 
@@ -100,15 +100,9 @@ export default async function ExamsPage() {
               href="/"
               className="rounded-xl border border-slate-300 bg-white px-6 py-3 text-sm font-semibold text-slate-700 shadow-sm transition hover:bg-slate-50"
             >
-              &larr; Back home
+              &larr; View Program Details
             </Link>
           </div>
-          <Link
-            href="/program"
-            className="mt-5 inline-flex items-center gap-1.5 text-[13px] font-semibold text-brand-700 hover:underline"
-          >
-            Want the full study schedule? View Program Details <ArrowRight size={13} />
-          </Link>
         </div>
       </div>
 
