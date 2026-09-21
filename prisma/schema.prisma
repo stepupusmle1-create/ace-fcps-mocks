@@ -51,10 +51,12 @@ model Question {
   optionExplanationsJson   String?
   reference                String?
   explanationImagesJson    String?
+  isRecall                 Boolean         @default(false)
   createdAt                DateTime        @default(now())
   attemptAnswers           AttemptAnswer[]
 
   @@index([topicId])
+  @@index([topicId, isRecall])
 }
 
 model Attempt {

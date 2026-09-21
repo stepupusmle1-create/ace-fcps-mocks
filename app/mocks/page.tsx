@@ -1,6 +1,6 @@
 import Link from "next/link";
 import { redirect } from "next/navigation";
-import { ArrowRight, ListChecks, Trophy } from "lucide-react";
+import { ArrowRight, GraduationCap, ListChecks, Trophy } from "lucide-react";
 import { getCurrentUser } from "@/lib/auth";
 import { prisma } from "@/lib/prisma";
 import { GRAND_MOCK_QUESTION_COUNT, PASS_PERCENT, SYSTEM_MOCK_QUESTION_COUNT, timeLimitSecFor } from "@/lib/exam";
@@ -9,7 +9,7 @@ export default async function MocksPage() {
   const user = await getCurrentUser();
   if (!user) redirect("/login");
 
-  const [systems, submittedAttempts, totalQuestions] = await Promise.all([
+  const [systems, submittedAttempts, totalQuestions, recallCount] = await Promise.all([
     prisma.system.findMany({
       orderBy: { order: "asc" },
       include: { topics: { include: { _count: { select: { questions: true } } } } },
@@ -19,6 +19,7 @@ export default async function MocksPage() {
       orderBy: { submittedAt: "desc" },
     }),
     prisma.question.count(),
+    prisma.question.count({ where: { isRecall: true } }),
   ]);
 
   const bestBySystem = new Map<string, number>();
@@ -73,6 +74,25 @@ export default async function MocksPage() {
           </Link>
         </div>
       </div>
+
+      {recallCount > 0 && (
+        <Link
+          href="/recalls"
+          className="group mt-10 flex flex-wrap items-center justify-between gap-4 rounded-2xl border border-gold-200 bg-gold-50 p-6 transition hover:border-gold-300 hover:bg-gold-100/70"
+        >
+          <div>
+            <span className="inline-flex items-center gap-1.5 rounded-full bg-white px-3 py-1 text-[12px] font-semibold text-gold-700 shadow-sm">
+              <GraduationCap size={13} /> New
+            </span>
+            <h2 className="mt-3 text-xl font-bold text-slate-900">Attempt Recalls</h2>
+            <p className="mt-1 max-w-md text-sm text-slate-600">
+              {recallCount} real questions recalled by candidates &mdash; system-wise and topic-wise, in
+              Testing mode (timed) or Tutor mode (study with explanations).
+            </p>
+          </div>
+          <ArrowRight size={20} className="flex-none text-gold-600 transition group-hover:translate-x-1" />
+        </Link>
+      )}
 
       <div className="mt-10 flex items-baseline justify-between">
         <h2 className="text-lg font-semibold text-slate-900">System &amp; topic mocks</h2>

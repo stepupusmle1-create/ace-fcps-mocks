@@ -43,13 +43,17 @@ export async function POST(req: NextRequest) {
   }
   // Custom multi-topic selections are always untimed Q Bank practice.
   const mode = examType === "CUSTOM" ? "PRACTICE" : body?.mode === "PRACTICE" ? "PRACTICE" : "MOCK";
+  // Recall sets (e.g. "July attempt recalls") are a fixed pool per system/topic — testing
+  // mode draws the whole set instead of a random sample, same as tutor mode.
+  const recallOnly = body?.recallOnly === true;
 
   let systemId: string | null = null;
   let systemName: string | null = null;
   let topicId: string | null = null;
   let topicName: string | null = null;
-  let where: { topicId?: { in: string[] } | string; topic?: { systemId: string } } = {};
+  let where: { topicId?: { in: string[] } | string; topic?: { systemId: string }; isRecall?: boolean } = {};
   let targetCount = GRAND_MOCK_QUESTION_COUNT;
+  let storedExamType: string = examType;
 
   if (examType === "CUSTOM") {
     const topicIds = Array.isArray(body?.topicIds) ? body.topicIds.filter((id: unknown) => typeof id === "string") : [];
@@ -69,6 +73,7 @@ export async function POST(req: NextRequest) {
     systemName = topic.system.name;
     targetCount = TOPIC_MOCK_QUESTION_COUNT;
     where = { topicId: topic.id };
+    storedExamType = recallOnly ? "RECALL_TOPIC" : "TOPIC";
   } else if (examType === "SYSTEM") {
     const slug = typeof body?.systemSlug === "string" ? body.systemSlug : "";
     const system = await prisma.system.findUnique({ where: { slug } });
@@ -79,8 +84,13 @@ export async function POST(req: NextRequest) {
     systemName = system.name;
     targetCount = SYSTEM_MOCK_QUESTION_COUNT;
     where = { topic: { systemId: system.id } };
+    storedExamType = recallOnly ? "RECALL_SYSTEM" : "SYSTEM";
   } else {
     targetCount = GRAND_MOCK_QUESTION_COUNT;
+  }
+
+  if (recallOnly) {
+    where = { ...where, isRecall: true };
   }
 
   // Only pull ids over the wire to pick the sample — the full rows (stem, options,
@@ -91,7 +101,8 @@ export async function POST(req: NextRequest) {
   }
 
   const shuffledIds = shuffle(idRows.map((r) => r.id));
-  const selectedIds = mode === "PRACTICE" ? shuffledIds : shuffledIds.slice(0, Math.min(targetCount, shuffledIds.length));
+  const selectedIds =
+    mode === "PRACTICE" || recallOnly ? shuffledIds : shuffledIds.slice(0, Math.min(targetCount, shuffledIds.length));
 
   const rows = await prisma.question.findMany({
     where: { id: { in: selectedIds } },
@@ -104,7 +115,7 @@ export async function POST(req: NextRequest) {
   const attempt = await prisma.attempt.create({
     data: {
       userId: user.id,
-      examType,
+      examType: storedExamType,
       mode,
       systemId,
       systemName,
