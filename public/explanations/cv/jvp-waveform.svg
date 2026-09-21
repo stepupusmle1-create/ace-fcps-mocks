@@ -1,0 +1,36 @@
+<svg viewBox="0 0 640 300" xmlns="http://www.w3.org/2000/svg" font-family="system-ui, -apple-system, sans-serif">
+  <rect width="640" height="300" fill="#ffffff"/>
+  <text x="320" y="28" text-anchor="middle" font-size="16" font-weight="700" fill="#0f172a">Normal Jugular Venous Pulse (Original Schematic)</text>
+
+  <line x1="60" y1="200" x2="600" y2="200" stroke="#e2e8f0" stroke-width="1"/>
+  <line x1="60" y1="60" x2="60" y2="200" stroke="#94a3b8" stroke-width="1.5"/>
+  <text x="30" y="130" font-size="12" fill="#64748b" transform="rotate(-90 30 130)">Pressure</text>
+
+  <!-- Correct sequence: a (peak, atrial contraction) -> c (small notch right after, on the way down)
+       -> x descent (single continuous descent to trough) -> v (peak, atrial filling) -> y descent (trough) -->
+  <path d="M 60 175
+           C 85 175 95 115 125 115
+           C 135 115 138 128 145 132
+           C 160 140 165 178 195 182
+           C 230 186 250 145 280 138
+           C 310 132 330 150 355 155
+           C 380 160 400 190 430 192
+           C 460 194 480 150 510 143
+           C 530 139 545 165 560 168
+           L 600 170"
+        fill="none" stroke="#4f46e5" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <text x="125" y="100" font-size="14" font-weight="700" fill="#1e293b" text-anchor="middle">a</text>
+  <text x="148" y="118" font-size="13" font-weight="700" fill="#1e293b" text-anchor="middle">c</text>
+  <text x="195" y="205" font-size="14" font-weight="700" fill="#1e293b" text-anchor="middle">x</text>
+  <text x="280" y="120" font-size="14" font-weight="700" fill="#1e293b" text-anchor="middle">v</text>
+  <text x="430" y="215" font-size="14" font-weight="700" fill="#1e293b" text-anchor="middle">y</text>
+
+  <g font-size="11" fill="#64748b">
+    <text x="60" y="240">a wave: atrial contraction (immediately follows the ECG P wave)</text>
+    <text x="60" y="257">c wave: tricuspid valve bulging into the RA during isovolumetric ventricular contraction</text>
+    <text x="60" y="274">x descent: atrial relaxation plus the tricuspid being pulled downward during ventricular systole</text>
+    <text x="330" y="240">v wave: atrial filling against a closed tricuspid valve</text>
+    <text x="330" y="257">y descent: tricuspid valve opens, rapid early ventricular filling empties the atrium</text>
+  </g>
+</svg>

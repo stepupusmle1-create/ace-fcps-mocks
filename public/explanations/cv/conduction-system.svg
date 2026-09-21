@@ -1,0 +1,45 @@
+<svg viewBox="0 0 560 420" xmlns="http://www.w3.org/2000/svg" font-family="system-ui, -apple-system, sans-serif">
+  <rect width="560" height="420" fill="#ffffff"/>
+  <text x="280" y="28" text-anchor="middle" font-size="16" font-weight="700" fill="#0f172a">Cardiac Conduction Pathway (Original Schematic)</text>
+
+  <!-- simplified 4-chamber outline -->
+  <path d="M 100 70
+           Q 100 60 130 60 L 260 60 Q 290 60 290 90
+           L 290 200 Q 290 230 250 230 L 250 340
+           Q 250 370 210 370 L 150 370
+           Q 110 370 110 340 L 110 230
+           Q 70 230 70 200 L 70 100
+           Q 70 70 100 70 Z"
+        fill="#fdf2f8" stroke="#f9a8d4" stroke-width="1.5"/>
+  <line x1="180" y1="60" x2="180" y2="370" stroke="#f9a8d4" stroke-width="1.5"/>
+  <line x1="70" y1="215" x2="290" y2="215" stroke="#f9a8d4" stroke-width="1.5"/>
+
+  <text x="130" y="95" font-size="11" fill="#be185d" text-anchor="middle">RA</text>
+  <text x="230" y="95" font-size="11" fill="#be185d" text-anchor="middle">LA</text>
+  <text x="140" y="300" font-size="11" fill="#be185d" text-anchor="middle">RV</text>
+  <text x="220" y="300" font-size="11" fill="#be185d" text-anchor="middle">LV</text>
+
+  <!-- SA node -->
+  <circle cx="255" cy="85" r="9" fill="#4f46e5"/>
+  <text x="290" y="80" font-size="12" font-weight="600" fill="#312e81">1. SA node</text>
+
+  <!-- AV node -->
+  <circle cx="185" cy="210" r="8" fill="#4f46e5"/>
+  <text x="290" y="215" font-size="12" font-weight="600" fill="#312e81">2. AV node</text>
+
+  <!-- Bundle of His -->
+  <line x1="185" y1="218" x2="185" y2="250" stroke="#4f46e5" stroke-width="3"/>
+  <text x="290" y="250" font-size="12" font-weight="600" fill="#312e81">3. Bundle of His</text>
+
+  <!-- bundle branches -->
+  <path d="M 185 250 L 140 340" stroke="#4f46e5" stroke-width="2.5" fill="none"/>
+  <path d="M 185 250 L 225 340" stroke="#4f46e5" stroke-width="2.5" fill="none"/>
+  <text x="290" y="290" font-size="12" font-weight="600" fill="#312e81">4. R/L bundle branches</text>
+
+  <!-- purkinje -->
+  <path d="M 140 340 L 120 355 M 140 340 L 145 360 M 140 340 L 160 350" stroke="#4f46e5" stroke-width="1.8" fill="none"/>
+  <path d="M 225 340 L 205 355 M 225 340 L 230 360 M 225 340 L 245 350" stroke="#4f46e5" stroke-width="1.8" fill="none"/>
+  <text x="290" y="330" font-size="12" font-weight="600" fill="#312e81">5. Purkinje fibers</text>
+
+  <text x="280" y="400" text-anchor="middle" font-size="11" fill="#94a3b8">Impulse: SA node &#8594; internodal tracts &#8594; AV node (delay) &#8594; His bundle &#8594; bundle branches &#8594; Purkinje fibers</text>
+</svg>

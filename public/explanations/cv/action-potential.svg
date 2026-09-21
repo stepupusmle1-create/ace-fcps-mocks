@@ -1,0 +1,39 @@
+<svg viewBox="0 0 640 320" xmlns="http://www.w3.org/2000/svg" font-family="system-ui, -apple-system, sans-serif">
+  <rect width="640" height="320" fill="#ffffff"/>
+  <text x="320" y="28" text-anchor="middle" font-size="16" font-weight="700" fill="#0f172a">Ventricular Myocyte Action Potential (Original Schematic)</text>
+
+  <!-- axes -->
+  <line x1="70" y1="260" x2="600" y2="260" stroke="#94a3b8" stroke-width="1.5"/>
+  <line x1="70" y1="60" x2="70" y2="260" stroke="#94a3b8" stroke-width="1.5"/>
+  <text x="35" y="90" font-size="12" fill="#64748b">+20mV</text>
+  <text x="35" y="234" font-size="12" fill="#64748b">-85mV</text>
+  <text x="320" y="290" text-anchor="middle" font-size="12" fill="#64748b">Time</text>
+
+  <!-- resting line at -85mV -->
+  <line x1="70" y1="228" x2="600" y2="228" stroke="#e2e8f0" stroke-width="1" stroke-dasharray="4 4"/>
+
+  <!-- AP curve: phase4 rest -> 0 upstroke -> 1 notch -> 2 plateau -> 3 repolarize -> 4 rest -->
+  <path d="M 70 228
+           L 140 228
+           L 155 80
+           L 175 105
+           L 340 108
+           C 400 108 420 205 460 228
+           L 600 228"
+        fill="none" stroke="#4f46e5" stroke-width="3" stroke-linejoin="round"/>
+
+  <!-- phase labels -->
+  <text x="105" y="248" text-anchor="middle" font-size="13" font-weight="700" fill="#1e293b">4</text>
+  <text x="150" y="75" text-anchor="middle" font-size="13" font-weight="700" fill="#1e293b">0</text>
+  <text x="178" y="98" text-anchor="middle" font-size="13" font-weight="700" fill="#1e293b">1</text>
+  <text x="255" y="100" text-anchor="middle" font-size="13" font-weight="700" fill="#1e293b">2</text>
+  <text x="415" y="180" text-anchor="middle" font-size="13" font-weight="700" fill="#1e293b">3</text>
+  <text x="530" y="248" text-anchor="middle" font-size="13" font-weight="700" fill="#1e293b">4</text>
+
+  <text x="105" y="205" text-anchor="middle" font-size="10" fill="#64748b">resting</text>
+  <text x="150" y="60" text-anchor="middle" font-size="10" fill="#64748b">Na+ in</text>
+  <text x="255" y="122" text-anchor="middle" font-size="10" fill="#64748b">plateau: Ca2+ in / K+ out</text>
+  <text x="415" y="198" text-anchor="middle" font-size="10" fill="#64748b">K+ out</text>
+
+  <text x="320" y="308" text-anchor="middle" font-size="11" fill="#94a3b8">Ventricular resting potential &#8776; -85mV &#183; Phase 0 = fast Na+ influx &#183; Phase 2 = Ca2+/K+ balance (plateau) &#183; Phase 3 = K+ efflux</text>
+</svg>
