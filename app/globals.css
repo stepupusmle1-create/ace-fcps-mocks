@@ -34,3 +34,39 @@ body {
   background-image: radial-gradient(1100px circle at 15% -10%, rgb(79 70 229 / 0.1), transparent 55%),
     radial-gradient(900px circle at 100% 0%, rgb(201 162 39 / 0.12), transparent 50%);
 }
+
+@keyframes float-in {
+  0% {
+    opacity: 0;
+    transform: translateY(18px) scale(0.94);
+  }
+  100% {
+    opacity: 1;
+    transform: translateY(0) scale(1);
+  }
+}
+
+@keyframes float-bob {
+  0%,
+  100% {
+    transform: translateY(0);
+  }
+  50% {
+    transform: translateY(-7px);
+  }
+}
+
+.animate-float-item {
+  opacity: 0;
+  animation: float-in 0.7s cubic-bezier(0.16, 1, 0.3, 1) forwards,
+    float-bob 4.5s ease-in-out infinite;
+  animation-delay: var(--float-in-delay, 0ms), var(--float-bob-delay, 700ms);
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .animate-float-item {
+    animation: none;
+    opacity: 1;
+    transform: none;
+  }
+}
