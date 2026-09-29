@@ -1,0 +1,3418 @@
+[
+  {
+    "systemSlug": "microbiology",
+    "topicSlug": "parasitology",
+    "stem": "Toxoplasma gondii is a widespread parasite, with latent infection especially common in regions of Europe. In a patient with AIDS, latent toxoplasmosis most commonly reactivates to present with which condition?",
+    "options": [
+      "Pneumonia",
+      "Encephalitis",
+      "Diffuse lymphadenopathy",
+      "Genital ulcers"
+    ],
+    "correctIndex": 1,
+    "explanation": "In patients with AIDS, reactivation of latent Toxoplasma gondii most commonly presents as toxoplasmic encephalitis, producing ring-enhancing brain lesions, often in patients with CD4 counts below 100 cells/microL.",
+    "optionExplanations": [
+      "Toxoplasma pneumonitis is a rare presentation; the CNS is the classic site of reactivation in AIDS.",
+      "",
+      "Diffuse lymphadenopathy is typical of acute acquired toxoplasmosis in an immunocompetent host, not AIDS-associated reactivation.",
+      "Toxoplasma does not cause genital ulceration; that pattern suggests herpes simplex or syphilis."
+    ],
+    "source": "Surgery — 8 July Afternoon Paper"
+  },
+  {
+    "systemSlug": "nervous-system",
+    "topicSlug": "neurophysiology",
+    "stem": "A chronic alcoholic patient presents with memory impairment and confabulation. Which vitamin deficiency is most likely responsible?",
+    "options": [
+      "Vitamin B1 (thiamine) deficiency",
+      "Vitamin B2 deficiency",
+      "Vitamin B3 deficiency",
+      "Vitamin B9 deficiency"
+    ],
+    "correctIndex": 0,
+    "explanation": "Chronic alcohol use impairs thiamine absorption and storage. Thiamine (vitamin B1) deficiency causes Wernicke-Korsakoff syndrome, in which the amnestic (Korsakoff) component features memory loss and confabulation.",
+    "optionExplanations": [
+      "",
+      "Riboflavin (B2) deficiency causes angular stomatitis and glossitis, not an amnestic syndrome.",
+      "Niacin (B3) deficiency causes pellagra (dermatitis, diarrhea, dementia), a distinct syndrome.",
+      "Folate (B9) deficiency causes megaloblastic anemia and neural tube defects, not confabulation."
+    ],
+    "source": "Surgery — 8 July Afternoon Paper"
+  },
+  {
+    "systemSlug": "nervous-system",
+    "topicSlug": "neurophysiology",
+    "stem": "A chronic alcoholic is found to be cheerful in mood and repeatedly gives his friend several different, incorrect names. What is the underlying pathology?",
+    "options": [
+      "Korsakoff syndrome",
+      "Wernicke encephalopathy",
+      "Vitamin B1 deficiency alone",
+      "Vitamin B2 deficiency"
+    ],
+    "correctIndex": 0,
+    "explanation": "Korsakoff syndrome, the chronic amnestic phase following Wernicke encephalopathy, is characterized by anterograde amnesia, confabulation, and often an inappropriately cheerful affect.",
+    "optionExplanations": [
+      "",
+      "Wernicke encephalopathy is the acute triad of confusion, ataxia, and ophthalmoplegia that precedes the chronic amnestic Korsakoff phase.",
+      "Naming the deficiency alone does not capture the distinct amnestic-confabulatory clinical syndrome being described.",
+      "Riboflavin deficiency does not cause confabulation or amnesia."
+    ],
+    "source": "Surgery — 8 July Afternoon Paper"
+  },
+  {
+    "systemSlug": "musculoskeletal",
+    "topicSlug": "bone-joint-infections",
+    "stem": "A patient presents with pus discharge from a gangrenous foot. Which type of necrosis is seen in this patient?",
+    "options": [
+      "Caseous necrosis",
+      "Liquefactive necrosis",
+      "Fat necrosis",
+      "Coagulative necrosis"
+    ],
+    "correctIndex": 1,
+    "explanation": "Wet gangrene, complicated by bacterial infection, produces liquefactive necrosis due to the action of bacterial and neutrophilic enzymes on dead tissue, in contrast to the coagulative necrosis seen in uninfected (dry) gangrene.",
+    "optionExplanations": [
+      "Caseous necrosis is characteristic of tuberculosis and fungal granulomas, not infected gangrene.",
+      "",
+      "Fat necrosis results from lipase activity, as in acute pancreatitis, not bacterial soft-tissue infection.",
+      "Coagulative necrosis is typical of uninfected (dry), purely ischemic gangrene, not infection with bacterial enzymatic digestion."
+    ],
+    "source": "Surgery — 8 July Afternoon Paper"
+  },
+  {
+    "systemSlug": "hematology-oncology",
+    "topicSlug": "anemia",
+    "stem": "A 45-year-old woman with a 10-year history of rheumatoid arthritis presents with fatigue. CBC shows Hb 8.5 g/dL, with low serum iron, low TIBC, and high serum ferritin. What is the most likely cause of her anemia?",
+    "options": [
+      "Iron deficiency anemia",
+      "Anemia of chronic disease",
+      "Hemolytic anemia",
+      "Megaloblastic anemia"
+    ],
+    "correctIndex": 1,
+    "explanation": "Chronic inflammation in rheumatoid arthritis increases IL-6 and hepcidin. Iron becomes trapped within macrophages, producing low serum iron, low TIBC, and high ferritin, despite adequate iron stores, characteristic of anemia of chronic disease.",
+    "optionExplanations": [
+      "Iron deficiency anemia shows a low ferritin and a high (not low) TIBC, the opposite of this pattern.",
+      "",
+      "Hemolytic anemia shows indirect hyperbilirubinemia and reticulocytosis, not this iron-sequestration pattern.",
+      "Megaloblastic anemia results from B12/folate deficiency with macrocytosis, not this iron profile."
+    ],
+    "source": "Surgery — 8 July Afternoon Paper"
+  },
+  {
+    "systemSlug": "cardiovascular",
+    "topicSlug": "congenital-vascular-disease",
+    "stem": "Bicuspid aortic valve is most strongly associated with which condition?",
+    "options": [
+      "Atrial septal defect",
+      "Ventricular septal defect",
+      "Coarctation of the aorta",
+      "Patent ductus arteriosus"
+    ],
+    "correctIndex": 2,
+    "explanation": "Bicuspid aortic valve is strongly associated with coarctation of the aorta. Both share a common developmental origin, and patients with either condition should be evaluated for the other.",
+    "optionExplanations": [
+      "ASD does not share the strong developmental association with bicuspid aortic valve that coarctation does.",
+      "VSD lacks the well-established embryologic link to bicuspid aortic valve seen with coarctation.",
+      "",
+      "PDA is not the lesion most strongly linked to bicuspid aortic valve."
+    ],
+    "source": "Surgery — 8 July Afternoon Paper"
+  },
+  {
+    "systemSlug": "microbiology",
+    "topicSlug": "gram-negative-bacteria",
+    "stem": "By which route does toxic shock caused by gram-negative bacteria most commonly spread?",
+    "options": [
+      "Female urinary tract",
+      "Ureter",
+      "Oral route",
+      "Skin"
+    ],
+    "correctIndex": 0,
+    "explanation": "Ascending urinary tract infection is a very common source of gram-negative bacteremia and septic shock, particularly in women, due to a shorter urethra and greater susceptibility to ascending infection.",
+    "optionExplanations": [
+      "",
+      "The ureter is a conduit for infection, not the primary mucosal source of the bacteremia.",
+      "Gram-negative bacteremia rarely arises from the oral cavity, whose flora is predominantly gram-positive and anaerobic.",
+      "Skin flora is predominantly gram-positive; it is not the leading source of gram-negative sepsis."
+    ],
+    "source": "Surgery — 8 July Afternoon Paper"
+  },
+  {
+    "systemSlug": "cardiovascular",
+    "topicSlug": "congenital-vascular-disease",
+    "stem": "A young patient has unequal blood pressure readings in both arms, visible intercostal pulsations, and rib notching on chest X-ray. What is the most likely diagnosis?",
+    "options": [
+      "Preductal aortic coarctation",
+      "Postductal aortic coarctation",
+      "Aortic arch aneurysm",
+      "Aortic stenosis"
+    ],
+    "correctIndex": 1,
+    "explanation": "Postductal (adult-type) coarctation causes collateral flow through dilated intercostal arteries, producing visible pulsations and characteristic rib notching on chest X-ray, along with differential blood pressures between the arms and legs.",
+    "optionExplanations": [
+      "Preductal (infantile-type) coarctation presents early in infancy with heart failure, before collaterals can develop to cause rib notching.",
+      "",
+      "An aortic arch aneurysm does not typically produce differential limb blood pressures with rib notching.",
+      "Aortic stenosis causes a systolic murmur radiating to the carotids, not rib notching or limb blood pressure differences."
+    ],
+    "source": "Surgery — 8 July Afternoon Paper"
+  },
+  {
+    "systemSlug": "microbiology",
+    "topicSlug": "gram-negative-bacteria",
+    "stem": "After gynecologic surgery, which organism most commonly causes postoperative infection?",
+    "options": [
+      "Bacteroides species",
+      "Escherichia coli",
+      "Klebsiella species",
+      "Haemophilus influenzae"
+    ],
+    "correctIndex": 0,
+    "explanation": "Bacteroides species, anaerobic organisms normally present in the vaginal and bowel flora, are a leading cause of postoperative pelvic infections following gynecologic surgery.",
+    "optionExplanations": [
+      "",
+      "E. coli commonly causes urinary infection but is less characteristic of post-gynecologic pelvic infection than anaerobic Bacteroides.",
+      "Klebsiella is more typical of hospital-acquired respiratory or urinary infection than pelvic infection after gynecologic surgery.",
+      "H. influenzae is a respiratory pathogen, not part of the vaginal/bowel flora implicated here."
+    ],
+    "source": "Surgery — 8 July Afternoon Paper"
+  },
+  {
+    "systemSlug": "musculoskeletal",
+    "topicSlug": "connective-tissue-vasculitis",
+    "stem": "A patient with adult-onset asthma, eosinophilia, sinusitis, and peripheral neuropathy is suspected of having eosinophilic granulomatosis with polyangiitis (EGPA). Which antibody is most commonly associated with this condition?",
+    "options": [
+      "Cytoplasmic ANCA (c-ANCA)",
+      "Perinuclear ANCA (p-ANCA)",
+      "Anti-glomerular basement membrane antibody",
+      "Antinuclear antibody"
+    ],
+    "correctIndex": 1,
+    "explanation": "EGPA (formerly Churg-Strauss syndrome) is most commonly associated with perinuclear ANCA (p-ANCA), directed against myeloperoxidase. It presents with asthma, eosinophilia, sinusitis, and peripheral neuropathy from small-vessel vasculitis.",
+    "optionExplanations": [
+      "c-ANCA (anti-PR3) is characteristic of granulomatosis with polyangiitis, not EGPA.",
+      "",
+      "Anti-GBM antibody causes Goodpasture syndrome, not EGPA.",
+      "ANA is associated with lupus and other connective tissue diseases, not EGPA."
+    ],
+    "source": "Surgery — 8 July Afternoon Paper"
+  },
+  {
+    "systemSlug": "microbiology",
+    "topicSlug": "gram-positive-bacteria",
+    "stem": "Following a rise in postoperative MRSA infections, from which body site should staff samples be taken to confirm MRSA carriage?",
+    "options": [
+      "Nares",
+      "Hands",
+      "Gloves on hands",
+      "Throat swab"
+    ],
+    "correctIndex": 0,
+    "explanation": "The anterior nares are the most common carriage site for Staphylococcus aureus, including MRSA. Nasal swabs are the standard screening method for identifying carriers among healthcare staff.",
+    "optionExplanations": [
+      "",
+      "Hand swabs reflect transient surface contamination, not true persistent carriage.",
+      "Gloves reflect contamination acquired during care, not underlying colonization status.",
+      "The throat is not the primary reservoir of S. aureus carriage; the anterior nares are."
+    ],
+    "source": "Surgery — 8 July Afternoon Paper"
+  },
+  {
+    "systemSlug": "reproductive-health",
+    "topicSlug": "pregnancy-antenatal-care",
+    "stem": "A 28-year-old woman at 35 weeks gestation presents with sudden painless vaginal bleeding. The fetus is alive and active. Ultrasound shows a low-lying placenta covering part of the internal cervical os. What is the most likely diagnosis?",
+    "options": [
+      "Placenta previa",
+      "Placental abruption",
+      "Ectopic pregnancy",
+      "Vasa previa"
+    ],
+    "correctIndex": 0,
+    "explanation": "Placenta previa presents with painless vaginal bleeding in the third trimester, with the placenta implanted low in the uterus, partially or fully covering the internal cervical os on ultrasound.",
+    "optionExplanations": [
+      "",
+      "Placental abruption classically presents with painful bleeding and a tender, tense uterus, not painless bleeding.",
+      "Ectopic pregnancy presents far earlier in gestation, not at 35 weeks with an otherwise viable pregnancy.",
+      "Vasa previa involves fetal vessels crossing the os and classically causes fetal distress/bleeding at membrane rupture, not a low-lying placenta on ultrasound."
+    ],
+    "source": "Surgery — 8 July Afternoon Paper"
+  },
+  {
+    "systemSlug": "cardiovascular",
+    "topicSlug": "endocarditis-rheumatic-fever",
+    "stem": "A 24-year-old IV drug user presents with fever, chills, and dyspnea. Echocardiogram shows vegetations on the tricuspid valve. Which organism is most commonly responsible for infective endocarditis in IV drug abusers?",
+    "options": [
+      "Staphylococcus aureus",
+      "Streptococcus viridans",
+      "Streptococcus pneumoniae",
+      "Enterococcus faecalis"
+    ],
+    "correctIndex": 0,
+    "explanation": "Staphylococcus aureus is the most common cause of infective endocarditis in patients without pre-existing heart disease and is especially characteristic of right-sided (tricuspid valve) endocarditis in IV drug users.",
+    "optionExplanations": [
+      "",
+      "Streptococcus viridans classically causes subacute endocarditis on previously damaged left-sided valves, not the acute right-sided picture in IV drug users.",
+      "Streptococcus pneumoniae is an uncommon cause of endocarditis and is not linked to IV drug use.",
+      "Enterococcus faecalis more typically causes endocarditis after genitourinary procedures, not the classic IV drug use picture."
+    ],
+    "source": "Surgery — 8 July Afternoon Paper"
+  },
+  {
+    "systemSlug": "gastrointestinal",
+    "topicSlug": "gi-anatomy-embryology",
+    "stem": "During an appendectomy performed through a McBurney's point incision, which nerve is most commonly injured?",
+    "options": [
+      "Iliohypogastric nerve",
+      "Ilioinguinal nerve",
+      "Genital branch of the genitofemoral nerve",
+      "Lateral cutaneous nerve of the thigh"
+    ],
+    "correctIndex": 0,
+    "explanation": "The iliohypogastric nerve runs close to the McBurney's point incision site and is the nerve most commonly injured during appendectomy, which can result in weakness of the abdominal wall or sensory changes.",
+    "optionExplanations": [
+      "",
+      "The ilioinguinal nerve runs slightly more inferiorly and is less commonly injured at this incision than the iliohypogastric nerve.",
+      "The genital branch of the genitofemoral nerve runs within the inguinal canal, well away from the McBurney's point incision.",
+      "The lateral cutaneous nerve of the thigh passes near the anterior superior iliac spine, lateral to the usual line of this incision."
+    ],
+    "source": "Surgery — 8 July Afternoon Paper"
+  },
+  {
+    "systemSlug": "reproductive-health",
+    "topicSlug": "reproductive-anatomy-embryology",
+    "stem": "An 85-year-old woman undergoes laparotomy for secondary infertility workup. Which artery can be damaged while removing the ovary?",
+    "options": [
+      "Internal iliac artery",
+      "Uterine artery",
+      "Subcostal arteries",
+      "Superficial circumflex iliac artery"
+    ],
+    "correctIndex": 0,
+    "explanation": "The ovarian vessels lie close to structures of the pelvic sidewall near the internal iliac artery and its branches, placing this vessel at risk during oophorectomy, along with the ureter which crosses nearby.",
+    "optionExplanations": [
+      "",
+      "The uterine artery lies medial to the ovarian pedicle, closer to the cervix, and is less directly at risk than the internal iliac vessels during ovarian removal.",
+      "The subcostal arteries run along the lower rib margins, far from the pelvic operative field.",
+      "The superficial circumflex iliac artery is a superficial branch in the groin, unrelated to the deep pelvic dissection for oophorectomy."
+    ],
+    "source": "Surgery — 8 July Afternoon Paper"
+  },
+  {
+    "systemSlug": "hematology-oncology",
+    "topicSlug": "general-oncology-principles",
+    "stem": "A 65-year-old man presents with difficulty urinating. PSA is 49 ng/mL, and digital rectal examination reveals a firm, nodular prostate. What is the most likely diagnosis?",
+    "options": [
+      "Benign prostatic hyperplasia",
+      "Prostate cancer",
+      "Prostatitis",
+      "Urethral stricture"
+    ],
+    "correctIndex": 1,
+    "explanation": "A markedly elevated PSA combined with a firm, nodular prostate on digital rectal examination is highly suggestive of prostate cancer, which classically arises in the posterior peripheral zone.",
+    "optionExplanations": [
+      "BPH classically causes a smoothly enlarged, non-nodular prostate and only mild PSA elevation, not a PSA this high.",
+      "",
+      "Prostatitis typically causes a tender, boggy prostate with signs of infection, not firm nodularity with a markedly elevated PSA.",
+      "Urethral stricture causes obstructive urinary symptoms without prostatic nodularity or PSA elevation of this magnitude."
+    ],
+    "source": "Surgery — 8 July Afternoon Paper"
+  },
+  {
+    "systemSlug": "reproductive-health",
+    "topicSlug": "reproductive-anatomy-embryology",
+    "stem": "A woman presents with third-degree uterovaginal prolapse occurring due to damage of the uterosacral ligament. Which structure does the uterosacral ligament attach to the cervix?",
+    "options": [
+      "Posterior pelvic wall",
+      "Anterior pelvic wall",
+      "Lumbar vertebrae",
+      "Symphysis pubis",
+      "Lateral pelvic wall"
+    ],
+    "correctIndex": 0,
+    "explanation": "The uterosacral ligaments extend from the cervix posteriorly to attach near the sacrum (posterior pelvic wall), providing key support against uterine prolapse.",
+    "optionExplanations": [
+      "",
+      "The anterior pelvic wall is connected to the cervix via the pubocervical fascia, not the uterosacral ligament.",
+      "The uterosacral ligament attaches near the sacrum, not as far superiorly as the lumbar vertebrae.",
+      "The symphysis pubis is anterior and is related to the pubocervical ligament, not the uterosacral ligament.",
+      "The uterosacral ligament runs posteriorly toward the sacrum, not laterally to the pelvic sidewall."
+    ],
+    "source": "Surgery — 8 July Afternoon Paper"
+  },
+  {
+    "systemSlug": "microbiology",
+    "topicSlug": "microbiology-basics",
+    "stem": "A 25-year-old man presents with severe sore throat, fever, and difficulty swallowing for 3 days. On examination, he has trismus, drooling, and a muffled \"hot potato\" voice. The uvula is deviated to the opposite side with unilateral tonsillar swelling and fluctuance. What is the most likely diagnosis?",
+    "options": [
+      "Acute tonsillitis",
+      "Retropharyngeal abscess",
+      "Peritonsillar abscess",
+      "Epiglottitis",
+      "Ludwig's angina"
+    ],
+    "correctIndex": 2,
+    "explanation": "Peritonsillar abscess classically presents with trismus, drooling, a muffled \"hot potato\" voice, and contralateral uvular deviation from unilateral peritonsillar swelling and fluctuance.",
+    "optionExplanations": [
+      "Acute tonsillitis causes bilateral tonsillar erythema without trismus, drooling, or fluctuant unilateral swelling.",
+      "Retropharyngeal abscess causes neck stiffness and posterior pharyngeal wall bulging, not unilateral tonsillar fluctuance with uvular deviation.",
+      "",
+      "Epiglottitis causes stridor and a muffled voice from supraglottic swelling, without unilateral tonsillar fluctuance or uvular deviation.",
+      "Ludwig's angina is a floor-of-mouth/submandibular space infection causing tongue elevation, not unilateral tonsillar swelling."
+    ],
+    "source": "Surgery — 8 July Afternoon Paper"
+  },
+  {
+    "systemSlug": "nervous-system",
+    "topicSlug": "neuroanatomy-embryology",
+    "stem": "Following a penetrating spinal-cord injury, a patient develops ipsilateral motor weakness and loss of proprioception below the lesion, with contralateral loss of pain and temperature sensation. What is the most likely diagnosis?",
+    "options": [
+      "Anterior cord syndrome",
+      "Central cord syndrome",
+      "Brown-Sequard syndrome",
+      "Posterior cord syndrome"
+    ],
+    "correctIndex": 2,
+    "explanation": "Brown-Sequard syndrome results from hemisection of the spinal cord, producing ipsilateral motor and dorsal column deficits with contralateral pain and temperature loss, since the spinothalamic tract has already crossed.",
+    "optionExplanations": [
+      "Anterior cord syndrome causes bilateral motor and pain/temperature loss with preserved dorsal column function, not this hemisection pattern.",
+      "Central cord syndrome causes disproportionate upper limb weakness, typically from cervical hyperextension, not this crossed sensory pattern.",
+      "",
+      "Posterior cord syndrome causes isolated bilateral loss of proprioception/vibration, not the crossed motor/sensory pattern described."
+    ],
+    "source": "Surgery — 8 July Afternoon Paper"
+  },
+  {
+    "systemSlug": "endocrine",
+    "topicSlug": "endocrine-anatomy-embryology",
+    "stem": "A patient undergoing thyroidectomy at the lower lobe develops hoarseness of voice. Which nerve is injured in the vicinity of inferior thyroid artery ligation?",
+    "options": [
+      "External laryngeal nerve",
+      "Internal laryngeal nerve",
+      "Phrenic nerve",
+      "Recurrent laryngeal nerve",
+      "Accessory nerve"
+    ],
+    "correctIndex": 3,
+    "explanation": "The recurrent laryngeal nerve runs in close proximity to the inferior thyroid artery near the lower pole of the thyroid, making it the nerve most commonly injured during thyroidectomy, particularly at the lower lobe.",
+    "optionExplanations": [
+      "The external laryngeal nerve runs with the superior thyroid vessels near the upper pole, not the inferior thyroid artery at the lower pole.",
+      "The internal laryngeal nerve provides laryngeal sensation above the vocal cords and is not closely related to the inferior thyroid artery.",
+      "The phrenic nerve runs on the anterior scalene muscle, lateral to the thyroid gland, not near the inferior thyroid artery.",
+      "",
+      "The accessory nerve runs in the posterior triangle of the neck, unrelated to the thyroid's inferior pedicle."
+    ],
+    "source": "Surgery — 8 July Afternoon Paper"
+  },
+  {
+    "systemSlug": "nervous-system",
+    "topicSlug": "neuroanatomy-embryology",
+    "stem": "A 32-year-old woman develops severe pain and tenderness over the angle of the mandible and lower ear two weeks after recovering from acute parotitis. There is no swelling now, but she has shooting pain and hypersensitivity in the skin over the parotid region and mastoid. Which nerve is most likely involved?",
+    "options": [
+      "Facial nerve (CN VII)",
+      "Auriculotemporal nerve",
+      "Greater auricular nerve",
+      "Glossopharyngeal nerve",
+      "Lesser occipital nerve"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pain from parotitis is transmitted more by the greater auricular nerve than the auriculotemporal nerve, since the greater auricular nerve carries more of the sensory supply over the parotid capsule and adjacent skin.",
+    "optionExplanations": [
+      "The facial nerve is motor to the face and does not carry the cutaneous sensory supply over the parotid region.",
+      "The auriculotemporal nerve supplies sensation anterior to the ear and the temporal scalp, carrying less of the parotid capsule's sensory supply than the greater auricular nerve.",
+      "",
+      "The glossopharyngeal nerve supplies parasympathetic secretomotor fibers to the parotid, not cutaneous sensation over its capsule.",
+      "The lesser occipital nerve supplies the scalp behind the ear, not the skin overlying the parotid and mastoid region."
+    ],
+    "source": "Surgery — 8 July Afternoon Paper"
+  },
+  {
+    "systemSlug": "nervous-system",
+    "topicSlug": "neuroanatomy-embryology",
+    "stem": "A 28-year-old man presents with recurrent gustatory sweating and flushing over the preauricular area while eating, following an episode of parotid infection. Which nerve is most commonly associated with these symptoms?",
+    "options": [
+      "Facial nerve (CN VII)",
+      "Greater auricular nerve",
+      "Auriculotemporal nerve",
+      "Lesser petrosal nerve",
+      "Glossopharyngeal nerve"
+    ],
+    "correctIndex": 2,
+    "explanation": "Frey syndrome results from aberrant regeneration of parasympathetic secretomotor fibers of the auriculotemporal nerve after parotid injury or surgery. These fibers reinnervate sweat glands instead of the parotid gland, causing gustatory sweating and flushing.",
+    "optionExplanations": [
+      "The facial nerve supplies motor fibers to facial muscles, not the parasympathetic secretomotor fibers responsible for Frey syndrome.",
+      "The greater auricular nerve is a purely sensory cutaneous nerve and carries no secretomotor fibers to misdirect.",
+      "",
+      "The lesser petrosal nerve carries the parasympathetic fibers up to the otic ganglion but the aberrant regeneration causing the syndrome occurs distally along the auriculotemporal nerve.",
+      "The glossopharyngeal nerve is the origin of the preganglionic parasympathetic supply, but it is the auriculotemporal nerve's postganglionic fibers that misdirect to skin."
+    ],
+    "source": "Surgery — 8 July Afternoon Paper"
+  },
+  {
+    "systemSlug": "nervous-system",
+    "topicSlug": "neurophysiology",
+    "stem": "Which of the following describes the correct mechanism of action for sweet taste transduction in taste receptor cells?",
+    "options": [
+      "Direct opening of sodium channels",
+      "Increase in cyclic AMP (cAMP) leading to closure of potassium channels",
+      "Activation of G-protein coupled receptors leading to increased cGMP",
+      "Direct influx of sodium through ENaC channels",
+      "IP3-mediated calcium release without involvement of second messengers"
+    ],
+    "correctIndex": 1,
+    "explanation": "Sweet taste is mediated by the T1R2/T1R3 receptor, which activates gustducin, increasing cAMP and closing potassium channels. This depolarizes the taste cell, opening voltage-gated calcium channels and triggering neurotransmitter release.",
+    "optionExplanations": [
+      "Direct sodium channel opening describes salty taste transduction, not sweet.",
+      "",
+      "Sweet transduction raises cAMP, not cGMP, as its key second messenger.",
+      "Direct ENaC-mediated sodium influx is the mechanism of salty taste, not sweet.",
+      "Sweet transduction relies heavily on the cAMP second-messenger cascade, not an IP3 pathway acting independently of second messengers."
+    ],
+    "source": "Surgery — 8 July Afternoon Paper"
+  },
+  {
+    "systemSlug": "respiratory",
+    "topicSlug": "respiratory-anatomy-embryology",
+    "stem": "The right vocal cord remains in a fixed medial (paramedian) position and fails to abduct on inspiration. Damage to which of the following structures is the most likely cause?",
+    "options": [
+      "Posterior cricoarytenoid muscle",
+      "Lateral cricoarytenoid muscle",
+      "Cricothyroid muscle",
+      "Thyroarytenoid muscle"
+    ],
+    "correctIndex": 0,
+    "explanation": "The posterior cricoarytenoid muscle is the only muscle that abducts the vocal cords. Its paralysis leaves the cord adducted (medially displaced) and unable to abduct during inspiration.",
+    "optionExplanations": [
+      "",
+      "The lateral cricoarytenoid adducts the cords; its paralysis would not explain failure of abduction.",
+      "The cricothyroid tenses the vocal cords for pitch control; it does not abduct them.",
+      "The thyroarytenoid relaxes/adducts the vocal cords; it plays no role in abduction."
+    ],
+    "source": "Surgery — 8 July Afternoon Paper"
+  },
+  {
+    "systemSlug": "respiratory",
+    "topicSlug": "lung-cancer-neoplasms",
+    "stem": "A 65-year-old man with a 20-year history of heavy smoking presents with hemoptysis and weight loss. What is the most common histological type of lung cancer classically associated with this history?",
+    "options": [
+      "Squamous cell carcinoma",
+      "Small cell carcinoma",
+      "Adenocarcinoma",
+      "Large cell carcinoma"
+    ],
+    "correctIndex": 0,
+    "explanation": "Squamous cell carcinoma is the histological type most strongly linked to smoking and is classically associated with hypercalcemia from PTHrP secretion, in contrast to small cell carcinoma, which is the most aggressive and is associated with ectopic ACTH, SIADH, and Lambert-Eaton syndrome.",
+    "optionExplanations": [
+      "",
+      "Small cell carcinoma is also smoking-related but is less common than squamous cell carcinoma and is classically paraneoplastic via ACTH/SIADH/Lambert-Eaton rather than PTHrP.",
+      "Adenocarcinoma is the most common lung cancer overall and the type most associated with non-smokers, not this classic heavy-smoking history.",
+      "Large cell carcinoma is a less common, poorly differentiated type, not the classic smoking-associated histology being tested here."
+    ],
+    "source": "Surgery — 8 July Afternoon Paper"
+  },
+  {
+    "systemSlug": "microbiology",
+    "topicSlug": "virology",
+    "stem": "A newborn has congenital cataracts and heart defects. The mother had a viral infection during early pregnancy. Which infection is most likely responsible?",
+    "options": [
+      "Rubella",
+      "Syphilis",
+      "Toxoplasmosis",
+      "Cytomegalovirus"
+    ],
+    "correctIndex": 0,
+    "explanation": "Congenital rubella syndrome classically causes cataracts, sensorineural deafness, and cardiac defects (especially patent ductus arteriosus) when maternal infection occurs in the first trimester. Cataracts occur when infection is within the first 7 weeks, while deafness predominates with infection after 7 weeks.",
+    "optionExplanations": [
+      "",
+      "Congenital syphilis causes saddle nose, Hutchinson teeth, and saber shins, not the classic cataract-plus-cardiac-defect triad.",
+      "Congenital toxoplasmosis is not a virus and classically causes chorioretinitis, hydrocephalus, and intracranial calcifications, not cataracts with cardiac defects.",
+      "Congenital CMV classically causes periventricular calcifications, microcephaly, and sensorineural hearing loss, not this cataract-cardiac pattern."
+    ],
+    "source": "Surgery — 8 July Afternoon Paper"
+  },
+  {
+    "systemSlug": "cardiovascular",
+    "topicSlug": "cardiac-hemodynamics",
+    "stem": "A marathon runner has a heart rate of 130 bpm immediately after finishing a race. Which of the following is decreased in this situation?",
+    "options": [
+      "End-diastolic volume (EDV)",
+      "End-systolic volume (ESV)",
+      "Cardiac output",
+      "Venous return"
+    ],
+    "correctIndex": 1,
+    "explanation": "After exercise, increased catecholamines and sympathetic tone raise contractility, increasing ejection fraction and pumping more blood out of the ventricle. This decreases end-systolic volume, while increased venous return keeps EDV normal or slightly increased.",
+    "optionExplanations": [
+      "EDV is maintained or increased by enhanced venous return during exercise, not decreased.",
+      "",
+      "Cardiac output is markedly increased, not decreased, to meet the metabolic demands of exercise.",
+      "Venous return is increased by the skeletal muscle pump and sympathetic venoconstriction during exercise, not decreased."
+    ],
+    "source": "Surgery — 8 July Afternoon Paper"
+  },
+  {
+    "systemSlug": "microbiology",
+    "topicSlug": "microbiology-basics",
+    "stem": "Autoclave sterilization is best confirmed by which of the following?",
+    "options": [
+      "Bowie-Dick test",
+      "120 degrees C temperature reading",
+      "Biological indicator",
+      "Chemical indicator tape"
+    ],
+    "correctIndex": 2,
+    "explanation": "A biological indicator, using spores of a highly resistant organism such as Geobacillus stearothermophilus, provides the most definitive confirmation that sterilization conditions were adequate to kill all microorganisms, including chemical and temperature verification.",
+    "optionExplanations": [
+      "The Bowie-Dick test checks for adequate steam penetration/air removal in vacuum autoclaves, not overall sterilization efficacy.",
+      "A temperature reading alone confirms the cycle reached that value, not that all microorganisms, including resistant spores, were actually killed.",
+      "",
+      "Chemical indicator tape only confirms exposure to the sterilization process, not that lethal conditions were actually achieved."
+    ],
+    "source": "Surgery — 8 July Afternoon Paper"
+  },
+  {
+    "systemSlug": "microbiology",
+    "topicSlug": "microbiology-basics",
+    "stem": "When using ethylene oxide (EtO) sterilization for heat-sensitive medical devices, what is the approximate duration required for the sterilization phase at typical operating temperature?",
+    "options": [
+      "10 hours",
+      "4-6 hours",
+      "8-12 hours",
+      "1-2 hours"
+    ],
+    "correctIndex": 1,
+    "explanation": "Ethylene oxide sterilization cycles for heat-sensitive devices typically require about 4-6 hours at the sterilization phase, followed by an aeration period to remove residual toxic gas.",
+    "optionExplanations": [
+      "10 hours overstates the typical sterilization-phase duration for standard EtO cycles.",
+      "",
+      "8-12 hours overstates the sterilization phase itself, though it may approximate total cycle time including aeration.",
+      "1-2 hours is too short to achieve adequate EtO exposure for sterilization."
+    ],
+    "source": "Surgery — 8 July Afternoon Paper"
+  },
+  {
+    "systemSlug": "nervous-system",
+    "topicSlug": "neurophysiology",
+    "stem": "A patient had a road traffic accident with injury to the spine and developed quadriplegia. His respiration and blood pressure were initially normal. After three months, he presented with blood pressure that fluctuates and rises as high as 180/110, which lowers when the lower abdomen and bladder area are massaged and after passing urine. What is the cause of the increased blood pressure?",
+    "options": [
+      "Increased sensitivity to catecholamines because of upregulation of alpha receptors",
+      "Exaggerated autoimmune reflexes because of regeneration of the spinal cord",
+      "Filling of an atonic bladder which is painful",
+      "Activation of the pons",
+      "Increased parasympathetic activity"
+    ],
+    "correctIndex": 0,
+    "explanation": "After spinal shock resolves, denervation supersensitivity develops due to upregulation of alpha-adrenergic receptors below the level of injury. A distended bladder or bowel triggers autonomic dysreflexia, an exaggerated sympathetic response causing severe hypertension that resolves once the triggering stimulus (such as bladder distension) is relieved.",
+    "optionExplanations": [
+      "",
+      "The spinal cord does not regenerate after complete transection; the reflex is exaggerated sympathetic, not autoimmune, activity.",
+      "A cord-injured, insensate patient below the lesion does not perceive bladder pain; the mechanism is a reflex sympathetic surge, not conscious pain.",
+      "The lesion is below the level connecting to the pons; the exaggerated response is a spinal reflex arc, not pontine activation.",
+      "The hypertensive crisis of autonomic dysreflexia is driven by unopposed sympathetic, not parasympathetic, activity."
+    ],
+    "source": "Surgery — 8 July Afternoon Paper"
+  },
+  {
+    "systemSlug": "reproductive-health",
+    "topicSlug": "gynecological-disorders",
+    "stem": "A 35-year-old woman presents with abdominal pain and vaginal bleeding. Ultrasound shows multiple well-defined masses arising from the myometrium. Hysterectomy is performed and shows a benign tumor of the uterus derived from a smooth muscle cell forming spindles on histology of the endometrium. What is the appropriate diagnosis?",
+    "options": [
+      "Angiomyolipoma",
+      "Leiomyoma",
+      "Rhabdomyoma",
+      "Adenomyosis",
+      "Leiomyosarcoma"
+    ],
+    "correctIndex": 1,
+    "explanation": "Leiomyoma (uterine fibroid) is a benign smooth muscle tumor of the myometrium, composed of spindle cells with a whorled histological pattern. It is the most common benign tumor of the female genital tract.",
+    "optionExplanations": [
+      "Angiomyolipoma is a renal tumor composed of vessels, smooth muscle, and fat, not a uterine myometrial tumor.",
+      "",
+      "Rhabdomyoma is a tumor of striated (skeletal/cardiac) muscle, not the smooth muscle of the myometrium.",
+      "Adenomyosis is ectopic endometrial glands within the myometrium, not a discrete smooth-muscle neoplasm.",
+      "Leiomyosarcoma is the malignant counterpart, showing necrosis, atypia, and high mitotic activity, not a benign, well-defined mass."
+    ],
+    "source": "Surgery — 8 July Afternoon Paper"
+  },
+  {
+    "systemSlug": "reproductive-health",
+    "topicSlug": "gynecological-oncology",
+    "stem": "What is the most common histological type of endometrial carcinoma?",
+    "options": [
+      "Adenocarcinoma (Endometrioid)",
+      "Uterine sarcoma",
+      "Papillary serous carcinoma",
+      "Clear cell carcinoma"
+    ],
+    "correctIndex": 0,
+    "explanation": "Endometrioid adenocarcinoma accounts for the large majority of endometrial carcinomas. It is typically estrogen-related (Type I) and generally carries a better prognosis than the less common serous and clear cell (Type II) subtypes.",
+    "optionExplanations": [
+      "",
+      "Uterine sarcoma is a rare mesenchymal malignancy, not the common epithelial carcinoma type.",
+      "Papillary serous carcinoma is an aggressive but less common Type II subtype, not the most common histology overall.",
+      "Clear cell carcinoma is an uncommon, aggressive Type II subtype, not the predominant histological type."
+    ],
+    "source": "Surgery — 8 July Afternoon Paper"
+  },
+  {
+    "systemSlug": "nervous-system",
+    "topicSlug": "neuropharmacology",
+    "stem": "A patient developed a slowly growing mass on the gingiva. Which drug is most likely responsible?",
+    "options": [
+      "Phenytoin",
+      "Aspirin",
+      "Nifedipine",
+      "Cyclosporine"
+    ],
+    "correctIndex": 0,
+    "explanation": "Phenytoin is the drug most classically associated with gingival hyperplasia. Calcium channel blockers (like nifedipine) and cyclosporine can also cause gingival overgrowth, but phenytoin remains the prototypical cause.",
+    "optionExplanations": [
+      "",
+      "Aspirin is not associated with gingival hyperplasia.",
+      "Nifedipine can cause gingival overgrowth but is a less classic and less common cause than phenytoin.",
+      "Cyclosporine can cause gingival overgrowth but is a less classic and less common cause than phenytoin."
+    ],
+    "source": "Surgery — 8 July Afternoon Paper"
+  },
+  {
+    "systemSlug": "gastrointestinal",
+    "topicSlug": "liver-disease",
+    "stem": "A 58-year-old man presents with jaundice, dark urine, and pale stools for 2 weeks. He has a history of gallstones. Labs show total bilirubin 9.0 mg/dL, direct (conjugated) bilirubin 6.5 mg/dL, positive urine bilirubin, and normal urine urobilinogen. What is the most likely diagnosis?",
+    "options": [
+      "Obstructive jaundice",
+      "Hepatocellular jaundice",
+      "Hemolytic jaundice",
+      "Crigler-Najjar syndrome"
+    ],
+    "correctIndex": 0,
+    "explanation": "A predominantly conjugated hyperbilirubinemia with positive urine bilirubin and normal urobilinogen, in a patient with gallstones and pale stools, indicates biliary obstruction preventing bile (and its bilirubin) from reaching the intestine.",
+    "optionExplanations": [
+      "",
+      "Hepatocellular jaundice typically shows markedly elevated transaminases and a mixed bilirubin picture, not this clean obstructive pattern with pale stools.",
+      "Hemolytic jaundice causes unconjugated hyperbilirubinemia with increased (not normal) urobilinogen and negative urine bilirubin.",
+      "Crigler-Najjar syndrome causes unconjugated hyperbilirubinemia from glucuronyl transferase deficiency, not conjugated hyperbilirubinemia with pale stools."
+    ],
+    "source": "Surgery — 8 July Afternoon Paper"
+  },
+  {
+    "systemSlug": "gastrointestinal",
+    "topicSlug": "liver-disease",
+    "stem": "A patient with cholelithiasis diagnosed on ultrasound now needs non-invasive evaluation of the biliary tree. Which investigation is most appropriate?",
+    "options": [
+      "MRCP",
+      "ERCP",
+      "CT scan",
+      "Oral cholecystography"
+    ],
+    "correctIndex": 0,
+    "explanation": "Magnetic resonance cholangiopancreatography (MRCP) is a non-invasive imaging technique that provides detailed visualization of the biliary tree without the procedural risks of ERCP.",
+    "optionExplanations": [
+      "",
+      "ERCP is an invasive procedure carrying risks such as pancreatitis and perforation, not a non-invasive option.",
+      "CT scan is less sensitive for delineating fine biliary ductal anatomy than MRCP.",
+      "Oral cholecystography is an outdated, low-sensitivity technique that has been superseded by cross-sectional and MR imaging."
+    ],
+    "source": "Surgery — 8 July Afternoon Paper"
+  },
+  {
+    "systemSlug": "hematology-oncology",
+    "topicSlug": "hematopoiesis-blood-physiology",
+    "stem": "A young child presents with massive hepatosplenomegaly, bone pain, pathological fractures, anemia, and thrombocytopenia. Which enzyme is most commonly deficient in this condition?",
+    "options": [
+      "Iduronidase",
+      "Sphingomyelinase",
+      "Hexosaminidase A",
+      "Glucocerebrosidase"
+    ],
+    "correctIndex": 3,
+    "explanation": "Gaucher disease results from a deficiency of glucocerebrosidase, leading to accumulation of glucocerebroside in macrophages (Gaucher cells) with a \"wrinkled tissue paper\" cytoplasm, causing hepatosplenomegaly and bone marrow infiltration.",
+    "optionExplanations": [
+      "Iduronidase deficiency causes Hurler syndrome, with coarse facies and corneal clouding, not this hepatosplenomegaly-bone pain picture.",
+      "Sphingomyelinase deficiency causes Niemann-Pick disease, classically with neurodegeneration and a cherry-red macula, distinct from Gaucher's bone-predominant picture.",
+      "Hexosaminidase A deficiency causes Tay-Sachs disease, with progressive neurodegeneration and a cherry-red macula, not hepatosplenomegaly or bone disease.",
+      ""
+    ],
+    "source": "Surgery — 8 July Afternoon Paper"
+  },
+  {
+    "systemSlug": "musculoskeletal",
+    "topicSlug": "connective-tissue-vasculitis",
+    "stem": "A young patient with hyperelastic skin, joint hypermobility, and easy bruising develops an aortic aneurysm. Which condition is most likely associated?",
+    "options": [
+      "Ehlers-Danlos syndrome",
+      "Marfan syndrome",
+      "Turner syndrome",
+      "Loeys-Dietz syndrome"
+    ],
+    "correctIndex": 0,
+    "explanation": "Ehlers-Danlos syndrome, caused by defective collagen synthesis, classically presents with hyperelastic skin, joint hypermobility, and easy bruising, and the vascular subtype predisposes to arterial aneurysm and rupture.",
+    "optionExplanations": [
+      "",
+      "Marfan syndrome causes tall stature, arachnodactyly, and lens dislocation from fibrillin defects, not the hyperelastic-skin/easy-bruising picture described.",
+      "Turner syndrome causes short stature, webbed neck, and gonadal dysgenesis in females, not hyperelastic skin or easy bruising.",
+      "Loeys-Dietz syndrome causes aortic aneurysm with hypertelorism and bifid uvula, not the classic hyperelastic skin picture of Ehlers-Danlos."
+    ],
+    "source": "Surgery — 8 July Afternoon Paper"
+  },
+  {
+    "systemSlug": "hematology-oncology",
+    "topicSlug": "general-oncology-principles",
+    "stem": "In malignancy of the breast, the earliest lymph node group to drain the nipple is:",
+    "options": [
+      "Posterior (subscapular)",
+      "Anterior (pectoral)",
+      "Apical",
+      "Intercostal"
+    ],
+    "correctIndex": 1,
+    "explanation": "Lymphatic drainage from the nipple predominantly flows to the anterior (pectoral) axillary lymph node group first, making these the earliest nodes involved in breast malignancy arising near the nipple.",
+    "optionExplanations": [
+      "The posterior (subscapular) group drains the posterior chest wall and scapular region, receiving breast lymph later than the pectoral group.",
+      "",
+      "The apical group is the most superior/central axillary station, receiving drainage after the anterior pectoral nodes, not first.",
+      "The intercostal nodes drain the posterior chest wall and are not the earliest station for nipple lymphatic drainage."
+    ],
+    "source": "Surgery — 8 July Afternoon Paper"
+  },
+  {
+    "systemSlug": "endocrine",
+    "topicSlug": "adrenal-disorders",
+    "stem": "What is the investigation of choice for diagnosing pheochromocytoma?",
+    "options": [
+      "24-hour urinary metanephrines",
+      "Plasma cortisol",
+      "Serum calcium",
+      "Random urinary catecholamines"
+    ],
+    "correctIndex": 0,
+    "explanation": "24-hour urinary fractionated metanephrines is the standard initial test for diagnosing pheochromocytoma, offering high sensitivity for catecholamine-secreting tumors of the adrenal medulla.",
+    "optionExplanations": [
+      "",
+      "Plasma cortisol screens for Cushing syndrome or adrenal insufficiency, not catecholamine-secreting tumors.",
+      "Serum calcium is relevant to parathyroid or MEN-related disease screening, not the primary test for pheochromocytoma.",
+      "Random urinary catecholamines are far less sensitive and more prone to false positives/negatives than a 24-hour fractionated metanephrine collection."
+    ],
+    "source": "Surgery — 8 July Afternoon Paper"
+  },
+  {
+    "systemSlug": "respiratory",
+    "topicSlug": "pulmonary-vascular-interstitial",
+    "stem": "A person who recently ascended to high altitude develops shortness of breath after 24 hours. What is the most likely diagnosis?",
+    "options": [
+      "High-altitude pulmonary edema",
+      "Pneumonia",
+      "Pulmonary embolism",
+      "Anxiety-induced hyperventilation"
+    ],
+    "correctIndex": 0,
+    "explanation": "High-altitude pulmonary edema (HAPE) occurs 24-72 hours after rapid ascent above 2,500-3,000 meters, presenting with dyspnea at rest, cough, crackles, and hypoxia, distinct from acute mountain sickness which occurs earlier (6-24 hours) with milder symptoms.",
+    "optionExplanations": [
+      "",
+      "Pneumonia would not have this precise temporal link to recent rapid ascent to altitude without other infectious features.",
+      "Pulmonary embolism lacks the characteristic altitude/ascent trigger and time course described here.",
+      "Anxiety-induced hyperventilation would not produce the hypoxia and crackles typical of this altitude-related presentation."
+    ],
+    "source": "Surgery — 8 July Afternoon Paper"
+  },
+  {
+    "systemSlug": "hematology-oncology",
+    "topicSlug": "general-oncology-principles",
+    "stem": "Breast cancer most commonly spreads to the vertebrae through which route?",
+    "options": [
+      "Batson's vertebral venous plexus",
+      "Intercostal lymph nodes",
+      "Internal mammary lymph nodes",
+      "Axillary lymph nodes"
+    ],
+    "correctIndex": 0,
+    "explanation": "Batson's vertebral venous plexus is a valveless venous network connecting the pelvic and thoracic veins with the vertebral venous system, allowing breast (and prostate) cancer cells to spread directly to the vertebral column, bypassing the pulmonary circulation.",
+    "optionExplanations": [
+      "",
+      "Intercostal lymph nodes are a lymphatic, not venous, pathway and are not the classic route to vertebral metastasis.",
+      "Internal mammary lymph nodes drain the medial breast toward the mediastinum, not directly to the vertebrae.",
+      "Axillary lymph nodes are the primary lymphatic drainage of the breast but do not explain direct hematogenous spread to vertebrae."
+    ],
+    "source": "Surgery — 8 July Afternoon Paper"
+  },
+  {
+    "systemSlug": "respiratory",
+    "topicSlug": "lung-cancer-neoplasms",
+    "stem": "A man with established small cell lung carcinoma and liver metastases on CT presents with a puffy face and bruises. What is the cause of these symptoms?",
+    "options": [
+      "Paraneoplastic syndrome",
+      "Metastases in the liver",
+      "Carcinoid syndrome",
+      "Polycythemia"
+    ],
+    "correctIndex": 0,
+    "explanation": "Small cell lung carcinoma frequently secretes ectopic ACTH, producing a paraneoplastic Cushing syndrome with puffy facies and easy bruising, independent of the presence of liver metastases.",
+    "optionExplanations": [
+      "",
+      "Liver metastases cause hepatic dysfunction and jaundice, not the specific puffy facies and bruising of a Cushingoid state.",
+      "Carcinoid syndrome causes flushing, diarrhea, and wheezing from serotonin release, not Cushingoid facies and bruising.",
+      "Polycythemia causes plethora and hyperviscosity symptoms, not the Cushingoid puffy face and bruising described."
+    ],
+    "source": "Surgery — 8 July Afternoon Paper"
+  },
+  {
+    "systemSlug": "musculoskeletal",
+    "topicSlug": "msk-physiology",
+    "stem": "A 28-year-old male sustains a deep laceration on the posterior aspect of his forearm following a fall on broken glass. On examination, he has weakness of finger extension at the metacarpophalangeal joints and reduced sensation over the posterior aspect of the forearm. Which nerve is most likely injured?",
+    "options": [
+      "Median nerve",
+      "Radial nerve",
+      "Ulnar nerve",
+      "Musculocutaneous nerve"
+    ],
+    "correctIndex": 1,
+    "explanation": "The radial nerve (via its posterior interosseous branch) supplies the finger extensors at the MCP joints, and its superficial branch and posterior cutaneous branches supply sensation over the posterior forearm, matching this presentation.",
+    "optionExplanations": [
+      "The median nerve supplies flexors and the lateral palm, not finger extension or posterior forearm sensation.",
+      "",
+      "The ulnar nerve supplies intrinsic hand muscles and the medial hand, not MCP finger extension or posterior forearm sensation.",
+      "The musculocutaneous nerve supplies the anterior arm flexors (biceps, brachialis) and forearm lateral sensation, not finger extension."
+    ],
+    "source": "Surgery — 8 July Afternoon Paper"
+  },
+  {
+    "systemSlug": "musculoskeletal",
+    "topicSlug": "msk-physiology",
+    "stem": "A patient sustains an injury at the medial epicondyle of the humerus, damaging the ulnar nerve. Despite this, he retains partial flexion of the ring and little fingers due to preserved innervation from another nerve. Which muscle demonstrates this dual nerve supply?",
+    "options": [
+      "Flexor digitorum profundus",
+      "Flexor pollicis longus",
+      "Flexor digitorum superficialis",
+      "Flexor carpi ulnaris"
+    ],
+    "correctIndex": 0,
+    "explanation": "The flexor digitorum profundus has a dual nerve supply: the median nerve (via the anterior interosseous branch) innervates the lateral half (index and middle fingers), while the ulnar nerve innervates the medial half (ring and little fingers). Partial preserved flexion after ulnar injury reflects only partial loss of this dual supply from residual muscle fiber overlap and other muscle contributions.",
+    "optionExplanations": [
+      "",
+      "Flexor pollicis longus is innervated solely by the median nerve (anterior interosseous branch), with no ulnar contribution.",
+      "Flexor digitorum superficialis is innervated solely by the median nerve, without a dual ulnar supply.",
+      "Flexor carpi ulnaris is innervated solely by the ulnar nerve, so ulnar injury would abolish, not partially spare, its function."
+    ],
+    "source": "Surgery — 8 July Afternoon Paper"
+  },
+  {
+    "systemSlug": "musculoskeletal",
+    "topicSlug": "fractures-metabolic-bone",
+    "stem": "A child presents with a history of multiple fractures occurring after minimal or trivial trauma. X-ray shows generalized osteopenia with old healed fractures and thin cortices. What is the most likely diagnosis?",
+    "options": [
+      "Osteopetrosis",
+      "Rickets",
+      "Osteogenesis imperfecta",
+      "Achondroplasia"
+    ],
+    "correctIndex": 2,
+    "explanation": "Osteogenesis imperfecta results from defective type I collagen synthesis, causing bone fragility, recurrent fractures with minimal trauma, thin cortices, and often blue sclerae and hearing loss.",
+    "optionExplanations": [
+      "Osteopetrosis causes abnormally dense, brittle bone from defective osteoclast resorption, with thickened (not thin) cortices.",
+      "Rickets causes defective mineralization with bowing deformities and widened growth plates, not primarily recurrent fractures with thin cortices.",
+      "",
+      "Achondroplasia causes disproportionate short stature from defective endochondral ossification, not recurrent fractures with osteopenia."
+    ],
+    "source": "Surgery — 8 July Afternoon Paper"
+  },
+  {
+    "systemSlug": "nervous-system",
+    "topicSlug": "neuroanatomy-embryology",
+    "stem": "Which muscle is primarily responsible for closure of the eyelids (closing the eye)?",
+    "options": [
+      "Orbicularis oculi",
+      "Levator palpebrae superioris",
+      "Frontalis",
+      "Corrugator supercilii"
+    ],
+    "correctIndex": 0,
+    "explanation": "The orbicularis oculi muscle closes the eyelids: its palpebral part produces gentle closure (as in blinking), while its orbital part produces forceful closure (as in squinting).",
+    "optionExplanations": [
+      "",
+      "The levator palpebrae superioris opens (elevates) the upper eyelid; it is the antagonist of eyelid closure.",
+      "The frontalis elevates the eyebrows and wrinkles the forehead; it plays no role in eyelid closure.",
+      "The corrugator supercilii draws the eyebrows medially/downward to frown; it does not close the eyelids."
+    ],
+    "source": "Surgery — 8 July Afternoon Paper"
+  },
+  {
+    "systemSlug": "nervous-system",
+    "topicSlug": "neuroanatomy-embryology",
+    "stem": "The afferent limb of the corneal reflex is carried by the ophthalmic division of the trigeminal nerve (V1). Through which foramen/fissure does this nerve pass?",
+    "options": [
+      "Inferior orbital fissure",
+      "Superior orbital fissure",
+      "Foramen rotundum",
+      "Foramen ovale"
+    ],
+    "correctIndex": 1,
+    "explanation": "The ophthalmic division (V1) of the trigeminal nerve passes through the superior orbital fissure, distinct from V2 (foramen rotundum) and V3 (foramen ovale).",
+    "optionExplanations": [
+      "The inferior orbital fissure transmits the infraorbital nerve (a branch of V2) and related vessels, not V1.",
+      "",
+      "The foramen rotundum transmits the maxillary division (V2), not the ophthalmic division.",
+      "The foramen ovale transmits the mandibular division (V3), not the ophthalmic division."
+    ],
+    "source": "Surgery — 8 July Afternoon Paper"
+  },
+  {
+    "systemSlug": "nervous-system",
+    "topicSlug": "neuroanatomy-embryology",
+    "stem": "A patient presents with a congenital anomaly in which the cerebellar tonsils herniate through the foramen magnum, often associated with syringomyelia and hydrocephalus. What is the most likely diagnosis?",
+    "options": [
+      "Arnold-Chiari malformation",
+      "Dandy-Walker malformation",
+      "Syringobulbia",
+      "Meningomyelocele"
+    ],
+    "correctIndex": 0,
+    "explanation": "Type I Arnold-Chiari malformation involves herniation of the cerebellar tonsils through the foramen magnum and is associated with syringomyelia. Type II is associated with meningomyelocele and hydrocephalus.",
+    "optionExplanations": [
+      "",
+      "Dandy-Walker malformation features cystic dilation of the fourth ventricle with cerebellar vermis agenesis, not tonsillar herniation.",
+      "Syringobulbia is extension of a syrinx into the brainstem, a possible complication rather than the primary herniation anomaly itself.",
+      "Meningomyelocele is a spinal neural tube defect that can accompany Chiari II malformation but is not itself the tonsillar herniation."
+    ],
+    "source": "Surgery — 8 July Afternoon Paper"
+  },
+  {
+    "systemSlug": "nervous-system",
+    "topicSlug": "neuroanatomy-embryology",
+    "stem": "A patient develops deviation of the jaw and loss of general sensation over the anterior tongue following a cerebrovascular accident affecting the lower cranial nerves. Through which foramen do these affected nerves pass?",
+    "options": [
+      "Jugular foramen",
+      "Foramen magnum",
+      "Foramen ovale",
+      "Hypoglossal canal"
+    ],
+    "correctIndex": 2,
+    "explanation": "Loss of general sensation on the anterior tongue is from the lingual branch of the trigeminal nerve, and jaw deviation is from the mandibular branch; both are parts of V3, which passes through the foramen ovale.",
+    "optionExplanations": [
+      "The jugular foramen transmits CN IX, X, and XI, none of which supply jaw movement or anterior tongue general sensation.",
+      "The foramen magnum transmits the spinal cord and vertebral arteries, not the trigeminal mandibular division.",
+      "",
+      "The hypoglossal canal transmits CN XII, which is motor to the tongue and does not carry general sensation or supply the muscles of mastication."
+    ],
+    "source": "Surgery — 8 July Afternoon Paper"
+  },
+  {
+    "systemSlug": "nervous-system",
+    "topicSlug": "peripheral-nerve-neuromuscular",
+    "stem": "A patient presents with loss of foot eversion and dorsiflexion after knee trauma. Which nerve is damaged?",
+    "options": [
+      "Common peroneal nerve",
+      "Tibial nerve",
+      "Sural nerve",
+      "Femoral nerve"
+    ],
+    "correctIndex": 0,
+    "explanation": "The common peroneal nerve winds around the fibular neck, making it vulnerable to knee trauma. Its damage causes foot drop with loss of dorsiflexion and eversion.",
+    "optionExplanations": [
+      "",
+      "The tibial nerve supplies plantarflexion and inversion, not dorsiflexion and eversion.",
+      "The sural nerve is a purely sensory nerve to the lateral foot, causing no motor deficit.",
+      "The femoral nerve supplies the anterior thigh (knee extension), not foot dorsiflexion or eversion."
+    ],
+    "source": "Surgery — 8 July Afternoon Paper"
+  },
+  {
+    "systemSlug": "nervous-system",
+    "topicSlug": "peripheral-nerve-neuromuscular",
+    "stem": "A patient presents with weakness of foot inversion. Which nerve is most likely damaged?",
+    "options": [
+      "Sural nerve",
+      "Common peroneal nerve",
+      "Tibial nerve",
+      "Femoral nerve"
+    ],
+    "correctIndex": 2,
+    "explanation": "The tibial nerve supplies the muscles responsible for plantarflexion and inversion of the foot (tibialis posterior). Its damage causes weakness of these movements, in contrast to peroneal nerve injury, which affects dorsiflexion and eversion.",
+    "optionExplanations": [
+      "The sural nerve is a purely sensory nerve and does not cause a motor deficit like weak inversion.",
+      "The common peroneal nerve causes weak dorsiflexion and eversion, the opposite deficit pattern.",
+      "",
+      "The femoral nerve supplies the anterior thigh (knee extension), not foot inversion."
+    ],
+    "source": "Surgery — 8 July Afternoon Paper"
+  },
+  {
+    "systemSlug": "reproductive-health",
+    "topicSlug": "reproductive-anatomy-embryology",
+    "stem": "A patient presents with infertility, and imaging reveals pathology in the fallopian tube. Which epithelium normally lines this structure?",
+    "options": [
+      "Simple columnar epithelium",
+      "Ciliated columnar epithelium",
+      "Cuboidal epithelium",
+      "Stratified squamous epithelium"
+    ],
+    "correctIndex": 1,
+    "explanation": "The fallopian tube is lined by ciliated columnar epithelium, whose cilia help propel the oocyte toward the uterus; damage to this epithelium (e.g., from pelvic inflammatory disease) is a recognized cause of infertility and ectopic pregnancy.",
+    "optionExplanations": [
+      "Simple (non-ciliated) columnar epithelium lacks the ciliary function essential for oocyte transport in the tube.",
+      "",
+      "Cuboidal epithelium lines structures like renal tubules and ducts, not the fallopian tube.",
+      "Stratified squamous epithelium lines the vagina and ectocervix, not the fallopian tube."
+    ],
+    "source": "Surgery — 8 July Afternoon Paper"
+  },
+  {
+    "systemSlug": "endocrine",
+    "topicSlug": "adrenal-disorders",
+    "stem": "A patient presents with hypertension and muscle weakness. Laboratory results reveal low serum potassium, high sodium, and metabolic alkalosis. What is the likely diagnosis?",
+    "options": [
+      "Primary hyperaldosteronism",
+      "Pheochromocytoma",
+      "Cushing's syndrome",
+      "Addison's disease",
+      "Renovascular hypertension"
+    ],
+    "correctIndex": 0,
+    "explanation": "Primary hyperaldosteronism causes hypertension with hypokalemia, mild hypernatremia, and metabolic alkalosis, from excess aldosterone-driven sodium retention and potassium/hydrogen ion loss.",
+    "optionExplanations": [
+      "",
+      "Pheochromocytoma causes episodic hypertension with palpitations, headache, and diaphoresis from catecholamine excess, not this classic electrolyte pattern.",
+      "Cushing's syndrome can cause hypokalemic alkalosis at high cortisol levels but typically also shows other cortisol-excess features (weight gain, striae) rather than this pure aldosterone pattern.",
+      "Addison's disease causes hyperkalemia and hyponatremia with hypotension, the opposite electrolyte pattern.",
+      "Renovascular hypertension causes secondary hyperaldosteronism but is a less direct answer than primary hyperaldosteronism for this classic electrolyte triad."
+    ],
+    "source": "Surgery — 8 July Afternoon Paper"
+  },
+  {
+    "systemSlug": "endocrine",
+    "topicSlug": "diabetes-mellitus",
+    "stem": "A diabetic patient presents with visual disturbance. Fundus examination shows microaneurysms, hemorrhages, and neovascularization. What is the diagnosis?",
+    "options": [
+      "Cataract",
+      "Diabetic retinopathy",
+      "Central retinal artery occlusion",
+      "Retinal detachment"
+    ],
+    "correctIndex": 1,
+    "explanation": "Microaneurysms, hemorrhages, and neovascularization on fundus examination are characteristic of diabetic retinopathy, with neovascularization marking progression to the proliferative stage.",
+    "optionExplanations": [
+      "Cataract is lens opacification, not a fundus finding of microaneurysms and neovascularization.",
+      "",
+      "Central retinal artery occlusion causes a pale retina with a cherry-red spot, not microaneurysms and neovascularization.",
+      "Retinal detachment shows a folded, elevated retina, not the vascular changes of microaneurysms and neovascularization."
+    ],
+    "source": "Surgery — 8 July Afternoon Paper"
+  },
+  {
+    "systemSlug": "cardiovascular",
+    "topicSlug": "ischemic-heart-disease",
+    "stem": "A patient presents with ST-elevation myocardial infarction. The ST elevation is due to which underlying process?",
+    "options": [
+      "Partial arterial stenosis",
+      "Venous occlusion",
+      "Complete arterial thrombotic occlusion",
+      "Vasospasm alone"
+    ],
+    "correctIndex": 2,
+    "explanation": "STEMI results from complete thrombotic occlusion of a coronary artery, usually following rupture of an atherosclerotic plaque, causing transmural ischemia and ST elevation.",
+    "optionExplanations": [
+      "Partial stenosis without complete occlusion typically produces demand ischemia (angina or NSTEMI), not transmural ST elevation.",
+      "The coronary circulation is arterial; venous occlusion is not the mechanism of myocardial infarction.",
+      "",
+      "Vasospasm alone (as in Prinzmetal angina) can cause transient ST elevation but is not the usual mechanism of a sustained STEMI, which is thrombotic occlusion."
+    ],
+    "source": "Surgery — 8 July Afternoon Paper"
+  },
+  {
+    "systemSlug": "cardiovascular",
+    "topicSlug": "ischemic-heart-disease",
+    "stem": "A 60-year-old develops pain in the calf muscles after walking 100 yards. This pain is most likely due to disease of which artery?",
+    "options": [
+      "Popliteal artery",
+      "Popliteal vein",
+      "Tibial artery",
+      "Femoral artery"
+    ],
+    "correctIndex": 0,
+    "explanation": "Intermittent claudication of the calf classically results from atherosclerotic narrowing of the popliteal artery or superficial femoral artery, producing exercise-induced ischemic pain relieved by rest.",
+    "optionExplanations": [
+      "",
+      "Venous disease causes aching, heaviness, and edema that worsens with standing and improves with elevation, not exertional claudication.",
+      "Isolated tibial artery disease is a less common cause of classic calf claudication than popliteal/femoral disease.",
+      "Femoral artery disease more classically causes thigh or combined thigh-calf claudication rather than isolated calf pain, which localizes more to popliteal disease."
+    ],
+    "source": "Surgery — 8 July Afternoon Paper"
+  },
+  {
+    "systemSlug": "gastrointestinal",
+    "topicSlug": "gi-anatomy-embryology",
+    "stem": "During surgery, the superior mesenteric artery (SMA) is inadvertently damaged. Which structure will remain unaffected?",
+    "options": [
+      "Ascending colon",
+      "Descending colon",
+      "Jejunum",
+      "Ileum"
+    ],
+    "correctIndex": 1,
+    "explanation": "The descending colon is supplied by the inferior mesenteric artery, not the SMA. The SMA supplies the small intestine (jejunum, ileum) and the proximal colon up to the splenic flexure, including the ascending colon.",
+    "optionExplanations": [
+      "The ascending colon is supplied by SMA branches (ileocolic and right colic arteries), so it would be affected.",
+      "",
+      "The jejunum is supplied directly by SMA jejunal branches, so it would be affected.",
+      "The ileum is supplied directly by SMA ileal branches, so it would be affected."
+    ],
+    "source": "Surgery — 8 July Afternoon Paper"
+  },
+  {
+    "systemSlug": "gastrointestinal",
+    "topicSlug": "gi-anatomy-embryology",
+    "stem": "A female patient presented with an incisional hernia. During repair, which layer comes out first after the skin and subcutaneous fat?",
+    "options": [
+      "Cremasteric fascia",
+      "Transversalis fascia",
+      "Internal oblique",
+      "Rectus abdominis",
+      "Conjoint tendon"
+    ],
+    "correctIndex": 1,
+    "explanation": "In the layers of the anterior abdominal wall relevant to this hernia repair, the transversalis fascia is encountered as the hernia sac's covering layer immediately deep to the more superficial muscular layers.",
+    "optionExplanations": [
+      "The cremasteric fascia is a spermatic cord covering related to the internal oblique, not the first layer encountered in this incisional repair.",
+      "",
+      "The internal oblique is a more superficial muscular layer encountered before the transversalis fascia/hernia sac.",
+      "The rectus abdominis is a distinct muscle belly, not the covering layer of the hernia sac itself.",
+      "The conjoint tendon is a medial fusion of internal oblique and transversus abdominis aponeuroses, not the sac covering encountered here."
+    ],
+    "source": "Surgery — 8 July Afternoon Paper"
+  },
+  {
+    "systemSlug": "gastrointestinal",
+    "topicSlug": "gi-anatomy-embryology",
+    "stem": "A 25-year-old male has swelling at the left inguinal region with a positive cough impulse. It moves when the ipsilateral testis is retracted downward, and it is painful. What is this likely to be?",
+    "options": [
+      "Congenital encysted hydrocele",
+      "Inguinal hernia",
+      "Femoral hernia",
+      "Incisional hernia"
+    ],
+    "correctIndex": 1,
+    "explanation": "A positive cough impulse strongly suggests a hernia rather than a hydrocele. An indirect inguinal hernia is embryologically related to the processus vaginalis and testicular descent, so its swelling characteristically moves with traction on the ipsilateral testis.",
+    "optionExplanations": [
+      "A hydrocele would not show a positive cough impulse, since it does not communicate with the peritoneal cavity in the same way.",
+      "",
+      "A femoral hernia presents below and lateral to the pubic tubercle, not moving with testicular traction along the inguinal canal.",
+      "An incisional hernia occurs at a prior surgical scar, not at the inguinal canal with testicular traction."
+    ],
+    "source": "Surgery — 8 July Afternoon Paper"
+  },
+  {
+    "systemSlug": "hematology-oncology",
+    "topicSlug": "bleeding-clotting-disorders",
+    "stem": "A child with a history of increased bleeding from the umbilical stump presented with complaints of bleeding gums; his sister also faces similar issues. Labs show PT 16/13 sec, APTT 60 sec, BT 20 sec, and normal platelets. What is the cause?",
+    "options": [
+      "Von Willebrand disease",
+      "Hemophilia",
+      "Bernard-Soulier syndrome",
+      "Immune thrombocytopenic purpura",
+      "Glanzmann thrombasthenia"
+    ],
+    "correctIndex": 0,
+    "explanation": "Von Willebrand disease causes a prolonged APTT (from reduced factor VIII, stabilized by vWF) and a prolonged bleeding time (from impaired platelet adhesion), with a normal platelet count. It is typically autosomal dominant and can affect siblings, unlike sex-linked hemophilia.",
+    "optionExplanations": [
+      "",
+      "Hemophilia prolongs APTT but does not prolong the bleeding time, since platelet adhesion is normal; it is also X-linked and would not typically affect a sister.",
+      "Bernard-Soulier syndrome (a platelet adhesion disorder) usually shows thrombocytopenia with giant platelets, not a normal platelet count with this PT/APTT pattern.",
+      "Immune thrombocytopenic purpura causes a low platelet count, not a normal count with prolonged APTT.",
+      "Glanzmann thrombasthenia (a platelet aggregation disorder) shows a normal platelet count and prolonged bleeding time but does not prolong the APTT."
+    ],
+    "source": "Surgery — 8 July Afternoon Paper"
+  },
+  {
+    "systemSlug": "hematology-oncology",
+    "topicSlug": "general-oncology-principles",
+    "stem": "Carcinoma of the prostate most commonly involves which of the following lobes/zones?",
+    "options": [
+      "Median lobe",
+      "Posterior lobe",
+      "Peripheral lobe",
+      "Lateral lobe",
+      "Anterior lobe"
+    ],
+    "correctIndex": 2,
+    "explanation": "Prostate carcinoma usually arises in the peripheral zone (posterior part) of the prostate, making it detectable on digital rectal examination, and it can metastasize via the prostatic venous plexus to the vertebral column and brain.",
+    "optionExplanations": [
+      "The median lobe is more classically associated with benign prostatic hyperplasia (causing bladder outlet obstruction), not the typical site of carcinoma.",
+      "The posterior lobe is an older descriptive term whose carcinoma-prone region corresponds to today's peripheral zone, which is the more precise correct answer.",
+      "",
+      "The lateral lobes are more associated with BPH enlargement than the classic site of carcinoma.",
+      "The anterior lobe/zone is an uncommon site for prostate carcinoma compared to the peripheral zone."
+    ],
+    "source": "Surgery — 8 July Afternoon Paper"
+  },
+  {
+    "systemSlug": "reproductive-health",
+    "topicSlug": "labor-delivery-complications",
+    "stem": "A patient dies suddenly within 24 hours of delivery with acute dyspnea, hypotension, and DIC. What is the most likely cause?",
+    "options": [
+      "Amniotic fluid embolism",
+      "Pulmonary embolism",
+      "Postpartum hemorrhage",
+      "Eclampsia"
+    ],
+    "correctIndex": 0,
+    "explanation": "Amniotic fluid embolism classically presents with sudden dyspnea, hypotension, and disseminated intravascular coagulation shortly after delivery, caused by amniotic fluid and fetal material entering the maternal circulation.",
+    "optionExplanations": [
+      "",
+      "Pulmonary embolism causes dyspnea and hypotension but does not classically trigger DIC in this peripartum pattern.",
+      "Postpartum hemorrhage causes hypovolemic shock from blood loss but is not itself the primary cause of a DIC-dyspnea-hypotension triad.",
+      "Eclampsia presents with seizures and hypertension, not this acute dyspnea-DIC picture shortly after delivery."
+    ],
+    "source": "Surgery — 8 July Afternoon Paper"
+  },
+  {
+    "systemSlug": "endocrine",
+    "topicSlug": "thyroid-disorders",
+    "stem": "Anti-TPO antibodies are most commonly and characteristically present in which condition?",
+    "options": [
+      "Toxic multinodular goiter",
+      "Graves' disease (hyperthyroidism)",
+      "Subacute thyroiditis",
+      "Hashimoto's thyroiditis"
+    ],
+    "correctIndex": 3,
+    "explanation": "Anti-thyroid peroxidase (anti-TPO) antibodies are most characteristically and consistently elevated in Hashimoto's thyroiditis, the most common cause of hypothyroidism in iodine-sufficient regions.",
+    "optionExplanations": [
+      "Toxic multinodular goiter results from autonomously functioning nodules, not an autoimmune anti-TPO process.",
+      "Graves' disease is primarily driven by TSI (TSH-receptor stimulating antibodies), and while anti-TPO can be positive, it is less characteristic than in Hashimoto's.",
+      "Subacute (de Quervain) thyroiditis is typically post-viral and not characteristically anti-TPO antibody positive.",
+      ""
+    ],
+    "source": "Surgery — 8 July Afternoon Paper"
+  },
+  {
+    "systemSlug": "cardiovascular",
+    "topicSlug": "ischemic-heart-disease",
+    "stem": "A patient presents with chest pain that does not vary with respiration. Which structure is most likely involved?",
+    "options": [
+      "Myocardium",
+      "Pericardium",
+      "Pleura",
+      "Intercostal muscles"
+    ],
+    "correctIndex": 0,
+    "explanation": "Cardiac ischemic pain from myocardial involvement is typically not related to respiration, in contrast to pericarditis (worse with respiration, lying flat, improved sitting up) and pleuritic pain (worse with respiration and cough).",
+    "optionExplanations": [
+      "",
+      "Pericardial pain classically varies with respiration and posture, worsening with inspiration and lying flat.",
+      "Pleuritic pain is sharp and characteristically worsens with respiration and coughing.",
+      "Intercostal muscle pain (musculoskeletal chest pain) is typically reproducible with movement and respiration."
+    ],
+    "source": "Surgery — 8 July Afternoon Paper"
+  },
+  {
+    "systemSlug": "respiratory",
+    "topicSlug": "pleural-upper-airway",
+    "stem": "A 30-year-old patient is brought to the emergency department after a road traffic accident. He complains of difficulty breathing and decreased chest movements on the affected side. Chest X-ray reveals a radiolucent (black) shadow on one side with no air-fluid level, and 4th rib fractures are noted. What is the most likely cause of decreased chest movement?",
+    "options": [
+      "Pneumothorax",
+      "Fluid in the pleural cavity",
+      "Hemothorax",
+      "Lung abscess"
+    ],
+    "correctIndex": 0,
+    "explanation": "A radiolucent shadow without an air-fluid level indicates air rather than fluid in the pleural space, confirming pneumothorax, a recognized complication of rib fracture after chest trauma.",
+    "optionExplanations": [
+      "",
+      "Fluid in the pleural cavity produces a radio-opaque (white), not radiolucent, shadow, typically with an air-fluid level if mixed with air.",
+      "Hemothorax produces a radio-opaque appearance from blood in the pleural space, not a radiolucent shadow.",
+      "A lung abscess classically shows a cavity with an air-fluid level, not a diffuse radiolucent hemithorax."
+    ],
+    "source": "Surgery — 8 July Afternoon Paper"
+  },
+  {
+    "systemSlug": "cardiovascular",
+    "topicSlug": "cardiac-anatomy-embryology",
+    "stem": "A stab wound at the left 5th intercostal space, 4 cm deep, just lateral to the sternum. What structure will be damaged?",
+    "options": [
+      "Hilum of left lung",
+      "Left pleura",
+      "Pericardium",
+      "Left bronchus",
+      "IVC"
+    ],
+    "correctIndex": 2,
+    "explanation": "The region just lateral to the sternum at the 5th intercostal space overlies the heart and pericardium (the \"cardiac box\"), making the pericardium the structure most likely damaged by a penetrating injury at this depth and location.",
+    "optionExplanations": [
+      "The hilum of the left lung lies more posteriorly and superiorly, not directly beneath this parasternal cardiac box location.",
+      "The left pleura would be crossed en route but at this depth and location, the pericardium/heart is the structure primarily at risk, not isolated pleural injury.",
+      "",
+      "The left bronchus lies at the lung hilum, posterior to this anterior parasternal location.",
+      "The IVC lies on the right side of the body and much deeper, not at this left parasternal location."
+    ],
+    "source": "Surgery — 8 July Afternoon Paper"
+  },
+  {
+    "systemSlug": "respiratory",
+    "topicSlug": "respiratory-anatomy-embryology",
+    "stem": "After a firearm injury, the bullet will be in which area after crossing the intercostal muscles?",
+    "options": [
+      "Endothoracic fascia",
+      "Pleural cavity",
+      "Parietal pleura",
+      "Visceral pleura",
+      "Subcutaneous tissue"
+    ],
+    "correctIndex": 0,
+    "explanation": "The layers from outside to inside the chest wall are skin, subcutaneous tissue, chest wall muscles (including intercostals), ribs, endothoracic fascia, parietal pleura, pleural cavity, and visceral pleura. Immediately after crossing the intercostal muscles, a bullet next reaches the endothoracic fascia.",
+    "optionExplanations": [
+      "",
+      "The pleural cavity lies deeper still, beyond the endothoracic fascia and parietal pleura.",
+      "The parietal pleura is the next layer after the endothoracic fascia, not immediately after the intercostal muscles.",
+      "The visceral pleura covers the lung itself, the deepest of the listed structures, well beyond the endothoracic fascia.",
+      "Subcutaneous tissue is superficial to the intercostal muscles, so the bullet has already passed through it before reaching them."
+    ],
+    "source": "Surgery — 8 July Afternoon Paper"
+  },
+  {
+    "systemSlug": "nervous-system",
+    "topicSlug": "neuropharmacology",
+    "stem": "Which of the following causes tachycardia even at therapeutic doses?",
+    "options": [
+      "Pethidine",
+      "Ketorolac",
+      "Morphine",
+      "Diclofenac"
+    ],
+    "correctIndex": 0,
+    "explanation": "Pethidine (meperidine) has an atropine-like structure that produces mild anticholinergic effects, causing tachycardia even at standard therapeutic doses, unlike other opioids such as morphine, which more typically cause bradycardia.",
+    "optionExplanations": [
+      "",
+      "Ketorolac is an NSAID without the atropine-like structure responsible for opioid-related tachycardia.",
+      "Morphine typically causes bradycardia via vagal stimulation and histamine release, not tachycardia.",
+      "Diclofenac is an NSAID without anticholinergic activity or a characteristic tachycardic effect."
+    ],
+    "source": "Surgery — 8 July Afternoon Paper"
+  },
+  {
+    "systemSlug": "nervous-system",
+    "topicSlug": "neuropharmacology",
+    "stem": "A patient on the operating table is injected with a muscle relaxant. The anesthesiologist notices haphazard movement in the respiration bag, suggesting opioid-induced rigidity has occurred. What is the next step?",
+    "options": [
+      "Attempt intubation with a rigid trachea",
+      "Stop the drugs",
+      "Give naloxone",
+      "Increase the dose of muscle relaxant"
+    ],
+    "correctIndex": 2,
+    "explanation": "Opioid-induced chest wall rigidity impairs ventilation. Naloxone reverses the opioid effect directly and is the most appropriate immediate management, alongside supportive ventilation.",
+    "optionExplanations": [
+      "The trachea itself is not rigid in this condition; the chest wall/laryngeal rigidity impairs bagging, not intubation feasibility per se.",
+      "Simply stopping the drugs does not reverse the opioid effect already causing rigidity as quickly as a direct antagonist.",
+      "",
+      "Increasing muscle relaxant dose does not address the opioid receptor-mediated cause of the rigidity."
+    ],
+    "source": "Surgery — 8 July Afternoon Paper"
+  },
+  {
+    "systemSlug": "musculoskeletal",
+    "topicSlug": "msk-anatomy-embryology",
+    "stem": "Which drug is most commonly associated with causing phocomelia in the fetus?",
+    "options": [
+      "Thalidomide",
+      "Sodium valproate",
+      "Phenytoin",
+      "Carbamazepine"
+    ],
+    "correctIndex": 0,
+    "explanation": "Thalidomide is the classic teratogen causing phocomelia (severely shortened or absent limbs) when taken during a critical window of early pregnancy, historically leading to its withdrawal from use as a sedative/antiemetic.",
+    "optionExplanations": [
+      "",
+      "Sodium valproate causes neural tube defects, not the classic limb-shortening phocomelia.",
+      "Phenytoin causes fetal hydantoin syndrome (craniofacial anomalies, hypoplastic nails), not phocomelia.",
+      "Carbamazepine causes neural tube defects and craniofacial anomalies, not phocomelia."
+    ],
+    "source": "Surgery — 8 July Afternoon Paper"
+  },
+  {
+    "systemSlug": "renal",
+    "topicSlug": "renal-pharmacology",
+    "stem": "A patient on a diuretic has normal serum calcium but low urinary calcium excretion. Which diuretic is responsible?",
+    "options": [
+      "Mannitol",
+      "Furosemide",
+      "Thiazide",
+      "Acetazolamide"
+    ],
+    "correctIndex": 2,
+    "explanation": "Thiazide diuretics cause volume contraction, enhancing passive calcium reabsorption at the proximal tubule and active reabsorption via the basolateral Na-Ca exchanger, resulting in reduced urinary calcium excretion (calcium-sparing effect), unlike loop diuretics, which increase urinary calcium loss.",
+    "optionExplanations": [
+      "Mannitol is an osmotic diuretic that increases urinary excretion of most solutes, including calcium, not reduces it.",
+      "Furosemide inhibits calcium reabsorption in the loop of Henle, increasing (not decreasing) urinary calcium excretion.",
+      "",
+      "Acetazolamide acts on the proximal tubule and does not produce this characteristic calcium-sparing effect."
+    ],
+    "source": "Surgery — 8 July Afternoon Paper"
+  },
+  {
+    "systemSlug": "microbiology",
+    "topicSlug": "gram-negative-bacteria",
+    "stem": "A child presents with paroxysmal cough followed by inspiratory whoop. What is the treatment of choice?",
+    "options": [
+      "Meronem",
+      "Erythromycin",
+      "Ampicillin",
+      "Cefixime",
+      "Ciprofloxacin"
+    ],
+    "correctIndex": 1,
+    "explanation": "Paroxysmal cough with inspiratory whoop is classic for pertussis (whooping cough), caused by Bordetella pertussis. Macrolides such as erythromycin are the treatment of choice and also reduce transmission.",
+    "optionExplanations": [
+      "Meropenem is reserved for severe multidrug-resistant infections, not first-line therapy for pertussis.",
+      "",
+      "Ampicillin is not the preferred agent for pertussis; macrolides are first-line.",
+      "Cefixime, a cephalosporin, is not effective first-line therapy for Bordetella pertussis.",
+      "Ciprofloxacin is not the standard treatment for pertussis; macrolides are preferred."
+    ],
+    "source": "Surgery — 8 July Afternoon Paper"
+  },
+  {
+    "systemSlug": "hematology-oncology",
+    "topicSlug": "hematopoiesis-blood-physiology",
+    "stem": "A patient presents with an itchy skin rash. Which cells are primarily responsible for this reaction?",
+    "options": [
+      "Mast cells",
+      "Neutrophils",
+      "Plasma cells",
+      "Esophagus"
+    ],
+    "correctIndex": 0,
+    "explanation": "Mast cells release histamine and other mediators upon degranulation, driving the itching, redness, and wheal formation characteristic of urticarial and allergic skin reactions.",
+    "optionExplanations": [
+      "",
+      "Neutrophils are the primary responders in acute bacterial infection, not the classic mediator of pruritic allergic skin reactions.",
+      "Plasma cells produce antibodies over a longer time course and are not the immediate effector cells of an itchy wheal reaction.",
+      "The esophagus is not a cell type and is unrelated to a cutaneous itch reaction."
+    ],
+    "source": "Surgery — 8 July Afternoon Paper"
+  },
+  {
+    "systemSlug": "hematology-oncology",
+    "topicSlug": "leukemia-lymphoma",
+    "stem": "A 70-year-old patient presents with a black toe that developed one week ago. On examination, the platelet count is 1,000,000/microL (10 lakh). What is the most likely cause?",
+    "options": [
+      "Reactive thrombocytosis",
+      "Essential thrombocytosis",
+      "Thrombocytopenia",
+      "Disseminated intravascular coagulation (DIC)"
+    ],
+    "correctIndex": 1,
+    "explanation": "A markedly elevated platelet count (often above 1,000,000/microL) causing digital ischemia is characteristic of essential thrombocythemia, a myeloproliferative neoplasm associated with JAK2 mutations in most cases.",
+    "optionExplanations": [
+      "Reactive thrombocytosis is usually milder and secondary to an identifiable cause (infection, inflammation, iron deficiency), and rarely causes digital ischemia.",
+      "",
+      "Thrombocytopenia is a low platelet count, the opposite of the markedly elevated count described.",
+      "DIC typically shows a low, consumed platelet count along with coagulopathy, not this markedly elevated count."
+    ],
+    "source": "Surgery — 8 July Afternoon Paper"
+  },
+  {
+    "systemSlug": "endocrine",
+    "topicSlug": "thyroid-disorders",
+    "stem": "Which finding strongly suggests follicular carcinoma of the thyroid?",
+    "options": [
+      "Capsular/vascular invasion",
+      "Presence of colloid",
+      "Well-defined capsule",
+      "Hurthle cell change"
+    ],
+    "correctIndex": 0,
+    "explanation": "Follicular thyroid carcinoma is distinguished from a follicular adenoma by evidence of capsular or vascular invasion, which cannot be assessed on fine-needle aspiration and requires histological examination of the excised specimen.",
+    "optionExplanations": [
+      "",
+      "Colloid presence is a normal follicular feature seen in both benign and malignant follicular lesions, not a marker of malignancy.",
+      "A well-defined capsule without invasion is more typical of a benign follicular adenoma.",
+      "Hurthle cell change can occur in both benign and malignant follicular lesions and is not itself diagnostic of carcinoma."
+    ],
+    "source": "Surgery — 8 July Afternoon Paper"
+  },
+  {
+    "systemSlug": "gastrointestinal",
+    "topicSlug": "pancreatic-disease",
+    "stem": "Which tumor of the pancreas most commonly secretes excess insulin, causing hypoglycemia?",
+    "options": [
+      "Vipoma",
+      "Gastrinoma",
+      "Glucagonoma",
+      "Insulinoma"
+    ],
+    "correctIndex": 3,
+    "explanation": "Insulinoma is a tumor of pancreatic beta cells that secretes excess insulin, causing episodic hypoglycemia with neuroglycopenic symptoms, classically relieved by eating (Whipple's triad).",
+    "optionExplanations": [
+      "Vipoma secretes vasoactive intestinal peptide, causing watery diarrhea, hypokalemia, and achlorhydria (WDHA syndrome), not hypoglycemia.",
+      "Gastrinoma secretes gastrin, causing recurrent peptic ulcers (Zollinger-Ellison syndrome), not hypoglycemia.",
+      "Glucagonoma secretes glucagon, causing hyperglycemia and necrolytic migratory erythema, not hypoglycemia.",
+      ""
+    ],
+    "source": "Surgery — 8 July Afternoon Paper"
+  },
+  {
+    "systemSlug": "cardiovascular",
+    "topicSlug": "heart-failure",
+    "stem": "A hypertensive patient has bilateral pitting lower limb edema that is worse during the day and relieved at night. What is the mechanism?",
+    "options": [
+      "Increased hydrostatic pressure",
+      "Lymphatic obstruction",
+      "Decreased oncotic pressure",
+      "Increased capillary permeability"
+    ],
+    "correctIndex": 0,
+    "explanation": "Dependent edema that worsens with upright posture during the day and improves with recumbency at night reflects increased venous hydrostatic pressure, classically seen in congestive heart failure and chronic venous insufficiency.",
+    "optionExplanations": [
+      "",
+      "Lymphatic obstruction (lymphedema) typically causes non-pitting edema that does not fluctuate this clearly with posture over the day.",
+      "Decreased oncotic pressure (as in hypoalbuminemia) causes more generalized edema, not specifically this posture-dependent pattern.",
+      "Increased capillary permeability (as in inflammation or allergic reactions) is not characterized by this classic day/night postural fluctuation."
+    ],
+    "source": "Surgery — 8 July Afternoon Paper"
+  },
+  {
+    "systemSlug": "endocrine",
+    "topicSlug": "pituitary-disorders",
+    "stem": "Which investigation is used to screen for growth hormone deficiency in a child with short stature?",
+    "options": [
+      "TSH",
+      "Serum growth hormone (random)",
+      "Serum cortisol",
+      "IGF-1"
+    ],
+    "correctIndex": 3,
+    "explanation": "IGF-1 provides a more reliable screening measure than random GH levels, since growth hormone is secreted in pulses and a single random level is often uninformative.",
+    "optionExplanations": [
+      "TSH screens for hypothyroidism, another cause of short stature, but is not the specific screening test for GH deficiency itself.",
+      "A random GH level is unreliable due to pulsatile secretion and is not the preferred screening test.",
+      "Serum cortisol screens for adrenal function, not growth hormone status.",
+      ""
+    ],
+    "source": "Surgery — 8 July Afternoon Paper"
+  },
+  {
+    "systemSlug": "microbiology",
+    "topicSlug": "microbiology-basics",
+    "stem": "Which antibody is elevated first in an acute infection?",
+    "options": [
+      "IgM",
+      "IgG",
+      "IgA",
+      "IgE"
+    ],
+    "correctIndex": 0,
+    "explanation": "IgM is the first antibody produced in a primary immune response, appearing within days of infection, before the class switch to IgG provides longer-lasting immunity.",
+    "optionExplanations": [
+      "",
+      "IgG rises later, after class switching, and provides long-term/secondary-response immunity.",
+      "IgA is the predominant mucosal/secretory antibody, not the first responder in a systemic primary immune response.",
+      "IgE mediates allergic and anti-parasitic responses, not the earliest acute infection response."
+    ],
+    "source": "Surgery — 8 July Afternoon Paper"
+  },
+  {
+    "systemSlug": "cardiovascular",
+    "topicSlug": "cardiac-pharmacology",
+    "stem": "What is the mechanism of action of statins?",
+    "options": [
+      "HMG-CoA reductase inhibition",
+      "Bile acid sequestration",
+      "PCSK9 inhibition",
+      "Fibrate receptor activation"
+    ],
+    "correctIndex": 0,
+    "explanation": "Statins competitively inhibit HMG-CoA reductase, the rate-limiting enzyme in cholesterol biosynthesis, upregulating LDL receptor expression and lowering circulating LDL cholesterol.",
+    "optionExplanations": [
+      "",
+      "Bile acid sequestration describes drugs like cholestyramine, not statins.",
+      "PCSK9 inhibition describes biologics like evolocumab/alirocumab, not statins.",
+      "Fibrate receptor (PPAR-alpha) activation describes fibrates, not statins."
+    ],
+    "source": "Surgery — 8 July Afternoon Paper"
+  },
+  {
+    "systemSlug": "reproductive-health",
+    "topicSlug": "reproductive-anatomy-embryology",
+    "stem": "A man presents to the subfertility clinic with a sperm count of 15 million/mL and is anxious about the result. When should the semen analysis be repeated?",
+    "options": [
+      "10 weeks",
+      "9 weeks",
+      "12 weeks",
+      "2 weeks"
+    ],
+    "correctIndex": 2,
+    "explanation": "Semen analysis should be repeated after approximately 12 weeks (about 3 months), since spermatogenesis takes roughly 74 days, allowing a full cycle of sperm production before reassessment.",
+    "optionExplanations": [
+      "10 weeks does not allow a complete spermatogenic cycle (about 74 days plus transit time) to fully elapse.",
+      "9 weeks is too short an interval to reflect a full cycle of new sperm production.",
+      "",
+      "2 weeks is far too soon; it would reflect sperm already in production at the time of the first test, not a fresh cycle."
+    ],
+    "source": "Surgery — 8 July Afternoon Paper"
+  },
+  {
+    "systemSlug": "reproductive-health",
+    "topicSlug": "pregnancy-antenatal-care",
+    "stem": "A 12-year-old girl who was raped presents after 10 days without informing her parents due to fear. Which step will best help reduce her anxiety?",
+    "options": [
+      "Wait till missed period",
+      "Serum B-hCG",
+      "Urine pregnancy test",
+      "Reassurance only, no testing"
+    ],
+    "correctIndex": 2,
+    "explanation": "A urine pregnancy test can detect beta-hCG reliably by 10 days after conception, so testing now provides a timely, actionable answer rather than prolonging her anxiety by waiting for a missed period.",
+    "optionExplanations": [
+      "Waiting till a missed period unnecessarily prolongs her anxiety when a reliable test can be done now.",
+      "Serum B-hCG is not necessary here since a urine test is already sufficiently sensitive at 10 days and is simpler and faster.",
+      "",
+      "Reassurance without testing does not provide the concrete answer needed to actually reduce her anxiety."
+    ],
+    "source": "Surgery — 8 July Afternoon Paper"
+  },
+  {
+    "systemSlug": "respiratory",
+    "topicSlug": "pleural-upper-airway",
+    "stem": "A 68-year-old man has copious pleural fluid in the left pleural cavity due to acute pleurisy. When examined sitting up in bed (trunk upright), where would the fluid tend to accumulate?",
+    "options": [
+      "Costomediastinal recess",
+      "Cupola",
+      "Hilar reflection",
+      "Middle mediastinum",
+      "Costodiaphragmatic recess"
+    ],
+    "correctIndex": 4,
+    "explanation": "In an upright position, gravity causes pleural fluid to collect in the most dependent part of the pleural cavity, the costodiaphragmatic recess, between the diaphragmatic and costal pleura.",
+    "optionExplanations": [
+      "The costomediastinal recess is anterior and not the most dependent point when upright.",
+      "The cupola is the superior extent of the pleura above the first rib, the least likely site for gravity-dependent fluid.",
+      "The hilar reflection is a mediastinal pleural fold at the lung root, not the most dependent recess.",
+      "The middle mediastinum contains the heart and pericardium, not a pleural recess where fluid pools.",
+      ""
+    ],
+    "source": "Surgery — 8 July Afternoon Paper"
+  },
+  {
+    "systemSlug": "community-medicine-public-health",
+    "topicSlug": "health-systems-ethics",
+    "stem": "A doctor was offered a chance of a 3-day trip in exchange for taking part in an upcoming discussion of a drug in the hospital. What should be the ethical response of the doctor?",
+    "options": [
+      "Accept it",
+      "Refuse politely",
+      "Inform hospital administration",
+      "Negotiate for a longer trip"
+    ],
+    "correctIndex": 1,
+    "explanation": "Accepting gifts or trips tied to promoting a specific drug represents a conflict of interest. The ethical response is to politely decline such an offer to maintain professional integrity and unbiased clinical judgment.",
+    "optionExplanations": [
+      "Accepting creates a direct conflict of interest that could bias prescribing and clinical judgment.",
+      "",
+      "Informing administration is a reasonable secondary step in some settings, but the immediate ethical action required is to decline the offer itself.",
+      "Negotiating for a bigger personal benefit compounds the conflict of interest rather than resolving it."
+    ],
+    "source": "Surgery — 8 July Afternoon Paper"
+  },
+  {
+    "systemSlug": "nervous-system",
+    "topicSlug": "neuroanatomy-embryology",
+    "stem": "In subdural hematoma, which vessel is most commonly involved?",
+    "options": [
+      "Superior cerebral (bridging) veins",
+      "Middle meningeal artery",
+      "Inferior cerebral veins",
+      "Great cerebral vein of Galen"
+    ],
+    "correctIndex": 0,
+    "explanation": "Subdural hematoma results from tearing of the superior cerebral bridging veins, which cross the subdural space to drain into the superior sagittal sinus. This contrasts with extradural hematoma, caused by middle meningeal artery injury.",
+    "optionExplanations": [
+      "",
+      "The middle meningeal artery is the classic vessel injured in extradural (epidural), not subdural, hematoma.",
+      "The inferior cerebral veins are a less common source than the superior bridging veins, which are the classic culprit.",
+      "The great cerebral vein of Galen, when injured, causes deep hemorrhage, not the classic subdural bleed from surface bridging veins."
+    ],
+    "source": "Surgery — 8 July Afternoon Paper"
+  },
+  {
+    "systemSlug": "hematology-oncology",
+    "topicSlug": "bleeding-clotting-disorders",
+    "stem": "A patient admitted and immobile for a week develops calf swelling and pain. What is the underlying cause?",
+    "options": [
+      "DVT due to immobility and venous stasis",
+      "Cellulitis",
+      "Ruptured Baker's cyst",
+      "Compartment syndrome"
+    ],
+    "correctIndex": 0,
+    "explanation": "Prolonged immobility promotes venous stasis, a key component of Virchow's triad, predisposing to deep vein thrombosis, presenting with unilateral calf swelling and pain.",
+    "optionExplanations": [
+      "",
+      "Cellulitis would typically show overlying erythema, warmth, and systemic signs of infection rather than being explained simply by immobility.",
+      "A ruptured Baker's cyst classically follows a preceding history of a popliteal cyst and sudden calf pain, not gradual immobility-related swelling.",
+      "Compartment syndrome typically follows trauma or reperfusion with severe pain out of proportion, not simple prolonged immobility."
+    ],
+    "source": "Surgery — 8 July Afternoon Paper"
+  },
+  {
+    "systemSlug": "respiratory",
+    "topicSlug": "respiratory-physiology",
+    "stem": "A patient has a respiratory rate of 12/min and a tidal volume of 500 mL. Calculate the minute ventilation.",
+    "options": [
+      "8 L",
+      "6 L",
+      "4 L",
+      "10 L"
+    ],
+    "correctIndex": 1,
+    "explanation": "Minute ventilation equals respiratory rate multiplied by tidal volume: 12/min x 500 mL = 6,000 mL/min = 6 L/min.",
+    "optionExplanations": [
+      "8 L does not match the product of 12 x 500 mL.",
+      "",
+      "4 L does not match the product of 12 x 500 mL.",
+      "10 L does not match the product of 12 x 500 mL."
+    ],
+    "source": "Surgery — 8 July Afternoon Paper"
+  },
+  {
+    "systemSlug": "hematology-oncology",
+    "topicSlug": "hematopoiesis-blood-physiology",
+    "stem": "What is the correct sequence of events for leukocyte extravasation during inflammation?",
+    "options": [
+      "Margination, adhesion, rolling, transmigration",
+      "Margination, rolling, adhesion, transmigration",
+      "Rolling, adhesion, margination, transmigration",
+      "Transmigration, rolling, adhesion, margination"
+    ],
+    "correctIndex": 1,
+    "explanation": "Leukocyte extravasation follows margination (movement to vessel wall), rolling (via selectins), firm adhesion (via integrins), and finally transmigration through the endothelium into the tissue.",
+    "optionExplanations": [
+      "Adhesion (via integrins) occurs after rolling (via selectins), not before it.",
+      "",
+      "Margination (movement toward the vessel wall) must precede rolling, not follow it.",
+      "Transmigration is the final step, occurring after rolling and adhesion, not first."
+    ],
+    "source": "Surgery — 8 July Afternoon Paper"
+  },
+  {
+    "systemSlug": "cardiovascular",
+    "topicSlug": "ischemic-heart-disease",
+    "stem": "What is the correct sequence of cardiac marker elevation after MI?",
+    "options": [
+      "Myoglobin, then CPK-MB, then LDH",
+      "CPK-MB, then myoglobin, then LDH",
+      "LDH, then CPK-MB, then myoglobin",
+      "Troponin, then myoglobin, then LDH"
+    ],
+    "correctIndex": 0,
+    "explanation": "Myoglobin rises earliest (within 1-4 hours) but is nonspecific, CPK-MB rises next and peaks around 24 hours, and LDH rises later and remains elevated longest, useful for late presentations.",
+    "optionExplanations": [
+      "",
+      "CPK-MB rises after, not before, myoglobin, since myoglobin is released fastest from damaged muscle.",
+      "LDH rises last, not first, and remains elevated longest among these markers.",
+      "Troponin rises on a similar early timescale to myoglobin but slightly after it, and LDH (not myoglobin) is the later marker in this specific sequence."
+    ],
+    "source": "Surgery — 8 July Afternoon Paper"
+  },
+  {
+    "systemSlug": "reproductive-health",
+    "topicSlug": "labor-delivery-complications",
+    "stem": "A tear during episiotomy most commonly damages which structures?",
+    "options": [
+      "Bulbospongiosus muscle and perineal body",
+      "External anal sphincter only",
+      "Levator ani",
+      "Ischiocavernosus muscle"
+    ],
+    "correctIndex": 0,
+    "explanation": "A mediolateral episiotomy divides the bulbospongiosus muscle and perineal body, while the levator ani is at risk of injury and a median episiotomy instead risks the external anal sphincter.",
+    "optionExplanations": [
+      "",
+      "The external anal sphincter is more classically at risk with a median (not mediolateral) episiotomy or an extending tear, not the primary structure divided here.",
+      "The levator ani lies deeper and is spared by a properly performed mediolateral episiotomy, unlike the more superficial bulbospongiosus and perineal body.",
+      "The ischiocavernosus lies more laterally over the crura of the clitoris and is not the structure classically divided by this incision."
+    ],
+    "source": "Surgery — 8 July Afternoon Paper"
+  },
+  {
+    "systemSlug": "cardiovascular",
+    "topicSlug": "arrhythmias",
+    "stem": "In supraventricular tachycardia, vagal maneuvers fail. What is the next step?",
+    "options": [
+      "Verapamil",
+      "Adenosine",
+      "Atropine",
+      "Amiodarone"
+    ],
+    "correctIndex": 1,
+    "explanation": "Adenosine is the drug of choice for stable SVT when vagal maneuvers fail. It transiently blocks AV nodal conduction, often terminating the reentrant rhythm.",
+    "optionExplanations": [
+      "Verapamil is a reasonable second-line agent but is not the preferred first pharmacologic step after failed vagal maneuvers; adenosine is.",
+      "",
+      "Atropine increases heart rate via vagal blockade and would worsen, not terminate, a tachyarrhythmia.",
+      "Amiodarone is reserved for refractory cases or when adenosine and calcium channel blockers fail, not the immediate next step."
+    ],
+    "source": "Surgery — 8 July Afternoon Paper"
+  },
+  {
+    "systemSlug": "nervous-system",
+    "topicSlug": "stroke",
+    "stem": "A patient presents with weakness of the limbs on one side of the body and an ipsilateral cranial nerve palsy on the opposite side. This crossed hemiplegia most likely localizes to which site?",
+    "options": [
+      "Internal capsule",
+      "Brainstem",
+      "Cerebral cortex",
+      "Basal ganglia"
+    ],
+    "correctIndex": 1,
+    "explanation": "Crossed hemiplegia (contralateral limb weakness with an ipsilateral cranial nerve palsy relative to the lesion) results from a brainstem lesion, where the corticospinal tract has not yet decussated but the cranial nerve nucleus is affected at its own level.",
+    "optionExplanations": [
+      "An internal capsule lesion produces face, arm, and leg weakness all on the same (contralateral) side, without a crossed cranial nerve pattern.",
+      "",
+      "A cortical lesion produces contralateral weakness without the crossed brainstem cranial nerve findings described.",
+      "A basal ganglia lesion produces contralateral motor/movement abnormalities, not a crossed brainstem cranial nerve pattern."
+    ],
+    "source": "Surgery — 8 July Afternoon Paper"
+  },
+  {
+    "systemSlug": "renal",
+    "topicSlug": "uti-stones",
+    "stem": "A patient receiving radiotherapy for cervical cancer develops loss of bladder control due to radiation cystitis. At what approximate radiation dose does this typically occur?",
+    "options": [
+      "100 cGy",
+      "1000 cGy",
+      "5000 cGy",
+      "10,000 cGy"
+    ],
+    "correctIndex": 2,
+    "explanation": "Radiation cystitis typically occurs at cumulative pelvic radiation doses around 5000 cGy (50 Gy), a dose commonly used in definitive radiotherapy for cervical cancer.",
+    "optionExplanations": [
+      "100 cGy is far too low a cumulative dose to produce clinical radiation cystitis.",
+      "1000 cGy is still well below the cumulative dose typically needed to injure the bladder mucosa.",
+      "",
+      "10,000 cGy substantially exceeds the typical dose range used and associated with radiation cystitis in this clinical context."
+    ],
+    "source": "Surgery — 8 July Afternoon Paper"
+  },
+  {
+    "systemSlug": "reproductive-health",
+    "topicSlug": "gynecological-oncology",
+    "stem": "Which tumor marker is characteristically elevated in yolk sac tumor?",
+    "options": [
+      "AFP",
+      "CA-125",
+      "hCG",
+      "CA 19-9"
+    ],
+    "correctIndex": 0,
+    "explanation": "Alpha-fetoprotein (AFP) is characteristically elevated in yolk sac (endodermal sinus) tumors, which show Schiller-Duval bodies on histology.",
+    "optionExplanations": [
+      "",
+      "CA-125 is the marker associated with epithelial ovarian carcinoma, not yolk sac tumor.",
+      "hCG is characteristically elevated in choriocarcinoma and some mixed germ cell tumors, not the classic marker of pure yolk sac tumor.",
+      "CA 19-9 is associated with pancreatic and biliary carcinoma, not yolk sac tumor."
+    ],
+    "source": "Surgery — 8 July Afternoon Paper"
+  },
+  {
+    "systemSlug": "nervous-system",
+    "topicSlug": "peripheral-nerve-neuromuscular",
+    "stem": "During posterior hip dislocation with acetabular fracture, a patient later develops knee pain. Which nerve is at risk?",
+    "options": [
+      "Sciatic nerve",
+      "Femoral nerve",
+      "Ilioinguinal nerve",
+      "Obturator nerve"
+    ],
+    "correctIndex": 0,
+    "explanation": "Posterior hip dislocation classically injures the sciatic nerve, which can cause radiating or referred pain toward the knee via its common peroneal division.",
+    "optionExplanations": [
+      "",
+      "The femoral nerve lies anteriorly and is more at risk in anterior hip dislocation, not the posterior pattern described.",
+      "The ilioinguinal nerve supplies the groin/genital region, unrelated to posterior hip dislocation or knee pain.",
+      "The obturator nerve is more at risk with anterior/obturator-type dislocations, not posterior dislocation."
+    ],
+    "source": "Surgery — 8 July Afternoon Paper"
+  },
+  {
+    "systemSlug": "nervous-system",
+    "topicSlug": "peripheral-nerve-neuromuscular",
+    "stem": "After mastectomy for breast carcinoma, a female developed winging of the scapula, which is due to damage to which nerve?",
+    "options": [
+      "Axillary nerve damage",
+      "Long thoracic nerve damage",
+      "Radial nerve",
+      "Spinal accessory nerve",
+      "Thoracodorsal nerve"
+    ],
+    "correctIndex": 1,
+    "explanation": "The long thoracic nerve runs superficially on the external surface of serratus anterior, making it vulnerable during axillary dissection in mastectomy. Its damage paralyzes serratus anterior, causing the inferior angle of the scapula to wing away from the thoracic wall.",
+    "optionExplanations": [
+      "Axillary nerve injury causes deltoid weakness and shoulder sensory loss, not scapular winging.",
+      "",
+      "Radial nerve injury causes wrist drop, not scapular winging.",
+      "Spinal accessory nerve injury causes trapezius weakness with a different pattern of scapular malposition (lateral winging with shoulder drop), not the classic serratus anterior winging.",
+      "Thoracodorsal nerve injury weakens latissimus dorsi (affecting arm adduction/extension), not scapular winging."
+    ],
+    "source": "Surgery — 8 July Afternoon Paper"
+  },
+  {
+    "systemSlug": "nervous-system",
+    "topicSlug": "peripheral-nerve-neuromuscular",
+    "stem": "A female employee who types and uses a laptop most of the time presents with thumb pain that is relieved by NSAIDs. Which test is best to check for nerve compression in her?",
+    "options": [
+      "De Waston test",
+      "Phalen test",
+      "Finkelstein test",
+      "Watson test"
+    ],
+    "correctIndex": 1,
+    "explanation": "Phalen's test reproduces symptoms of median nerve compression at the wrist (carpal tunnel syndrome) by sustained wrist flexion, making it the appropriate test when nerve compression specifically is suspected, as distinct from Finkelstein's test, which diagnoses De Quervain's tenosynovitis (a tendon condition, not a nerve compression).",
+    "optionExplanations": [
+      "\"De Watson test\" is not a recognized standard test for wrist nerve compression.",
+      "",
+      "Finkelstein's test diagnoses De Quervain's tenosynovitis, a tendon disorder, not median nerve compression.",
+      "The Watson (scaphoid shift) test assesses scapholunate ligament instability, not nerve compression."
+    ],
+    "source": "Surgery — 8 July Afternoon Paper"
+  },
+  {
+    "systemSlug": "gastrointestinal",
+    "topicSlug": "gi-anatomy-embryology",
+    "stem": "A patient presented with right hypochondrial pain. The dermatome referred for cholecystitis pain includes:",
+    "options": [
+      "T3-9",
+      "T10-12",
+      "T7-9",
+      "T8-T12",
+      "T7-L1"
+    ],
+    "correctIndex": 2,
+    "explanation": "Gallbladder visceral afferents travel with sympathetic fibers entering the spinal cord at T7-9, producing referred pain to the right hypochondrium and right shoulder tip (via phrenic nerve irritation) in cholecystitis.",
+    "optionExplanations": [
+      "T3-9 extends too high; gallbladder afferents enter specifically around T7-9, not from as high as T3.",
+      "T10-12 is too low a range; gallbladder visceral afferents map to T7-9, not the lower thoracic segments.",
+      "",
+      "T8-T12 extends too low compared to the classic T7-9 gallbladder referral pattern.",
+      "T7-L1 is too broad a range compared to the specific T7-9 segmental level of gallbladder referred pain."
+    ],
+    "source": "Surgery — 8 July Afternoon Paper"
+  },
+  {
+    "systemSlug": "nervous-system",
+    "topicSlug": "neuroanatomy-embryology",
+    "stem": "Which structure, present at about 21 days of development, provides inductive signals for the formation of the notochord and vertebral column?",
+    "options": [
+      "Notochord",
+      "Primitive streak",
+      "Neural tube",
+      "Somites"
+    ],
+    "correctIndex": 1,
+    "explanation": "Up to about 21 days, the primitive streak provides inductive signals for notochord formation. After this, the notochord itself induces formation of the vertebral column.",
+    "optionExplanations": [
+      "The notochord is the structure being induced/formed at this stage, not the inducer of itself.",
+      "",
+      "The neural tube forms later, induced by the notochord, and is not the day-21 inducer of notochord formation.",
+      "Somites form later still, derived from paraxial mesoderm after the notochord has already begun to develop."
+    ],
+    "source": "Surgery — 8 July Afternoon Paper"
+  },
+  {
+    "systemSlug": "musculoskeletal",
+    "topicSlug": "fractures-metabolic-bone",
+    "stem": "A boy met with a road traffic accident and had pelvic fractures. He developed shock and died before reaching the hospital. What is the cause?",
+    "options": [
+      "Excessive blood loss",
+      "Fat embolism",
+      "Hypotension",
+      "Amniotic fluid embolism",
+      "Hypertension"
+    ],
+    "correctIndex": 0,
+    "explanation": "Pelvic fractures can cause massive retroperitoneal hemorrhage from disrupted pelvic vessels, and excessive blood loss leading to hemorrhagic shock is the most common cause of early death after severe pelvic trauma.",
+    "optionExplanations": [
+      "",
+      "Fat embolism typically presents 24-72 hours after long bone fracture with respiratory distress and petechiae, not sudden pre-hospital death from a pelvic fracture.",
+      "Hypotension is a consequence/sign of shock, not the underlying cause of death itself.",
+      "Amniotic fluid embolism occurs only in the peripartum setting, not after trauma in a boy.",
+      "Hypertension is not a feature of hemorrhagic shock, which causes hypotension."
+    ],
+    "source": "Surgery — 8 July Afternoon Paper"
+  },
+  {
+    "systemSlug": "musculoskeletal",
+    "topicSlug": "fractures-metabolic-bone",
+    "stem": "Fracture of the neck of the femur commonly leads to which complication?",
+    "options": [
+      "Malunion only",
+      "Osteomyelitis",
+      "Avascular necrosis of the femoral head",
+      "Compartment syndrome"
+    ],
+    "correctIndex": 2,
+    "explanation": "The femoral neck's blood supply, primarily from the medial circumflex femoral artery, is easily disrupted by fracture, making avascular necrosis of the femoral head a common and serious complication.",
+    "optionExplanations": [
+      "Malunion can occur with any fracture but is not the specific, classic complication of femoral neck fracture that follows from its precarious blood supply.",
+      "Osteomyelitis requires an infectious source and is not the typical complication of a closed femoral neck fracture.",
+      "",
+      "Compartment syndrome is a complication of tibial or forearm fractures with tight fascial compartments, not the femoral neck."
+    ],
+    "source": "Surgery — 8 July Afternoon Paper"
+  },
+  {
+    "systemSlug": "microbiology",
+    "topicSlug": "gram-negative-bacteria",
+    "stem": "Septic shock caused by E. coli most commonly originates from which source?",
+    "options": [
+      "Urinary tract/small bowel",
+      "Skin",
+      "Respiratory tract",
+      "CNS"
+    ],
+    "correctIndex": 0,
+    "explanation": "E. coli septic shock most commonly arises from a urinary tract or gastrointestinal (small bowel) source, reflecting the organism's normal habitat in the gut and its role as the leading cause of urinary tract infection.",
+    "optionExplanations": [
+      "",
+      "Skin flora is predominantly gram-positive (Staphylococcus, Streptococcus), not typically E. coli.",
+      "The respiratory tract is more classically associated with gram-positive or atypical pathogens, not E. coli sepsis.",
+      "The CNS is an uncommon primary source for E. coli sepsis compared to the urinary/GI tract, except in neonatal meningitis."
+    ],
+    "source": "Surgery — 8 July Afternoon Paper"
+  },
+  {
+    "systemSlug": "endocrine",
+    "topicSlug": "hormone-physiology-signaling",
+    "stem": "A 15-year-old male with tall stature, gynecomastia, small testes, and infertility is diagnosed with a chromosomal disorder. Which karyotype is most consistent with his presentation?",
+    "options": [
+      "46,XY",
+      "45,X0",
+      "47,XXY",
+      "47,XYY",
+      "46,XX"
+    ],
+    "correctIndex": 2,
+    "explanation": "Klinefelter syndrome (47,XXY) presents with tall stature, gynecomastia, small firm testes, and infertility from testicular dysgenesis and low testosterone.",
+    "optionExplanations": [
+      "46,XY is a normal male karyotype and would not explain this syndromic presentation.",
+      "45,X0 is Turner syndrome, affecting phenotypic females with short stature and gonadal dysgenesis, not this male presentation.",
+      "",
+      "47,XYY presents with tall stature but typically normal fertility and testes, without gynecomastia.",
+      "46,XX in a phenotypic male (XX male syndrome) is rare and does not match this classic Klinefelter presentation."
+    ],
+    "source": "Surgery — 8 July Afternoon Paper"
+  },
+  {
+    "systemSlug": "gastrointestinal",
+    "topicSlug": "liver-disease",
+    "stem": "Councilman bodies are a characteristic feature of which process?",
+    "options": [
+      "Necrosis",
+      "Reversible cell injury",
+      "Irreversible cell injury",
+      "Apoptosis"
+    ],
+    "correctIndex": 3,
+    "explanation": "Councilman bodies are eosinophilic apoptotic hepatocyte remnants, classically seen in yellow fever but also in other forms of viral hepatitis, representing programmed cell death (apoptosis) rather than necrosis.",
+    "optionExplanations": [
+      "Necrosis is characterized by cell swelling, membrane rupture, and inflammation, not the discrete eosinophilic bodies of apoptosis.",
+      "Reversible cell injury does not produce discrete apoptotic remnants like Councilman bodies.",
+      "\"Irreversible cell injury\" is a broader category that includes necrosis; Councilman bodies specifically reflect the apoptotic pathway, a more precise answer.",
+      ""
+    ],
+    "source": "Surgery — 8 July Afternoon Paper"
+  },
+  {
+    "systemSlug": "gastrointestinal",
+    "topicSlug": "gi-bleeding-malignancy",
+    "stem": "Barrett's esophagus most commonly predisposes to which malignancy?",
+    "options": [
+      "Squamous cell carcinoma",
+      "Lymphoma",
+      "Adenocarcinoma",
+      "Carcinoid tumor"
+    ],
+    "correctIndex": 2,
+    "explanation": "Barrett's esophagus, from chronic GERD-related metaplasia of the lower esophageal squamous epithelium to columnar epithelium, predisposes to esophageal adenocarcinoma, in contrast to squamous cell carcinoma, which affects the upper two-thirds and is linked to alcohol and smoking.",
+    "optionExplanations": [
+      "Squamous cell carcinoma is linked to alcohol and smoking and typically affects the upper esophagus, not the columnar-metaplastic distal esophagus of Barrett's.",
+      "Lymphoma is not the malignancy classically arising from Barrett's metaplastic epithelium.",
+      "",
+      "Carcinoid tumors arise from neuroendocrine cells and are not the classic malignancy linked to Barrett's metaplasia."
+    ],
+    "source": "Surgery — 8 July Afternoon Paper"
+  },
+  {
+    "systemSlug": "renal",
+    "topicSlug": "renal-pharmacology",
+    "stem": "A 78-year-old man with BPH is advised a 5-alpha reductase inhibitor. What will it do?",
+    "options": [
+      "Relaxes bladder neck smooth muscle",
+      "Blocks conversion of testosterone to DHT",
+      "Blocks alpha-1 receptors",
+      "Inhibits LH secretion"
+    ],
+    "correctIndex": 1,
+    "explanation": "5-alpha reductase inhibitors such as finasteride block the conversion of testosterone to the more potent dihydrotestosterone (DHT), which drives prostatic growth, gradually shrinking the prostate over months.",
+    "optionExplanations": [
+      "Relaxing bladder neck smooth muscle describes the action of alpha-1 blockers, not 5-alpha reductase inhibitors.",
+      "",
+      "Blocking alpha-1 receptors describes drugs like tamsulosin, not 5-alpha reductase inhibitors.",
+      "Inhibiting LH secretion describes GnRH agonists/antagonists, not 5-alpha reductase inhibitors."
+    ],
+    "source": "Surgery — 8 July Afternoon Paper"
+  },
+  {
+    "systemSlug": "nervous-system",
+    "topicSlug": "peripheral-nerve-neuromuscular",
+    "stem": "Deficiency of which vitamin causes peripheral neuropathy?",
+    "options": [
+      "Vitamin B6",
+      "Vitamin B3",
+      "Vitamin B12",
+      "Vitamin C"
+    ],
+    "correctIndex": 2,
+    "explanation": "Vitamin B12 deficiency damages the dorsal columns and peripheral nerves, causing subacute combined degeneration and peripheral neuropathy.",
+    "optionExplanations": [
+      "Vitamin B6 excess (not deficiency) classically causes peripheral neuropathy; B6 deficiency more typically causes sideroblastic anemia and seizures in infants.",
+      "Vitamin B3 (niacin) deficiency causes pellagra (dermatitis, diarrhea, dementia), not the classic peripheral neuropathy of B12 deficiency.",
+      "",
+      "Vitamin C deficiency causes scurvy (bleeding gums, poor wound healing), not peripheral neuropathy."
+    ],
+    "source": "Surgery — 8 July Afternoon Paper"
+  },
+  {
+    "systemSlug": "respiratory",
+    "topicSlug": "respiratory-physiology",
+    "stem": "People living at high altitude have increased survival due to an increase in which factor?",
+    "options": [
+      "pH",
+      "2,3-DPG",
+      "Hypoxia",
+      "Hemoglobin affinity for O2"
+    ],
+    "correctIndex": 1,
+    "explanation": "Increased 2,3-DPG at high altitude shifts the hemoglobin-oxygen dissociation curve to the right, enhancing oxygen unloading to tissues despite lower ambient oxygen tension.",
+    "optionExplanations": [
+      "Altitude acclimatization involves a mild respiratory alkalosis (increased pH from hyperventilation), which is not itself the adaptive survival factor being described.",
+      "",
+      "Hypoxia is the stimulus/problem at altitude, not an adaptive survival factor.",
+      "Hemoglobin affinity for O2 is decreased (not increased) by rising 2,3-DPG, which is what aids peripheral oxygen delivery."
+    ],
+    "source": "Surgery — 8 July Afternoon Paper"
+  },
+  {
+    "systemSlug": "gastrointestinal",
+    "topicSlug": "gi-anatomy-embryology",
+    "stem": "At the level of T10, the esophagus passes through the diaphragm along with which structure?",
+    "options": [
+      "Sympathetic trunk",
+      "Thoracic duct",
+      "Azygos vein",
+      "Right vagus nerve (posterior vagal trunk)"
+    ],
+    "correctIndex": 3,
+    "explanation": "The esophageal opening at T10 transmits the esophagus along with the anterior and posterior vagal trunks and esophageal branches of the left gastric vessels, distinct from the caval opening (T8: IVC, right phrenic nerve) and aortic opening (T12: aorta, thoracic duct, azygos vein).",
+    "optionExplanations": [
+      "The sympathetic trunk pierces the diaphragm through the crura, not through the esophageal (T10) opening.",
+      "The thoracic duct passes through the aortic opening at T12, not the esophageal opening.",
+      "The azygos vein passes through the aortic opening at T12, not the esophageal opening.",
+      ""
+    ],
+    "source": "Surgery — 8 July Afternoon Paper"
+  },
+  {
+    "systemSlug": "respiratory",
+    "topicSlug": "obstructive-airway-disease",
+    "stem": "In asthma, which spirometric finding is characteristic?",
+    "options": [
+      "Decreased FEV1/FVC ratio",
+      "Increased FEV1/FVC ratio",
+      "Normal FEV1/FVC ratio",
+      "Increased FEV1"
+    ],
+    "correctIndex": 0,
+    "explanation": "Asthma is an obstructive lung disease, characterized by a decreased FEV1/FVC ratio due to disproportionate reduction in FEV1 from airway obstruction, which improves with bronchodilator therapy.",
+    "optionExplanations": [
+      "",
+      "An increased FEV1/FVC ratio is seen in restrictive lung disease, not obstructive disease like asthma.",
+      "A normal FEV1/FVC ratio would not indicate an obstructive process such as asthma.",
+      "FEV1 is decreased, not increased, in asthma due to airway obstruction."
+    ],
+    "source": "Surgery — 8 July Afternoon Paper"
+  },
+  {
+    "systemSlug": "renal",
+    "topicSlug": "electrolyte-disorders",
+    "stem": "Flattening of the T wave on ECG is characteristic of which electrolyte abnormality?",
+    "options": [
+      "Hyperkalemia",
+      "Hypokalemia",
+      "Hypocalcemia",
+      "Hypercalcemia"
+    ],
+    "correctIndex": 1,
+    "explanation": "Hypokalemia produces ECG changes including T wave flattening, ST depression, and prominent U waves, in contrast to hyperkalemia, which causes peaked T waves.",
+    "optionExplanations": [
+      "Hyperkalemia causes peaked (tall, narrow) T waves, the opposite ECG finding.",
+      "",
+      "Hypocalcemia classically prolongs the QT interval, not T wave flattening.",
+      "Hypercalcemia classically shortens the QT interval, not T wave flattening."
+    ],
+    "source": "Surgery — 8 July Afternoon Paper"
+  },
+  {
+    "systemSlug": "endocrine",
+    "topicSlug": "diabetes-mellitus",
+    "stem": "In diabetic ketoacidosis, what is the mechanism behind the deep, rapid (Kussmaul) breathing?",
+    "options": [
+      "Respiratory compensation for metabolic acidosis",
+      "Respiratory acidosis",
+      "Primary respiratory alkalosis",
+      "CNS depression"
+    ],
+    "correctIndex": 0,
+    "explanation": "Kussmaul breathing is a compensatory hyperventilation response that blows off CO2 to partially correct the severe metabolic (ketoacidotic) acidosis of DKA.",
+    "optionExplanations": [
+      "",
+      "Respiratory acidosis would mean CO2 retention from hypoventilation, the opposite of the hyperventilatory compensation occurring in DKA.",
+      "The alkalosis, if any, is a secondary consequence of compensation for the primary metabolic acidosis, not a primary respiratory alkalosis.",
+      "CNS depression would cause hypoventilation, not the deep, rapid compensatory breathing of DKA."
+    ],
+    "source": "Surgery — 8 July Afternoon Paper"
+  },
+  {
+    "systemSlug": "community-medicine-public-health",
+    "topicSlug": "biostatistics",
+    "stem": "The proportion of true positives is best described as:",
+    "options": [
+      "Correctly identified among those with disease",
+      "Proportion of true negatives among those without disease",
+      "Proportion of positive tests that are true positives",
+      "Proportion of negative tests that are true negatives"
+    ],
+    "correctIndex": 0,
+    "explanation": "Sensitivity is the proportion of individuals with disease who are correctly identified as positive by the test, reflecting the test's ability to detect true disease.",
+    "optionExplanations": [
+      "",
+      "This describes specificity, not the proportion of true positives (sensitivity).",
+      "This describes positive predictive value, not sensitivity.",
+      "This describes negative predictive value, not sensitivity."
+    ],
+    "source": "Surgery — 8 July Afternoon Paper"
+  },
+  {
+    "systemSlug": "reproductive-health",
+    "topicSlug": "gynecological-oncology",
+    "stem": "After salpingo-oophorectomy for ovarian cancer, a new mass develops. Which marker is used to monitor for recurrence?",
+    "options": [
+      "LDH",
+      "AFP",
+      "CEA",
+      "CA-125"
+    ],
+    "correctIndex": 3,
+    "explanation": "CA-125 is the standard tumor marker used to monitor for recurrence of epithelial ovarian cancer after initial treatment.",
+    "optionExplanations": [
+      "LDH is a marker more associated with germ cell tumors (e.g., dysgerminoma) and lymphoma, not the standard epithelial ovarian cancer marker.",
+      "AFP is characteristic of yolk sac tumors, not epithelial ovarian carcinoma.",
+      "CEA is more associated with colorectal and other GI malignancies, not the primary marker for ovarian cancer surveillance.",
+      ""
+    ],
+    "source": "Surgery — 8 July Afternoon Paper"
+  },
+  {
+    "systemSlug": "respiratory",
+    "topicSlug": "respiratory-anatomy-embryology",
+    "stem": "A child was brought to hospital with epistaxis. Examination and imaging revealed a fleshy mass extending from the sphenopalatine foramen to the left infratemporal fossa. What is the most likely diagnosis?",
+    "options": [
+      "Antrochoanal polyp",
+      "Inverted papilloma",
+      "Juvenile nasopharyngeal angiofibroma",
+      "Adenoids",
+      "Hemangioma"
+    ],
+    "correctIndex": 2,
+    "explanation": "Juvenile nasopharyngeal angiofibroma is a highly vascular tumor occurring almost exclusively in adolescent males, classically presenting with recurrent epistaxis and extending from the sphenopalatine foramen into adjacent spaces such as the infratemporal fossa.",
+    "optionExplanations": [
+      "Antrochoanal polyp arises from the maxillary sinus and extends into the choana, not classically from the sphenopalatine foramen into the infratemporal fossa with severe epistaxis.",
+      "Inverted papilloma arises from the lateral nasal wall and, while locally invasive, does not have this classic vascular epistaxis presentation in an adolescent male.",
+      "",
+      "Adenoids are lymphoid tissue in the nasopharynx and do not extend as a mass into the infratemporal fossa or cause this pattern of epistaxis.",
+      "Hemangioma is a vascular lesion but lacks the classic demographic (adolescent male) and site-specific extension pattern of JNA."
+    ],
+    "source": "Surgery — 8 July Afternoon Paper"
+  },
+  {
+    "systemSlug": "nervous-system",
+    "topicSlug": "neuroanatomy-embryology",
+    "stem": "A mass in the infratemporal fossa extends into the middle cranial fossa. Which bone is most likely eroded?",
+    "options": [
+      "Greater wing of sphenoid",
+      "Lesser wing of sphenoid",
+      "Squamous part of temporal bone",
+      "Parietal bone"
+    ],
+    "correctIndex": 0,
+    "explanation": "The greater wing of the sphenoid separates the infratemporal fossa from the middle cranial fossa, so tumors spreading between these spaces classically erode through this bone.",
+    "optionExplanations": [
+      "",
+      "The lesser wing of the sphenoid forms part of the anterior cranial fossa floor, not the boundary with the infratemporal fossa.",
+      "The squamous temporal bone forms part of the middle fossa floor more posterolaterally, not the direct infratemporal fossa boundary.",
+      "The parietal bone forms the cranial vault, unrelated to the infratemporal-to-middle-fossa route."
+    ],
+    "source": "Surgery — 8 July Afternoon Paper"
+  },
+  {
+    "systemSlug": "cardiovascular",
+    "topicSlug": "cardiac-anatomy-embryology",
+    "stem": "The pulmonary artery develops from which pharyngeal (aortic) arch?",
+    "options": [
+      "1st arch",
+      "3rd arch",
+      "4th arch",
+      "6th arch"
+    ],
+    "correctIndex": 3,
+    "explanation": "The 6th aortic arch gives rise to the proximal pulmonary arteries and, on the left side, the ductus arteriosus, which connects the pulmonary artery to the aorta in fetal circulation.",
+    "optionExplanations": [
+      "The 1st arch contributes to the maxillary artery, not the pulmonary artery.",
+      "The 3rd arch forms the common and proximal internal carotid arteries, not the pulmonary artery.",
+      "The 4th arch forms parts of the aortic arch (left) and proximal subclavian artery (right), not the pulmonary artery.",
+      ""
+    ],
+    "source": "Surgery — 8 July Afternoon Paper"
+  },
+  {
+    "systemSlug": "microbiology",
+    "topicSlug": "parasitology",
+    "stem": "A 28-year-old patient presents with foul-smelling, greasy diarrhea, abdominal bloating, and weight loss. Stool microscopy reveals both cysts and trophozoites, confirming giardiasis. What is the drug of choice?",
+    "options": [
+      "Tinidazole",
+      "Doxycycline",
+      "Ciprofloxacin",
+      "Praziquantel"
+    ],
+    "correctIndex": 0,
+    "explanation": "Tinidazole (or metronidazole) is the drug of choice for giardiasis, effectively eradicating Giardia lamblia cysts and trophozoites from the small intestine.",
+    "optionExplanations": [
+      "",
+      "Doxycycline is not an effective agent against Giardia.",
+      "Ciprofloxacin targets bacterial pathogens and is not effective against the protozoan Giardia.",
+      "Praziquantel targets trematodes and cestodes (flukes/tapeworms), not the protozoan Giardia."
+    ],
+    "source": "Surgery — 8 July Afternoon Paper"
+  },
+  {
+    "systemSlug": "microbiology",
+    "topicSlug": "parasitology",
+    "stem": "A young girl who uses contact lenses presents with redness and itchy eyes. Her cornea is inflamed with a branching corneal ulcer, and her contact lens water is sent for culture. Which organism causes her infection?",
+    "options": [
+      "Staph aureus",
+      "Acanthamoeba",
+      "Paramecium",
+      "Shigella"
+    ],
+    "correctIndex": 1,
+    "explanation": "Acanthamoeba keratitis is strongly associated with contact lens use, particularly with exposure to contaminated water. It causes a characteristic ring-shaped or branching corneal infiltrate and severe pain.",
+    "optionExplanations": [
+      "Staph aureus can cause bacterial keratitis but does not classically produce this ring/branching pattern linked to contaminated contact lens water.",
+      "",
+      "Paramecium is a free-living ciliate not implicated in corneal infection.",
+      "Shigella is an enteric bacterial pathogen causing dysentery, not corneal infection."
+    ],
+    "source": "Surgery — 8 July Afternoon Paper"
+  },
+  {
+    "systemSlug": "gastrointestinal",
+    "topicSlug": "gi-physiology",
+    "stem": "A patient receiving total parenteral nutrition for 3 weeks develops atrophic gastric mucosa on endoscopy. Which hormone changes best explain this finding?",
+    "options": [
+      "Gastrin increased, CCK decreased",
+      "Gastrin increased, CCK increased",
+      "Gastrin decreased, CCK decreased",
+      "Gastrin decreased, CCK increased"
+    ],
+    "correctIndex": 2,
+    "explanation": "Without luminal nutrients from enteral feeding, both gastrin release (from G-cells, stimulated by food and amino acids) and CCK secretion (from the duodenum, stimulated by fats and proteins) are significantly reduced, contributing to gastric mucosal atrophy during prolonged TPN.",
+    "optionExplanations": [
+      "Gastrin is decreased, not increased, when luminal nutrient stimulation is absent during TPN.",
+      "Both hormones are decreased, not increased, in the absence of enteral nutrient stimulation.",
+      "",
+      "Gastrin is also decreased along with CCK; it is not selectively spared while CCK falls."
+    ],
+    "source": "Surgery — 8 July Afternoon Paper"
+  },
+  {
+    "systemSlug": "cardiovascular",
+    "topicSlug": "cardiac-pharmacology",
+    "stem": "Beta blockers act inversely on beta receptors via which mechanism?",
+    "options": [
+      "Competitive antagonism",
+      "Non-competitive antagonism",
+      "Partial agonism only",
+      "Inverse agonism"
+    ],
+    "correctIndex": 3,
+    "explanation": "Because beta-adrenergic receptors have some constitutive (agonist-independent) activity, many beta blockers act as inverse agonists, actively suppressing this baseline signaling rather than acting as simple neutral competitive antagonists.",
+    "optionExplanations": [
+      "Simple competitive antagonism implies no effect on baseline constitutive receptor activity, which does not fully describe beta blocker action at these receptors.",
+      "Beta blockers are reversible/competitive at the receptor, not non-competitive.",
+      "Beta blockers (aside from a few with intrinsic sympathomimetic activity) are not partial agonists; the key described mechanism is inverse agonism.",
+      ""
+    ],
+    "source": "Surgery — 8 July Afternoon Paper"
+  },
+  {
+    "systemSlug": "respiratory",
+    "topicSlug": "respiratory-pharmacology",
+    "stem": "A patient is given a short-acting beta agonist (SABA) along with a new drug that is also released by the adrenal gland. What is the mechanism of action of this new drug?",
+    "options": [
+      "Inhibition of adenylate cyclase",
+      "Stimulation of phospholipase A2",
+      "Inhibition of phospholipase A2",
+      "Direct bronchodilation via beta-2 receptor"
+    ],
+    "correctIndex": 2,
+    "explanation": "The new drug is a glucocorticoid (a hormone released by the adrenal gland). Corticosteroids induce synthesis of lipocortin, which inhibits phospholipase A2, blocking arachidonic acid release and reducing production of inflammatory prostaglandins and leukotrienes.",
+    "optionExplanations": [
+      "Corticosteroids do not act by inhibiting adenylate cyclase; that is not their anti-inflammatory mechanism.",
+      "Corticosteroids inhibit, not stimulate, phospholipase A2 activity via lipocortin induction.",
+      "",
+      "Direct beta-2 mediated bronchodilation describes the SABA already given, not the mechanism of the adrenal-derived corticosteroid."
+    ],
+    "source": "Surgery — 8 July Afternoon Paper"
+  },
+  {
+    "systemSlug": "nervous-system",
+    "topicSlug": "stroke",
+    "stem": "A patient presents with hemiplegia along with facial weakness on the same side as the limb weakness. Where is the lesion located?",
+    "options": [
+      "Pons",
+      "Midbrain",
+      "Medulla",
+      "Internal capsule"
+    ],
+    "correctIndex": 3,
+    "explanation": "When both the face and limbs on the same side are weak (a typical unilateral upper motor neuron pattern, without a crossed brainstem syndrome), the lesion is supratentorial, most commonly the internal capsule, where corticospinal and corticobulbar fibers run together before decussating.",
+    "optionExplanations": [
+      "A pontine lesion typically produces a crossed pattern (ipsilateral cranial nerve palsy with contralateral limb weakness), not same-sided face and limb weakness.",
+      "A midbrain lesion also classically produces a crossed syndrome, not same-sided face and limb weakness.",
+      "A medullary lesion classically produces a crossed syndrome, not same-sided face and limb weakness.",
+      ""
+    ],
+    "source": "Surgery — 8 July Afternoon Paper"
+  },
+  {
+    "systemSlug": "gastrointestinal",
+    "topicSlug": "gi-pharmacology",
+    "stem": "Which drug interaction is correctly described?",
+    "options": [
+      "Sucralfate decreases cimetidine absorption",
+      "Sucralfate increases cimetidine absorption",
+      "Cimetidine decreases sucralfate absorption",
+      "No interaction occurs"
+    ],
+    "correctIndex": 0,
+    "explanation": "Sucralfate can bind to and reduce the absorption of certain co-administered drugs, including cimetidine, so doses should be separated by at least 2 hours.",
+    "optionExplanations": [
+      "",
+      "Sucralfate binding reduces, not increases, the absorption of co-administered drugs like cimetidine.",
+      "It is sucralfate's binding effect on other drugs (like cimetidine) that matters here, not cimetidine altering sucralfate absorption.",
+      "A clinically relevant interaction does occur, requiring dose separation."
+    ],
+    "source": "Surgery — 8 July Afternoon Paper"
+  },
+  {
+    "systemSlug": "cardiovascular",
+    "topicSlug": "cardiac-hemodynamics",
+    "stem": "A patient develops hypotension after spinal anesthesia. What is the mechanism?",
+    "options": [
+      "Peripheral vasodilation",
+      "Sympathetic blockade",
+      "Vagal-induced bradycardia only",
+      "Adrenal suppression"
+    ],
+    "correctIndex": 1,
+    "explanation": "Spinal anesthesia blocks sympathetic outflow from the spinal cord, causing vasodilation and reduced venous return, which together produce hypotension.",
+    "optionExplanations": [
+      "Peripheral vasodilation is the downstream effect, but the root mechanism being tested is the sympathetic blockade that causes it.",
+      "",
+      "Bradycardia can accompany high spinal blocks via unopposed vagal tone, but it is not the sole or primary mechanism of the hypotension itself.",
+      "Adrenal suppression is not the mechanism of spinal anesthesia-induced hypotension."
+    ],
+    "source": "Surgery — 8 July Afternoon Paper"
+  },
+  {
+    "systemSlug": "hematology-oncology",
+    "topicSlug": "general-oncology-principles",
+    "stem": "Li-Fraumeni syndrome is caused by a germline mutation in which gene?",
+    "options": [
+      "BRCA1",
+      "APC",
+      "TP53",
+      "RET"
+    ],
+    "correctIndex": 2,
+    "explanation": "Li-Fraumeni syndrome results from a germline TP53 mutation, predisposing to multiple early-onset cancers including sarcomas, breast cancer, and leukemia.",
+    "optionExplanations": [
+      "BRCA1 mutations predispose to hereditary breast and ovarian cancer, not the multi-cancer Li-Fraumeni phenotype.",
+      "APC mutations cause familial adenomatous polyposis and colorectal cancer, not Li-Fraumeni syndrome.",
+      "",
+      "RET mutations cause multiple endocrine neoplasia type 2 and medullary thyroid carcinoma, not Li-Fraumeni syndrome."
+    ],
+    "source": "Surgery — 8 July Afternoon Paper"
+  },
+  {
+    "systemSlug": "gastrointestinal",
+    "topicSlug": "gi-anatomy-embryology",
+    "stem": "Which structure lies superior to the midpoint of the inguinal ligament and lateral to the inferior epigastric vessels?",
+    "options": [
+      "Superficial inguinal ring",
+      "Deep inguinal ring",
+      "Femoral canal",
+      "Saphenous opening"
+    ],
+    "correctIndex": 1,
+    "explanation": "The deep inguinal ring lies superior to the midpoint of the inguinal ligament and lateral to the inferior epigastric vessels, marking the entry point for indirect inguinal hernias.",
+    "optionExplanations": [
+      "The superficial inguinal ring lies more medially and superficially, above the pubic tubercle, not at this deep landmark.",
+      "",
+      "The femoral canal lies below the inguinal ligament, medial to the femoral vein, not superior to the ligament.",
+      "The saphenous opening lies in the fascia lata of the thigh, well below the inguinal ligament, not at this deep abdominal landmark."
+    ],
+    "source": "Surgery — 8 July Afternoon Paper"
+  },
+  {
+    "systemSlug": "hematology-oncology",
+    "topicSlug": "hematology-pharmacology",
+    "stem": "Hydroxyurea exerts its action by inhibiting which enzyme?",
+    "options": [
+      "Ribonucleotide reductase",
+      "Dihydrofolate reductase",
+      "Thymidylate synthase",
+      "DNA polymerase"
+    ],
+    "correctIndex": 0,
+    "explanation": "Hydroxyurea inhibits ribonucleotide reductase, blocking conversion of ribonucleotides to deoxyribonucleotides and halting DNA synthesis. It is used in sickle cell disease, myeloproliferative disorders, and some cancers.",
+    "optionExplanations": [
+      "",
+      "Dihydrofolate reductase is the target of methotrexate, not hydroxyurea.",
+      "Thymidylate synthase is the target of 5-fluorouracil, not hydroxyurea.",
+      "DNA polymerase is directly targeted by agents like cytarabine, not hydroxyurea."
+    ],
+    "source": "Surgery — 8 July Afternoon Paper"
+  },
+  {
+    "systemSlug": "hematology-oncology",
+    "topicSlug": "hematopoiesis-blood-physiology",
+    "stem": "Which cytokine is most characteristically responsible for fever and sepsis?",
+    "options": [
+      "IL-4",
+      "IL-6",
+      "TNF-alpha",
+      "IFN-gamma"
+    ],
+    "correctIndex": 2,
+    "explanation": "TNF-alpha, along with IL-1, is a principal endogenous pyrogen mediating fever and the systemic inflammatory response in sepsis.",
+    "optionExplanations": [
+      "IL-4 drives Th2 differentiation and IgE class switching, not the principal pyrogenic response of sepsis.",
+      "IL-6 contributes to the acute phase response and fever but is not as classically the principal pyrogen as TNF-alpha in this context.",
+      "",
+      "IFN-gamma activates macrophages and is central to Th1 responses, but is not the classic principal pyrogen of sepsis."
+    ],
+    "source": "Surgery — 8 July Afternoon Paper"
+  },
+  {
+    "systemSlug": "endocrine",
+    "topicSlug": "hormone-physiology-signaling",
+    "stem": "At 35 weeks of pregnancy, what is the primary source of estrogen?",
+    "options": [
+      "Placenta",
+      "Maternal ovary",
+      "Fetal adrenal gland alone",
+      "Corpus luteum"
+    ],
+    "correctIndex": 0,
+    "explanation": "Early in pregnancy, the corpus luteum secretes estrogen and progesterone. By late pregnancy, the placenta becomes the primary source of both hormones.",
+    "optionExplanations": [
+      "",
+      "The maternal ovary's hormonal contribution is superseded by the placenta well before late pregnancy.",
+      "The fetal adrenal gland supplies precursor androgens for placental aromatization, but it is the placenta, using both fetal and maternal precursors, that is the primary hormone-producing source at this stage.",
+      "The corpus luteum is the dominant source only in early pregnancy, before placental hormone production takes over."
+    ],
+    "source": "Surgery — 8 July Afternoon Paper"
+  },
+  {
+    "systemSlug": "hematology-oncology",
+    "topicSlug": "hematopoiesis-blood-physiology",
+    "stem": "A 10-year-old child presents with corneal opacities and mild anemia. Lab investigations show increased free cholesterol, decreased cholesterol esters, and decreased HDL levels. Further evaluation reveals that free cholesterol cannot be processed in the plasma due to an enzymatic defect. Which enzyme is most likely deficient?",
+    "options": [
+      "Lecithin-cholesterol acyltransferase (LCAT)",
+      "Acyl-CoA cholesterol acyltransferase (ACAT)",
+      "HMG-CoA reductase",
+      "Cholesterol esterase"
+    ],
+    "correctIndex": 0,
+    "explanation": "LCAT catalyzes esterification of free cholesterol within HDL particles. Its deficiency causes accumulation of free cholesterol, reduced cholesterol ester formation, decreased HDL, and characteristic corneal opacities.",
+    "optionExplanations": [
+      "",
+      "ACAT esterifies cholesterol intracellularly within cells (e.g., for storage/foam cell formation), not within the plasma/HDL compartment described here.",
+      "HMG-CoA reductase is the rate-limiting enzyme of cholesterol synthesis, not plasma cholesterol esterification.",
+      "\"Cholesterol esterase\" is not the enzyme responsible for plasma HDL cholesterol esterification; LCAT is."
+    ],
+    "source": "Surgery — 8 July Afternoon Paper"
+  },
+  {
+    "systemSlug": "microbiology",
+    "topicSlug": "microbiology-basics",
+    "stem": "An elevated neutrophil count is most suggestive of which type of infection?",
+    "options": [
+      "Viral infection",
+      "Bacterial infection",
+      "Parasitic infection",
+      "Fungal infection"
+    ],
+    "correctIndex": 1,
+    "explanation": "Neutrophilia is most characteristic of acute bacterial infection, in contrast to lymphocytosis (viral infection) and eosinophilia (parasitic infection or allergy).",
+    "optionExplanations": [
+      "Viral infections classically produce lymphocytosis, not neutrophilia.",
+      "",
+      "Parasitic infections classically produce eosinophilia, not neutrophilia.",
+      "Fungal infections do not have the same strong classic association with neutrophilia as acute bacterial infection."
+    ],
+    "source": "Surgery — 8 July Afternoon Paper"
+  },
+  {
+    "systemSlug": "gastrointestinal",
+    "topicSlug": "pancreatic-disease",
+    "stem": "Pancreatic necrosis is histologically characterized by which type of necrosis?",
+    "options": [
+      "Fat necrosis",
+      "Coagulative necrosis",
+      "Liquefactive necrosis",
+      "Caseous necrosis"
+    ],
+    "correctIndex": 0,
+    "explanation": "Acute pancreatitis releases activated lipases that digest peripancreatic fat, producing fat necrosis with characteristic saponification (calcium soap formation).",
+    "optionExplanations": [
+      "",
+      "Coagulative necrosis is typical of ischemic infarction in solid organs like the heart or kidney, not lipase-mediated pancreatic fat digestion.",
+      "Liquefactive necrosis is typical of bacterial or CNS infarction, not the lipase-driven process of pancreatic necrosis.",
+      "Caseous necrosis is typical of tuberculosis and fungal granulomas, not pancreatitis."
+    ],
+    "source": "Surgery — 8 July Afternoon Paper"
+  },
+  {
+    "systemSlug": "renal",
+    "topicSlug": "renal-pharmacology",
+    "stem": "A patient with aspirin overdose presents with tinnitus, hyperventilation, and metabolic acidosis. Which of the following is the most appropriate treatment?",
+    "options": [
+      "Intravenous bicarbonate to alkalinize urine",
+      "Activated charcoal only",
+      "Hemodialysis immediately",
+      "Intravenous calcium gluconate",
+      "Ammonium chloride"
+    ],
+    "correctIndex": 0,
+    "explanation": "IV sodium bicarbonate alkalinizes the urine, promoting ionization and renal excretion of salicylate, and is a key treatment for salicylate toxicity along with supportive care; hemodialysis is reserved for severe or refractory cases.",
+    "optionExplanations": [
+      "",
+      "Activated charcoal alone may help with early decontamination but does not address ongoing systemic toxicity and acidosis the way urinary alkalinization does.",
+      "Hemodialysis is reserved for severe, refractory, or life-threatening salicylate toxicity, not the first-line initial treatment.",
+      "IV calcium gluconate treats hyperkalemia or hypocalcemia, not salicylate toxicity.",
+      "Ammonium chloride would acidify the urine, worsening salicylate reabsorption and toxicity, the opposite of the correct approach."
+    ],
+    "source": "Surgery — 8 July Afternoon Paper"
+  },
+  {
+    "systemSlug": "respiratory",
+    "topicSlug": "respiratory-physiology",
+    "stem": "The aortic and carotid bodies are most sensitive to which of the following?",
+    "options": [
+      "PCO2 in blood",
+      "Decreased O2",
+      "Increased O2",
+      "Increased pH in blood"
+    ],
+    "correctIndex": 1,
+    "explanation": "Peripheral chemoreceptors in the carotid and aortic bodies are most sensitive to decreased arterial O2, as well as increased CO2 and decreased pH, in contrast to central chemoreceptors, which respond primarily to CO2-driven changes in CSF pH.",
+    "optionExplanations": [
+      "PCO2 is sensed by both peripheral and central chemoreceptors, but the peripheral (carotid/aortic body) receptors are most distinctively sensitive to falling O2, which central chemoreceptors cannot detect.",
+      "",
+      "Increased O2 would reduce, not stimulate, chemoreceptor firing.",
+      "Decreased, not increased, pH stimulates peripheral chemoreceptors."
+    ],
+    "source": "Surgery — 8 July Afternoon Paper"
+  },
+  {
+    "systemSlug": "endocrine",
+    "topicSlug": "thyroid-disorders",
+    "stem": "Graves' disease is an example of which type of hyperthyroidism?",
+    "options": [
+      "Primary hyperthyroidism",
+      "Secondary hyperthyroidism",
+      "Tertiary hyperthyroidism",
+      "Subclinical hyperthyroidism"
+    ],
+    "correctIndex": 0,
+    "explanation": "Graves' disease is a primary hyperthyroidism, caused by autoantibodies (TSI) directly stimulating the thyroid gland, resulting in low TSH with elevated thyroid hormones.",
+    "optionExplanations": [
+      "",
+      "Secondary hyperthyroidism would originate from excess pituitary TSH drive, not autoantibody stimulation of the thyroid itself.",
+      "Tertiary hyperthyroidism would originate from excess hypothalamic TRH drive, not autoantibody stimulation of the thyroid.",
+      "Subclinical hyperthyroidism refers to a mild biochemical state (low TSH, normal T3/T4) without overt symptoms, not the mechanism/classification being asked about."
+    ],
+    "source": "Surgery — 8 July Afternoon Paper"
+  },
+  {
+    "systemSlug": "nervous-system",
+    "topicSlug": "peripheral-nerve-neuromuscular",
+    "stem": "A hypertensive patient develops double vision. What is this called?",
+    "options": [
+      "Nystagmus",
+      "Amaurosis fugax",
+      "Papilledema",
+      "Diplopia"
+    ],
+    "correctIndex": 3,
+    "explanation": "Diplopia is the medical term for double vision, which can result from hypertension-related cranial nerve palsies (particularly CN VI) affecting extraocular muscle coordination.",
+    "optionExplanations": [
+      "Nystagmus is involuntary rhythmic eye oscillation, not double vision.",
+      "Amaurosis fugax is transient monocular vision loss, not double vision.",
+      "Papilledema is optic disc swelling from raised intracranial pressure, not double vision itself.",
+      ""
+    ],
+    "source": "Surgery — 8 July Afternoon Paper"
+  },
+  {
+    "systemSlug": "respiratory",
+    "topicSlug": "respiratory-pharmacology",
+    "stem": "What is the mechanism of action of cromolyn sodium?",
+    "options": [
+      "Antihistamine action",
+      "Inhibition of mast cell degranulation",
+      "Leukotriene receptor blockade",
+      "Direct bronchodilation"
+    ],
+    "correctIndex": 1,
+    "explanation": "Cromolyn sodium stabilizes mast cell membranes, inhibiting degranulation and the release of histamine and other inflammatory mediators, making it useful for allergic and exercise-induced asthma prophylaxis.",
+    "optionExplanations": [
+      "Cromolyn does not act as a direct antihistamine at histamine receptors; it prevents mediator release upstream.",
+      "",
+      "Leukotriene receptor blockade describes drugs like montelukast, not cromolyn.",
+      "Cromolyn is not a direct bronchodilator; its benefit is prophylactic, via mast cell stabilization."
+    ],
+    "source": "Surgery — 8 July Afternoon Paper"
+  },
+  {
+    "systemSlug": "cardiovascular",
+    "topicSlug": "cardiac-pharmacology",
+    "stem": "A patient on a beta blocker presents with a prolonged PR interval. Which of the following could be the possible cause?",
+    "options": [
+      "Drug-induced 1st degree heart block",
+      "2nd degree heart block",
+      "Complete heart block",
+      "Sinus tachycardia",
+      "Complete block"
+    ],
+    "correctIndex": 0,
+    "explanation": "Beta blockers slow AV nodal conduction and can cause a drug-induced first-degree AV block, seen as a prolonged PR interval without dropped beats.",
+    "optionExplanations": [
+      "",
+      "Second degree heart block shows intermittently dropped beats (not just a uniformly prolonged PR interval), a more advanced finding than described here.",
+      "Complete heart block shows AV dissociation, a far more severe finding than an isolated prolonged PR interval.",
+      "Sinus tachycardia is a rate abnormality, not a conduction delay causing PR prolongation.",
+      "\"Complete block\" again describes AV dissociation, not the isolated PR prolongation described here."
+    ],
+    "source": "Surgery — 8 July Afternoon Paper"
+  },
+  {
+    "systemSlug": "renal",
+    "topicSlug": "renal-pharmacology",
+    "stem": "A 55-year-old hypertensive patient presents with bilateral pedal edema and lab findings showing hypokalemia. Which diuretic is most appropriate for this patient?",
+    "options": [
+      "Thiazide",
+      "Acetazolamide",
+      "Spironolactone",
+      "Furosemide"
+    ],
+    "correctIndex": 2,
+    "explanation": "Spironolactone, a potassium-sparing diuretic, treats edema and hypertension while correcting rather than worsening hypokalemia, unlike thiazides and loop diuretics.",
+    "optionExplanations": [
+      "Thiazide diuretics would further lower potassium, worsening the existing hypokalemia.",
+      "Acetazolamide also promotes potassium wasting and is not the diuretic of choice for edema with hypokalemia.",
+      "",
+      "Furosemide, a loop diuretic, would further lower potassium, worsening the existing hypokalemia."
+    ],
+    "source": "Surgery — 8 July Afternoon Paper"
+  },
+  {
+    "systemSlug": "respiratory",
+    "topicSlug": "pneumonia-tb",
+    "stem": "A patient with chronic cough, weight loss, and cavitary lung lesions is diagnosed with tuberculosis. Which type of necrosis is most characteristic of tuberculous granulomas?",
+    "options": [
+      "Coagulative necrosis",
+      "Fat necrosis",
+      "Caseous necrosis",
+      "Liquefactive necrosis"
+    ],
+    "correctIndex": 2,
+    "explanation": "Tuberculous granulomas classically show caseous necrosis, a combination of coagulative and liquefactive features producing a cheese-like, friable center.",
+    "optionExplanations": [
+      "Coagulative necrosis alone (as in solid organ infarction) does not capture the friable, cheese-like appearance of tuberculous granulomas.",
+      "Fat necrosis results from lipase activity, as in pancreatitis, not tuberculous granulomas.",
+      "",
+      "Liquefactive necrosis alone (as in bacterial abscess or CNS infarction) does not capture the combined cheese-like appearance of caseous necrosis."
+    ],
+    "source": "Surgery — 8 July Afternoon Paper"
+  },
+  {
+    "systemSlug": "gastrointestinal",
+    "topicSlug": "gi-physiology",
+    "stem": "A patient is scheduled for cancer radiotherapy. Which radiation intensity can cause severe GIT symptoms during radiotherapy of cancer?",
+    "options": [
+      "10 cGy",
+      "100 cGy",
+      "1000 cGy",
+      "10,000 cGy"
+    ],
+    "correctIndex": 2,
+    "explanation": "Cumulative radiation doses around 1000 cGy (10 Gy) to the abdomen can cause significant acute gastrointestinal radiation toxicity, including nausea, vomiting, and mucosal injury.",
+    "optionExplanations": [
+      "10 cGy is far too low a dose to cause significant acute GIT radiation toxicity.",
+      "100 cGy is still below the cumulative dose typically needed to produce severe GIT symptoms.",
+      "",
+      "10,000 cGy substantially exceeds standard therapeutic ranges relevant to this acute GIT toxicity threshold."
+    ],
+    "source": "Surgery — 8 July Afternoon Paper"
+  },
+  {
+    "systemSlug": "musculoskeletal",
+    "topicSlug": "crystal-arthropathies",
+    "stem": "A 6-year-old boy presented with self-mutilation, involuntary movements, speech problems, and painful joints and urine showing excess uric acid. What is the deficient enzyme?",
+    "options": [
+      "Xanthine oxidase",
+      "HGPRT",
+      "Urate oxidase",
+      "Adenine phosphoribosyltransferase"
+    ],
+    "correctIndex": 1,
+    "explanation": "This presentation is classic for Lesch-Nyhan syndrome, caused by deficiency of hypoxanthine-guanine phosphoribosyltransferase (HGPRT), leading to excess purine degradation to uric acid, along with self-mutilating behavior, choreoathetosis, and intellectual disability.",
+    "optionExplanations": [
+      "Xanthine oxidase deficiency causes xanthinuria with low, not high, uric acid levels; xanthine oxidase inhibitors (like allopurinol) are used to treat gout, not deficient in it here.",
+      "",
+      "Urate oxidase is absent in humans normally and is not the enzyme deficient in Lesch-Nyhan syndrome.",
+      "Adenine phosphoribosyltransferase deficiency causes 2,8-dihydroxyadenine kidney stones, not this self-mutilation/gout syndrome."
+    ],
+    "source": "Surgery — 8 July Afternoon Paper"
+  },
+  {
+    "systemSlug": "respiratory",
+    "topicSlug": "respiratory-physiology",
+    "stem": "Pulmonary surfactant, produced by type II pneumocytes, plays a key role in lung mechanics. It primarily exerts its effect by which of the following mechanisms?",
+    "options": [
+      "Increases surface tension and decreases compliance",
+      "Decreases surface tension and increases compliance",
+      "Increases compliance without affecting surface tension",
+      "Decreases surface tension and decreases compliance"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pulmonary surfactant decreases alveolar surface tension, which increases lung compliance and prevents alveolar collapse, particularly in smaller alveoli which would otherwise be prone to collapse per LaPlace's law.",
+    "optionExplanations": [
+      "Surfactant decreases, not increases, surface tension, and this decrease increases rather than decreases compliance.",
+      "",
+      "Surfactant's increase in compliance occurs specifically because it lowers surface tension; the two effects are linked, not independent.",
+      "Surfactant decreases surface tension, which increases (not decreases) compliance."
+    ],
+    "source": "Surgery — 8 July Afternoon Paper"
+  },
+  {
+    "systemSlug": "gastrointestinal",
+    "topicSlug": "gi-physiology",
+    "stem": "A patient with gastric outlet obstruction presents with persistent projectile vomiting. Which acid-base and electrolyte disturbance is most classically seen in this condition?",
+    "options": [
+      "Hyperchloremic metabolic acidosis",
+      "Hypokalemic metabolic acidosis",
+      "Respiratory alkalosis",
+      "Hypochloremic hypokalemic metabolic alkalosis"
+    ],
+    "correctIndex": 3,
+    "explanation": "Loss of gastric acid (HCl) and potassium through persistent vomiting produces a hypochloremic, hypokalemic metabolic alkalosis, classically seen in conditions causing gastric outlet obstruction such as pyloric stenosis.",
+    "optionExplanations": [
+      "Vomiting causes metabolic alkalosis, not acidosis, from loss of gastric acid.",
+      "Vomiting produces metabolic alkalosis (from acid loss), not metabolic acidosis.",
+      "The primary disturbance here is metabolic, not respiratory.",
+      ""
+    ],
+    "source": "Surgery — 8 July Afternoon Paper"
+  },
+  {
+    "systemSlug": "musculoskeletal",
+    "topicSlug": "msk-anatomy-embryology",
+    "stem": "Weakness of abduction specifically in the initial 0-30 degree range indicates involvement of which muscle?",
+    "options": [
+      "Infraspinatus",
+      "Supraspinatus",
+      "Deltoid",
+      "Teres minor"
+    ],
+    "correctIndex": 1,
+    "explanation": "The supraspinatus initiates the first 0-15 to 0-30 degrees of shoulder abduction, after which the deltoid takes over up to 90 degrees, with the serratus anterior and trapezius contributing to further elevation via scapular rotation.",
+    "optionExplanations": [
+      "Infraspinatus is primarily an external rotator of the shoulder, not the initiator of abduction.",
+      "",
+      "Deltoid takes over abduction after the initial 0-30 degree range initiated by supraspinatus, not the earliest phase itself.",
+      "Teres minor is primarily an external rotator, not the initiator of abduction."
+    ],
+    "source": "Surgery — 8 July Afternoon Paper"
+  },
+  {
+    "systemSlug": "reproductive-health",
+    "topicSlug": "reproductive-anatomy-embryology",
+    "stem": "A histological section of a gland shows many acini lined with pseudostratified columnar epithelium, embedded in stroma with smooth muscle. Which gland is this?",
+    "options": [
+      "Epididymis",
+      "Prostate gland",
+      "Submandibular gland",
+      "Seminal vesicle",
+      "Appendix"
+    ],
+    "correctIndex": 1,
+    "explanation": "The prostate gland is composed of acini/glands lined by pseudostratified columnar epithelium set within a fibromuscular stroma rich in smooth muscle, which contracts during ejaculation to expel prostatic secretions.",
+    "optionExplanations": [
+      "The epididymis is lined by pseudostratified columnar epithelium with stereocilia but lacks the extensive fibromuscular glandular stroma of the prostate.",
+      "",
+      "The submandibular gland shows a mixed seromucous acinar pattern with striated/intercalated ducts, not this prostate-specific fibromuscular stroma pattern.",
+      "The seminal vesicle shows a highly convoluted, honeycombed mucosa rather than discrete acini in a fibromuscular stroma like the prostate.",
+      "The appendix shows lymphoid follicles within its wall and a simple columnar mucosa, not this glandular fibromuscular pattern."
+    ],
+    "source": "Surgery — 8 July Afternoon Paper"
+  },
+  {
+    "systemSlug": "respiratory",
+    "topicSlug": "respiratory-anatomy-embryology",
+    "stem": "During bronchoscopy in a supine patient, an inhaled foreign body is most likely to be seen in which location?",
+    "options": [
+      "Posterior segment of the right upper lobe",
+      "Apical segment of the right lower lobe",
+      "Lateral segment of the right upper lobe",
+      "Right upper lobe",
+      "Lingular bronchus"
+    ],
+    "correctIndex": 1,
+    "explanation": "In the supine position, gravity directs aspirated foreign material toward the apical (superior) segment of the right lower lobe, since the right main bronchus is wider, shorter, and more vertical than the left.",
+    "optionExplanations": [
+      "The posterior segment of the right upper lobe is the classic dependent segment in a patient lying supine tilted for aspiration in some contexts, but the apical segment of the right lower lobe is the most dependent bronchopulmonary segment in a fully supine position.",
+      "",
+      "The lateral segment of the right upper lobe is not the dependent segment in the supine position.",
+      "The right upper lobe as a whole is not the specific dependent segment; foreign bodies localize more precisely to the apical segment of the right lower lobe when supine.",
+      "The lingular bronchus is on the left side and is the dependent segment in the left lateral decubitus position, not supine."
+    ],
+    "source": "Surgery — 8 July Afternoon Paper"
+  },
+  {
+    "systemSlug": "endocrine",
+    "topicSlug": "pituitary-disorders",
+    "stem": "A woman with a history of severe postpartum hemorrhage later develops failure of lactation and amenorrhea. What is the diagnosis?",
+    "options": [
+      "Sheehan syndrome",
+      "Asherman syndrome",
+      "PCOS",
+      "Cushing syndrome"
+    ],
+    "correctIndex": 0,
+    "explanation": "Severe postpartum hemorrhage can cause pituitary hypoperfusion and infarction (Sheehan syndrome), leading to panhypopituitarism, including loss of prolactin (failure of lactation) and gonadotropins (amenorrhea).",
+    "optionExplanations": [
+      "",
+      "Asherman syndrome results from intrauterine adhesions (often post-curettage), causing amenorrhea but not failure of lactation.",
+      "PCOS causes anovulation and hyperandrogenism, not postpartum hemorrhage-related failure of lactation.",
+      "Cushing syndrome results from cortisol excess, not postpartum pituitary infarction with failure of lactation."
+    ],
+    "source": "Surgery — 8 July Afternoon Paper"
+  },
+  {
+    "systemSlug": "endocrine",
+    "topicSlug": "pituitary-disorders",
+    "stem": "A 32-year-old woman presents 6 months after a complicated postpartum hemorrhage with fatigue and low energy. Which hormone deficiency is responsible for her symptoms?",
+    "options": [
+      "ACTH",
+      "TSH",
+      "PTH",
+      "GH"
+    ],
+    "correctIndex": 0,
+    "explanation": "In Sheehan syndrome, ACTH deficiency causing secondary adrenal insufficiency is the most immediately dangerous and classic cause of profound fatigue and low energy, although TSH deficiency can also contribute.",
+    "optionExplanations": [
+      "",
+      "TSH deficiency also contributes to fatigue in Sheehan syndrome but is a less immediately dangerous and less classic answer than ACTH deficiency for this presentation.",
+      "PTH is secreted by the parathyroid glands, unaffected by pituitary infarction, and does not explain this fatigue.",
+      "GH deficiency contributes less acutely to profound fatigue than the cortisol deficiency from ACTH loss."
+    ],
+    "source": "Surgery — 8 July Afternoon Paper"
+  },
+  {
+    "systemSlug": "microbiology",
+    "topicSlug": "fungal-infections",
+    "stem": "A diabetic patient in DKA develops a black necrotic nasal eschar with orbital involvement. Which organism is responsible?",
+    "options": [
+      "Mucor",
+      "Aspergillus",
+      "Candida",
+      "Cryptococcus"
+    ],
+    "correctIndex": 0,
+    "explanation": "Rhino-orbital mucormycosis, caused by Mucor species, classically affects immunocompromised or ketoacidotic diabetic patients, producing a black necrotic eschar from angioinvasive fungal growth and tissue infarction.",
+    "optionExplanations": [
+      "",
+      "Aspergillus more classically causes invasive pulmonary disease or allergic bronchopulmonary aspergillosis, rather than the classic DKA-associated rhino-orbital eschar of Mucor.",
+      "Candida classically causes mucocutaneous or bloodstream infection, not this classic angioinvasive rhino-orbital eschar linked to DKA.",
+      "Cryptococcus classically causes meningitis in immunocompromised hosts, not a rhino-orbital necrotic eschar."
+    ],
+    "source": "Surgery — 8 July Afternoon Paper"
+  },
+  {
+    "systemSlug": "nervous-system",
+    "topicSlug": "neuroanatomy-embryology",
+    "stem": "A lesion at the middle of the optic chiasma damages which fibers?",
+    "options": [
+      "Nasal (crossing) fibers",
+      "Temporal (uncrossed) fibers",
+      "Both equally",
+      "Neither"
+    ],
+    "correctIndex": 0,
+    "explanation": "The nasal retinal fibers cross at the optic chiasma, carrying information from the temporal visual fields. A midline chiasmal lesion (such as a pituitary tumor) damages these crossing fibers, producing bitemporal hemianopia.",
+    "optionExplanations": [
+      "",
+      "Temporal retinal fibers do not cross at the chiasma and run laterally along the optic tract, so they are spared by a midline lesion.",
+      "Only the crossing nasal fibers are damaged by a purely midline lesion; the uncrossed temporal fibers pass lateral to it and are spared.",
+      "The midline crossing nasal fibers are specifically vulnerable at this location, so damage does occur."
+    ],
+    "source": "Surgery — 8 July Afternoon Paper"
+  },
+  {
+    "systemSlug": "gastrointestinal",
+    "topicSlug": "gi-anatomy-embryology",
+    "stem": "During clinical examination, a finger is inserted into the superficial inguinal ring. It palpates a firm bony prominence. Which structure is being palpated?",
+    "options": [
+      "Ischial tuberosity",
+      "Anterior superior iliac spine",
+      "Iliopubic tract",
+      "Pubic tubercle"
+    ],
+    "correctIndex": 3,
+    "explanation": "The pubic tubercle lies immediately adjacent to the superficial inguinal ring and is palpated as a firm bony landmark during examination of the inguinal region, useful for distinguishing inguinal from femoral hernias.",
+    "optionExplanations": [
+      "The ischial tuberosity is located posteriorly in the perineum, not near the superficial inguinal ring.",
+      "The anterior superior iliac spine is lateral and superior to the inguinal ring, not the structure palpated within it.",
+      "The iliopubic tract is a fascial band, not a bony prominence, so it would not be felt as a firm bony landmark.",
+      ""
+    ],
+    "source": "Surgery — 8 July Afternoon Paper"
+  },
+  {
+    "systemSlug": "nervous-system",
+    "topicSlug": "neurophysiology",
+    "stem": "A 4-month-old infant presents with developmental delay, seizures, and a musty (\"mousy\") odor to the urine. What is the most likely diagnosis?",
+    "options": [
+      "Maple syrup urine disease",
+      "Alkaptonuria",
+      "Phenylketonuria (PKU)",
+      "Galactosemia",
+      "Tyrosinemia"
+    ],
+    "correctIndex": 2,
+    "explanation": "PKU is caused by deficiency of phenylalanine hydroxylase, preventing conversion of phenylalanine to tyrosine. Accumulated phenylalanine and its metabolites cause the characteristic musty odor and, if untreated, severe intellectual disability.",
+    "optionExplanations": [
+      "Maple syrup urine disease causes urine with a sweet, burnt-sugar odor, not a musty/mousy odor.",
+      "Alkaptonuria causes urine that darkens on standing (homogentisic acid), not a musty odor, and does not typically cause developmental delay in infancy.",
+      "",
+      "Galactosemia presents with jaundice, hepatomegaly, and cataracts after milk feeding, not a musty urine odor.",
+      "Tyrosinemia presents with liver failure and a cabbage-like odor, not the classic musty odor of PKU."
+    ],
+    "source": "Surgery — 8 July Afternoon Paper"
+  },
+  {
+    "systemSlug": "microbiology",
+    "topicSlug": "virology",
+    "stem": "Which serological marker indicates active viral replication in Hepatitis B infection?",
+    "options": [
+      "HBeAg",
+      "Anti-HBs",
+      "Anti-HBc IgG",
+      "HBsAg alone"
+    ],
+    "correctIndex": 0,
+    "explanation": "HBeAg indicates active viral replication and high infectivity in Hepatitis B infection, correlating with high viral load, in contrast to anti-HBs, which indicates immunity.",
+    "optionExplanations": [
+      "",
+      "Anti-HBs indicates immunity (from resolved infection or vaccination), not active replication.",
+      "Anti-HBc IgG indicates past exposure, not specifically ongoing active replication.",
+      "HBsAg alone indicates infection is present but does not specifically denote the high-replication/high-infectivity state that HBeAg does."
+    ],
+    "source": "Surgery — 8 July Afternoon Paper"
+  },
+  {
+    "systemSlug": "musculoskeletal",
+    "topicSlug": "msk-pharmacology",
+    "stem": "A patient develops a temperature of 42 degrees C with muscle rigidity shortly after receiving general anesthesia. Which drug is the treatment of choice?",
+    "options": [
+      "Dantrolene",
+      "Paracetamol",
+      "Diazepam",
+      "Succinylcholine"
+    ],
+    "correctIndex": 0,
+    "explanation": "Malignant hyperthermia, triggered by volatile anesthetics or succinylcholine in genetically susceptible individuals (RYR1 mutations), is treated with dantrolene, which blocks calcium release from the sarcoplasmic reticulum via the ryanodine receptor.",
+    "optionExplanations": [
+      "",
+      "Paracetamol treats fever from typical pyrogenic mechanisms, not the hypermetabolic muscle crisis of malignant hyperthermia.",
+      "Diazepam does not address the underlying ryanodine receptor-mediated calcium release causing the rigidity and hyperthermia.",
+      "Succinylcholine is a classic trigger of malignant hyperthermia, not its treatment."
+    ],
+    "source": "Surgery — 8 July Afternoon Paper"
+  },
+  {
+    "systemSlug": "renal",
+    "topicSlug": "renal-pharmacology",
+    "stem": "Thiazide diuretics act primarily on which part of the nephron?",
+    "options": [
+      "Early distal convoluted tubule",
+      "Loop of Henle",
+      "Proximal convoluted tubule",
+      "Collecting duct"
+    ],
+    "correctIndex": 0,
+    "explanation": "Thiazide diuretics inhibit the Na-Cl cotransporter in the early distal convoluted tubule, reducing sodium and chloride reabsorption while enhancing calcium reabsorption.",
+    "optionExplanations": [
+      "",
+      "The loop of Henle is the site of action of loop diuretics (e.g., furosemide), not thiazides.",
+      "The proximal convoluted tubule is the site of action of carbonic anhydrase inhibitors (e.g., acetazolamide), not thiazides.",
+      "The collecting duct is the site of action of potassium-sparing diuretics, not thiazides."
+    ],
+    "source": "Surgery — 8 July Afternoon Paper"
+  },
+  {
+    "systemSlug": "endocrine",
+    "topicSlug": "thyroid-disorders",
+    "stem": "A 26-year-old woman at 6 weeks gestation presents with palpitations, weight loss, and heat intolerance. Lab work shows suppressed TSH. What is the drug of choice for initial management?",
+    "options": [
+      "Propylthiouracil (PTU)",
+      "Methimazole",
+      "Radioactive iodine",
+      "Beta blockers alone"
+    ],
+    "correctIndex": 0,
+    "explanation": "Propylthiouracil is preferred over methimazole during the first trimester of pregnancy because methimazole carries a higher risk of teratogenicity (aplasia cutis, choanal/esophageal atresia). Radioactive iodine is contraindicated throughout pregnancy.",
+    "optionExplanations": [
+      "",
+      "Methimazole carries a higher teratogenic risk in the first trimester (aplasia cutis, choanal/esophageal atresia) than PTU.",
+      "Radioactive iodine is absolutely contraindicated in pregnancy due to fetal thyroid ablation risk.",
+      "Beta blockers alone control symptoms but do not treat the underlying excess thyroid hormone synthesis."
+    ],
+    "source": "Surgery — 8 July Afternoon Paper"
+  },
+  {
+    "systemSlug": "musculoskeletal",
+    "topicSlug": "fractures-metabolic-bone",
+    "stem": "A jaw tumor causes displacement of teeth and shows myxoid histology. What is the most likely diagnosis?",
+    "options": [
+      "Ameloblastoma",
+      "Odontogenic myxoma",
+      "Central giant cell granuloma",
+      "Dentigerous cyst"
+    ],
+    "correctIndex": 1,
+    "explanation": "Odontogenic myxoma is a benign but locally aggressive jaw tumor arising from odontogenic mesenchyme, characterized by a myxoid (loose, gelatinous) histological appearance and a tendency to displace adjacent teeth.",
+    "optionExplanations": [
+      "Ameloblastoma shows epithelial nests resembling enamel organ (stellate reticulum-like tissue), not a myxoid mesenchymal pattern.",
+      "",
+      "Central giant cell granuloma shows multinucleated giant cells in a fibrous stroma, not a myxoid pattern.",
+      "Dentigerous cyst is a cystic lesion associated with an unerupted tooth crown, not a solid myxoid neoplasm."
+    ],
+    "source": "Surgery — 8 July Afternoon Paper"
+  },
+  {
+    "systemSlug": "musculoskeletal",
+    "topicSlug": "msk-physiology",
+    "stem": "An athlete's father advises his son to stay within aerobic exercise limits to avoid a substance released during anaerobic exercise. What is this substance also known as?",
+    "options": [
+      "Lactic acid",
+      "Acetyl-CoA",
+      "Pyruvate",
+      "Creatine phosphate"
+    ],
+    "correctIndex": 0,
+    "explanation": "When oxygen demand exceeds supply during anaerobic exercise, pyruvate is converted to lactate (lactic acid) via anaerobic glycolysis, contributing to muscle fatigue and soreness.",
+    "optionExplanations": [
+      "",
+      "Acetyl-CoA is produced during aerobic metabolism entering the citric acid cycle, not the anaerobic byproduct being described.",
+      "Pyruvate is the precursor that gets converted to lactate under anaerobic conditions; lactate itself is the accumulating substance described.",
+      "Creatine phosphate is a rapid energy buffer used at the very start of exercise, not the substance that accumulates and causes fatigue during sustained anaerobic exercise."
+    ],
+    "source": "Surgery — 8 July Afternoon Paper"
+  },
+  {
+    "systemSlug": "community-medicine-public-health",
+    "topicSlug": "environmental-occupational-health",
+    "stem": "A laborer working in the sun presents with bilateral eye swelling, gritty sensation, and watering. What is the recommended prevention/treatment?",
+    "options": [
+      "Antihistamine eye drops",
+      "Artificial tears",
+      "Excess water intake",
+      "Wear UV-protected sunglasses"
+    ],
+    "correctIndex": 3,
+    "explanation": "This presentation is consistent with photokeratitis from chronic UV exposure. Wearing UV-protective sunglasses prevents further corneal UV damage and is the most appropriate recommendation for an outdoor laborer.",
+    "optionExplanations": [
+      "Antihistamine drops address allergic symptoms, not the underlying UV-induced corneal injury.",
+      "Artificial tears may relieve dryness symptomatically but do not address or prevent the underlying UV-related corneal damage.",
+      "Excess water intake does not address ocular UV exposure or photokeratitis prevention.",
+      ""
+    ],
+    "source": "Surgery — 8 July Afternoon Paper"
+  },
+  {
+    "systemSlug": "microbiology",
+    "topicSlug": "parasitology",
+    "stem": "A male living near a river receives prophylactic treatment and develops lymphadenopathy and arthralgia. Which drug was given?",
+    "options": [
+      "Ivermectin",
+      "Diethylcarbamazine",
+      "Albendazole",
+      "Doxycycline"
+    ],
+    "correctIndex": 1,
+    "explanation": "The Mazzotti reaction occurs when diethylcarbamazine (DEC) is given to patients with filarial infections (such as Onchocerca volvulus or Wuchereria bancrofti). Rapid killing of microfilariae triggers fever, itching, lymphadenopathy, and joint pain.",
+    "optionExplanations": [
+      "Ivermectin is also used for filariasis/onchocerciasis and can cause a similar reaction, but the classic eponymous Mazzotti reaction is specifically linked to diethylcarbamazine.",
+      "",
+      "Albendazole is a broad-spectrum anthelmintic not classically linked to the eponymous Mazzotti reaction.",
+      "Doxycycline targets Wolbachia endosymbionts in filarial worms as an adjunct therapy but is not the classic trigger of the acute Mazzotti reaction."
+    ],
+    "source": "Surgery — 8 July Afternoon Paper"
+  },
+  {
+    "systemSlug": "microbiology",
+    "topicSlug": "parasitology",
+    "stem": "A child from Azad Kashmir presented with a 3-month history of fever, rashes on the legs, failure to thrive, and features of hemolysis, accompanied by massive splenomegaly. Laboratory finding revealed low Hb levels, while the total leukocyte count and platelet count were within normal limits. What is your diagnosis?",
+    "options": [
+      "Leukemia",
+      "Visceral leishmaniasis",
+      "Malaria",
+      "CLL",
+      "Myeloproliferative disease"
+    ],
+    "correctIndex": 1,
+    "explanation": "Visceral leishmaniasis (Kala-azar) is endemic to parts of South Asia including Kashmir. It classically presents with prolonged fever, massive hepatosplenomegaly, hyperpigmented skin changes, weight loss/failure to thrive, and hemolytic anemia.",
+    "optionExplanations": [
+      "Leukemia would typically show an abnormal total leukocyte count, not the normal WBC and platelet counts described here.",
+      "",
+      "Malaria typically causes a more acute, cyclical fever pattern and does not classically cause this chronic 3-month course with massive splenomegaly and skin rash.",
+      "CLL classically causes marked lymphocytosis, not a normal leukocyte count with this endemic febrile-splenomegaly presentation.",
+      "Myeloproliferative disease typically shows an abnormal blood count (e.g., elevated cell lines), not normal WBC and platelet counts."
+    ],
+    "source": "Surgery — 8 July Afternoon Paper"
+  },
+  {
+    "systemSlug": "nervous-system",
+    "topicSlug": "peripheral-nerve-neuromuscular",
+    "stem": "A young female complains of numbness and paresthesia along the medial side of the hand, with vascular compromise in a T1 distribution. Which extra rib is implicated in this?",
+    "options": [
+      "Raynaud's phenomenon",
+      "Osteoporosis of cervical spine",
+      "Pectus excavatum",
+      "Spinal stenosis",
+      "Cervical rib"
+    ],
+    "correctIndex": 4,
+    "explanation": "A cervical rib can compress the lower trunk of the brachial plexus (C8-T1) and the subclavian artery, producing thoracic outlet syndrome with medial hand numbness, paresthesia, and vascular symptoms.",
+    "optionExplanations": [
+      "Raynaud's phenomenon is an episodic vasospastic disorder, not an extra rib, and does not itself explain a T1 nerve distribution deficit.",
+      "Osteoporosis of the cervical spine is a bone density disorder, not an extra rib causing compressive neurovascular symptoms.",
+      "Pectus excavatum is a chest wall deformity, not an extra rib, and does not classically cause this T1 compressive pattern.",
+      "Spinal stenosis narrows the spinal canal itself, not the thoracic outlet, and is not an extra rib.",
+      ""
+    ],
+    "source": "Surgery — 8 July Afternoon Paper"
+  },
+  {
+    "systemSlug": "cardiovascular",
+    "topicSlug": "cardiac-anatomy-embryology",
+    "stem": "During surgical repair of a patent foramen ovale via median sternotomy, which structure is encountered first in the anterior mediastinum?",
+    "options": [
+      "Phrenic nerve",
+      "Vagus nerve",
+      "Pericardium",
+      "Thymus"
+    ],
+    "correctIndex": 3,
+    "explanation": "The thymus (or its fibrofatty remnant in adults) lies in the most anterior part of the superior mediastinum, immediately behind the sternum, and is the first structure encountered during a median sternotomy approach to cardiac structures.",
+    "optionExplanations": [
+      "The phrenic nerve runs along the lateral pericardium, encountered after the more anterior thymus, not first.",
+      "The vagus nerve runs posteriorly along the tracheoesophageal region, well behind the anterior thymus.",
+      "The pericardium lies deep to the thymus and is encountered after it, not first.",
+      ""
+    ],
+    "source": "Surgery — 8 July Afternoon Paper"
+  },
+  {
+    "systemSlug": "respiratory",
+    "topicSlug": "lung-cancer-neoplasms",
+    "stem": "A patient with a lung mass presents with proximal muscle weakness that improves with repeated contraction. EMG shows an incremental response on repetitive nerve stimulation. What is the most likely diagnosis?",
+    "options": [
+      "Myasthenia gravis",
+      "Guillain-Barre syndrome",
+      "Polymyositis",
+      "Lambert-Eaton myasthenic syndrome"
+    ],
+    "correctIndex": 3,
+    "explanation": "Lambert-Eaton myasthenic syndrome, often paraneoplastic from small cell lung cancer, is caused by antibodies against presynaptic voltage-gated calcium channels. Unlike myasthenia gravis, strength and the EMG-recorded compound muscle action potential improve (increment) with repeated stimulation as calcium accumulates presynaptically.",
+    "optionExplanations": [
+      "Myasthenia gravis classically shows a decremental (worsening), not incremental, response on repetitive nerve stimulation, and weakness worsens, not improves, with repeated contraction.",
+      "Guillain-Barre syndrome causes ascending flaccid paralysis with demyelinating features, not an incremental EMG response linked to a lung mass.",
+      "Polymyositis causes proximal weakness with elevated CK and myopathic (not incremental neuromuscular junction) EMG findings.",
+      ""
+    ],
+    "source": "Surgery — 8 July Afternoon Paper"
+  },
+  {
+    "systemSlug": "nervous-system",
+    "topicSlug": "neurophysiology",
+    "stem": "A patient presents with visual hallucinations and memory loss and is diagnosed with Alzheimer's disease. Which protein is primarily affected in this condition?",
+    "options": [
+      "Alpha-synuclein",
+      "Prion protein",
+      "Tau protein",
+      "Amyloid precursor protein only"
+    ],
+    "correctIndex": 2,
+    "explanation": "Alzheimer's disease is characterized by intracellular neurofibrillary tangles of hyperphosphorylated tau protein, alongside extracellular amyloid-beta plaques from abnormal APP processing.",
+    "optionExplanations": [
+      "Alpha-synuclein aggregates (Lewy bodies) are characteristic of Parkinson disease and Lewy body dementia, not the primary intracellular pathology of Alzheimer's.",
+      "Prion protein misfolding causes Creutzfeldt-Jakob disease, not Alzheimer's disease.",
+      "",
+      "Amyloid precursor protein processing generates the extracellular amyloid-beta plaques, but the intracellular tangle pathology that most correlates with disease progression is tau, making \"APP only\" an incomplete answer."
+    ],
+    "source": "Surgery — 8 July Afternoon Paper"
+  },
+  {
+    "systemSlug": "nervous-system",
+    "topicSlug": "neuropharmacology",
+    "stem": "Two patients present with toxin-mediated syndromes affecting SNARE proteins. One has generalized muscle rigidity, and the other has flaccid paralysis after eating canned food. What is the mechanism of action of these toxins?",
+    "options": [
+      "Inhibition of postsynaptic acetylcholine receptors",
+      "Inhibition of neurotransmitter release at the presynaptic membrane",
+      "Inhibition of action potential conduction",
+      "Inhibition of calcium channels"
+    ],
+    "correctIndex": 1,
+    "explanation": "Botulinum toxin cleaves SNARE proteins at peripheral cholinergic nerve terminals, preventing acetylcholine release and causing flaccid paralysis (as after consuming improperly canned food). Tetanus toxin travels retrogradely to the CNS and cleaves SNARE proteins in inhibitory spinal interneurons, blocking GABA and glycine release and causing spastic paralysis/rigidity from unopposed muscle stimulation. Both act by inhibiting presynaptic neurotransmitter release, not by acting on postsynaptic receptors.",
+    "optionExplanations": [
+      "Both toxins act presynaptically on SNARE-mediated vesicle release, not on postsynaptic acetylcholine receptors.",
+      "",
+      "The toxins do not block axonal action potential conduction; they specifically block vesicular neurotransmitter release at the synapse.",
+      "The toxins act on the SNARE vesicle-docking machinery itself, not by directly inhibiting calcium channels."
+    ],
+    "source": "Surgery — 8 July Afternoon Paper"
+  }
+]

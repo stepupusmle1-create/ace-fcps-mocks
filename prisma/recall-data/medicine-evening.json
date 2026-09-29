@@ -1,0 +1,902 @@
+[
+  {
+    "systemSlug": "respiratory",
+    "topicSlug": "respiratory-physiology",
+    "stem": "In pulmonary embolism, what happens to the V/Q (ventilation-perfusion) ratio?",
+    "options": [
+      "V/Q = 0 (shunt)",
+      "V/Q approaches infinity",
+      "V/Q = 1 (normal)",
+      "PaO2 equals inspired air"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pulmonary embolism obstructs pulmonary blood flow while ventilation is preserved, producing alveolar dead space. The V/Q ratio therefore becomes very high and approaches infinity, the opposite pattern from a shunt (V/Q = 0), where perfusion continues but ventilation is blocked.",
+    "optionExplanations": [
+      "V/Q = 0 describes a shunt, where perfusion continues despite absent ventilation — the opposite of PE physiology.",
+      "",
+      "A V/Q ratio of 1 reflects normal matched ventilation and perfusion, not the dead-space pattern created by embolic obstruction.",
+      "PaO2 never equals inspired PO2 physiologically; this describes an impossible extreme, not the V/Q change seen in PE."
+    ],
+    "source": "Internal Medicine — 7 July Evening Paper"
+  },
+  {
+    "systemSlug": "respiratory",
+    "topicSlug": "respiratory-physiology",
+    "stem": "A 55-year-old man with chronic hypercapnic respiratory failure is found lethargic. His arterial blood gas shows pH 7.32, PaCO2 72 mmHg, and HCO3- 36 mEq/L. Central chemoreceptors in this patient are directly stimulated by which of the following?",
+    "options": [
+      "Decreased CSF pH",
+      "Increased CSF pH",
+      "Increased PCO2 in arterial blood",
+      "Decreased PCO2 in arterial blood"
+    ],
+    "correctIndex": 0,
+    "explanation": "Central chemoreceptors respond directly to decreased CSF (interstitial) pH, which itself results from CO2 diffusing across the blood-brain barrier and forming carbonic acid; this is distinct from peripheral chemoreceptors (carotid and aortic bodies), which respond primarily to decreased arterial oxygen, increased arterial PCO2, and decreased arterial pH.",
+    "optionExplanations": [
+      "",
+      "Central chemoreceptors are stimulated by decreased, not increased, CSF pH; increased pH would inhibit them.",
+      "Arterial PCO2 does not directly stimulate central chemoreceptors; it acts indirectly by diffusing into CSF and lowering CSF pH.",
+      "Decreased arterial PCO2 would raise CSF pH and reduce, not stimulate, central chemoreceptor drive."
+    ],
+    "source": "Internal Medicine — 7 July Evening Paper"
+  },
+  {
+    "systemSlug": "renal",
+    "topicSlug": "renal-physiology-acid-base",
+    "stem": "A bronchitis patient has been taking ammonium chloride for 6 months. What acid-base disorder will develop?",
+    "options": [
+      "Metabolic acidosis",
+      "Respiratory acidosis",
+      "Metabolic alkalosis",
+      "Respiratory alkalosis"
+    ],
+    "correctIndex": 0,
+    "explanation": "Ammonium chloride is a systemic acidifying agent; its chronic use produces metabolic acidosis.",
+    "optionExplanations": [
+      "",
+      "Respiratory acidosis results from CO2 retention due to hypoventilation, not from an exogenous acid load.",
+      "Metabolic alkalosis results from acid loss or bicarbonate gain, the opposite of what ammonium chloride produces.",
+      "Respiratory alkalosis results from hyperventilation and CO2 loss, unrelated to ammonium chloride's acidifying effect."
+    ],
+    "source": "Internal Medicine — 7 July Evening Paper"
+  },
+  {
+    "systemSlug": "gastrointestinal",
+    "topicSlug": "gi-physiology",
+    "stem": "A 68-year-old man undergoes a proximal gastric vagotomy for treatment of refractory peptic ulcer disease. Postoperatively, he reports early satiety and mild diarrhea. Vagotomy affects the gastrointestinal tract primarily by impairing which of the following?",
+    "options": [
+      "Increased gastric acid secretion",
+      "Decreased gastrointestinal peristalsis",
+      "Increased intestinal motility",
+      "Decreased lower esophageal sphincter tone"
+    ],
+    "correctIndex": 1,
+    "explanation": "Vagotomy interrupts parasympathetic innervation, reducing gastric motility and gastrointestinal peristalsis, which explains the early satiety (delayed gastric emptying) and diarrhea (dumping-type effects) seen postoperatively.",
+    "optionExplanations": [
+      "Vagotomy decreases, not increases, gastric acid secretion since vagal cholinergic input normally drives parietal cell acid output.",
+      "",
+      "Vagotomy impairs, rather than increases, intestinal motility because parasympathetic input normally stimulates peristalsis.",
+      "Vagotomy does not primarily alter lower esophageal sphincter tone; its major effect is on gastric emptying and motility."
+    ],
+    "source": "Internal Medicine — 7 July Evening Paper"
+  },
+  {
+    "systemSlug": "reproductive-health",
+    "topicSlug": "reproductive-anatomy-embryology",
+    "stem": "The spermatic cord traverses the inguinal canal. Which structure forms the inferior boundary (floor) of the canal and is an important anatomical landmark related to the cord?",
+    "options": [
+      "Testis",
+      "Epididymis",
+      "Inguinal ligament",
+      "Vas deferens"
+    ],
+    "correctIndex": 2,
+    "explanation": "The inguinal ligament forms the floor (inferior boundary) of the inguinal canal, through which the spermatic cord travels, making it a key anatomical landmark during inguinal surgery.",
+    "optionExplanations": [
+      "The testis is a content of the scrotum, not a boundary of the inguinal canal.",
+      "The epididymis lies along the testis and is not part of the canal wall.",
+      "",
+      "The vas deferens is a structure that travels through the canal within the spermatic cord, not a boundary forming it."
+    ],
+    "source": "Internal Medicine — 7 July Evening Paper"
+  },
+  {
+    "systemSlug": "gastrointestinal",
+    "topicSlug": "gi-anatomy-embryology",
+    "stem": "A 45-year-old woman undergoes superficial parotidectomy for a benign mixed tumor. During the procedure, the surgeon identifies the tissue layers surrounding the parotid gland. Which of the following structures is located most superficially?",
+    "options": [
+      "Facial nerve",
+      "Great auricular nerve",
+      "Parotid fascia",
+      "Skin and superficial fascia"
+    ],
+    "correctIndex": 3,
+    "explanation": "From superficial to deep, the layers overlying the parotid gland are: skin, superficial fascia, parotid fascia, then the parotid gland itself (which encloses the facial nerve). Skin and superficial fascia are therefore the most superficial of the listed structures.",
+    "optionExplanations": [
+      "The facial nerve runs within the substance of the parotid gland, making it one of the deepest structures listed, not the most superficial.",
+      "The great auricular nerve lies on the parotid fascia, deep to the skin and superficial fascia.",
+      "Parotid fascia lies deep to the skin and superficial fascia, covering the gland itself.",
+      ""
+    ],
+    "source": "Internal Medicine — 7 July Evening Paper"
+  },
+  {
+    "systemSlug": "renal",
+    "topicSlug": "glomerular-disease",
+    "stem": "In IgA nephropathy, which cells clear the deposited immune complexes?",
+    "options": [
+      "Macrophages",
+      "Monocytes",
+      "Neutrophils",
+      "Lymphocytes"
+    ],
+    "correctIndex": 0,
+    "explanation": "Mesangial macrophages help clear the IgA-containing immune complexes deposited within the glomerular mesangium in IgA nephropathy.",
+    "optionExplanations": [
+      "",
+      "Circulating monocytes are precursors to tissue macrophages but are not themselves the resident cells clearing mesangial deposits.",
+      "Neutrophils mediate acute inflammatory injury rather than routine clearance of mesangial immune complexes.",
+      "Lymphocytes drive antibody production and cell-mediated immunity, not phagocytic clearance of deposited complexes."
+    ],
+    "source": "Internal Medicine — 7 July Evening Paper"
+  },
+  {
+    "systemSlug": "endocrine",
+    "topicSlug": "calcium-bone-metabolism",
+    "stem": "A 72-year-old man with stage IV lung cancer presents with confusion, polyuria, and a serum calcium level of 13.2 mg/dL. He has chronic kidney disease (eGFR 35 mL/min). Which is the most appropriate first-line agent to treat his hypercalcemia?",
+    "options": [
+      "Calcitonin",
+      "Bisphosphonates",
+      "Both calcitonin and bisphosphonates",
+      "Calcium gluconate"
+    ],
+    "correctIndex": 0,
+    "explanation": "Calcitonin lowers serum calcium rapidly and is preferred initially in significant hypercalcemia when renal impairment limits the safe use of intravenous bisphosphonates.",
+    "optionExplanations": [
+      "",
+      "Intravenous bisphosphonates are renally cleared and potentially nephrotoxic, making them less safe as first-line therapy with reduced eGFR.",
+      "Combining both is unnecessary as initial therapy and still carries the renal risk of bisphosphonates.",
+      "Calcium gluconate would worsen hypercalcemia; it is used to treat hyperkalemia-induced cardiac toxicity, not to lower calcium."
+    ],
+    "source": "Internal Medicine — 7 July Evening Paper"
+  },
+  {
+    "systemSlug": "microbiology",
+    "topicSlug": "antimicrobial-pharmacology",
+    "stem": "A 28-year-old woman with Group A Streptococcal pharyngitis reports failure of amoxicillin therapy 3 months earlier. She has no drug allergies. Which antibiotic is the next appropriate treatment?",
+    "options": [
+      "Ampicillin",
+      "Clindamycin",
+      "Vancomycin",
+      "Cephalexin"
+    ],
+    "correctIndex": 1,
+    "explanation": "Penicillin resistance does not occur in Group A Streptococcus, so persistent or recurrent infection despite amoxicillin may be treated with clindamycin or another appropriate alternative; vancomycin is not the routine drug of choice for uncomplicated streptococcal pharyngitis.",
+    "optionExplanations": [
+      "Ampicillin is another aminopenicillin with the same spectrum as amoxicillin and offers no advantage after its failure.",
+      "",
+      "Vancomycin is reserved for resistant gram-positive infections such as MRSA, not routine Group A strep pharyngitis.",
+      "Cephalexin does not address the likely tolerance/eradication failure as reliably as an agent with a different mechanism such as clindamycin."
+    ],
+    "source": "Internal Medicine — 7 July Evening Paper"
+  },
+  {
+    "systemSlug": "microbiology",
+    "topicSlug": "virology",
+    "stem": "Viruses cause cell injury primarily by which mechanism?",
+    "options": [
+      "Mitochondrial damage",
+      "Nuclear membrane damage",
+      "Altering protein synthesis",
+      "Disrupting the cell membrane"
+    ],
+    "correctIndex": 2,
+    "explanation": "Viruses hijack the host cell's protein synthesis machinery to produce viral proteins, resulting in cellular injury and death.",
+    "optionExplanations": [
+      "Mitochondrial damage is not the primary general mechanism by which viruses injure host cells.",
+      "Nuclear membrane damage is not the principal mechanism of viral cytopathic effect.",
+      "",
+      "Membrane disruption can occur with some viruses during lysis but is not the primary general mechanism of viral cell injury."
+    ],
+    "source": "Internal Medicine — 7 July Evening Paper"
+  },
+  {
+    "systemSlug": "hematology-oncology",
+    "topicSlug": "leukemia-lymphoma",
+    "stem": "A 60-year-old patient presents with fever, mediastinal widening on chest X-ray, and constitutional symptoms. What is the most likely diagnosis?",
+    "options": [
+      "Histoplasmosis",
+      "Tuberculosis",
+      "Hodgkin lymphoma",
+      "Sarcoidosis"
+    ],
+    "correctIndex": 2,
+    "explanation": "Mediastinal lymphadenopathy with constitutional (\"B\") symptoms — fever, weight loss, night sweats — is characteristic of Hodgkin lymphoma.",
+    "optionExplanations": [
+      "Histoplasmosis can cause mediastinal lymphadenopathy but is less classically associated with progressive B symptoms and a widening mass as described.",
+      "Tuberculosis typically causes more localized or unilateral hilar adenopathy with respiratory symptoms, not the classic bilateral mediastinal mass with B symptoms.",
+      "",
+      "Sarcoidosis causes bilateral hilar adenopathy but is not associated with a widening mediastinal mass and progressive constitutional decline typical of lymphoma."
+    ],
+    "source": "Internal Medicine — 7 July Evening Paper"
+  },
+  {
+    "systemSlug": "renal",
+    "topicSlug": "electrolyte-disorders",
+    "stem": "A 30-year-old patient has nausea and hyperkalemia. Which hormone is released in response to the elevated potassium level?",
+    "options": [
+      "Aldosterone",
+      "ADH",
+      "Renin",
+      "ANP"
+    ],
+    "correctIndex": 0,
+    "explanation": "Hyperkalemia directly stimulates the zona glomerulosa of the adrenal cortex to secrete aldosterone, which increases renal potassium excretion.",
+    "optionExplanations": [
+      "",
+      "ADH is released in response to increased plasma osmolality or decreased effective volume, not directly by hyperkalemia.",
+      "Renin release is triggered by decreased renal perfusion, sympathetic stimulation, or low sodium delivery, not directly by hyperkalemia; renin instead acts upstream of aldosterone.",
+      "ANP is released in response to atrial stretch from volume overload, not hyperkalemia."
+    ],
+    "source": "Internal Medicine — 7 July Evening Paper"
+  },
+  {
+    "systemSlug": "renal",
+    "topicSlug": "renal-physiology-acid-base",
+    "stem": "Hypotonic fluid is present in which part of the nephron?",
+    "options": [
+      "Proximal convoluted tubule",
+      "Thin descending limb of the loop of Henle",
+      "Early distal convoluted tubule",
+      "Collecting duct"
+    ],
+    "correctIndex": 2,
+    "explanation": "The thick ascending limb and early distal convoluted tubule reabsorb sodium chloride but are impermeable to water, producing hypotonic tubular fluid at this point in the nephron.",
+    "optionExplanations": [
+      "The proximal convoluted tubule reabsorbs solute and water isosmotically, so its fluid remains isotonic to plasma.",
+      "The thin descending limb is permeable to water and impermeable to solute, producing progressively hypertonic (not hypotonic) fluid as it descends.",
+      "",
+      "The collecting duct's final tonicity depends on ADH-mediated water reabsorption and is not the primary site generating hypotonic fluid."
+    ],
+    "source": "Internal Medicine — 7 July Evening Paper"
+  },
+  {
+    "systemSlug": "renal",
+    "topicSlug": "renal-physiology-acid-base",
+    "stem": "Which of the following would decrease glomerular filtration rate (GFR)?",
+    "options": [
+      "Afferent arteriolar vasodilation",
+      "Efferent arteriolar constriction",
+      "Increased sympathetic stimulation",
+      "Increased renal blood flow"
+    ],
+    "correctIndex": 2,
+    "explanation": "High levels of sympathetic stimulation cause strong constriction of the afferent arteriole (in addition to the efferent arteriole), reducing glomerular capillary hydrostatic pressure and thus decreasing GFR — the opposite effect of isolated afferent dilation or efferent constriction, both of which raise GFR.",
+    "optionExplanations": [
+      "Afferent arteriolar vasodilation increases glomerular capillary pressure and raises GFR.",
+      "Isolated efferent arteriolar constriction raises glomerular capillary pressure and increases GFR.",
+      "",
+      "Increased renal blood flow generally raises or maintains GFR rather than decreasing it."
+    ],
+    "source": "Internal Medicine — 7 July Evening Paper"
+  },
+  {
+    "systemSlug": "gastrointestinal",
+    "topicSlug": "liver-disease",
+    "stem": "Von Gierke disease is caused by deficiency of which enzyme?",
+    "options": [
+      "Glucose-6-phosphatase",
+      "Myophosphorylase",
+      "Phosphofructokinase",
+      "Acid maltase"
+    ],
+    "correctIndex": 0,
+    "explanation": "Von Gierke disease (glycogen storage disease type I) results from deficiency of glucose-6-phosphatase, causing severe fasting hypoglycemia, hepatomegaly, lactic acidosis, and hyperuricemia.",
+    "optionExplanations": [
+      "",
+      "Myophosphorylase deficiency causes McArdle disease (GSD V), a muscle glycogenolysis defect, not Von Gierke disease.",
+      "Phosphofructokinase deficiency causes GSD VII (Tarui disease), affecting muscle glycolysis, not Von Gierke disease.",
+      "Acid maltase (alpha-1,4-glucosidase) deficiency causes Pompe disease (GSD II), a lysosomal storage disorder, not Von Gierke disease."
+    ],
+    "source": "Internal Medicine — 7 July Evening Paper"
+  },
+  {
+    "systemSlug": "respiratory",
+    "topicSlug": "pulmonary-vascular-interstitial",
+    "stem": "A 62-year-old coal miner presents with progressive dyspnea. Chest CT shows multiple small nodules in the upper lobes. Carbon-laden macrophages are a hallmark pathological finding in which condition?",
+    "options": [
+      "Anthracosis",
+      "Silicosis",
+      "Asbestosis",
+      "Sarcoidosis"
+    ],
+    "correctIndex": 0,
+    "explanation": "Anthracosis is characterized by accumulation of carbon particles within alveolar macrophages (\"dust cells\"), producing black pigmentation of the lungs, classically from coal dust exposure.",
+    "optionExplanations": [
+      "",
+      "Silicosis is marked by silicotic nodules and birefringent silica particles within macrophages, not carbon pigment as the hallmark.",
+      "Asbestosis shows ferruginous (asbestos) bodies and lower-lobe fibrosis, not carbon-laden macrophages as the hallmark.",
+      "Sarcoidosis is characterized by noncaseating granulomas, not carbon pigment-laden macrophages."
+    ],
+    "source": "Internal Medicine — 7 July Evening Paper"
+  },
+  {
+    "systemSlug": "hematology-oncology",
+    "topicSlug": "general-oncology-principles",
+    "stem": "How does dysplasia differ from malignancy?",
+    "options": [
+      "Dysplasia is potentially reversible, whereas malignancy is irreversible",
+      "Dysplasia has no cellular atypia",
+      "Malignancy has no mitotic figures",
+      "Dysplasia always progresses to malignancy"
+    ],
+    "correctIndex": 0,
+    "explanation": "Dysplasia is a premalignant lesion characterized by disordered cellular growth and atypia that may regress if the inciting factor is removed, whereas malignant neoplasms are invasive and irreversible.",
+    "optionExplanations": [
+      "",
+      "Dysplasia does show cellular atypia; absence of atypia is not what distinguishes it from malignancy.",
+      "Malignant tissue commonly shows abundant, often atypical mitotic figures, not their absence.",
+      "Dysplasia does not always progress to malignancy; it may remain stable or regress if the inciting cause is removed."
+    ],
+    "source": "Internal Medicine — 7 July Evening Paper"
+  },
+  {
+    "systemSlug": "gastrointestinal",
+    "topicSlug": "liver-disease",
+    "stem": "A 50-year-old patient presents with skin hyperpigmentation (\"bronze skin\"), diabetes mellitus, and chronic liver disease. What is the most likely diagnosis?",
+    "options": [
+      "Autoimmune hepatitis",
+      "Hemochromatosis",
+      "Wilson disease",
+      "Primary biliary cholangitis"
+    ],
+    "correctIndex": 1,
+    "explanation": "Hereditary hemochromatosis causes iron deposition in multiple organs, resulting in bronze skin pigmentation, diabetes mellitus (\"bronze diabetes\"), cirrhosis, and cardiomyopathy.",
+    "optionExplanations": [
+      "Autoimmune hepatitis is not classically associated with bronze skin pigmentation or diabetes.",
+      "",
+      "Wilson disease causes copper deposition with neuropsychiatric findings and Kayser-Fleischer rings, not bronze skin pigmentation.",
+      "Primary biliary cholangitis presents with pruritus, jaundice, and antimitochondrial antibodies, not bronze skin pigmentation and diabetes."
+    ],
+    "source": "Internal Medicine — 7 July Evening Paper"
+  },
+  {
+    "systemSlug": "microbiology",
+    "topicSlug": "parasitology",
+    "stem": "A patient develops rash and urticaria after receiving an antiparasitic drug. He was living near a river and received treatment during an annual treatment camp. Which drug was most likely administered?",
+    "options": [
+      "Albendazole",
+      "Praziquantel",
+      "Pyrantel pamoate",
+      "Ivermectin"
+    ],
+    "correctIndex": 3,
+    "explanation": "Mass drug administration campaigns near rivers (endemic for onchocerciasis, \"river blindness\") use ivermectin; killing of microfilariae can trigger a hypersensitivity (Mazzotti-type) reaction with rash and urticaria.",
+    "optionExplanations": [
+      "Albendazole is used for soil-transmitted helminths and some tissue parasites, not as the standard mass treatment for onchocerciasis.",
+      "Praziquantel is the drug of choice for schistosomiasis and other flukes/tapeworms, not onchocerciasis.",
+      "Pyrantel pamoate treats pinworm and other intestinal nematodes, not onchocerciasis.",
+      ""
+    ],
+    "source": "Internal Medicine — 7 July Evening Paper"
+  },
+  {
+    "systemSlug": "endocrine",
+    "topicSlug": "thyroid-disorders",
+    "stem": "A 54-year-old man develops hoarseness after total thyroidectomy. Injury to which nerve is the most likely cause?",
+    "options": [
+      "Recurrent laryngeal nerve",
+      "Phrenic nerve",
+      "Hypoglossal nerve",
+      "Accessory nerve"
+    ],
+    "correctIndex": 0,
+    "explanation": "The recurrent laryngeal nerve supplies all intrinsic muscles of the larynx except the cricothyroid; injury during thyroidectomy causes hoarseness and ipsilateral vocal cord paralysis.",
+    "optionExplanations": [
+      "",
+      "The phrenic nerve supplies the diaphragm; its injury causes diaphragmatic paralysis, not hoarseness.",
+      "The hypoglossal nerve supplies tongue muscles; its injury causes tongue deviation, not hoarseness.",
+      "The accessory nerve supplies sternocleidomastoid and trapezius; its injury causes shoulder weakness, not hoarseness."
+    ],
+    "source": "Internal Medicine — 7 July Evening Paper"
+  },
+  {
+    "systemSlug": "nervous-system",
+    "topicSlug": "peripheral-nerve-neuromuscular",
+    "stem": "A 14-year-old patient has loss of thumb opposition and impaired flexion of the index finger, with intact sensation. Which nerve is affected?",
+    "options": [
+      "Median nerve",
+      "Ulnar nerve",
+      "Radial nerve",
+      "Axillary nerve"
+    ],
+    "correctIndex": 0,
+    "explanation": "The median nerve, particularly its anterior interosseous and recurrent branches, supplies the muscles responsible for thumb opposition and index finger flexion.",
+    "optionExplanations": [
+      "",
+      "The ulnar nerve supplies most intrinsic hand muscles and medial finger flexion, not thumb opposition or index finger flexion.",
+      "The radial nerve is primarily a motor nerve for wrist and finger extension, not thumb opposition or index flexion.",
+      "The axillary nerve supplies the deltoid and teres minor for shoulder abduction, unrelated to hand function."
+    ],
+    "source": "Internal Medicine — 7 July Evening Paper"
+  },
+  {
+    "systemSlug": "nervous-system",
+    "topicSlug": "peripheral-nerve-neuromuscular",
+    "stem": "A 38-year-old obese man presents with burning pain and tingling over the lateral aspect of the thigh after recent weight gain. Which nerve is affected?",
+    "options": [
+      "Femoral nerve",
+      "Sciatic nerve",
+      "Lateral femoral cutaneous nerve",
+      "Obturator nerve"
+    ],
+    "correctIndex": 2,
+    "explanation": "Compression of the lateral femoral cutaneous nerve, often from increased abdominal girth or tight clothing, causes meralgia paresthetica, producing pain and paresthesia over the lateral thigh.",
+    "optionExplanations": [
+      "The femoral nerve supplies anterior thigh muscles and medial leg sensation, not the classic lateral thigh burning pain of this syndrome.",
+      "The sciatic nerve supplies the posterior thigh and leg/foot; its involvement would cause a different distribution of symptoms.",
+      "",
+      "The obturator nerve supplies the medial thigh, not the lateral thigh."
+    ],
+    "source": "Internal Medicine — 7 July Evening Paper"
+  },
+  {
+    "systemSlug": "nervous-system",
+    "topicSlug": "neuroanatomy-embryology",
+    "stem": "A patient has loss of pain sensation over the medial aspect of the hand, including the medial two fingers, and the medial side of the forearm and arm. Which dermatomes are most likely involved?",
+    "options": [
+      "C5, C6, C7",
+      "C6, C7, C8",
+      "C7, C8, T1",
+      "C8, T1, T2"
+    ],
+    "correctIndex": 3,
+    "explanation": "The C8 dermatome covers the medial hand and little finger, T1 covers the medial forearm, and T2 covers the medial arm (axilla); together these match the described distribution of sensory loss.",
+    "optionExplanations": [
+      "C5-C7 correspond to the lateral arm, forearm, and thumb side, not the medial distribution described.",
+      "C6-C8 include the thumb (C6) and middle fingers, not the specific medial hand-to-arm distribution described.",
+      "C7-T1 omits T2, which covers the medial arm/axilla involved in this presentation.",
+      ""
+    ],
+    "source": "Internal Medicine — 7 July Evening Paper"
+  },
+  {
+    "systemSlug": "nervous-system",
+    "topicSlug": "stroke",
+    "stem": "A 65-year-old hypertensive, diabetic man presents with sudden-onset right-sided hemiplegia, right facial weakness, and dysarthria. CT head shows a small infarct involving the left internal capsule. Which part of the internal capsule is most likely affected?",
+    "options": [
+      "Anterior part of the posterior limb",
+      "Posterior part of the anterior limb",
+      "Genu",
+      "Anterior limb"
+    ],
+    "correctIndex": 0,
+    "explanation": "The corticospinal tract traverses the posterior limb of the internal capsule, somatotopically organized with face and arm fibers running more anteriorly within it; infarction here produces dense contralateral hemiplegia with prominent face and arm involvement, matching this presentation.",
+    "optionExplanations": [
+      "",
+      "The anterior limb carries fronto-pontine and thalamocortical fibers, not the main corticospinal tract responsible for this presentation.",
+      "The genu carries corticobulbar fibers primarily; isolated genu lesions produce more selective facial/bulbar weakness rather than this full pattern.",
+      "The anterior limb overall is not the principal site of the corticospinal tract and would not produce this dense hemiplegia pattern."
+    ],
+    "source": "Internal Medicine — 7 July Evening Paper"
+  },
+  {
+    "systemSlug": "nervous-system",
+    "topicSlug": "neurophysiology",
+    "stem": "The feeding center is inhibited by which hypothalamic nucleus?",
+    "options": [
+      "Ventromedial nucleus",
+      "Lateral nucleus",
+      "Dorsomedial nucleus",
+      "Arcuate nucleus"
+    ],
+    "correctIndex": 0,
+    "explanation": "The ventromedial nucleus is the satiety center; its activation inhibits feeding, whereas lesions of it cause hyperphagia and obesity.",
+    "optionExplanations": [
+      "",
+      "The lateral hypothalamic nucleus is the feeding (hunger) center; its stimulation promotes eating rather than inhibiting it.",
+      "The dorsomedial nucleus is not the principal satiety center controlling feeding inhibition.",
+      "The arcuate nucleus integrates peripheral hormonal signals (e.g., leptin, ghrelin) but is not itself the classic satiety center that directly inhibits feeding."
+    ],
+    "source": "Internal Medicine — 7 July Evening Paper"
+  },
+  {
+    "systemSlug": "nervous-system",
+    "topicSlug": "neurophysiology",
+    "stem": "A 22-year-old marathon runner collapses with a core temperature of 40°C. Despite the heat, he is profusely sweating. The increased sweating is mediated by which nerve fibers?",
+    "options": [
+      "Preganglionic sympathetic cholinergic fibers",
+      "Postganglionic sympathetic cholinergic fibers",
+      "Preganglionic sympathetic adrenergic fibers",
+      "Postganglionic sympathetic adrenergic fibers"
+    ],
+    "correctIndex": 1,
+    "explanation": "Sweat glands are innervated by postganglionic sympathetic fibers that release acetylcholine, making them a unique exception within the sympathetic nervous system, which is otherwise predominantly adrenergic at postganglionic synapses.",
+    "optionExplanations": [
+      "Preganglionic sympathetic fibers are cholinergic but synapse in the ganglion; they do not directly innervate sweat glands.",
+      "",
+      "Preganglionic sympathetic fibers are cholinergic, not adrenergic, and do not directly innervate the target sweat gland.",
+      "Most postganglionic sympathetic fibers are adrenergic, but sweat glands are the classic exception, innervated by cholinergic postganglionic fibers instead."
+    ],
+    "source": "Internal Medicine — 7 July Evening Paper"
+  },
+  {
+    "systemSlug": "microbiology",
+    "topicSlug": "mycobacteria-atypical-bacteria",
+    "stem": "A weakly acid-fast organism that stains with the modified acid-fast stain is most likely:",
+    "options": [
+      "Mycobacterium tuberculosis",
+      "Nocardia",
+      "Actinomyces",
+      "Cryptococcus"
+    ],
+    "correctIndex": 1,
+    "explanation": "Nocardia is partially (weakly) acid-fast because of the presence of intermediate-length mycolic acids in its cell wall, distinguishing it from the strongly acid-fast Mycobacterium tuberculosis.",
+    "optionExplanations": [
+      "Mycobacterium tuberculosis is strongly, not weakly, acid-fast due to its high mycolic acid content.",
+      "",
+      "Actinomyces is not acid-fast at all; it stains as a gram-positive filamentous organism.",
+      "Cryptococcus is a yeast identified by India ink or capsular staining, not by acid-fast staining."
+    ],
+    "source": "Internal Medicine — 7 July Evening Paper"
+  },
+  {
+    "systemSlug": "endocrine",
+    "topicSlug": "endocrine-pharmacology",
+    "stem": "A 28-year-old pregnant woman at 30 weeks' gestation has Graves disease with persistent hyperthyroidism. Which drug is preferred at this stage of pregnancy?",
+    "options": [
+      "Carbimazole",
+      "Propylthiouracil (PTU)",
+      "Methimazole",
+      "Radioactive iodine"
+    ],
+    "correctIndex": 2,
+    "explanation": "PTU is preferred during the first trimester because of its lower teratogenic risk. Methimazole is preferred during the second and third trimesters because prolonged PTU use carries a risk of hepatotoxicity.",
+    "optionExplanations": [
+      "Carbimazole is a prodrug of methimazole and carries the same teratogenicity concerns limiting first-trimester use; it is not the preferred choice for this later stage.",
+      "PTU is preferred in the first trimester, not later pregnancy; later on, PTU's hepatotoxicity risk favors switching to methimazole.",
+      "",
+      "Radioactive iodine is absolutely contraindicated in pregnancy because it crosses the placenta and ablates the fetal thyroid."
+    ],
+    "source": "Internal Medicine — 7 July Evening Paper"
+  },
+  {
+    "systemSlug": "microbiology",
+    "topicSlug": "antimicrobial-pharmacology",
+    "stem": "An HIV-positive patient with pulmonary tuberculosis has an eGFR of 35 mL/min. Which anti-tuberculous drug requires dose adjustment in renal impairment?",
+    "options": [
+      "Rifabutin",
+      "Rifampicin",
+      "Isoniazid",
+      "Pyrazinamide"
+    ],
+    "correctIndex": 3,
+    "explanation": "Pyrazinamide is primarily eliminated by the kidneys and requires dose adjustment in renal impairment; rifampicin and isoniazid generally do not require dose adjustment.",
+    "optionExplanations": [
+      "Rifabutin is primarily hepatically metabolized and does not routinely require renal dose adjustment.",
+      "Rifampicin is eliminated mainly via biliary/hepatic excretion and does not require renal dose adjustment.",
+      "Isoniazid is metabolized hepatically by acetylation and does not require significant renal dose adjustment.",
+      ""
+    ],
+    "source": "Internal Medicine — 7 July Evening Paper"
+  },
+  {
+    "systemSlug": "hematology-oncology",
+    "topicSlug": "general-oncology-principles",
+    "stem": "Ewing sarcoma is associated with which chromosomal translocation?",
+    "options": [
+      "t(8;14)",
+      "t(9;22)",
+      "t(11;22)",
+      "t(15;17)"
+    ],
+    "correctIndex": 2,
+    "explanation": "Ewing sarcoma is characterized by the t(11;22)(q24;q12) translocation, producing the EWSR1-FLI1 fusion gene.",
+    "optionExplanations": [
+      "t(8;14) involves MYC-IGH and is characteristic of Burkitt lymphoma, not Ewing sarcoma.",
+      "t(9;22) is the Philadelphia chromosome (BCR-ABL1) characteristic of CML, not Ewing sarcoma.",
+      "",
+      "t(15;17) produces the PML-RARA fusion characteristic of acute promyelocytic leukemia, not Ewing sarcoma."
+    ],
+    "source": "Internal Medicine — 7 July Evening Paper"
+  },
+  {
+    "systemSlug": "nervous-system",
+    "topicSlug": "peripheral-nerve-neuromuscular",
+    "stem": "Damage to the popliteal fossa most commonly affects which structure?",
+    "options": [
+      "Sural nerve",
+      "Common fibular (peroneal) nerve",
+      "Popliteal artery",
+      "Sciatic nerve"
+    ],
+    "correctIndex": 1,
+    "explanation": "The common fibular (peroneal) nerve winds superficially around the neck of the fibula after passing through the popliteal fossa, making it particularly vulnerable to injury in this region.",
+    "optionExplanations": [
+      "The sural nerve is a smaller sensory nerve and is less commonly and less clinically significant when injured than the common fibular nerve in this region.",
+      "",
+      "The popliteal artery lies deeper and more protected within the fossa and is less commonly injured than the superficially coursing common fibular nerve.",
+      "The sciatic nerve has typically already divided into its terminal branches proximal to or within the fossa; it is the common fibular branch specifically that is most vulnerable distally."
+    ],
+    "source": "Internal Medicine — 7 July Evening Paper"
+  },
+  {
+    "systemSlug": "nervous-system",
+    "topicSlug": "neuroanatomy-embryology",
+    "stem": "A 30-year-old man is brought to the emergency department after sustaining a stab wound to the right side of his spinal cord at the T10 level. He is diagnosed with Brown-Sequard syndrome. Which sensory deficit is expected at the level of the lesion itself (not below it)?",
+    "options": [
+      "Loss of all sensations at the level of the lesion",
+      "Loss of pain and temperature sensation only",
+      "Loss of vibration and proprioception only",
+      "No sensory loss at the level of the lesion"
+    ],
+    "correctIndex": 0,
+    "explanation": "At the exact segmental level of a spinal cord hemisection, all sensory modalities are lost on the ipsilateral side, because both the entering dorsal root fibers (before they ascend in the dorsal columns) and the spinothalamic fibers (which cross within 1-2 segments) are interrupted right at that level; the classic dissociated pattern (contralateral pain/temperature loss, ipsilateral vibration/proprioception loss) only applies to segments below the lesion.",
+    "optionExplanations": [
+      "",
+      "Loss of pain and temperature only describes the pattern below, not at, the level of the lesion.",
+      "Loss of vibration and proprioception only describes the pattern below, not at, the level of the lesion.",
+      "There is in fact sensory loss at the exact level, since entering root fibers and crossing spinothalamic fibers are both interrupted there."
+    ],
+    "source": "Internal Medicine — 7 July Evening Paper"
+  },
+  {
+    "systemSlug": "hematology-oncology",
+    "topicSlug": "transfusion-medicine",
+    "stem": "A student in the laboratory tests his friend's blood sample. Agglutination occurs with antisera A and D. Which agglutinin is present in the patient's plasma?",
+    "options": [
+      "Anti-A",
+      "Anti-B",
+      "Anti-B and Anti-D",
+      "Anti-D"
+    ],
+    "correctIndex": 1,
+    "explanation": "Agglutination with anti-A and anti-D sera means the red cells carry the A antigen and the D (Rh) antigen, making this patient blood type A positive. Since type A individuals lack the B antigen, their plasma naturally contains anti-B antibody.",
+    "optionExplanations": [
+      "Agglutination with anti-A serum confirms the A antigen is present on the cells, so anti-A cannot be circulating in this patient's own plasma.",
+      "",
+      "Anti-D is not normally present in plasma unless the person is Rh-negative and sensitized; this patient's cells agglutinate with anti-D, meaning they are Rh-positive and would not naturally carry anti-D.",
+      "Anti-D alone is incorrect for the same reason: this Rh-positive patient does not naturally carry anti-D antibody."
+    ],
+    "source": "Internal Medicine — 7 July Evening Paper"
+  },
+  {
+    "systemSlug": "musculoskeletal",
+    "topicSlug": "fractures-metabolic-bone",
+    "stem": "A 30-year-old man is brought to the emergency department after a road traffic accident. Imaging reveals a fracture involving the pubic symphysis. Injury to which of the following structures is most likely associated with this fracture?",
+    "options": [
+      "Levator ani muscle",
+      "Prostate gland",
+      "Ischium",
+      "Ureter"
+    ],
+    "correctIndex": 1,
+    "explanation": "The prostate and membranous urethra lie close to the pubic symphysis and are classically injured in anterior pelvic ring fractures involving this region.",
+    "optionExplanations": [
+      "The levator ani is a pelvic floor muscle not classically injured by anterior pubic symphyseal fractures.",
+      "",
+      "The ischium is itself a bony pelvic component, not a soft tissue structure at risk from this type of fracture.",
+      "The ureters course more superiorly and posteriorly in the pelvis and are not the classic structure injured by symphyseal fractures."
+    ],
+    "source": "Internal Medicine — 7 July Evening Paper"
+  },
+  {
+    "systemSlug": "renal",
+    "topicSlug": "renal-physiology-acid-base",
+    "stem": "Which nephron segment is mainly responsible for producing the medullary osmotic gradient necessary for water conservation and maximum urine concentration?",
+    "options": [
+      "Proximal convoluted tubule",
+      "Loop of Henle",
+      "Distal convoluted tubule",
+      "Cortical collecting duct"
+    ],
+    "correctIndex": 1,
+    "explanation": "The countercurrent multiplier mechanism of the loop of Henle creates the medullary osmotic gradient that allows the collecting duct to concentrate urine under ADH influence.",
+    "optionExplanations": [
+      "The proximal convoluted tubule reabsorbs isosmotically and does not generate the medullary concentration gradient.",
+      "",
+      "The distal convoluted tubule is located in the cortex and does not contribute to the countercurrent multiplication that builds the medullary gradient.",
+      "The cortical collecting duct is located in the cortex, not the medulla, and responds to the gradient rather than generating it."
+    ],
+    "source": "Internal Medicine — 7 July Evening Paper"
+  },
+  {
+    "systemSlug": "hematology-oncology",
+    "topicSlug": "hematopoiesis-blood-physiology",
+    "stem": "Which of the following inflammatory mediators is primarily responsible for vasodilation?",
+    "options": [
+      "Thromboxane A2 (TXA2)",
+      "Leukotriene B4 (LTB4)",
+      "Prostaglandins",
+      "Platelet-activating factor (PAF)"
+    ],
+    "correctIndex": 2,
+    "explanation": "Prostaglandins (particularly PGE2 and PGI2) are the principal mediators of vasodilation in the inflammatory response, whereas TXA2 causes vasoconstriction and platelet aggregation, and LTB4 and PAF are primarily chemotactic/activating for leukocytes.",
+    "optionExplanations": [
+      "Thromboxane A2 causes vasoconstriction and platelet aggregation, the opposite of vasodilation.",
+      "Leukotriene B4 is primarily a chemotactic agent for neutrophils, not a vasodilator.",
+      "",
+      "Platelet-activating factor mainly activates platelets and leukocytes; it is not the principal mediator of vasodilation."
+    ],
+    "source": "Internal Medicine — 7 July Evening Paper"
+  },
+  {
+    "systemSlug": "nervous-system",
+    "topicSlug": "peripheral-nerve-neuromuscular",
+    "stem": "A 28-year-old man is brought to the emergency department after a road traffic accident. On examination, the medial border of his right scapula is prominently protruding from the chest wall, especially when he pushes against a wall. Which nerve is most likely injured?",
+    "options": [
+      "Axillary nerve",
+      "Dorsal scapular nerve",
+      "Long thoracic nerve",
+      "Spinal accessory nerve"
+    ],
+    "correctIndex": 2,
+    "explanation": "The long thoracic nerve supplies serratus anterior, which holds the scapula against the thoracic wall; its injury causes the classic winged scapula, most evident when pushing against a wall (resisted forward flexion of the arm).",
+    "optionExplanations": [
+      "The axillary nerve supplies deltoid and teres minor; its injury causes shoulder abduction weakness, not scapular winging.",
+      "The dorsal scapular nerve supplies the rhomboids and levator scapulae; its injury causes a different, less pronounced winging pattern than serratus anterior loss.",
+      "",
+      "The spinal accessory nerve supplies trapezius; its injury causes a different pattern of winging (lateral displacement) from long thoracic nerve palsy."
+    ],
+    "source": "Internal Medicine — 7 July Evening Paper"
+  },
+  {
+    "systemSlug": "hematology-oncology",
+    "topicSlug": "bleeding-clotting-disorders",
+    "stem": "A 19-year-old woman presents with recurrent episodes of nosebleeds and heavy menstrual bleeding. Her platelet count is normal. The physician suspects Von Willebrand disease. Which of the following coagulation findings is most likely to be abnormal?",
+    "options": [
+      "Decreased bleeding time",
+      "Decreased PT",
+      "Increased APTT",
+      "Normal thrombin time only"
+    ],
+    "correctIndex": 2,
+    "explanation": "Von Willebrand factor normally stabilizes and protects circulating factor VIII; in von Willebrand disease, reduced or dysfunctional vWF secondarily lowers factor VIII levels, which can prolong the APTT. (The bleeding time is also prolonged, not decreased, reflecting the primary platelet-adhesion defect; a specific vWF antigen or ristocetin cofactor assay is needed to definitively confirm the diagnosis.)",
+    "optionExplanations": [
+      "Bleeding time is prolonged, not decreased, in von Willebrand disease due to impaired platelet adhesion.",
+      "PT reflects the extrinsic pathway and remains normal in von Willebrand disease; it is not decreased.",
+      "",
+      "Thrombin time is typically normal, but describing it as the only abnormal-adjacent finding ignores the characteristic APTT prolongation actually seen."
+    ],
+    "source": "Internal Medicine — 7 July Evening Paper"
+  },
+  {
+    "systemSlug": "cardiovascular",
+    "topicSlug": "cardiac-electrophysiology-ecg",
+    "stem": "A 75-year-old patient has a heart rate of 75 beats/min and a normal QRS duration. What is the most likely diagnosis?",
+    "options": [
+      "Normal ECG",
+      "Left bundle branch block",
+      "Right bundle branch block",
+      "Atrial fibrillation"
+    ],
+    "correctIndex": 0,
+    "explanation": "A heart rate of 75 beats/min with a normal QRS duration is consistent with a normal ECG.",
+    "optionExplanations": [
+      "",
+      "Left bundle branch block would show a widened QRS complex, which is not present here.",
+      "Right bundle branch block would show a widened QRS complex, which is not present here.",
+      "Atrial fibrillation would show an irregularly irregular rhythm without discrete P waves, not a normal regular rate and rhythm."
+    ],
+    "source": "Internal Medicine — 7 July Evening Paper"
+  },
+  {
+    "systemSlug": "cardiovascular",
+    "topicSlug": "arrhythmias",
+    "stem": "Complete atrioventricular (third-degree) heart block is characterized by which finding?",
+    "options": [
+      "Prolonged PR interval with normal conduction",
+      "Progressive PR prolongation followed by a dropped beat",
+      "Fixed PR interval with intermittent dropped beats",
+      "Complete atrioventricular dissociation with independent atrial and ventricular activity"
+    ],
+    "correctIndex": 3,
+    "explanation": "In third-degree AV block, the atria and ventricles beat completely independently of each other, producing complete AV dissociation on ECG.",
+    "optionExplanations": [
+      "A prolonged but fixed PR interval with every beat conducted describes first-degree block, not complete block.",
+      "Progressive PR prolongation with a dropped beat describes Mobitz type I (Wenckebach) second-degree block, not complete block.",
+      "A fixed PR interval with intermittently dropped beats describes Mobitz type II second-degree block, not complete block.",
+      ""
+    ],
+    "source": "Internal Medicine — 7 July Evening Paper"
+  },
+  {
+    "systemSlug": "hematology-oncology",
+    "topicSlug": "bleeding-clotting-disorders",
+    "stem": "Von Willebrand disease primarily causes a defect in which process?",
+    "options": [
+      "Platelet adhesion",
+      "Platelet aggregation",
+      "Platelet secretion",
+      "Secondary coagulation"
+    ],
+    "correctIndex": 0,
+    "explanation": "Von Willebrand factor mediates platelet adhesion to exposed subendothelial collagen through the platelet glycoprotein Ib receptor; its deficiency or dysfunction primarily impairs this adhesion step.",
+    "optionExplanations": [
+      "",
+      "Platelet aggregation (platelet-platelet binding via fibrinogen/GPIIb-IIIa) is primarily disrupted in disorders like Glanzmann thrombasthenia, not von Willebrand disease.",
+      "Platelet secretion (granule release) defects form a separate category of platelet disorders, not the primary defect in von Willebrand disease.",
+      "Secondary coagulation refers to the clotting factor cascade; while factor VIII can be secondarily reduced, the primary defect in vWD is in platelet adhesion, not the coagulation cascade itself."
+    ],
+    "source": "Internal Medicine — 7 July Evening Paper"
+  },
+  {
+    "systemSlug": "microbiology",
+    "topicSlug": "microbiology-basics",
+    "stem": "Which immunoglobulin is produced first during a primary immune response?",
+    "options": [
+      "IgA",
+      "IgG",
+      "IgM",
+      "IgE"
+    ],
+    "correctIndex": 2,
+    "explanation": "IgM is the first antibody produced during a primary immune response, before class switching to other isotypes occurs.",
+    "optionExplanations": [
+      "IgA is the predominant mucosal antibody but is not the first isotype produced in a primary response.",
+      "IgG appears later, after class switching, not as the first antibody in a primary response.",
+      "",
+      "IgE is associated with allergic and antiparasitic responses and is not the first antibody produced in a primary response."
+    ],
+    "source": "Internal Medicine — 7 July Evening Paper"
+  },
+  {
+    "systemSlug": "microbiology",
+    "topicSlug": "microbiology-basics",
+    "stem": "Which immunoglobulin plays the major role in opsonization and phagocytosis?",
+    "options": [
+      "IgA",
+      "IgG",
+      "IgM",
+      "IgE"
+    ],
+    "correctIndex": 1,
+    "explanation": "IgG acts as the principal opsonin by binding Fc receptors on neutrophils and macrophages, enhancing phagocytosis of the coated pathogen.",
+    "optionExplanations": [
+      "IgA is primarily involved in mucosal immunity, not systemic opsonization.",
+      "",
+      "IgM is an efficient complement activator but is a poor opsonin compared with IgG, since phagocyte Fc receptors do not recognize it as effectively.",
+      "IgE mediates mast cell degranulation and antiparasitic responses, not opsonization."
+    ],
+    "source": "Internal Medicine — 7 July Evening Paper"
+  },
+  {
+    "systemSlug": "reproductive-health",
+    "topicSlug": "pregnancy-antenatal-care",
+    "stem": "A pregnant mother with no antenatal checkups presents with heavy bleeding. Deficiency of which vitamin is most likely present in both the mother and the baby?",
+    "options": [
+      "Vitamin K",
+      "Iron",
+      "Vitamin D",
+      "Folate"
+    ],
+    "correctIndex": 0,
+    "explanation": "Vitamin K is poorly transferred across the placenta and is not adequately supplied by breast milk, so both the mother (if her intake or absorption is poor) and especially the newborn are vulnerable to vitamin K deficiency bleeding without supplementation and antenatal care.",
+    "optionExplanations": [
+      "",
+      "Iron deficiency causes anemia but is not specifically linked to a shared acute bleeding tendency in both mother and newborn from lack of antenatal supplementation in this way.",
+      "Vitamin D deficiency affects calcium and bone metabolism, not coagulation or bleeding risk.",
+      "Folate deficiency causes megaloblastic anemia and neural tube defects, not the bleeding tendency described."
+    ],
+    "source": "Internal Medicine — 7 July Evening Paper"
+  },
+  {
+    "systemSlug": "musculoskeletal",
+    "topicSlug": "connective-tissue-vasculitis",
+    "stem": "A patient has dark urine on standing, bluish-black pigmentation of the ear cartilage, and degenerative arthritis. Which disorder is most likely?",
+    "options": [
+      "Phenylketonuria",
+      "Alkaptonuria",
+      "Maple syrup urine disease",
+      "Tyrosinemia"
+    ],
+    "correctIndex": 1,
+    "explanation": "Alkaptonuria results from homogentisate oxidase deficiency, causing accumulation of homogentisic acid, which leads to ochronosis (bluish-black pigment deposition in cartilage and connective tissue), degenerative arthritis, and urine that darkens on standing due to oxidation of the excreted acid.",
+    "optionExplanations": [
+      "Phenylketonuria causes intellectual disability and a musty odor from phenylalanine hydroxylase deficiency, not dark urine or ochronosis.",
+      "",
+      "Maple syrup urine disease causes a characteristic sweet urine odor and branched-chain amino acid buildup, not ochronosis or dark urine.",
+      "Tyrosinemia causes liver and kidney dysfunction from tyrosine metabolism defects, not the classic dark urine and ochronotic arthritis described."
+    ],
+    "source": "Internal Medicine — 7 July Evening Paper"
+  }
+]

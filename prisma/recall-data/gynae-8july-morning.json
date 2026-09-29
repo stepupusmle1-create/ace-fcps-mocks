@@ -1,0 +1,2528 @@
+[
+  {
+    "systemSlug": "reproductive-health",
+    "topicSlug": "pregnancy-antenatal-care",
+    "stem": "A woman at 36 weeks of pregnancy presents with sudden, painful vaginal bleeding and uterine tenderness. What is the most likely diagnosis?",
+    "options": [
+      "Placenta previa",
+      "Placental abruption",
+      "Vasa previa",
+      "Cervical ectropion"
+    ],
+    "correctIndex": 1,
+    "explanation": "Placental abruption classically presents with painful vaginal bleeding and a tender, sometimes rigid, uterus, caused by premature separation of a normally implanted placenta. Placenta previa, by contrast, typically causes painless bleeding.",
+    "optionExplanations": [
+      "Placenta previa causes painless bleeding, not the painful, tender uterus described here.",
+      "",
+      "Vasa previa causes painless bleeding at membrane rupture with fetal distress, not a tender, painful uterus.",
+      "Cervical ectropion causes light, usually postcoital spotting, not sudden painful bleeding with uterine tenderness."
+    ],
+    "source": "Gynecology & Obstetrics — 8 July Morning Paper"
+  },
+  {
+    "systemSlug": "reproductive-health",
+    "topicSlug": "pregnancy-antenatal-care",
+    "stem": "A woman more than 30 weeks pregnant presents for the second time with reduced fetal movements. What is the most appropriate next step in management?",
+    "options": [
+      "Advise fetal kick counts and review in 2 days",
+      "Perform cardiotocography (CTG)",
+      "Ultrasound scan",
+      "Biophysical profile"
+    ],
+    "correctIndex": 1,
+    "explanation": "A repeat presentation of reduced fetal movements warrants prompt cardiotocography to directly assess fetal wellbeing, rather than simply advising kick counts again, since recurrent reports raise concern for evolving fetal compromise.",
+    "optionExplanations": [
+      "Repeating kick-count advice delays objective assessment and is inadequate for a recurrent presentation.",
+      "",
+      "Ultrasound is not the first-line test for reduced fetal movements; CTG gives immediate information on current fetal wellbeing.",
+      "Biophysical profile is a more time-consuming second-line test reserved for an abnormal CTG, not the immediate next step."
+    ],
+    "source": "Gynecology & Obstetrics — 8 July Morning Paper"
+  },
+  {
+    "systemSlug": "reproductive-health",
+    "topicSlug": "pregnancy-antenatal-care",
+    "stem": "A woman with 6 weeks of amenorrhea presents with lower abdominal pain. Her serum beta-hCG is 1500 IU/L. Transvaginal ultrasound shows an empty uterus with free fluid in the pouch of Douglas. What is the most likely diagnosis?",
+    "options": [
+      "Placental abruption",
+      "Threatened miscarriage",
+      "Ectopic pregnancy",
+      "Complete miscarriage"
+    ],
+    "correctIndex": 2,
+    "explanation": "A beta-hCG of 1500 IU/L is above the discriminatory zone at which a normal intrauterine pregnancy should be visible on transvaginal ultrasound; an empty uterus at this level, together with free pelvic fluid suggesting hemoperitoneum, strongly indicates a ruptured or leaking ectopic pregnancy.",
+    "optionExplanations": [
+      "Placental abruption requires an already-established intrauterine pregnancy, not an empty uterus at 6 weeks.",
+      "Threatened miscarriage implies a visible intrauterine pregnancy, whereas the uterus here is empty despite hCG above the discriminatory zone.",
+      "",
+      "A completed miscarriage would not explain ongoing free pelvic fluid and a persistently elevated hCG without a history of tissue passage."
+    ],
+    "source": "Gynecology & Obstetrics — 8 July Morning Paper"
+  },
+  {
+    "systemSlug": "reproductive-health",
+    "topicSlug": "labor-delivery-complications",
+    "stem": "A fully dilated woman in labor has artificial rupture of membranes performed. Immediately afterward, she develops sudden severe shortness of breath. What is the most likely cause?",
+    "options": [
+      "Pulmonary embolism",
+      "Aspiration pneumonitis",
+      "Amniotic fluid embolism",
+      "Pneumothorax"
+    ],
+    "correctIndex": 2,
+    "explanation": "Amniotic fluid embolism classically presents with sudden, severe dyspnea and respiratory distress occurring immediately after a event that allows amniotic fluid and fetal debris to enter the maternal circulation, such as rupture of membranes during labor.",
+    "optionExplanations": [
+      "Pulmonary embolism from DVT typically follows a period of stasis or hypercoagulability, not abrupt onset immediately upon membrane rupture.",
+      "Aspiration pneumonitis requires vomiting with aspiration of gastric contents, which is not described here.",
+      "",
+      "Pneumothorax presents with unilateral hyperresonance and absent breath sounds and is not triggered by rupture of membranes."
+    ],
+    "source": "Gynecology & Obstetrics — 8 July Morning Paper"
+  },
+  {
+    "systemSlug": "reproductive-health",
+    "topicSlug": "gynecological-oncology",
+    "stem": "A 40-year-old woman presents with an ovarian mass. Which is the most common type of ovarian tumor in this age group?",
+    "options": [
+      "Epithelial tumor",
+      "Stromal tumor",
+      "Germ cell tumor",
+      "Sex cord tumor"
+    ],
+    "correctIndex": 0,
+    "explanation": "Epithelial ovarian tumors account for approximately 90% of ovarian malignancies and are most common in women over 40, whereas germ cell tumors predominate in children and young women under 30 and sex cord-stromal tumors are comparatively rare.",
+    "optionExplanations": [
+      "",
+      "Stromal tumors are far less common than epithelial tumors and are not the leading type in this age group.",
+      "Germ cell tumors predominate in children and young women, not women over 40.",
+      "Sex cord tumors are a rare subtype and are not the dominant ovarian tumor type at this age."
+    ],
+    "source": "Gynecology & Obstetrics — 8 July Morning Paper"
+  },
+  {
+    "systemSlug": "reproductive-health",
+    "topicSlug": "reproductive-anatomy-embryology",
+    "stem": "A man is evaluated for infertility and found to have azoospermia. Semen volume and pH are otherwise normal. Which of the following is a cause of obstructive (rather than non-obstructive) azoospermia?",
+    "options": [
+      "Vas deferens obstruction",
+      "Testicular failure",
+      "Klinefelter syndrome",
+      "Sertoli cell-only syndrome"
+    ],
+    "correctIndex": 0,
+    "explanation": "Vas deferens obstruction is a post-testicular mechanical block that physically prevents sperm produced by otherwise normal testes from reaching the ejaculate, making it an obstructive cause; testicular failure, Klinefelter syndrome, and Sertoli cell-only syndrome are all non-obstructive causes reflecting failure of sperm production itself.",
+    "optionExplanations": [
+      "",
+      "Testicular failure impairs sperm production itself, making it a non-obstructive cause of azoospermia.",
+      "Klinefelter syndrome causes primary testicular failure (non-obstructive azoospermia) from an extra X chromosome, not ductal blockage.",
+      "Sertoli cell-only syndrome reflects absent germ cells in otherwise normal testes, a non-obstructive cause."
+    ],
+    "source": "Gynecology & Obstetrics — 8 July Morning Paper"
+  },
+  {
+    "systemSlug": "nervous-system",
+    "topicSlug": "neuroanatomy-embryology",
+    "stem": "A security guard sustains a gunshot injury to the lower back. After recovery, he has lost pain and temperature sensation on the contralateral side below the level of injury, with loss of vibration sense on the ipsilateral side. What is the diagnosis?",
+    "options": [
+      "Damaged first dorsal root",
+      "Damaged ventral root",
+      "Right-sided Brown-Séquard syndrome",
+      "Developing tabes dorsalis"
+    ],
+    "correctIndex": 2,
+    "explanation": "This pattern of contralateral pain/temperature loss (from the crossed spinothalamic tract) with ipsilateral loss of vibration and proprioception (from the uncrossed dorsal columns) below a spinal hemisection is the classic presentation of Brown-Séquard syndrome.",
+    "optionExplanations": [
+      "An isolated dorsal root lesion causes a dermatomal sensory loss, not the dissociated contralateral pain/ipsilateral vibration pattern of hemicord injury.",
+      "An isolated ventral root lesion produces only motor weakness, not this dissociated sensory pattern.",
+      "",
+      "Tabes dorsalis is a slowly progressive syphilitic posterior column disease, not an acute traumatic hemicord injury."
+    ],
+    "source": "Gynecology & Obstetrics — 8 July Morning Paper"
+  },
+  {
+    "systemSlug": "reproductive-health",
+    "topicSlug": "gynecological-disorders",
+    "stem": "A 35-year-old woman presents with 6 months of amenorrhea. Investigations show raised FSH and low estrogen. What is the most likely diagnosis?",
+    "options": [
+      "Polycystic ovarian syndrome",
+      "Hypothalamic amenorrhea",
+      "Primary ovarian failure (premature ovarian insufficiency)",
+      "Hyperprolactinemia"
+    ],
+    "correctIndex": 2,
+    "explanation": "Raised FSH paired with low estrogen indicates that the ovaries have become unresponsive to gonadotropin stimulation (ovarian \"burnout\"), causing loss of negative feedback and a compensatory rise in FSH — the hallmark of primary ovarian failure. Hypothalamic amenorrhea instead shows low or normal FSH, and PCOS shows normal/high LH with normal FSH and elevated estrogen.",
+    "optionExplanations": [
+      "PCOS typically shows a normal or low FSH with a high LH:FSH ratio, not a raised FSH with low estrogen.",
+      "Hypothalamic amenorrhea produces low FSH and low estrogen (hypogonadotropic hypogonadism), not an elevated FSH.",
+      "",
+      "Hyperprolactinemia suppresses GnRH, producing low FSH and low estrogen, not an elevated FSH."
+    ],
+    "source": "Gynecology & Obstetrics — 8 July Morning Paper"
+  },
+  {
+    "systemSlug": "musculoskeletal",
+    "topicSlug": "msk-anatomy-embryology",
+    "stem": "Which structure passes above the piriformis muscle as it exits the greater sciatic foramen?",
+    "options": [
+      "Inferior gluteal nerve",
+      "Pudendal nerve",
+      "Sciatic nerve",
+      "Superior gluteal nerve",
+      "Femoral nerve"
+    ],
+    "correctIndex": 3,
+    "explanation": "The piriformis muscle divides the greater sciatic foramen; the superior gluteal nerve and vessels are the only major neurovascular structures that pass above it, while the sciatic, inferior gluteal, and pudendal nerves all pass below it. The femoral nerve does not pass through this foramen at all, arising instead from the lumbar plexus.",
+    "optionExplanations": [
+      "The inferior gluteal nerve exits below the piriformis, not above it.",
+      "The pudendal nerve exits below the piriformis, re-entering the pelvis via the lesser sciatic foramen.",
+      "The sciatic nerve typically exits below the piriformis, not above it.",
+      "",
+      "The femoral nerve arises from the lumbar plexus and does not pass through the greater sciatic foramen at all."
+    ],
+    "source": "Gynecology & Obstetrics — 8 July Morning Paper"
+  },
+  {
+    "systemSlug": "nervous-system",
+    "topicSlug": "neuroanatomy-embryology",
+    "stem": "A patient develops hyperacusis (painfully loud sound perception) after a blow to the ear. Damage to which structure is most likely responsible?",
+    "options": [
+      "Foramen ovale",
+      "Jugular foramen",
+      "Internal acoustic meatus",
+      "External acoustic meatus"
+    ],
+    "correctIndex": 2,
+    "explanation": "The nerve to stapedius is a branch of the facial nerve (CN VII), which travels through the internal acoustic meatus. Injury here can paralyze the stapedius muscle, which normally dampens vibration of the stapes; without this dampening, sound conduction becomes uninhibited and painfully loud.",
+    "optionExplanations": [
+      "The foramen ovale transmits the mandibular nerve (V3), unrelated to the facial nerve branch supplying the stapedius.",
+      "The jugular foramen transmits the glossopharyngeal, vagus, and accessory nerves, not the nerve to stapedius.",
+      "",
+      "The external acoustic meatus is the ear canal itself and its trauma does not typically injure the nerve to stapedius."
+    ],
+    "source": "Gynecology & Obstetrics — 8 July Morning Paper"
+  },
+  {
+    "systemSlug": "reproductive-health",
+    "topicSlug": "pregnancy-antenatal-care",
+    "stem": "During normal pregnancy, which coagulation factor characteristically decreases?",
+    "options": [
+      "Factor VII",
+      "Factor VIII",
+      "Fibrinogen",
+      "Factor XI"
+    ],
+    "correctIndex": 3,
+    "explanation": "Normal pregnancy is a hypercoagulable state in which most clotting factors (including VII, VIII, X, von Willebrand factor, and fibrinogen) increase, while protein S decreases substantially; Factor XI is one of the few factors that decreases during pregnancy.",
+    "optionExplanations": [
+      "Factor VII characteristically increases in the hypercoagulable state of pregnancy, not decreases.",
+      "Factor VIII characteristically increases in pregnancy, not decreases.",
+      "Fibrinogen characteristically increases substantially in pregnancy, not decreases.",
+      ""
+    ],
+    "source": "Gynecology & Obstetrics — 8 July Morning Paper"
+  },
+  {
+    "systemSlug": "reproductive-health",
+    "topicSlug": "reproductive-anatomy-embryology",
+    "stem": "During a mediolateral episiotomy, which perineal muscle is most commonly incised?",
+    "options": [
+      "Ischiocavernosus",
+      "Bulbospongiosus (bulbocavernosus)",
+      "Levator ani",
+      "Obturator internus"
+    ],
+    "correctIndex": 1,
+    "explanation": "A standard mediolateral episiotomy incises the posterior vaginal wall and underlying perineal tissues, primarily the bulbospongiosus (bulbocavernosus) muscle and the superficial transverse perineal muscle, while deliberately avoiding the anal sphincter and levator ani.",
+    "optionExplanations": [
+      "The ischiocavernosus lies lateral to the incision line and is not the muscle typically divided.",
+      "",
+      "The levator ani is deliberately avoided during episiotomy, not incised.",
+      "The obturator internus is a pelvic wall muscle well away from the perineal incision."
+    ],
+    "source": "Gynecology & Obstetrics — 8 July Morning Paper"
+  },
+  {
+    "systemSlug": "cardiovascular",
+    "topicSlug": "cardiac-hemodynamics",
+    "stem": "A patient undergoes surgery for an intestinal stricture. Two days later she develops fever and subsequently dies from septic shock. Which mechanism is primarily responsible for her death?",
+    "options": [
+      "Extensive endothelial injury",
+      "Increased hydrostatic pressure",
+      "Increased vascular permeability",
+      "Decreased plasma oncotic pressure"
+    ],
+    "correctIndex": 2,
+    "explanation": "In septic shock, bacterial endotoxins trigger a massive cytokine storm (TNF-alpha, interleukins) that alters endothelial tight junctions and massively increases vascular permeability, causing fluid to leak from blood vessels into tissues and producing refractory hypotension and distributive shock.",
+    "optionExplanations": [
+      "Extensive endothelial injury describes a downstream consequence, not the primary cytokine-driven mechanism of distributive shock.",
+      "Hydrostatic pressure is not elevated in septic (distributive) shock; vasodilation and capillary leak predominate instead.",
+      "",
+      "Plasma oncotic pressure may fall secondarily from capillary leak, but the primary driver is increased vascular permeability, not a primary oncotic pressure defect."
+    ],
+    "source": "Gynecology & Obstetrics — 8 July Morning Paper"
+  },
+  {
+    "systemSlug": "nervous-system",
+    "topicSlug": "neuropharmacology",
+    "stem": "A farmer presents with organophosphate poisoning. What is the underlying mechanism?",
+    "options": [
+      "Blocks acetylcholine release",
+      "Increases acetylcholine in the synaptic cleft by inhibiting acetylcholinesterase",
+      "Blocks muscarinic receptors",
+      "Blocks nicotinic receptors"
+    ],
+    "correctIndex": 1,
+    "explanation": "Organophosphates irreversibly bind and inhibit acetylcholinesterase (AChE), so acetylcholine accumulates in the synaptic cleft, producing a cholinergic crisis with overstimulation of both muscarinic (DUMBBELS) and nicotinic receptors.",
+    "optionExplanations": [
+      "Organophosphates do not block acetylcholine release; they prevent its breakdown, causing excess accumulation.",
+      "",
+      "Organophosphates cause muscarinic receptor overstimulation from excess acetylcholine, not receptor blockade.",
+      "Organophosphates cause nicotinic receptor overstimulation from excess acetylcholine, not receptor blockade."
+    ],
+    "source": "Gynecology & Obstetrics — 8 July Morning Paper"
+  },
+  {
+    "systemSlug": "reproductive-health",
+    "topicSlug": "reproductive-pharmacology",
+    "stem": "A pregnant woman has low hemoglobin. She is HBsAg-positive and anti-HCV-positive, and requests IV iron because she received it in a previous pregnancy. Why should IV iron be avoided now?",
+    "options": [
+      "HBsAg positivity",
+      "Anti-HCV positivity",
+      "Early pregnancy (first trimester)",
+      "Previous IV iron therapy"
+    ],
+    "correctIndex": 2,
+    "explanation": "Intravenous iron preparations are avoided during the first trimester of pregnancy because of a lack of safety data during the critical period of organogenesis and the potential risk of hypersensitivity reactions; her hepatitis coinfections do not change this recommendation, and oral iron is preferred early on if tolerated.",
+    "optionExplanations": [
+      "Hepatitis B surface antigen positivity does not itself contraindicate IV iron.",
+      "Anti-HCV positivity does not itself contraindicate IV iron.",
+      "",
+      "Prior uncomplicated IV iron use does not remove the first-trimester safety concern in the current pregnancy."
+    ],
+    "source": "Gynecology & Obstetrics — 8 July Morning Paper"
+  },
+  {
+    "systemSlug": "reproductive-health",
+    "topicSlug": "labor-delivery-complications",
+    "stem": "A woman is fully dilated in labor with a breech presentation. What is the appropriate mode of delivery?",
+    "options": [
+      "Spontaneous breech delivery",
+      "Assisted breech delivery",
+      "Cesarean section",
+      "Extended breech delivery"
+    ],
+    "correctIndex": 1,
+    "explanation": "When a woman presents fully dilated in labor with a breech baby, assisted breech delivery is the standard, safest active management approach; purely spontaneous delivery risks head entrapment, while cesarean section becomes highly challenging once the body has already descended into the pelvis.",
+    "optionExplanations": [
+      "Purely spontaneous breech delivery risks head entrapment without controlled assistance.",
+      "",
+      "Cesarean section is no longer the safest option once the mother is fully dilated and the breech has already descended into the pelvis.",
+      "\"Extended breech delivery\" is not a recognized standard technique; controlled assisted delivery is preferred."
+    ],
+    "source": "Gynecology & Obstetrics — 8 July Morning Paper"
+  },
+  {
+    "systemSlug": "reproductive-health",
+    "topicSlug": "menstrual-cycle-physiology",
+    "stem": "Which hormonal change is primarily responsible for menopause?",
+    "options": [
+      "Decreased GnRH pulsatility",
+      "Ovaries become non-responsive to FSH",
+      "Decreased LH surge",
+      "Increased estrogen"
+    ],
+    "correctIndex": 1,
+    "explanation": "The primary driver of menopause is depletion of ovarian follicles, which become completely non-responsive to FSH stimulation. Because the depleted follicles cannot respond, estrogen levels drop, and the loss of negative feedback forces the brain to compensate by overproducing GnRH and FSH.",
+    "optionExplanations": [
+      "Decreased GnRH pulsatility is not the primary event; the ovary's own follicular depletion drives menopause.",
+      "",
+      "LH surges disappear as a consequence of ovarian failure, but this is not the primary hormonal driver.",
+      "Estrogen falls, not increases, as ovarian follicles are depleted and stop responding to FSH."
+    ],
+    "source": "Gynecology & Obstetrics — 8 July Morning Paper"
+  },
+  {
+    "systemSlug": "gastrointestinal",
+    "topicSlug": "gi-anatomy-embryology",
+    "stem": "The rectum is anatomically continuous with the sigmoid colon starting at which vertebral level, extending down to the anorectal junction?",
+    "options": [
+      "L5-S1",
+      "S1-S2",
+      "S3 to the anorectal junction",
+      "S4-Co1"
+    ],
+    "correctIndex": 2,
+    "explanation": "The rectum begins at the level of the S3 vertebra, directly continuous with the sigmoid colon, and follows the sacral curvature downward to terminate at the anorectal junction (perineal flexure), where it pierces the levator ani to become the anal canal.",
+    "optionExplanations": [
+      "L5-S1 is too high; the sigmoid colon, not the rectum, occupies this level.",
+      "S1-S2 is still within the sigmoid colon's territory, above the true start of the rectum.",
+      "",
+      "S4-Co1 lies below the rectum's origin, near the anorectal junction itself rather than its start."
+    ],
+    "source": "Gynecology & Obstetrics — 8 July Morning Paper"
+  },
+  {
+    "systemSlug": "gastrointestinal",
+    "topicSlug": "gi-physiology",
+    "stem": "Which cofactor is required by amino acid decarboxylase enzymes, such as those converting histidine to histamine?",
+    "options": [
+      "Biotin",
+      "Folic acid",
+      "Pyridoxal phosphate (vitamin B6)",
+      "Thiamine"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pyridoxal phosphate, the active form of vitamin B6, is the essential coenzyme for transamination, deamination, and decarboxylation reactions involving amino acids. Biotin serves carboxylases instead, and thiamine serves oxidative decarboxylases like pyruvate dehydrogenase, not the amino acid decarboxylases.",
+    "optionExplanations": [
+      "Biotin serves as a cofactor for carboxylase enzymes, not amino acid decarboxylases.",
+      "Folic acid is a cofactor for one-carbon transfer reactions, not amino acid decarboxylation.",
+      "",
+      "Thiamine is the cofactor for oxidative decarboxylases like pyruvate dehydrogenase, not amino acid decarboxylases."
+    ],
+    "source": "Gynecology & Obstetrics — 8 July Morning Paper"
+  },
+  {
+    "systemSlug": "microbiology",
+    "topicSlug": "antimicrobial-pharmacology",
+    "stem": "A patient with severe gram-negative sepsis is started on gentamicin. By which mechanism does gentamicin exert its antibacterial effect?",
+    "options": [
+      "Inhibition of the 50S ribosomal subunit",
+      "Binding to the 30S ribosomal subunit, causing misreading of mRNA and inhibiting protein synthesis",
+      "Inhibition of DNA gyrase (topoisomerase II)",
+      "Inhibition of bacterial cell wall synthesis"
+    ],
+    "correctIndex": 1,
+    "explanation": "Gentamicin, an aminoglycoside, binds irreversibly to the bacterial 30S ribosomal subunit, causing misreading of mRNA codons and premature termination, which halts bacterial protein synthesis.",
+    "optionExplanations": [
+      "Inhibition of the 50S subunit describes macrolides and chloramphenicol, not aminoglycosides.",
+      "",
+      "Inhibition of DNA gyrase describes the mechanism of fluoroquinolones, not aminoglycosides.",
+      "Inhibition of cell wall synthesis describes beta-lactams and glycopeptides, not aminoglycosides."
+    ],
+    "source": "Gynecology & Obstetrics — 8 July Morning Paper"
+  },
+  {
+    "systemSlug": "nervous-system",
+    "topicSlug": "neurophysiology",
+    "stem": "A child presents with self-mutilating behavior and intellectual disability. What is the most likely diagnosis?",
+    "options": [
+      "Phenylketonuria",
+      "Lesch-Nyhan syndrome",
+      "Tay-Sachs disease",
+      "Wilson disease"
+    ],
+    "correctIndex": 1,
+    "explanation": "Lesch-Nyhan syndrome, caused by HGPRT deficiency in the purine salvage pathway, classically presents with intellectual disability, gout, dystonia, and compulsive self-mutilating behavior (such as lip and finger biting).",
+    "optionExplanations": [
+      "Phenylketonuria causes intellectual disability from phenylalanine accumulation but not compulsive self-mutilation.",
+      "",
+      "Tay-Sachs disease causes progressive neurodegeneration and a cherry-red macular spot, not self-mutilating behavior.",
+      "Wilson disease causes hepatic and neuropsychiatric disease from copper accumulation, not this self-injurious phenotype."
+    ],
+    "source": "Gynecology & Obstetrics — 8 July Morning Paper"
+  },
+  {
+    "systemSlug": "musculoskeletal",
+    "topicSlug": "fractures-metabolic-bone",
+    "stem": "Which is the most important risk factor for fat embolism syndrome?",
+    "options": [
+      "Burns",
+      "Multiple long bone fractures",
+      "Severe dehydration",
+      "Sepsis"
+    ],
+    "correctIndex": 1,
+    "explanation": "Fat embolism syndrome most commonly follows fractures of long bones (especially the femur), particularly when multiple, as marrow fat is released into the venous circulation. It classically presents 24-72 hours later with a triad of respiratory distress, neurological changes, and a petechial rash.",
+    "optionExplanations": [
+      "Burns are a recognized but far less common risk factor than long bone fractures.",
+      "",
+      "Severe dehydration is not an established major risk factor for fat embolism syndrome.",
+      "Sepsis is not a recognized primary risk factor for fat embolism syndrome."
+    ],
+    "source": "Gynecology & Obstetrics — 8 July Morning Paper"
+  },
+  {
+    "systemSlug": "microbiology",
+    "topicSlug": "antimicrobial-pharmacology",
+    "stem": "When should a blood sample be drawn to monitor vancomycin therapeutic drug levels?",
+    "options": [
+      "After the next dose",
+      "Just before the next dose (trough level)",
+      "One hour after infusion",
+      "At any random time"
+    ],
+    "correctIndex": 1,
+    "explanation": "Vancomycin exhibits time-dependent killing, and efficacy correlates with keeping serum levels continuously above the minimum inhibitory concentration. Measuring the trough level, drawn just before the next dose, ensures the baseline stays therapeutic while avoiding nephrotoxicity and ototoxicity from excessive levels.",
+    "optionExplanations": [
+      "Sampling after the next dose reflects the peak, not the trough, and does not guide dosing safety.",
+      "",
+      "A level one hour post-infusion reflects a peak concentration, not the clinically monitored trough.",
+      "A random level cannot be interpreted against established therapeutic trough targets."
+    ],
+    "source": "Gynecology & Obstetrics — 8 July Morning Paper"
+  },
+  {
+    "systemSlug": "hematology-oncology",
+    "topicSlug": "anemia",
+    "stem": "One sibling has thalassemia major, and the parents are first cousins (both carriers of the trait). What is the recurrence risk for each future pregnancy?",
+    "options": [
+      "0%",
+      "25% affected",
+      "50% affected",
+      "75% affected"
+    ],
+    "correctIndex": 1,
+    "explanation": "Thalassemia major is autosomal recessive. When both parents are heterozygous carriers (Tt x Tt), a standard Punnett square shows each independent pregnancy carries a strict 25% chance of inheriting two mutated alleles and being affected.",
+    "optionExplanations": [
+      "0% is incorrect; a carrier x carrier cross still carries a real recurrence risk each pregnancy.",
+      "",
+      "50% would be the risk if one parent were affected (Tt x tt), not both being carriers.",
+      "75% does not correspond to any standard autosomal recessive carrier cross outcome."
+    ],
+    "source": "Gynecology & Obstetrics — 8 July Morning Paper"
+  },
+  {
+    "systemSlug": "musculoskeletal",
+    "topicSlug": "connective-tissue-vasculitis",
+    "stem": "Marfan syndrome results from a defect in which protein?",
+    "options": [
+      "Collagen",
+      "Elastin",
+      "Fibrillin-1",
+      "Dystrophin"
+    ],
+    "correctIndex": 2,
+    "explanation": "Marfan syndrome is an autosomal dominant connective tissue disorder caused by mutations in the FBN1 gene encoding fibrillin-1, a structural glycoprotein scaffolding elastic fibers; deficiency leads to aortic root aneurysms, lens dislocation, and tall, thin extremities.",
+    "optionExplanations": [
+      "Collagen defects underlie disorders like Ehlers-Danlos syndrome and osteogenesis imperfecta, not Marfan syndrome.",
+      "Elastin defects underlie cutis laxa, not Marfan syndrome.",
+      "",
+      "Dystrophin defects cause the muscular dystrophies, not Marfan syndrome."
+    ],
+    "source": "Gynecology & Obstetrics — 8 July Morning Paper"
+  },
+  {
+    "systemSlug": "gastrointestinal",
+    "topicSlug": "gi-anatomy-embryology",
+    "stem": "During surgery near the left paraduodenal region, which vascular structure is at greatest risk of injury?",
+    "options": [
+      "Superior mesenteric artery",
+      "Inferior mesenteric artery",
+      "Inferior mesenteric vein and branches of the left colic artery",
+      "Splenic artery"
+    ],
+    "correctIndex": 2,
+    "explanation": "The inferior mesenteric vein and the ascending branches of the left colic artery run vertically within the free anterior border of the paraduodenal fold, making them highly vulnerable to accidental laceration during dissection or repair of a paraduodenal hernia in this region.",
+    "optionExplanations": [
+      "The superior mesenteric artery lies more centrally and is not the vessel most at risk in this specific left paraduodenal dissection plane.",
+      "The inferior mesenteric artery is protected within its own mesentery and is less immediately exposed than its venous and left colic branches at this fold.",
+      "",
+      "The splenic artery lies more superiorly along the pancreas and is not the vessel directly within the paraduodenal fold."
+    ],
+    "source": "Gynecology & Obstetrics — 8 July Morning Paper"
+  },
+  {
+    "systemSlug": "gastrointestinal",
+    "topicSlug": "gi-physiology",
+    "stem": "Dietary iron is mainly absorbed in which part of the gastrointestinal tract?",
+    "options": [
+      "Jejunum",
+      "Ileum",
+      "Colon",
+      "Duodenum"
+    ],
+    "correctIndex": 3,
+    "explanation": "Specialized enterocyte transporters, primarily divalent metal transporter 1 (DMT1), are maximally concentrated in the duodenum and proximal jejunum, making the duodenum the principal site of dietary iron uptake.",
+    "optionExplanations": [
+      "The jejunum absorbs some iron but has lower transporter density than the duodenum.",
+      "The ileum is the primary site for vitamin B12 and bile salt absorption, not iron.",
+      "The colon absorbs water and electrolytes, not dietary iron.",
+      ""
+    ],
+    "source": "Gynecology & Obstetrics — 8 July Morning Paper"
+  },
+  {
+    "systemSlug": "musculoskeletal",
+    "topicSlug": "bone-joint-infections",
+    "stem": "A patient presents with a deep, soft, painless mass localized in the swelling above the iliac crest, accompanied by low-grade evening fevers. Which diagnosis is most characteristic?",
+    "options": [
+      "Acute pyogenic abscess",
+      "Bacterial (tuberculous) psoas abscess",
+      "Inguinal hernia strangulation",
+      "Subcutaneous lipoma"
+    ],
+    "correctIndex": 1,
+    "explanation": "A deep, soft, painless (\"cold\") swelling near the iliac crest with low-grade evening fevers is characteristic of a tuberculous psoas abscess, which tracks along the psoas sheath from spinal tuberculosis and lacks the acute inflammatory signs of a pyogenic abscess.",
+    "optionExplanations": [
+      "An acute pyogenic abscess is typically hot, tender, and rapidly progressive, not a painless, low-grade \"cold\" swelling.",
+      "",
+      "A strangulated inguinal hernia is acutely painful and tender, unlike this painless, chronic swelling.",
+      "A subcutaneous lipoma would not cause evening fevers or a deep, tracking swelling."
+    ],
+    "source": "Gynecology & Obstetrics — 8 July Morning Paper"
+  },
+  {
+    "systemSlug": "renal",
+    "topicSlug": "renal-anatomy-embryology",
+    "stem": "The ureters enter the urinary bladder at which part of the bladder wall?",
+    "options": [
+      "Neck",
+      "Trigone (base)",
+      "Dome",
+      "Apex"
+    ],
+    "correctIndex": 1,
+    "explanation": "The two ureters pierce the bladder wall obliquely at the upper lateral corners of the trigone (the ureteric orifices), while the internal urethral orifice forms the trigone's lower apex. This oblique path acts as a natural valve preventing vesicoureteral reflux.",
+    "optionExplanations": [
+      "The bladder neck surrounds the internal urethral orifice, not the ureteric openings.",
+      "",
+      "The dome is the superior, distensible portion of the bladder, unrelated to ureteric entry.",
+      "The apex is the anterosuperior tip of the bladder, not where the ureters enter."
+    ],
+    "source": "Gynecology & Obstetrics — 8 July Morning Paper"
+  },
+  {
+    "systemSlug": "musculoskeletal",
+    "topicSlug": "msk-anatomy-embryology",
+    "stem": "The scaphoid bone receives its main blood supply through which region?",
+    "options": [
+      "Lateral proximal pole",
+      "Distal pole",
+      "Medial proximal pole",
+      "Posterior proximal pole"
+    ],
+    "correctIndex": 1,
+    "explanation": "The scaphoid receives its primary arterial blood supply through branches of the radial artery entering at its distal pole (waist), with blood flowing retrograde toward the proximal pole; this retrograde supply is why proximal pole fractures carry a high risk of avascular necrosis.",
+    "optionExplanations": [
+      "The scaphoid's blood supply does not enter via a lateral proximal pole vessel.",
+      "",
+      "The scaphoid's blood supply does not enter via a medial proximal pole vessel.",
+      "The scaphoid's blood supply does not enter via a posterior proximal pole vessel."
+    ],
+    "source": "Gynecology & Obstetrics — 8 July Morning Paper"
+  },
+  {
+    "systemSlug": "reproductive-health",
+    "topicSlug": "pregnancy-antenatal-care",
+    "stem": "A woman with 4-6 weeks of amenorrhea has a transvaginal ultrasound showing a fetal pole with a crown-rump length of 2.7 cm, but no fetal cardiac activity is detected. What is the most likely diagnosis?",
+    "options": [
+      "Viable intrauterine pregnancy",
+      "Threatened miscarriage",
+      "Ectopic pregnancy",
+      "Non-viable pregnancy (missed miscarriage)"
+    ],
+    "correctIndex": 3,
+    "explanation": "Transvaginal ultrasound guidelines establish that a fetal pole with a crown-rump length of 7 mm or greater without visible cardiac activity is diagnostic of pregnancy loss; a CRL of 2.7 cm far exceeds this threshold, establishing a non-viable pregnancy (missed miscarriage) even without vaginal bleeding or cramping.",
+    "optionExplanations": [
+      "A viable pregnancy requires visible cardiac activity, which is absent here despite an adequately sized fetal pole.",
+      "Threatened miscarriage implies a potentially viable pregnancy with bleeding, not confirmed absent cardiac activity at this size.",
+      "The uterus is not empty and no adnexal mass is described, arguing against ectopic pregnancy.",
+      ""
+    ],
+    "source": "Gynecology & Obstetrics — 8 July Morning Paper"
+  },
+  {
+    "systemSlug": "cardiovascular",
+    "topicSlug": "cardiomyopathy-pericardial-disease",
+    "stem": "A 30-year-old man has sharp central chest pain relieved by sitting forward and worsened by inspiration, with a pericardial friction rub on examination. Which layer is primarily responsible for the pain experienced in acute pericarditis?",
+    "options": [
+      "Visceral layer of serous pericardium (epicardium)",
+      "Fibrous pericardium",
+      "Parietal layer of serous pericardium",
+      "Myocardium"
+    ],
+    "correctIndex": 2,
+    "explanation": "The outer fibrous pericardium and the parietal layer of the serous pericardium are heavily innervated by somatic pain fibers traveling through the phrenic nerve, producing the sharp, pleuritic chest pain of pericarditis; the inner visceral layer (epicardium) is supplied by autonomic nerves and is insensitive to pain.",
+    "optionExplanations": [
+      "The visceral layer (epicardium) is supplied by autonomic fibers and is insensitive to pain.",
+      "The fibrous pericardium is fused to and shares innervation with the parietal serous layer, which is classically cited as the pain-sensitive layer tested here.",
+      "",
+      "The myocardium itself is not the source of the sharp, pleuritic somatic pain typical of pericarditis."
+    ],
+    "source": "Gynecology & Obstetrics — 8 July Morning Paper"
+  },
+  {
+    "systemSlug": "respiratory",
+    "topicSlug": "lung-cancer-neoplasms",
+    "stem": "A 55-year-old man with a 30 pack-year smoking history undergoes bronchoscopy for chronic cough. Which bronchial epithelial change is most likely to be seen?",
+    "options": [
+      "Increased number of cilia",
+      "Goblet cell depletion",
+      "Squamous metaplasia with loss of cilia",
+      "No change from normal"
+    ],
+    "correctIndex": 2,
+    "explanation": "Chronic exposure to cigarette smoke causes the normal ciliated pseudostratified columnar respiratory epithelium to undergo squamous metaplasia, an adaptive but pre-malignant change in which the protective ciliated cells are replaced by more resilient but non-ciliated stratified squamous epithelium, impairing mucociliary clearance.",
+    "optionExplanations": [
+      "Chronic smoke exposure reduces ciliary number and function, not increases it.",
+      "Goblet cell hyperplasia (not depletion) with mucus hypersecretion is typical in chronic smokers.",
+      "",
+      "Long-standing smoke exposure produces a recognizable epithelial change, not normal histology."
+    ],
+    "source": "Gynecology & Obstetrics — 8 July Morning Paper"
+  },
+  {
+    "systemSlug": "cardiovascular",
+    "topicSlug": "cardiac-hemodynamics",
+    "stem": "A 65-year-old man suddenly stands up from lying down and develops dizziness due to orthostatic hypotension. Which physiological response helps restore his cardiac output?",
+    "options": [
+      "Increased parasympathetic discharge",
+      "Decreased heart rate",
+      "Increased vagal tone",
+      "Increased sympathetic discharge"
+    ],
+    "correctIndex": 3,
+    "explanation": "When standing suddenly causes blood to pool in the lower extremities, carotid and aortic baroreceptors detect the drop in blood pressure and signal the medulla to decrease parasympathetic (vagal) output while increasing sympathetic discharge, raising heart rate and vascular tone to restore cardiac output.",
+    "optionExplanations": [
+      "Parasympathetic discharge decreases, not increases, during the baroreceptor reflex response to standing.",
+      "Heart rate increases, not decreases, to compensate for the transient drop in venous return.",
+      "Vagal tone decreases, not increases, as sympathetic outflow predominates.",
+      ""
+    ],
+    "source": "Gynecology & Obstetrics — 8 July Morning Paper"
+  },
+  {
+    "systemSlug": "respiratory",
+    "topicSlug": "respiratory-physiology",
+    "stem": "A medical student becomes anxious while sitting in an examination hall and develops tachypnea, tachycardia, and a dry mouth. Which acid-base disturbance is most likely?",
+    "options": [
+      "Metabolic acidosis",
+      "Metabolic alkalosis",
+      "Respiratory acidosis",
+      "Respiratory alkalosis"
+    ],
+    "correctIndex": 3,
+    "explanation": "Anxiety-driven hyperventilation increases the rate and depth of breathing, expelling more carbon dioxide than the body is producing; this drop in PaCO2 produces respiratory alkalosis.",
+    "optionExplanations": [
+      "Hyperventilation blows off CO2 and raises pH, producing alkalosis rather than the acidosis implied here.",
+      "Metabolic alkalosis arises from renal or gastrointestinal causes, not acute hyperventilation.",
+      "Hyperventilation lowers, not raises, PaCO2, so it produces alkalosis rather than respiratory acidosis.",
+      ""
+    ],
+    "source": "Gynecology & Obstetrics — 8 July Morning Paper"
+  },
+  {
+    "systemSlug": "reproductive-health",
+    "topicSlug": "pregnancy-antenatal-care",
+    "stem": "A woman receiving radioactive iodine therapy for hyperthyroidism discovers that she is pregnant. What is the most appropriate management?",
+    "options": [
+      "Continue radioactive iodine therapy",
+      "Stop treatment and observe only",
+      "Discontinue radioactive iodine and treat with propylthiouracil (PTU)",
+      "Perform subtotal thyroidectomy immediately"
+    ],
+    "correctIndex": 2,
+    "explanation": "Radioactive iodine is contraindicated in pregnancy because it crosses the placenta and can ablate the fetal thyroid; it must be discontinued immediately and replaced with propylthiouracil, the preferred antithyroid drug in the first trimester.",
+    "optionExplanations": [
+      "Continuing radioactive iodine risks ablating the fetal thyroid and is contraindicated once pregnancy is discovered.",
+      "Simply observing leaves maternal hyperthyroidism untreated, risking adverse pregnancy outcomes.",
+      "",
+      "Subtotal thyroidectomy is not the immediate first step; medical therapy with PTU is used first, with surgery reserved for refractory or specific cases."
+    ],
+    "source": "Gynecology & Obstetrics — 8 July Morning Paper"
+  },
+  {
+    "systemSlug": "reproductive-health",
+    "topicSlug": "reproductive-anatomy-embryology",
+    "stem": "An ultrasound at 12 weeks of gestation shows monochorionic diamniotic twins. These twins most likely result from which process?",
+    "options": [
+      "Dizygotic fertilization",
+      "Fusion of two embryos",
+      "Fertilization of one ovum by two sperm",
+      "Monozygotic twinning"
+    ],
+    "correctIndex": 3,
+    "explanation": "Monochorionic diamniotic twins share a single outer placenta but have individual inner amniotic sacs. This specific architecture arises exclusively from monozygotic twinning, when a single fertilized ovum's pre-implantation blastocyst splits between days 4 and 8, after the chorion has formed but before the amniotic sac differentiates.",
+    "optionExplanations": [
+      "Dizygotic fertilization produces dichorionic diamniotic twins, each with a separate placenta, not a shared monochorionic sac.",
+      "Fusion of two separate embryos is not a recognized mechanism of twinning.",
+      "Fertilization of one ovum by two sperm does not produce viable twins with this chorionicity pattern.",
+      ""
+    ],
+    "source": "Gynecology & Obstetrics — 8 July Morning Paper"
+  },
+  {
+    "systemSlug": "reproductive-health",
+    "topicSlug": "labor-delivery-complications",
+    "stem": "A primigravida is admitted in labor. Which stage of labor extends from complete cervical dilatation until delivery of the baby?",
+    "options": [
+      "First stage",
+      "Second stage",
+      "Third stage",
+      "Fourth stage"
+    ],
+    "correctIndex": 1,
+    "explanation": "The second stage of labor formally begins once the cervix reaches complete dilation (10 cm) and effacement, and encompasses the active descent and rotation of the fetus through the pelvic canal, ending at complete birth of the baby.",
+    "optionExplanations": [
+      "The first stage extends from onset of labor to full cervical dilation, ending before this stage begins.",
+      "",
+      "The third stage covers delivery of the placenta, occurring after the baby is born.",
+      "The \"fourth stage\" refers to the immediate postpartum recovery period, after delivery is complete."
+    ],
+    "source": "Gynecology & Obstetrics — 8 July Morning Paper"
+  },
+  {
+    "systemSlug": "microbiology",
+    "topicSlug": "gram-positive-bacteria",
+    "stem": "A farmer presents with a chronic wound discharging pus containing yellow \"sulfur granules.\" Which organism is the most likely cause?",
+    "options": [
+      "Bacteroides species",
+      "Clostridium perfringens",
+      "Actinomyces israelii",
+      "Escherichia coli"
+    ],
+    "correctIndex": 2,
+    "explanation": "Actinomyces israelii is a Gram-positive, anaerobic, filamentous bacterium that normally colonizes the oral cavity and GI tract. Following local trauma, it can form slow-growing, indurated abscesses with a pathognomonic discharge of \"sulfur granules\" — microscopic clumps of bacterial filaments cemented with tissue debris.",
+    "optionExplanations": [
+      "Bacteroides is a gram-negative anaerobe and does not produce sulfur granules.",
+      "Clostridium perfringens causes gas gangrene with crepitus, not chronic sulfur-granule discharge.",
+      "",
+      "Escherichia coli is a gram-negative facultative anaerobe unrelated to sulfur granule formation."
+    ],
+    "source": "Gynecology & Obstetrics — 8 July Morning Paper"
+  },
+  {
+    "systemSlug": "reproductive-health",
+    "topicSlug": "gynecological-disorders",
+    "stem": "A 19-year-old girl presents with primary amenorrhea, cyclic lower abdominal pain, and a bulging bluish hymen on examination. What is the most appropriate management?",
+    "options": [
+      "Reassure and counsel",
+      "Cruciate incision of the hymen (hymenotomy) and drainage",
+      "Hysterectomy",
+      "Endometrial ablation"
+    ],
+    "correctIndex": 1,
+    "explanation": "Cyclic abdominal pain with a bulging, bluish introitus in an adolescent with primary amenorrhea indicates an imperforate hymen, with the blue hue from trapped menstrual blood pooling in the vagina (hematocolpos). A surgical cruciate hymenotomy incision relieves the obstruction and drains the retained blood while preserving normal anatomy.",
+    "optionExplanations": [
+      "Reassurance alone leaves the obstruction and retained blood untreated.",
+      "",
+      "Hysterectomy is a drastic, fertility-destroying procedure not indicated for a simple anatomic obstruction.",
+      "Endometrial ablation treats heavy bleeding from the endometrium, not an obstructive hymen."
+    ],
+    "source": "Gynecology & Obstetrics — 8 July Morning Paper"
+  },
+  {
+    "systemSlug": "reproductive-health",
+    "topicSlug": "pregnancy-antenatal-care",
+    "stem": "A woman of reproductive age presents with amenorrhea and lower abdominal pain. Which is the most appropriate initial investigation?",
+    "options": [
+      "CT scan of the abdomen and pelvis",
+      "Pelvic ultrasonography (preferably transvaginal)",
+      "Polypectomy",
+      "Hormonal profile"
+    ],
+    "correctIndex": 1,
+    "explanation": "A reproductive-aged woman with missed menses and pelvic pain must be evaluated immediately for potentially life-threatening conditions like ectopic pregnancy; pelvic ultrasound (ideally transvaginal) is the rapid, non-invasive initial imaging tool of choice, avoiding the radiation of CT.",
+    "optionExplanations": [
+      "CT exposes the patient and any early pregnancy to radiation and is not the first-line test.",
+      "",
+      "Polypectomy is a treatment for endometrial polyps, not an initial diagnostic step for amenorrhea and pain.",
+      "A hormonal profile does not address the urgent need to exclude ectopic pregnancy or another structural cause first."
+    ],
+    "source": "Gynecology & Obstetrics — 8 July Morning Paper"
+  },
+  {
+    "systemSlug": "reproductive-health",
+    "topicSlug": "pregnancy-antenatal-care",
+    "stem": "A pregnant woman presents with a thin, white vaginal discharge associated with a fishy odor. What is the most likely diagnosis?",
+    "options": [
+      "Vulvovaginal candidiasis",
+      "Bacterial vaginosis",
+      "Chlamydial cervicitis",
+      "Trichomoniasis"
+    ],
+    "correctIndex": 1,
+    "explanation": "Bacterial vaginosis is a dysbiosis characterized by a decline in hydrogen-peroxide-producing Lactobacillus and overgrowth of anaerobes like Gardnerella vaginalis. It classically presents with a thin, homogeneous, grayish-white discharge and a fishy odor that intensifies with potassium hydroxide (the \"whiff test\"), and is diagnosed by seeing clue cells on microscopy.",
+    "optionExplanations": [
+      "Vulvovaginal candidiasis causes thick, white, curd-like discharge with itching, not a thin, fishy-smelling discharge.",
+      "",
+      "Chlamydial cervicitis is often asymptomatic or causes mucopurulent discharge, not a fishy odor.",
+      "Trichomoniasis classically causes a frothy, yellow-green, malodorous discharge with vulvar irritation, distinct from the homogeneous discharge of BV."
+    ],
+    "source": "Gynecology & Obstetrics — 8 July Morning Paper"
+  },
+  {
+    "systemSlug": "reproductive-health",
+    "topicSlug": "menstrual-cycle-physiology",
+    "stem": "The luteinizing hormone (LH) surge occurs approximately how many hours before ovulation?",
+    "options": [
+      "4-6 hours",
+      "8-24 hours",
+      "24-36 hours",
+      "48-72 hours"
+    ],
+    "correctIndex": 2,
+    "explanation": "The dramatic LH surge triggers resumption of oocyte meiosis and enzymatic follicular rupture, with ovulation occurring roughly 24 to 36 hours after the peak of the surge begins.",
+    "optionExplanations": [
+      "4-6 hours is too short an interval for the LH surge to trigger the cascade of events culminating in ovulation.",
+      "8-24 hours is shorter than the typical interval between the LH surge and ovulation.",
+      "",
+      "48-72 hours is longer than the typical interval between the LH surge and ovulation."
+    ],
+    "source": "Gynecology & Obstetrics — 8 July Morning Paper"
+  },
+  {
+    "systemSlug": "renal",
+    "topicSlug": "electrolyte-disorders",
+    "stem": "A patient presents with a wide QRS complex on ECG. Which electrolyte abnormality is the most likely cause?",
+    "options": [
+      "Hypocalcemia",
+      "Hypercalcemia",
+      "Hypokalemia",
+      "Hyperkalemia"
+    ],
+    "correctIndex": 3,
+    "explanation": "Elevated extracellular potassium decreases the resting membrane potential of cardiac myocytes, partially inactivating voltage-gated sodium channels. This slows intra-ventricular conduction velocity, manifesting on ECG as progressive QRS widening that can degrade into a dangerous \"sine wave\" pattern if untreated.",
+    "optionExplanations": [
+      "Hypocalcemia prolongs the QT interval but does not classically widen the QRS.",
+      "Hypercalcemia shortens the QT interval and is not associated with QRS widening.",
+      "Hypokalemia causes U waves and QT prolongation, not QRS widening.",
+      ""
+    ],
+    "source": "Gynecology & Obstetrics — 8 July Morning Paper"
+  },
+  {
+    "systemSlug": "reproductive-health",
+    "topicSlug": "gynecological-disorders",
+    "stem": "A 15-year-old girl presents with primary amenorrhea, short stature, and a webbed neck. Which chromosomal abnormality is most likely?",
+    "options": [
+      "46,XX",
+      "47,XXY",
+      "47,XXX",
+      "45,XO"
+    ],
+    "correctIndex": 3,
+    "explanation": "The combination of primary amenorrhea, short stature, and a webbed neck is classic for Turner syndrome (45,X), caused by complete or partial loss of one X chromosome.",
+    "optionExplanations": [
+      "46,XX is a normal female karyotype and would not explain this phenotype.",
+      "47,XXY (Klinefelter syndrome) occurs in phenotypic males, not a girl with this presentation.",
+      "47,XXX (triple X syndrome) usually has a normal or tall phenotype, not short stature and a webbed neck.",
+      ""
+    ],
+    "source": "Gynecology & Obstetrics — 8 July Morning Paper"
+  },
+  {
+    "systemSlug": "respiratory",
+    "topicSlug": "obstructive-airway-disease",
+    "stem": "A child is diagnosed with cystic fibrosis. What is the mode of inheritance of this disease?",
+    "options": [
+      "Autosomal dominant",
+      "X-linked recessive",
+      "Autosomal recessive",
+      "Mitochondrial"
+    ],
+    "correctIndex": 2,
+    "explanation": "Cystic fibrosis follows autosomal recessive inheritance, caused by mutations in the CFTR gene; an affected child must inherit one mutated allele from each parent.",
+    "optionExplanations": [
+      "Autosomal dominant inheritance requires only one mutated allele from an affected parent, unlike CF.",
+      "X-linked recessive inheritance predominantly affects males and is not the pattern seen in CF.",
+      "",
+      "Mitochondrial inheritance follows maternal transmission and does not fit the CFTR gene's autosomal location."
+    ],
+    "source": "Gynecology & Obstetrics — 8 July Morning Paper"
+  },
+  {
+    "systemSlug": "cardiovascular",
+    "topicSlug": "valvular-heart-disease",
+    "stem": "A patient has a collapsing (water-hammer) pulse on examination. Which valvular abnormality is most likely responsible?",
+    "options": [
+      "Mitral stenosis",
+      "Mitral regurgitation",
+      "Aortic stenosis",
+      "Aortic regurgitation"
+    ],
+    "correctIndex": 3,
+    "explanation": "A collapsing, water-hammer pulse is the classic clinical sign of severe aortic regurgitation: blood regurgitates back into the left ventricle during diastole, producing a widened pulse pressure with a rapid rise and rapid collapse, unlike the decreased pulse pressure seen in aortic stenosis.",
+    "optionExplanations": [
+      "Mitral stenosis produces a low-volume, often irregular pulse, not a collapsing water-hammer pulse.",
+      "Mitral regurgitation does not typically produce a widened pulse pressure or collapsing pulse.",
+      "Aortic stenosis classically produces a slow-rising, low-amplitude (pulsus parvus et tardus) pulse, the opposite of a collapsing pulse.",
+      ""
+    ],
+    "source": "Gynecology & Obstetrics — 8 July Morning Paper"
+  },
+  {
+    "systemSlug": "renal",
+    "topicSlug": "glomerular-disease",
+    "stem": "A child develops edema, cola-colored urine, and hypertension two weeks after a streptococcal throat infection. Which type of hypersensitivity reaction is responsible?",
+    "options": [
+      "Type I",
+      "Type II",
+      "Type III",
+      "Type IV"
+    ],
+    "correctIndex": 2,
+    "explanation": "Post-streptococcal glomerulonephritis is mediated by immune-complex deposition within the glomerular basement membrane, classifying it as a Type III hypersensitivity reaction.",
+    "optionExplanations": [
+      "Type I hypersensitivity is IgE-mediated immediate allergy, not immune-complex glomerulonephritis.",
+      "Type II hypersensitivity involves antibodies directly against tissue antigens, not circulating immune-complex deposition.",
+      "",
+      "Type IV hypersensitivity is T-cell mediated and delayed, not the immune-complex mechanism of PSGN."
+    ],
+    "source": "Gynecology & Obstetrics — 8 July Morning Paper"
+  },
+  {
+    "systemSlug": "hematology-oncology",
+    "topicSlug": "bleeding-clotting-disorders",
+    "stem": "A patient develops disseminated intravascular coagulation (DIC). Which laboratory finding pattern is most likely?",
+    "options": [
+      "Increased fibrinogen, decreased fibrin degradation products, normal APTT",
+      "Normal fibrinogen, decreased APTT, decreased D-dimer",
+      "Decreased fibrinogen, increased fibrin degradation products, prolonged APTT",
+      "Increased fibrinogen, prolonged PT only, normal D-dimer"
+    ],
+    "correctIndex": 2,
+    "explanation": "DIC consumes clotting factors and platelets, leading to decreased fibrinogen, increased fibrin degradation products and D-dimer, and a prolonged APTT/PT, reflecting widespread activation and subsequent depletion of the coagulation cascade.",
+    "optionExplanations": [
+      "DIC consumes fibrinogen and clotting factors, so fibrinogen falls and APTT prolongs rather than staying normal or elevated.",
+      "DIC prolongs, not shortens, the APTT, and increases (not decreases) D-dimer.",
+      "",
+      "DIC prolongs both PT and APTT together with a rising, not normal, D-dimer."
+    ],
+    "source": "Gynecology & Obstetrics — 8 July Morning Paper"
+  },
+  {
+    "systemSlug": "reproductive-health",
+    "topicSlug": "pregnancy-antenatal-care",
+    "stem": "A pregnant woman has a low amniotic fluid index (AFI) on ultrasound. Which fetal abnormality is the most likely cause?",
+    "options": [
+      "Anencephaly",
+      "Esophageal atresia",
+      "Duodenal atresia",
+      "Bilateral renal agenesis"
+    ],
+    "correctIndex": 3,
+    "explanation": "Amniotic fluid in later pregnancy is largely composed of fetal urine. Bilateral renal agenesis prevents any fetal urine production, causing severe oligohydramnios (Potter sequence). Esophageal and duodenal atresia instead impair fetal swallowing of amniotic fluid, causing polyhydramnios.",
+    "optionExplanations": [
+      "Anencephaly is associated with polyhydramnios from impaired fetal swallowing, not oligohydramnios.",
+      "Esophageal atresia impairs fetal swallowing of amniotic fluid, causing polyhydramnios, not a low AFI.",
+      "Duodenal atresia similarly impairs swallowing/absorption, causing polyhydramnios rather than oligohydramnios.",
+      ""
+    ],
+    "source": "Gynecology & Obstetrics — 8 July Morning Paper"
+  },
+  {
+    "systemSlug": "gastrointestinal",
+    "topicSlug": "gi-physiology",
+    "stem": "A patient is diagnosed with autoimmune atrophic gastritis. Which treatment should be given?",
+    "options": [
+      "Oral iron",
+      "Vitamin D",
+      "Vitamin B12",
+      "Folic acid"
+    ],
+    "correctIndex": 2,
+    "explanation": "Autoimmune atrophic gastritis destroys gastric parietal cells, eliminating intrinsic factor production and thereby impairing vitamin B12 absorption in the terminal ileum, so lifelong B12 replacement is mandatory.",
+    "optionExplanations": [
+      "Oral iron does not address the intrinsic factor deficiency driving B12 malabsorption in this condition.",
+      "Vitamin D deficiency is not the primary consequence of loss of parietal cell function.",
+      "",
+      "Folic acid deficiency is not the hallmark consequence of autoimmune gastritis; B12 deficiency from lost intrinsic factor is."
+    ],
+    "source": "Gynecology & Obstetrics — 8 July Morning Paper"
+  },
+  {
+    "systemSlug": "endocrine",
+    "topicSlug": "hormone-physiology-signaling",
+    "stem": "Catecholamines are synthesized from which amino acid?",
+    "options": [
+      "Tryptophan",
+      "Phenylalanine",
+      "Tyrosine",
+      "Histidine"
+    ],
+    "correctIndex": 2,
+    "explanation": "Tyrosine is the direct precursor for catecholamine synthesis, converted stepwise by tyrosine hydroxylase and subsequent enzymes into dopamine, norepinephrine, and epinephrine.",
+    "optionExplanations": [
+      "Tryptophan is the precursor for serotonin and melatonin, not catecholamines.",
+      "Phenylalanine is converted to tyrosine first; tyrosine itself is the direct catecholamine precursor.",
+      "",
+      "Histidine is the precursor for histamine, not catecholamines."
+    ],
+    "source": "Gynecology & Obstetrics — 8 July Morning Paper"
+  },
+  {
+    "systemSlug": "reproductive-health",
+    "topicSlug": "pregnancy-antenatal-care",
+    "stem": "A pregnant woman has a low platelet count that develops gradually during early gestation, with a normal amniotic fluid index and no other abnormal findings. What is the most likely explanation?",
+    "options": [
+      "Immune thrombocytopenia",
+      "HELLP syndrome",
+      "Normal physiological change of pregnancy (gestational thrombocytopenia)",
+      "Disseminated intravascular coagulation"
+    ],
+    "correctIndex": 2,
+    "explanation": "A steady, mild decline in platelets across pregnancy is a normal physiological change caused by plasma volume expansion (hemodilution), known as gestational thrombocytopenia, and does not require intervention.",
+    "optionExplanations": [
+      "Immune thrombocytopenia typically presents with more pronounced, isolated thrombocytopenia rather than a mild gradual physiological decline.",
+      "HELLP syndrome is accompanied by hypertension, elevated liver enzymes, and hemolysis, none of which are present here.",
+      "",
+      "DIC would show additional coagulation abnormalities (low fibrinogen, elevated D-dimer), not an isolated gradual platelet decline."
+    ],
+    "source": "Gynecology & Obstetrics — 8 July Morning Paper"
+  },
+  {
+    "systemSlug": "respiratory",
+    "topicSlug": "obstructive-airway-disease",
+    "stem": "Both parents are carriers of cystic fibrosis. What is the probability that their child will be affected?",
+    "options": [
+      "25% affected, 50% carriers, 25% unaffected",
+      "50% affected, 25% carriers, 25% unaffected",
+      "25% affected, 25% carriers, 50% unaffected",
+      "75% affected, 25% unaffected"
+    ],
+    "correctIndex": 0,
+    "explanation": "When both parents are heterozygous carriers of an autosomal recessive disease like cystic fibrosis, each pregnancy carries a 25% chance of an affected child, 50% chance of a carrier, and 25% chance of being completely unaffected.",
+    "optionExplanations": [
+      "",
+      "50% affected would require one parent to be affected (homozygous), not both being heterozygous carriers.",
+      "25% carriers underestimates the true 50% carrier probability from a standard carrier x carrier cross.",
+      "75% affected does not match the expected 1:2:1 Mendelian ratio for two heterozygous carriers."
+    ],
+    "source": "Gynecology & Obstetrics — 8 July Morning Paper"
+  },
+  {
+    "systemSlug": "microbiology",
+    "topicSlug": "mycobacteria-atypical-bacteria",
+    "stem": "Extrapulmonary tuberculosis in the genitourinary tract most commonly arrives through which route of spread?",
+    "options": [
+      "Hematogenous spread",
+      "Lymphatic spread",
+      "Sexual transmission",
+      "Direct extension"
+    ],
+    "correctIndex": 0,
+    "explanation": "Genitourinary tuberculosis almost always develops through hematogenous (bloodborne) spread of Mycobacterium tuberculosis from a primary pulmonary focus, rather than lymphatic spread, sexual transmission, or direct extension.",
+    "optionExplanations": [
+      "",
+      "Lymphatic spread is not the principal route by which TB reaches the genitourinary tract.",
+      "Genitourinary TB is not a sexually transmitted infection.",
+      "Direct extension from an adjacent organ is not the typical route of genitourinary TB seeding."
+    ],
+    "source": "Gynecology & Obstetrics — 8 July Morning Paper"
+  },
+  {
+    "systemSlug": "microbiology",
+    "topicSlug": "parasitology",
+    "stem": "Which hematological finding is most commonly associated with helminthic or protozoan parasitic infections?",
+    "options": [
+      "Neutrophilia",
+      "Basophilia",
+      "Eosinophilia",
+      "Monocytosis"
+    ],
+    "correctIndex": 2,
+    "explanation": "Immune responses against invasive parasitic (particularly helminthic) infections characteristically trigger eosinophilia, driven by Th2-type cytokines such as IL-5.",
+    "optionExplanations": [
+      "Neutrophilia is typical of acute bacterial infection, not parasitic infestation.",
+      "Basophilia is uncommon and not the characteristic finding in parasitic infection.",
+      "",
+      "Monocytosis is associated with chronic infections like tuberculosis or certain malignancies, not classically with parasites."
+    ],
+    "source": "Gynecology & Obstetrics — 8 July Morning Paper"
+  },
+  {
+    "systemSlug": "reproductive-health",
+    "topicSlug": "labor-delivery-complications",
+    "stem": "Which factor is essential before performing a forceps delivery?",
+    "options": [
+      "Maternal request only",
+      "Availability of oxytocin",
+      "Operator training and experience with appropriate indication",
+      "Fetal weight less than 2 kg"
+    ],
+    "correctIndex": 2,
+    "explanation": "Safe mechanical forceps application explicitly demands operator training and experience together with an appropriate obstetric indication; maternal request alone is not sufficient, and forceps are not indicated based on availability of oxytocin or a specific fetal weight cutoff.",
+    "optionExplanations": [
+      "Maternal request alone, without a valid obstetric indication, is not sufficient to justify instrumental delivery.",
+      "Oxytocin availability is unrelated to the safety prerequisites for forceps use.",
+      "",
+      "There is no fixed minimum fetal weight requirement of 2 kg for forceps delivery; appropriate station and position matter more."
+    ],
+    "source": "Gynecology & Obstetrics — 8 July Morning Paper"
+  },
+  {
+    "systemSlug": "reproductive-health",
+    "topicSlug": "reproductive-pharmacology",
+    "stem": "A pregnant woman presents with generalized tonic-clonic seizures due to eclampsia. What is the drug of choice?",
+    "options": [
+      "Diazepam",
+      "Phenytoin",
+      "Magnesium sulfate (IV MgSO4)",
+      "Phenobarbital"
+    ],
+    "correctIndex": 2,
+    "explanation": "Magnesium sulfate acts as a neuroprotectant by blocking NMDA (N-methyl-D-aspartate) receptors in the brain, raising the seizure threshold and inducing mild cerebral vasodilation. Large-scale trials (such as the Magpie trial) proved MgSO4 significantly more effective than traditional anticonvulsants like diazepam or phenytoin at preventing and terminating eclamptic seizures, with a lower risk of maternal respiratory depression.",
+    "optionExplanations": [
+      "Diazepam is less effective than magnesium sulfate and carries a greater risk of neonatal/maternal respiratory depression.",
+      "Phenytoin was shown in trials to be inferior to magnesium sulfate for eclamptic seizure control.",
+      "",
+      "Phenobarbital is not the drug of choice and is inferior to magnesium sulfate in trial evidence."
+    ],
+    "source": "Gynecology & Obstetrics — 8 July Morning Paper"
+  },
+  {
+    "systemSlug": "hematology-oncology",
+    "topicSlug": "hematopoiesis-blood-physiology",
+    "stem": "Gamma globulins (antibodies) are produced by which cells?",
+    "options": [
+      "Neutrophils",
+      "Plasma cells",
+      "Macrophages",
+      "T lymphocytes"
+    ],
+    "correctIndex": 1,
+    "explanation": "Plasma cells, terminally differentiated B lymphocytes, are the cells responsible for synthesizing and secreting immunoglobulins (gamma globulins).",
+    "optionExplanations": [
+      "Neutrophils are phagocytic granulocytes involved in acute inflammation, not antibody production.",
+      "",
+      "Macrophages present antigen and phagocytose pathogens but do not themselves secrete antibodies.",
+      "T lymphocytes coordinate and help the immune response but do not secrete antibodies themselves."
+    ],
+    "source": "Gynecology & Obstetrics — 8 July Morning Paper"
+  },
+  {
+    "systemSlug": "gastrointestinal",
+    "topicSlug": "gi-bleeding-malignancy",
+    "stem": "Which tumor marker is commonly used to monitor colorectal carcinoma?",
+    "options": [
+      "AFP",
+      "CA-125",
+      "PSA",
+      "CEA"
+    ],
+    "correctIndex": 3,
+    "explanation": "Carcinoembryonic antigen (CEA) is the tumor marker used to monitor for recurrence after treatment of colorectal carcinoma; rising levels after a period of decline raise concern for recurrent disease.",
+    "optionExplanations": [
+      "AFP is used to monitor hepatocellular carcinoma and germ cell tumors, not colorectal cancer.",
+      "CA-125 is used to monitor ovarian cancer, not colorectal cancer.",
+      "PSA is specific to prostate cancer monitoring, not colorectal cancer.",
+      ""
+    ],
+    "source": "Gynecology & Obstetrics — 8 July Morning Paper"
+  },
+  {
+    "systemSlug": "reproductive-health",
+    "topicSlug": "reproductive-anatomy-embryology",
+    "stem": "If the uterine artery is ligated, which artery provides the main collateral blood supply to the uterus?",
+    "options": [
+      "Inferior epigastric artery",
+      "Internal pudendal artery",
+      "Ovarian artery",
+      "Inferior vesical artery"
+    ],
+    "correctIndex": 2,
+    "explanation": "The ovarian artery, arising directly from the abdominal aorta, travels within the infundibulopelvic ligament and forms a major, highly patent vascular anastomosis with the ovarian branch of the uterine artery; if the uterine artery is ligated, this collateral link preserves uterine tissue viability via retrograde flow.",
+    "optionExplanations": [
+      "The inferior epigastric artery supplies the anterior abdominal wall, not the uterus.",
+      "The internal pudendal artery supplies the perineum, not a major collateral to the uterine body.",
+      "",
+      "The inferior vesical artery supplies the bladder, not a major collateral pathway to the uterus."
+    ],
+    "source": "Gynecology & Obstetrics — 8 July Morning Paper"
+  },
+  {
+    "systemSlug": "reproductive-health",
+    "topicSlug": "gynecological-disorders",
+    "stem": "Which investigation is commonly used to assess the patency of the fallopian tubes?",
+    "options": [
+      "Pelvic MRI",
+      "Hysterosalpingography (HSG)",
+      "Diagnostic hysteroscopy",
+      "CT scan of the pelvis"
+    ],
+    "correctIndex": 1,
+    "explanation": "Hysterosalpingography (HSG) is a fluoroscopic radiologic procedure in which water-soluble radiopaque contrast dye is injected retrograde through the cervix into the uterine cavity. It serves as the standard first-line test for subfertility workups, providing dynamic imaging of uterine architecture and confirming fallopian tube patency by tracking whether the dye spills into the peritoneal cavity.",
+    "optionExplanations": [
+      "Pelvic MRI is not the standard first-line test for assessing tubal patency.",
+      "",
+      "Diagnostic hysteroscopy directly visualizes the uterine cavity but does not reliably assess tubal patency.",
+      "CT scanning of the pelvis is not used to evaluate fallopian tube patency."
+    ],
+    "source": "Gynecology & Obstetrics — 8 July Morning Paper"
+  },
+  {
+    "systemSlug": "reproductive-health",
+    "topicSlug": "gynecological-disorders",
+    "stem": "Primary subfertility is defined as failure to achieve pregnancy after how long of regular unprotected intercourse?",
+    "options": [
+      "6 months",
+      "9 months",
+      "12 months",
+      "24 months"
+    ],
+    "correctIndex": 2,
+    "explanation": "Primary subfertility is conventionally defined as failure to conceive after 12 months of regular unprotected intercourse, prompting further fertility evaluation.",
+    "optionExplanations": [
+      "6 months is shorter than the conventional definition used for subfertility evaluation.",
+      "9 months is shorter than the conventional 12-month definition.",
+      "",
+      "24 months is longer than the standard definition, which would delay appropriate evaluation."
+    ],
+    "source": "Gynecology & Obstetrics — 8 July Morning Paper"
+  },
+  {
+    "systemSlug": "reproductive-health",
+    "topicSlug": "gynecological-disorders",
+    "stem": "A woman with primary subfertility has completed four cycles of letrozole for ovulation induction. Her hormonal profile is normal, and her husband's semen analysis is also normal, yet she has not conceived. What should be the next step in management?",
+    "options": [
+      "In vitro fertilization (IVF)",
+      "Intrauterine insemination (IUI)",
+      "Clomiphene citrate with IUI",
+      "Continue letrozole alone"
+    ],
+    "correctIndex": 1,
+    "explanation": "With confirmed normal anatomy, hormones, and a normal male factor, but failure to conceive despite documented ovulation induction, the logical next escalation step is to combine ovulation induction with intrauterine insemination (IUI), which bypasses the cervix and maximizes the concentration of motile sperm near the fallopian tubes before moving to more invasive treatments like IVF.",
+    "optionExplanations": [
+      "IVF is a more invasive, costly escalation reserved for when simpler measures like IUI have also failed.",
+      "",
+      "Clomiphene citrate with IUI repeats a similar ovulation-induction strategy already tried with letrozole rather than adding the missing insemination step first.",
+      "Continuing letrozole alone without adding insemination does not address the unexplained failure to conceive despite normal findings."
+    ],
+    "source": "Gynecology & Obstetrics — 8 July Morning Paper"
+  },
+  {
+    "systemSlug": "reproductive-health",
+    "topicSlug": "pregnancy-antenatal-care",
+    "stem": "A woman presents to the emergency room with right iliac region pain associated with vaginal bleeding and pain in the right shoulder, along with hypotension and tachycardia. She gives a history of a missed menstrual cycle. What is the diagnosis?",
+    "options": [
+      "Ruptured ectopic pregnancy",
+      "Ovarian cyst",
+      "Ruptured appendix"
+    ],
+    "correctIndex": 0,
+    "explanation": "This is the classic triad of ruptured ectopic pregnancy: abdominal pain, vaginal bleeding, and referred shoulder-tip pain from diaphragmatic irritation caused by hemoperitoneum, together with hypotension, tachycardia, and a missed period supporting early pregnancy.",
+    "optionExplanations": [
+      "",
+      "An ovarian cyst does not typically cause vaginal bleeding, a missed period, or hemodynamic instability from hemoperitoneum.",
+      "A ruptured appendix causes right iliac pain but not vaginal bleeding, shoulder-tip pain, or a missed period."
+    ],
+    "source": "Gynecology & Obstetrics — 8 July Morning Paper"
+  },
+  {
+    "systemSlug": "hematology-oncology",
+    "topicSlug": "anemia",
+    "stem": "A young boy develops jaundice and dark-colored urine after taking antimalarial medication. Peripheral blood smear shows bite cells and Heinz bodies. Which pattern of inheritance does the underlying disorder follow?",
+    "options": [
+      "Autosomal dominant",
+      "Autosomal recessive",
+      "X-linked dominant",
+      "X-linked recessive"
+    ],
+    "correctIndex": 3,
+    "explanation": "Bite cells and Heinz bodies after an oxidative drug stress like an antimalarial are characteristic of G6PD deficiency, which follows X-linked recessive inheritance.",
+    "optionExplanations": [
+      "Autosomal dominant inheritance does not match the male-predominant pattern of this classic enzyme deficiency.",
+      "Autosomal recessive inheritance would affect both sexes roughly equally, unlike this predominantly male-affecting condition.",
+      "X-linked dominant conditions affect heterozygous females as severely as males, unlike G6PD deficiency.",
+      ""
+    ],
+    "source": "Gynecology & Obstetrics — 8 July Morning Paper"
+  },
+  {
+    "systemSlug": "microbiology",
+    "topicSlug": "gram-negative-bacteria",
+    "stem": "A 19-year-old college student presents with high-grade fever, severe headache, neck stiffness, hypotension, and a petechial rash. Cerebrospinal fluid analysis is consistent with bacterial meningitis, and the causative organism is identified as Neisseria meningitidis. Which of the following best describes this organism?",
+    "options": [
+      "Gram-positive cocci in chains",
+      "Gram-positive diplococci",
+      "Gram-negative bacilli",
+      "Gram-negative diplococci"
+    ],
+    "correctIndex": 3,
+    "explanation": "Neisseria meningitidis is a Gram-negative diplococcus, classically seen as paired, kidney bean-shaped organisms on CSF Gram stain.",
+    "optionExplanations": [
+      "Gram-positive cocci in chains describes streptococci, not Neisseria.",
+      "Gram-positive diplococci describes Streptococcus pneumoniae, not Neisseria meningitidis.",
+      "Gram-negative bacilli describes rod-shaped organisms like E. coli, not the diplococcus morphology of Neisseria.",
+      ""
+    ],
+    "source": "Gynecology & Obstetrics — 8 July Morning Paper"
+  },
+  {
+    "systemSlug": "musculoskeletal",
+    "topicSlug": "fractures-metabolic-bone",
+    "stem": "An older woman falls in a washroom, sustaining a fracture that is treated with a prosthesis. The following day, she develops dyspnea and a petechial rash on her skin. What is the cause?",
+    "options": [
+      "Air embolism",
+      "Fat embolism",
+      "Thrombotic (pulmonary) embolism",
+      "Amniotic fluid embolism",
+      "Pulmonary embolism"
+    ],
+    "correctIndex": 1,
+    "explanation": "Fat embolism follows the release of fat globules into the bloodstream after long-bone fracture or orthopedic surgery involving marrow vascular sinusoids, classically producing pulmonary insufficiency, neurologic symptoms, and a petechial rash within 1-3 days of injury.",
+    "optionExplanations": [
+      "Air embolism typically follows central line procedures or penetrating chest trauma, not orthopedic fracture repair.",
+      "",
+      "Thrombotic pulmonary embolism usually develops after a period of immobilization/stasis and does not classically produce a petechial rash.",
+      "Amniotic fluid embolism occurs only in pregnancy/labor, not after an orthopedic fracture repair.",
+      "Pulmonary embolism (venous thromboembolism) does not classically cause a petechial skin rash."
+    ],
+    "source": "Gynecology & Obstetrics — 8 July Morning Paper"
+  },
+  {
+    "systemSlug": "musculoskeletal",
+    "topicSlug": "fractures-metabolic-bone",
+    "stem": "A patient died of fat embolism. At autopsy, how will the fat embolism be visualized?",
+    "options": [
+      "Trichrome stain",
+      "Permanent silver stain",
+      "Frozen fat sections with fat stain",
+      "Permanent fat content",
+      "Frozen fat sections with silica stain"
+    ],
+    "correctIndex": 2,
+    "explanation": "Fat emboli must be demonstrated on frozen sections stained with a fat-specific stain (such as Oil Red O or Sudan stains), because routine tissue processing with organic solvents dissolves fat, so fixed paraffin sections would not show it.",
+    "optionExplanations": [
+      "Trichrome stain highlights collagen and fibrous tissue, not fat.",
+      "Silver stains highlight reticulin fibers or certain organisms, not lipid.",
+      "",
+      "Standard paraffin processing dissolves fat with organic solvents, so fat content cannot be preserved or visualized in a \"permanent\" section this way.",
+      "Silica stains are not used to identify fat and are irrelevant to fat embolism."
+    ],
+    "source": "Gynecology & Obstetrics — 8 July Morning Paper"
+  },
+  {
+    "systemSlug": "reproductive-health",
+    "topicSlug": "reproductive-anatomy-embryology",
+    "stem": "Which structure, present at about 21 days of development, provides inductive signals for the formation of the notochord and vertebral column?",
+    "options": [
+      "Notochord",
+      "Primitive streak",
+      "Neural tube",
+      "Somites"
+    ],
+    "correctIndex": 1,
+    "explanation": "Up to 21 days, the primitive streak gives the inductive signal for formation of the notochord; after 21 days, the notochord itself then induces formation of the vertebral column.",
+    "optionExplanations": [
+      "The notochord itself forms after and is induced by the primitive streak; it does not induce its own formation.",
+      "",
+      "The neural tube forms later, induced by the notochord, and does not itself provide the initial 21-day inductive signal.",
+      "Somites form later still, segmenting from paraxial mesoderm after notochord induction, not providing this early signal."
+    ],
+    "source": "Gynecology & Obstetrics — 8 July Morning Paper"
+  },
+  {
+    "systemSlug": "reproductive-health",
+    "topicSlug": "gynecological-disorders",
+    "stem": "A 29-year-old nulliparous woman presents with progressive dysmenorrhea, chronic pelvic pain, and infertility. Diagnostic laparoscopy reveals multiple matchstick (powder-burn) spots over the pelvic peritoneum. What is the most likely diagnosis?",
+    "options": [
+      "Pelvic inflammatory disease",
+      "Adenomyosis",
+      "Endometriosis",
+      "Ovarian carcinoma"
+    ],
+    "correctIndex": 2,
+    "explanation": "Classic powder-burn (matchstick) lesions on the pelvic peritoneum are the hallmark laparoscopic finding of endometriosis, which presents with dysmenorrhea, chronic pelvic pain, and infertility from ectopic endometrial tissue implants.",
+    "optionExplanations": [
+      "Pelvic inflammatory disease causes adhesions and tubal damage but not powder-burn peritoneal lesions.",
+      "Adenomyosis involves ectopic endometrial tissue within the myometrium, not powder-burn peritoneal implants seen on laparoscopy.",
+      "",
+      "Ovarian carcinoma would show a mass lesion, not classic powder-burn peritoneal spots."
+    ],
+    "source": "Gynecology & Obstetrics — 8 July Morning Paper"
+  },
+  {
+    "systemSlug": "reproductive-health",
+    "topicSlug": "gynecological-disorders",
+    "stem": "A 26-year-old woman presents with severe acne, excessive facial hair, and irregular menstrual cycles, with a BMI of 30 kg/m2. Ultrasound reveals bilaterally enlarged ovaries with multiple peripheral cysts. Which is the most appropriate diagnostic approach for polycystic ovary syndrome in this patient?",
+    "options": [
+      "Requires at least 2 of 3 Rotterdam criteria: oligomenorrhea, hyperandrogenism (clinical or biochemical), or polycystic ovaries on ultrasound",
+      "Hirsutism alone is sufficient",
+      "Elevated CA-125 levels are diagnostic",
+      "Ultrasound findings alone are sufficient"
+    ],
+    "correctIndex": 0,
+    "explanation": "The Rotterdam criteria require at least 2 of 3 features for a PCOS diagnosis: oligo/anovulation (irregular cycles), clinical or biochemical hyperandrogenism (hirsutism/acne), and polycystic ovaries on ultrasound; no single finding alone is diagnostic.",
+    "optionExplanations": [
+      "",
+      "Hirsutism alone does not meet the Rotterdam threshold, which requires at least two of the three criteria.",
+      "CA-125 is a nonspecific ovarian tumor marker, not part of the diagnostic criteria for PCOS.",
+      "Ultrasound findings alone, without oligomenorrhea or hyperandrogenism, are insufficient for diagnosis under Rotterdam criteria."
+    ],
+    "source": "Gynecology & Obstetrics — 8 July Morning Paper"
+  },
+  {
+    "systemSlug": "nervous-system",
+    "topicSlug": "stroke",
+    "stem": "A patient with a history of myocardial infarction now presents with lesions in the brain affecting motor function, from embolic infarction. What type of necrosis is seen in this brain lesion?",
+    "options": [
+      "Liquefactive necrosis",
+      "Fat necrosis",
+      "Caseous necrosis",
+      "Gangrenous necrosis"
+    ],
+    "correctIndex": 0,
+    "explanation": "Ischemic cell death in the central nervous system is typically followed by digestion of the dead tissue by hydrolytic enzymes released from microglia, producing liquefactive necrosis and eventual cyst formation — unlike most other solid organs, which undergo coagulative necrosis after ischemia.",
+    "optionExplanations": [
+      "",
+      "Fat necrosis occurs in adipose tissue (e.g., pancreatitis), not in ischemic brain tissue.",
+      "Caseous necrosis is characteristic of tuberculosis, not cerebral infarction.",
+      "Gangrenous necrosis is a clinical term typically applied to ischemic limbs, not the brain's characteristic tissue response."
+    ],
+    "source": "Gynecology & Obstetrics — 8 July Morning Paper"
+  },
+  {
+    "systemSlug": "reproductive-health",
+    "topicSlug": "menstrual-cycle-physiology",
+    "stem": "A 10-year-old girl is brought to clinic because her parents have noticed the onset of breast budding (thelarche). On examination, she is in Tanner stage II of pubertal development. Which hormone is primarily responsible for this change?",
+    "options": [
+      "Follicle-stimulating hormone (FSH)",
+      "Luteinizing hormone (LH)",
+      "Progesterone",
+      "Estrogen"
+    ],
+    "correctIndex": 3,
+    "explanation": "Rising estrogen levels from the maturing ovary directly drive breast bud development (thelarche), the first visible sign of puberty in girls, corresponding to Tanner stage II.",
+    "optionExplanations": [
+      "FSH stimulates follicular development but does not itself drive breast tissue growth.",
+      "LH triggers ovulation and corpus luteum formation but does not directly drive breast budding.",
+      "Progesterone matures breast lobules later in the cycle/pregnancy but is not the primary driver of initial thelarche.",
+      ""
+    ],
+    "source": "Gynecology & Obstetrics — 8 July Morning Paper"
+  },
+  {
+    "systemSlug": "renal",
+    "topicSlug": "glomerular-disease",
+    "stem": "A 28-year-old man presents with hemoptysis, hematuria, and rapidly progressive glomerulonephritis. Renal biopsy demonstrates linear IgG deposition along the glomerular basement membrane (GBM) on immunofluorescence. Which type of hypersensitivity reaction is responsible for this condition?",
+    "options": [
+      "Type I hypersensitivity",
+      "Type II hypersensitivity",
+      "Type III hypersensitivity",
+      "Type IV hypersensitivity"
+    ],
+    "correctIndex": 1,
+    "explanation": "Goodpasture syndrome is caused by autoantibodies directed against type IV collagen in the glomerular and alveolar basement membranes, producing the characteristic linear IgG deposition seen here — a classic Type II (antibody-mediated) hypersensitivity reaction.",
+    "optionExplanations": [
+      "Type I hypersensitivity is IgE-mediated immediate allergy, unrelated to anti-GBM antibody disease.",
+      "",
+      "Type III hypersensitivity involves immune-complex deposition (a granular pattern), not the linear IgG pattern seen here.",
+      "Type IV hypersensitivity is T-cell mediated and delayed, not an antibody-mediated linear deposition process."
+    ],
+    "source": "Gynecology & Obstetrics — 8 July Morning Paper"
+  },
+  {
+    "systemSlug": "hematology-oncology",
+    "topicSlug": "bleeding-clotting-disorders",
+    "stem": "A 24-year-old woman presents with recurrent episodes of deep vein thrombosis (DVT). She has no history of surgery, trauma, or prolonged immobilization. Her PT and aPTT are normal. Genetic testing confirms a mutation that makes factor V resistant to inactivation by activated protein C. What is the most likely diagnosis?",
+    "options": [
+      "Protein C deficiency",
+      "Protein S deficiency",
+      "Antithrombin III deficiency",
+      "Factor V Leiden mutation"
+    ],
+    "correctIndex": 3,
+    "explanation": "Factor V Leiden is a point mutation in the factor V gene that renders it resistant to cleavage and inactivation by activated protein C, producing a hypercoagulable state and recurrent unprovoked venous thromboembolism, typically with a normal PT/aPTT.",
+    "optionExplanations": [
+      "Protein C deficiency causes recurrent thrombosis but does not itself describe resistance of factor V to protein C.",
+      "Protein S deficiency impairs protein C cofactor activity but does not describe a mutation in factor V itself.",
+      "Antithrombin III deficiency causes thrombophilia through a different, heparin-related mechanism, not resistance of factor V to protein C.",
+      ""
+    ],
+    "source": "Gynecology & Obstetrics — 8 July Morning Paper"
+  },
+  {
+    "systemSlug": "hematology-oncology",
+    "topicSlug": "bleeding-clotting-disorders",
+    "stem": "A patient is found to have an inherited deficiency of a vitamin K-dependent anticoagulant protein that acts as a cofactor for activated protein C. Which protein is deficient?",
+    "options": [
+      "Protein C",
+      "Antithrombin III",
+      "Protein S",
+      "Factor V"
+    ],
+    "correctIndex": 2,
+    "explanation": "Protein S is a vitamin K-dependent plasma protein that functions as a cofactor, enhancing the ability of activated protein C to inactivate factors Va and VIIIa; its deficiency produces a hypercoagulable state.",
+    "optionExplanations": [
+      "Protein C itself is the enzyme described as acting with a cofactor, not the deficient cofactor.",
+      "Antithrombin III inhibits thrombin and factor Xa directly and is not a cofactor for activated protein C.",
+      "",
+      "Factor V is the substrate inactivated by the activated protein C/protein S complex, not the deficient cofactor protein."
+    ],
+    "source": "Gynecology & Obstetrics — 8 July Morning Paper"
+  },
+  {
+    "systemSlug": "microbiology",
+    "topicSlug": "virology",
+    "stem": "Polymerase chain reaction (PCR) based assays can be used to detect which type(s) of genetic material?",
+    "options": [
+      "RNA only",
+      "DNA only",
+      "Both RNA and DNA (via reverse transcription for RNA)",
+      "Proteins"
+    ],
+    "correctIndex": 2,
+    "explanation": "Standard PCR directly amplifies DNA. To detect RNA (such as many viral genomes), the sample is first converted to complementary DNA using reverse transcriptase (RT-PCR), after which the resulting cDNA is amplified by standard PCR; in this broader sense, PCR-based testing can detect both DNA and RNA targets.",
+    "optionExplanations": [
+      "PCR is not limited to RNA only; standard PCR directly amplifies DNA.",
+      "Standard PCR amplifies DNA, but RNA can also be detected after reverse transcription, so \"DNA only\" is incomplete.",
+      "",
+      "PCR amplifies nucleic acids, not proteins."
+    ],
+    "source": "Gynecology & Obstetrics — 8 July Morning Paper"
+  },
+  {
+    "systemSlug": "reproductive-health",
+    "topicSlug": "pregnancy-antenatal-care",
+    "stem": "A G3P2 woman presents to the antenatal clinic at 33 weeks of gestation. Ultrasound shows an enlarged posterior fossa, cystic dilatation of the 4th ventricle, and agenesis/hypoplasia of the cerebellar vermis. What is the diagnosis?",
+    "options": [
+      "Dandy-Walker malformation",
+      "Arnold-Chiari II malformation",
+      "Arnold-Chiari I malformation",
+      "Joubert syndrome"
+    ],
+    "correctIndex": 0,
+    "explanation": "The triad of an enlarged posterior fossa, cystic dilatation of the fourth ventricle, and agenesis or hypoplasia of the cerebellar vermis is diagnostic of Dandy-Walker malformation.",
+    "optionExplanations": [
+      "",
+      "Arnold-Chiari II malformation involves cerebellar tonsillar/vermian herniation through the foramen magnum with myelomeningocele, not an enlarged posterior fossa with vermis agenesis.",
+      "Arnold-Chiari I malformation involves isolated tonsillar herniation without the enlarged fossa or 4th ventricle cyst described here.",
+      "Joubert syndrome shows the distinctive \"molar tooth sign\" from vermis hypoplasia but not the enlarged fossa/cystic 4th ventricle triad of Dandy-Walker."
+    ],
+    "source": "Gynecology & Obstetrics — 8 July Morning Paper"
+  },
+  {
+    "systemSlug": "reproductive-health",
+    "topicSlug": "reproductive-anatomy-embryology",
+    "stem": "A newborn baby is noted to have a left unilateral cleft lip, with no abnormalities of the palate. Which developmental defect accounts for this occurrence?",
+    "options": [
+      "Failure of the left lateral palatine process to fuse with the median palatine process",
+      "Failure of the left maxillary prominence to unite with the left medial nasal prominence",
+      "Failure of the right and left medial nasal prominences to merge",
+      "Failure of the left maxillary process to fuse with the left medial nasal process"
+    ],
+    "correctIndex": 3,
+    "explanation": "A unilateral cleft lip results from failure of fusion between the maxillary process and the medial nasal process on the affected side; a midline cleft lip instead results from failure of the two medial nasal processes to merge with each other, and cleft palate results from failure of the lateral palatine processes to fuse with the nasal septum and median palatine process.",
+    "optionExplanations": [
+      "Failure of the lateral palatine process to fuse with the median palatine process causes cleft palate, not cleft lip.",
+      "This describes the same fusion failure but with imprecise terminology; the standard description names the maxillary and medial nasal processes, as in the correct option.",
+      "Failure of the two medial nasal prominences to merge causes a midline cleft lip, not a unilateral one.",
+      ""
+    ],
+    "source": "Gynecology & Obstetrics — 8 July Morning Paper"
+  },
+  {
+    "systemSlug": "nervous-system",
+    "topicSlug": "neuroanatomy-embryology",
+    "stem": "After a road traffic accident, a patient is talking non-stop but is unable to comprehend what he is saying, and his writing shows the same problem. What is this called?",
+    "options": [
+      "Broca's aphasia",
+      "Wernicke's aphasia",
+      "Somatosensory cortex aphasia",
+      "All"
+    ],
+    "correctIndex": 1,
+    "explanation": "Wernicke's aphasia (receptive aphasia) is characterized by fluent, often non-stop speech that lacks meaningful content, with impaired comprehension of both spoken and written language, due to a lesion in Wernicke's area of the dominant temporal lobe.",
+    "optionExplanations": [
+      "Broca's aphasia is non-fluent, effortful speech with relatively preserved comprehension, the opposite pattern described here.",
+      "",
+      "\"Somatosensory cortex aphasia\" is not a recognized aphasia syndrome.",
+      "Since the pattern precisely matches only Wernicke's aphasia, \"all\" is incorrect."
+    ],
+    "source": "Gynecology & Obstetrics — 8 July Morning Paper"
+  },
+  {
+    "systemSlug": "reproductive-health",
+    "topicSlug": "pregnancy-antenatal-care",
+    "stem": "The respiratory system undergoes changes during pregnancy under the influence of elevated progesterone levels. Which of the following changes is primarily responsible for causing the sensation of respiratory distress (physiological dyspnea) in pregnant women?",
+    "options": [
+      "Decrease in expiratory reserve volume (ERV) by 20%",
+      "Decrease in total lung capacity (TLC) by 50%",
+      "Dyspnea due to decreased PaCO2 levels",
+      "Increase in minute ventilation by 30-40%, driven by progesterone-stimulated respiratory drive"
+    ],
+    "correctIndex": 3,
+    "explanation": "Progesterone directly stimulates the respiratory center, increasing minute ventilation by 30-40% during pregnancy. This disproportionate increase in ventilation relative to metabolic demand produces the subjective sensation of physiological dyspnea in pregnancy, even though oxygenation remains normal.",
+    "optionExplanations": [
+      "ERV does decline in pregnancy from the enlarging uterus, but this reduces reserve rather than itself producing the sensation of dyspnea.",
+      "TLC falls only mildly (not by 50%) in pregnancy and is not the mechanism producing dyspnea.",
+      "PaCO2 actually falls in pregnancy due to hyperventilation, but this alone does not explain the sensation of breathlessness.",
+      ""
+    ],
+    "source": "Gynecology & Obstetrics — 8 July Morning Paper"
+  },
+  {
+    "systemSlug": "musculoskeletal",
+    "topicSlug": "fractures-metabolic-bone",
+    "stem": "A female patient underwent hysterectomy after a road traffic accident. She also had multiple fractures but was stable at the time of operation. After 3 to 4 days, she becomes dyspneic and dies. What is the cause behind this?",
+    "options": [
+      "Fat embolism",
+      "Pulmonary embolism",
+      "Air embolism",
+      "Amniotic fluid embolism"
+    ],
+    "correctIndex": 0,
+    "explanation": "The classic 1-to-3-day delay between long-bone fracture and the onset of respiratory distress, in a patient with multiple fractures, is characteristic of fat embolism syndrome, from marrow fat entering the venous circulation.",
+    "optionExplanations": [
+      "",
+      "Pulmonary embolism from venous thrombosis typically follows a longer period of immobilization and does not classically present with this early post-fracture timing together with the clinical context given.",
+      "Air embolism presents acutely, temporally related to a vascular access or surgical procedure, not with a multi-day delay after fracture.",
+      "Amniotic fluid embolism occurs only in the peripartum setting during labor or delivery, not after a hysterectomy performed for trauma."
+    ],
+    "source": "Gynecology & Obstetrics — 8 July Morning Paper"
+  },
+  {
+    "systemSlug": "reproductive-health",
+    "topicSlug": "gynecological-disorders",
+    "stem": "A 25-year-old obese married woman presents with infertility for 2 years. On examination, hirsutism and acne are present. Labs show an LH:FSH ratio of 3:1. What is the diagnosis?",
+    "options": [
+      "Premature ovarian failure",
+      "Prolactinoma",
+      "Hypothyroidism",
+      "PCOS",
+      "Cushing syndrome"
+    ],
+    "correctIndex": 3,
+    "explanation": "An elevated LH:FSH ratio (classically greater than 2:1 or 3:1), combined with obesity, hirsutism, acne, and infertility, is a classic biochemical pattern of polycystic ovary syndrome (PCOS).",
+    "optionExplanations": [
+      "Premature ovarian failure shows raised FSH/LH with low estrogen, not this LH:FSH pattern with hirsutism and obesity.",
+      "Prolactinoma would show an elevated prolactin with galactorrhea, not primarily an elevated LH:FSH ratio.",
+      "Hypothyroidism can cause menstrual irregularity but does not produce this classic LH:FSH pattern with hirsutism.",
+      "",
+      "Cushing syndrome would show additional stigmata (striae, central obesity, hypertension) and a different hormonal profile than isolated LH:FSH elevation."
+    ],
+    "source": "Gynecology & Obstetrics — 8 July Morning Paper"
+  },
+  {
+    "systemSlug": "gastrointestinal",
+    "topicSlug": "pancreatic-disease",
+    "stem": "A woman presents with abdominal pain radiating to the back. Labs show raised amylase and lipase. Investigation reveals a cyst with necrosis. What type of necrosis is this?",
+    "options": [
+      "Fat necrosis",
+      "Coagulative necrosis",
+      "Fibrinoid necrosis",
+      "Liquefactive necrosis"
+    ],
+    "correctIndex": 0,
+    "explanation": "Elevated amylase and lipase with a necrotic cyst points to a pancreatic pseudocyst complicating pancreatitis; activated pancreatic lipases digest peripancreatic fat, producing fat necrosis with characteristic saponification.",
+    "optionExplanations": [
+      "",
+      "Coagulative necrosis is typical of ischemic infarction in solid organs like the heart or kidney, not pancreatitis.",
+      "Fibrinoid necrosis occurs in blood vessel walls in immune-mediated vasculitis, not in pancreatic fat.",
+      "Liquefactive necrosis is typical of brain infarction or abscess, not fat necrosis from released pancreatic enzymes."
+    ],
+    "source": "Gynecology & Obstetrics — 8 July Morning Paper"
+  },
+  {
+    "systemSlug": "reproductive-health",
+    "topicSlug": "gynecological-disorders",
+    "stem": "A 42-year-old multiparous woman complains of involuntary leakage of urine while coughing, sneezing, and laughing. She has no urgency or dysuria. What is the most likely diagnosis?",
+    "options": [
+      "Urge urinary incontinence",
+      "Overflow urinary incontinence",
+      "Stress urinary incontinence",
+      "Functional urinary incontinence"
+    ],
+    "correctIndex": 2,
+    "explanation": "Involuntary urine leakage specifically triggered by increased intra-abdominal pressure (coughing, sneezing, laughing), without urgency, is the hallmark of stress urinary incontinence, caused by weakened pelvic floor support or a deficient urethral sphincter.",
+    "optionExplanations": [
+      "Urge incontinence presents with a sudden compelling urge to void, not leakage specifically with straining.",
+      "Overflow incontinence results from bladder outlet obstruction or an atonic bladder with constant dribbling, not stress-triggered leakage.",
+      "",
+      "Functional incontinence results from mobility or cognitive impairment preventing timely toileting, not a sphincter/support defect."
+    ],
+    "source": "Gynecology & Obstetrics — 8 July Morning Paper"
+  },
+  {
+    "systemSlug": "reproductive-health",
+    "topicSlug": "gynecological-disorders",
+    "stem": "A 52-year-old multiparous woman presents with a dragging sensation in the pelvis, urinary frequency, and a vaginal bulge. On pelvic examination, there is prolapse of the anterior two-thirds of the vaginal wall. What is the most likely diagnosis?",
+    "options": [
+      "Rectocele",
+      "Enterocele",
+      "Cystocele",
+      "Uterine prolapse"
+    ],
+    "correctIndex": 2,
+    "explanation": "Prolapse of the anterior vaginal wall, carrying the bladder base downward with it, is a cystocele, presenting with a dragging sensation, a vaginal bulge, and urinary frequency from bladder outlet distortion.",
+    "optionExplanations": [
+      "A rectocele is a posterior vaginal wall prolapse of the rectum, not the anterior wall.",
+      "An enterocele is a prolapse of small bowel through the vaginal vault, not the anterior wall specifically.",
+      "",
+      "Uterine prolapse involves descent of the uterus/cervix itself, not isolated anterior vaginal wall bulging."
+    ],
+    "source": "Gynecology & Obstetrics — 8 July Morning Paper"
+  },
+  {
+    "systemSlug": "reproductive-health",
+    "topicSlug": "gynecological-oncology",
+    "stem": "A 42-year-old woman is diagnosed with carcinoma of the cervix confined to the cervix (Stage IB1). She has completed her family. What is the most appropriate treatment?",
+    "options": [
+      "Simple hysterectomy",
+      "Radical trachelectomy",
+      "Radical hysterectomy with pelvic lymph node dissection",
+      "Chemoradiotherapy"
+    ],
+    "correctIndex": 2,
+    "explanation": "For early-stage cervical cancer (Stage IB1) in a woman who has completed childbearing, radical hysterectomy with pelvic lymph node dissection is the standard treatment; radical trachelectomy would instead be considered if fertility preservation were desired.",
+    "optionExplanations": [
+      "Simple hysterectomy does not include the parametrial and lymph node clearance needed for adequate oncologic margins in cervical cancer.",
+      "Radical trachelectomy is a fertility-sparing option, not appropriate once childbearing is complete.",
+      "",
+      "Chemoradiotherapy is generally reserved for more advanced-stage disease, not early Stage IB1 disease amenable to surgery."
+    ],
+    "source": "Gynecology & Obstetrics — 8 July Morning Paper"
+  },
+  {
+    "systemSlug": "reproductive-health",
+    "topicSlug": "gynecological-oncology",
+    "stem": "While performing a radical hysterectomy for carcinoma of the cervix, which structure is at greatest risk of injury and should be carefully identified and preserved?",
+    "options": [
+      "Internal iliac artery",
+      "Ovarian artery",
+      "Ureter",
+      "Round ligament"
+    ],
+    "correctIndex": 2,
+    "explanation": "The ureter runs close to the uterine artery and cervix (\"water under the bridge\") and is the structure most at risk of injury during radical hysterectomy, requiring careful identification and dissection to preserve it.",
+    "optionExplanations": [
+      "The internal iliac artery is a named vessel deliberately identified and ligated as needed, but it is not the structure most easily and inadvertently injured.",
+      "The ovarian artery is generally preserved or ligated deliberately, not the structure at highest inadvertent risk.",
+      "",
+      "The round ligament is divided early in the procedure and is not a structure requiring careful preservation."
+    ],
+    "source": "Gynecology & Obstetrics — 8 July Morning Paper"
+  },
+  {
+    "systemSlug": "reproductive-health",
+    "topicSlug": "gynecological-oncology",
+    "stem": "A woman becomes hypotensive (BP 80/40 mmHg) with lower abdominal tenderness a few hours after total abdominal hysterectomy. Her urine output is 500 mL. What is the most appropriate next investigation?",
+    "options": [
+      "Ultrasound to assess for intraperitoneal bleeding",
+      "Ultrasound to assess for ureteric injury",
+      "Intravenous pyelography",
+      "CT urography"
+    ],
+    "correctIndex": 0,
+    "explanation": "New hypotension with abdominal tenderness shortly after a major pelvic operation raises strong concern for postoperative intraperitoneal hemorrhage; a rapid bedside ultrasound to assess for free intraperitoneal blood is the appropriate next step before considering ureteric imaging.",
+    "optionExplanations": [
+      "",
+      "Ureteric injury classically presents with flank pain, anuria, or a urinoma, not acute hypotension with hemoperitoneum-type findings.",
+      "Intravenous pyelography is a slower, more invasive test for ureteric injury and is not the first step for suspected hemorrhage.",
+      "CT urography specifically evaluates the urinary tract and is not the fastest first-line test for suspected postoperative bleeding."
+    ],
+    "source": "Gynecology & Obstetrics — 8 July Morning Paper"
+  },
+  {
+    "systemSlug": "reproductive-health",
+    "topicSlug": "gynecological-disorders",
+    "stem": "A 28-year-old woman develops secondary amenorrhea and infertility following dilatation and curettage (D&C) performed after a missed miscarriage. What is the most likely diagnosis?",
+    "options": [
+      "Sheehan syndrome",
+      "Asherman syndrome",
+      "Turner syndrome",
+      "Premature ovarian insufficiency"
+    ],
+    "correctIndex": 1,
+    "explanation": "Intrauterine adhesions (synechiae) following aggressive curettage, particularly after a missed miscarriage, produce Asherman syndrome, presenting with secondary amenorrhea and infertility due to endometrial scarring.",
+    "optionExplanations": [
+      "Sheehan syndrome results from postpartum pituitary infarction after major obstetric hemorrhage, not a D&C.",
+      "",
+      "Turner syndrome is a congenital chromosomal disorder present from birth, not an acquired post-procedural condition.",
+      "Premature ovarian insufficiency reflects primary ovarian failure, not intrauterine scarring following instrumentation."
+    ],
+    "source": "Gynecology & Obstetrics — 8 July Morning Paper"
+  },
+  {
+    "systemSlug": "reproductive-health",
+    "topicSlug": "contraception-family-planning",
+    "stem": "A woman presents with intermittent vaginal spotting for two months after insertion of an intrauterine contraceptive device (IUCD). She has no pain or fever, and the IUCD strings are visible. What is the most appropriate management?",
+    "options": [
+      "Remove the IUCD immediately",
+      "Start broad-spectrum antibiotics",
+      "Reassure the patient and continue observation",
+      "Perform hysterectomy"
+    ],
+    "correctIndex": 2,
+    "explanation": "Mild intermittent spotting in the first few months after IUCD insertion is a common, self-limiting side effect, particularly when there is no pain, fever, or sign of infection and the strings are correctly visualized; reassurance and continued observation is appropriate.",
+    "optionExplanations": [
+      "Immediate removal is unnecessary for simple spotting without pain, fever, or malposition.",
+      "Antibiotics are not indicated without evidence of infection (fever, pain, discharge).",
+      "",
+      "Hysterectomy is a drastic, unwarranted response to minor post-insertion spotting."
+    ],
+    "source": "Gynecology & Obstetrics — 8 July Morning Paper"
+  },
+  {
+    "systemSlug": "nervous-system",
+    "topicSlug": "neuropharmacology",
+    "stem": "Diphenhydramine produces its therapeutic effect by which mechanism of action?",
+    "options": [
+      "H2 receptor blockade",
+      "Beta-2 receptor blockade",
+      "H1 receptor blockade",
+      "Muscarinic receptor agonism"
+    ],
+    "correctIndex": 2,
+    "explanation": "Diphenhydramine is a first-generation antihistamine that produces its antiallergic and sedating effects through blockade of the H1 histamine receptor.",
+    "optionExplanations": [
+      "H2 receptor blockade describes drugs like ranitidine used for acid suppression, not diphenhydramine's antihistamine action.",
+      "Beta-2 receptor blockade is unrelated to diphenhydramine's mechanism.",
+      "",
+      "Diphenhydramine has some muscarinic antagonist (anticholinergic) side effects, but it does not act as a muscarinic agonist."
+    ],
+    "source": "Gynecology & Obstetrics — 8 July Morning Paper"
+  },
+  {
+    "systemSlug": "gastrointestinal",
+    "topicSlug": "peptic-ulcer-upper-gi",
+    "stem": "Omeprazole decreases gastric acid secretion by which mechanism?",
+    "options": [
+      "Blocking H2 receptors",
+      "Neutralizing gastric acid",
+      "Inhibiting the H+/K+ ATPase proton pump",
+      "Stimulating prostaglandin synthesis"
+    ],
+    "correctIndex": 2,
+    "explanation": "Omeprazole is a proton pump inhibitor (PPI) that covalently binds and deactivates the H+/K+ ATPase enzyme system in gastric parietal cells, the final common pathway of acid secretion.",
+    "optionExplanations": [
+      "H2 receptor blockade describes drugs like ranitidine, not omeprazole.",
+      "Omeprazole does not act by direct chemical neutralization of acid, unlike antacids.",
+      "",
+      "Omeprazole inhibits, rather than stimulates, acid secretion; it does not work via prostaglandins."
+    ],
+    "source": "Gynecology & Obstetrics — 8 July Morning Paper"
+  },
+  {
+    "systemSlug": "cardiovascular",
+    "topicSlug": "cardiac-electrophysiology-ecg",
+    "stem": "Phase 0 of the ventricular action potential is primarily caused by which event?",
+    "options": [
+      "Opening of slow calcium channels",
+      "Opening of fast sodium channels",
+      "Potassium efflux",
+      "Chloride influx"
+    ],
+    "correctIndex": 1,
+    "explanation": "Rapid depolarization (Phase 0) of the fast-response ventricular action potential occurs via the massive, sudden influx of sodium through voltage-gated fast sodium channels.",
+    "optionExplanations": [
+      "Slow calcium channel opening underlies Phase 0 in nodal (SA/AV) tissue, not fast-response ventricular myocytes.",
+      "",
+      "Potassium efflux is responsible for repolarization phases, not the rapid upstroke of Phase 0.",
+      "Chloride influx is not the primary ion current responsible for Phase 0 depolarization."
+    ],
+    "source": "Gynecology & Obstetrics — 8 July Morning Paper"
+  },
+  {
+    "systemSlug": "endocrine",
+    "topicSlug": "thyroid-disorders",
+    "stem": "A 65-year-old man receiving treatment for a cardiac arrhythmia develops fatigue, weight gain, and cold intolerance. Laboratory investigations confirm hypothyroidism. Which drug is the most likely cause?",
+    "options": [
+      "Hydralazine",
+      "Methyldopa",
+      "Propranolol",
+      "Amiodarone"
+    ],
+    "correctIndex": 3,
+    "explanation": "Amiodarone's high iodine content can shut down thyroid hormone synthesis via the acute Wolff-Chaikoff effect, causing hypothyroidism with fatigue, weight gain, and cold intolerance.",
+    "optionExplanations": [
+      "Hydralazine is not classically associated with drug-induced hypothyroidism.",
+      "Methyldopa causes hemolytic anemia and hepatotoxicity as notable side effects, not hypothyroidism.",
+      "Propranolol can reduce peripheral T4-to-T3 conversion but is not the classic cause of overt drug-induced hypothyroidism.",
+      ""
+    ],
+    "source": "Gynecology & Obstetrics — 8 July Morning Paper"
+  },
+  {
+    "systemSlug": "microbiology",
+    "topicSlug": "mycobacteria-atypical-bacteria",
+    "stem": "A biopsy specimen from a patient with pulmonary tuberculosis shows caseating granulomas. Which type of giant cell is characteristically present?",
+    "options": [
+      "Foreign body giant cell",
+      "Touton giant cell",
+      "Langhans giant cell",
+      "Reed-Sternberg cell"
+    ],
+    "correctIndex": 2,
+    "explanation": "Langhans giant cells, characterized by a horseshoe-shaped arrangement of peripheral nuclei, are a hallmark of granulomatous inflammation seen in tuberculosis.",
+    "optionExplanations": [
+      "Foreign body giant cells form around inert material and have randomly scattered nuclei, not the horseshoe arrangement of Langhans cells.",
+      "Touton giant cells are seen in fat necrosis and xanthomas, with a central ring of nuclei, not in TB granulomas.",
+      "",
+      "Reed-Sternberg cells are the diagnostic giant cells of Hodgkin lymphoma, not tuberculosis."
+    ],
+    "source": "Gynecology & Obstetrics — 8 July Morning Paper"
+  },
+  {
+    "systemSlug": "reproductive-health",
+    "topicSlug": "labor-delivery-complications",
+    "stem": "A woman develops massive postpartum hemorrhage that is not controlled with uterotonics. The surgeon decides to perform arterial ligation. Which artery is ligated first?",
+    "options": [
+      "Internal iliac artery",
+      "Ovarian artery",
+      "Uterine artery",
+      "Inferior epigastric artery"
+    ],
+    "correctIndex": 2,
+    "explanation": "The uterine artery, the main blood supply to the uterus, is ligated first when managing massive postpartum hemorrhage refractory to uterotonics; internal iliac artery ligation is reserved as a further step if bleeding persists.",
+    "optionExplanations": [
+      "Internal iliac artery ligation is a more extensive step reserved for when uterine artery ligation fails to control bleeding.",
+      "The ovarian artery is not the first vessel ligated in the standard stepwise approach to PPH.",
+      "",
+      "The inferior epigastric artery does not supply the uterus and is not part of the standard PPH ligation sequence."
+    ],
+    "source": "Gynecology & Obstetrics — 8 July Morning Paper"
+  },
+  {
+    "systemSlug": "endocrine",
+    "topicSlug": "hormone-physiology-signaling",
+    "stem": "Pyruvate carboxylase requires which vitamin as a cofactor?",
+    "options": [
+      "Vitamin B1 (thiamine)",
+      "Vitamin B2 (riboflavin)",
+      "Vitamin B6 (pyridoxine)",
+      "Vitamin B7 (biotin)"
+    ],
+    "correctIndex": 3,
+    "explanation": "Pyruvate carboxylase, which converts pyruvate to oxaloacetate in gluconeogenesis, requires biotin (vitamin B7) as an essential cofactor for its carboxylation reaction.",
+    "optionExplanations": [
+      "Thiamine is the cofactor for pyruvate dehydrogenase and alpha-ketoglutarate dehydrogenase, not pyruvate carboxylase.",
+      "Riboflavin (FAD) is a cofactor for various oxidoreductases, not pyruvate carboxylase.",
+      "Pyridoxine is the cofactor for transaminases and decarboxylases, not pyruvate carboxylase.",
+      ""
+    ],
+    "source": "Gynecology & Obstetrics — 8 July Morning Paper"
+  },
+  {
+    "systemSlug": "gastrointestinal",
+    "topicSlug": "gi-physiology",
+    "stem": "A child presents with difficulty seeing at night. Deficiency of which vitamin is the most likely cause?",
+    "options": [
+      "Vitamin C",
+      "Vitamin D",
+      "Vitamin E",
+      "Vitamin A"
+    ],
+    "correctIndex": 3,
+    "explanation": "Vitamin A is required for the synthesis of rhodopsin in retinal rod cells; its deficiency classically causes night blindness (nyctalopia).",
+    "optionExplanations": [
+      "Vitamin C deficiency causes scurvy (bleeding gums, poor wound healing), not night blindness.",
+      "Vitamin D deficiency causes rickets/osteomalacia, not night blindness.",
+      "Vitamin E deficiency causes neuromuscular and hemolytic problems, not classic night blindness.",
+      ""
+    ],
+    "source": "Gynecology & Obstetrics — 8 July Morning Paper"
+  },
+  {
+    "systemSlug": "gastrointestinal",
+    "topicSlug": "gi-physiology",
+    "stem": "A child presents with xerosis and keratoconjunctivitis due to a nutritional deficiency. Which vitamin deficiency is responsible?",
+    "options": [
+      "Vitamin A",
+      "Vitamin C",
+      "Vitamin D",
+      "Vitamin K"
+    ],
+    "correctIndex": 0,
+    "explanation": "Vitamin A deficiency causes xerophthalmia, a spectrum including conjunctival and corneal xerosis (dryness) and keratoconjunctivitis, from impaired maintenance of the corneal and conjunctival epithelium.",
+    "optionExplanations": [
+      "",
+      "Vitamin C deficiency causes scurvy, not xerophthalmia.",
+      "Vitamin D deficiency causes rickets/osteomalacia, not corneal/conjunctival xerosis.",
+      "Vitamin K deficiency causes a bleeding tendency, not xerophthalmia."
+    ],
+    "source": "Gynecology & Obstetrics — 8 July Morning Paper"
+  },
+  {
+    "systemSlug": "nervous-system",
+    "topicSlug": "neuropharmacology",
+    "stem": "A contact lens wearer develops allergic conjunctivitis with conjunctival hyperemia. Which drug acts as an alpha-1 adrenergic agonist to reduce conjunctival congestion?",
+    "options": [
+      "Ephedrine",
+      "Fenoldopam",
+      "Midodrine",
+      "Phenylephrine"
+    ],
+    "correctIndex": 3,
+    "explanation": "Phenylephrine is a selective alpha-1 adrenergic agonist that produces vasoconstriction of conjunctival blood vessels, reducing redness and congestion in allergic conjunctivitis.",
+    "optionExplanations": [
+      "Ephedrine is a mixed-acting sympathomimetic used for systemic/nasal decongestion or hypotension, not the selective topical ocular alpha-1 agonist tested here.",
+      "Fenoldopam is a selective dopamine D1 receptor agonist used to lower blood pressure, not an alpha-1 agonist for conjunctival vessels.",
+      "Midodrine is an alpha-1 agonist used for orthostatic hypotension, not for topical conjunctival decongestion.",
+      ""
+    ],
+    "source": "Gynecology & Obstetrics — 8 July Morning Paper"
+  },
+  {
+    "systemSlug": "endocrine",
+    "topicSlug": "diabetes-mellitus",
+    "stem": "A patient with hyperpigmented skin folds (acanthosis nigricans) and a high BMI is suspected to have insulin resistance. Which investigation should be performed?",
+    "options": [
+      "Hb electrophoresis",
+      "Oral glucose tolerance test (OGTT)",
+      "Serum cortisol",
+      "Thyroid function tests"
+    ],
+    "correctIndex": 1,
+    "explanation": "Acanthosis nigricans is a cutaneous marker of insulin resistance; an oral glucose tolerance test is the appropriate investigation to evaluate for impaired glucose tolerance or diabetes in this setting.",
+    "optionExplanations": [
+      "Hemoglobin electrophoresis diagnoses hemoglobinopathies, not insulin resistance.",
+      "",
+      "Serum cortisol would screen for Cushing syndrome, not insulin resistance/diabetes risk per se.",
+      "Thyroid function tests evaluate thyroid disease, not insulin resistance."
+    ],
+    "source": "Gynecology & Obstetrics — 8 July Morning Paper"
+  },
+  {
+    "systemSlug": "endocrine",
+    "topicSlug": "diabetes-mellitus",
+    "stem": "A patient presents with polyuria, polyphagia, and increased water intake. What is the most likely underlying abnormality?",
+    "options": [
+      "Diabetes insipidus",
+      "Glucose intolerance (diabetes mellitus)",
+      "Hyperthyroidism",
+      "Addison disease"
+    ],
+    "correctIndex": 1,
+    "explanation": "The classic triad of polyuria, polydipsia (increased water intake), and polyphagia points to osmotic diuresis caused by hyperglycemia in diabetes mellitus.",
+    "optionExplanations": [
+      "Diabetes insipidus causes polyuria and polydipsia but not polyphagia, and does not involve glucose intolerance.",
+      "",
+      "Hyperthyroidism can cause increased appetite and thirst but does not produce this classic triad from osmotic diuresis.",
+      "Addison disease causes salt-wasting and hypotension, not this polyuria/polyphagia/polydipsia triad."
+    ],
+    "source": "Gynecology & Obstetrics — 8 July Morning Paper"
+  },
+  {
+    "systemSlug": "respiratory",
+    "topicSlug": "lung-cancer-neoplasms",
+    "stem": "A patient with small-cell carcinoma of the lung develops hyponatremia. Which paraneoplastic syndrome is the most likely cause?",
+    "options": [
+      "Cushing syndrome",
+      "SIADH",
+      "Hypercalcemia",
+      "Polycythemia"
+    ],
+    "correctIndex": 1,
+    "explanation": "Small-cell lung carcinoma classically produces ectopic ADH (vasopressin), causing the syndrome of inappropriate antidiuretic hormone secretion (SIADH) and resulting hyponatremia from water retention.",
+    "optionExplanations": [
+      "Cushing syndrome from ectopic ACTH causes hypokalemia and hypertension, not hyponatremia, as the primary paraneoplastic finding here.",
+      "",
+      "Hypercalcemia is a paraneoplastic feature more typical of squamous cell lung cancer (PTHrP), not small-cell carcinoma.",
+      "Polycythemia can be paraneoplastic in renal cell carcinoma, not the classic small-cell lung cancer syndrome causing hyponatremia."
+    ],
+    "source": "Gynecology & Obstetrics — 8 July Morning Paper"
+  },
+  {
+    "systemSlug": "hematology-oncology",
+    "topicSlug": "anemia",
+    "stem": "A patient presents with a microcytic, hypochromic anemia. Serum ferritin is low. Which of the following is the most likely diagnosis?",
+    "options": [
+      "Thalassemia major",
+      "Sideroblastic anemia",
+      "Iron deficiency anemia",
+      "Anemia of chronic disease"
+    ],
+    "correctIndex": 2,
+    "explanation": "Low ferritin is a highly specific marker of depleted iron stores and is the key finding that distinguishes iron deficiency anemia from the other microcytic anemias: thalassemia and sideroblastic anemia typically show normal or elevated ferritin with adequate or excess iron stores, and anemia of chronic disease shows normal or elevated ferritin due to iron sequestration by hepcidin.",
+    "optionExplanations": [
+      "Thalassemia major shows normal or elevated ferritin with iron overload, not a low ferritin.",
+      "Sideroblastic anemia shows elevated ferritin and iron overload from defective heme synthesis, not low ferritin.",
+      "",
+      "Anemia of chronic disease shows normal or elevated ferritin due to hepcidin-mediated iron sequestration, not a low ferritin."
+    ],
+    "source": "Gynecology & Obstetrics — 8 July Morning Paper"
+  },
+  {
+    "systemSlug": "microbiology",
+    "topicSlug": "mycobacteria-atypical-bacteria",
+    "stem": "A patient with tuberculous cervical lymphadenitis develops a swelling along the posterior border of the sternocleidomastoid muscle. Infection has spread through which deep fascial space?",
+    "options": [
+      "Prevertebral space",
+      "Retropharyngeal space",
+      "Carotid space",
+      "Submandibular space"
+    ],
+    "correctIndex": 0,
+    "explanation": "The prevertebral layer of deep cervical fascia covers the scalene and prevertebral muscles; infection or cold abscesses from tuberculous cervical vertebrae tract into this space behind the sternocleidomastoid muscle.",
+    "optionExplanations": [
+      "",
+      "The retropharyngeal space lies anterior to the prevertebral space and is a related but distinct potential space.",
+      "The carotid space contains the great vessels and is not the classic route for prevertebral TB spread.",
+      "The submandibular space lies anteriorly near the floor of the mouth, unrelated to this posterior SCM-border swelling."
+    ],
+    "source": "Gynecology & Obstetrics — 8 July Morning Paper"
+  },
+  {
+    "systemSlug": "nervous-system",
+    "topicSlug": "stroke",
+    "stem": "The occipital lobe is primarily supplied by which artery?",
+    "options": [
+      "Middle cerebral artery",
+      "Anterior cerebral artery",
+      "Posterior cerebral artery",
+      "Basilar artery"
+    ],
+    "correctIndex": 2,
+    "explanation": "The posterior cerebral artery, arising from the basilar artery, is the primary supply to the occipital lobe, including the visual cortex.",
+    "optionExplanations": [
+      "The middle cerebral artery supplies the lateral frontal, parietal, and temporal lobes, not primarily the occipital lobe.",
+      "The anterior cerebral artery supplies the medial frontal and parietal lobes, not the occipital lobe.",
+      "",
+      "The basilar artery is the parent trunk that gives rise to the posterior cerebral arteries but does not itself directly supply the occipital cortex."
+    ],
+    "source": "Gynecology & Obstetrics — 8 July Morning Paper"
+  },
+  {
+    "systemSlug": "nervous-system",
+    "topicSlug": "neuroanatomy-embryology",
+    "stem": "A lesion involving Meyer's loop produces which visual field defect?",
+    "options": [
+      "Bitemporal hemianopia",
+      "Left homonymous hemianopia",
+      "Contralateral superior quadrantanopia (\"pie in the sky\")",
+      "Contralateral inferior quadrantanopia"
+    ],
+    "correctIndex": 2,
+    "explanation": "Meyer's loop contains optic radiation fibers that sweep forward around the temporal horn of the lateral ventricle, carrying information from the inferior retina (superior visual field); damage here produces a contralateral superior quadrantanopia, the classic \"pie-in-the-sky\" defect.",
+    "optionExplanations": [
+      "Bitemporal hemianopia results from optic chiasm compression, not a Meyer's loop lesion.",
+      "A full homonymous hemianopia results from complete optic tract or occipital lesions, not an isolated Meyer's loop lesion.",
+      "",
+      "Meyer's loop carries inferior retinal (superior visual field) fibers, producing a superior, not inferior, quadrantanopia when damaged."
+    ],
+    "source": "Gynecology & Obstetrics — 8 July Morning Paper"
+  },
+  {
+    "systemSlug": "endocrine",
+    "topicSlug": "pituitary-disorders",
+    "stem": "A patient with a pituitary macroadenoma develops compression of the optic chiasm. Which visual field defect is most likely?",
+    "options": [
+      "Homonymous hemianopia",
+      "Monocular blindness",
+      "Bitemporal hemianopia",
+      "Contralateral superior quadrantanopia"
+    ],
+    "correctIndex": 2,
+    "explanation": "The optic chiasm carries decussating fibers from the nasal retina of both eyes (representing the temporal visual fields); a pituitary mass compressing the chiasm from below classically produces bitemporal hemianopia.",
+    "optionExplanations": [
+      "Homonymous hemianopia results from a lesion posterior to the chiasm (optic tract or beyond), not chiasmal compression.",
+      "Monocular blindness results from a lesion of one optic nerve anterior to the chiasm, not chiasmal compression.",
+      "",
+      "Contralateral superior quadrantanopia results from a temporal lobe (Meyer's loop) lesion, not chiasmal compression."
+    ],
+    "source": "Gynecology & Obstetrics — 8 July Morning Paper"
+  },
+  {
+    "systemSlug": "reproductive-health",
+    "topicSlug": "reproductive-pharmacology",
+    "stem": "A 52-year-old woman is diagnosed with estrogen receptor (ER)-positive and progesterone receptor (PR)-positive breast carcinoma. Which drug is most appropriate as hormonal therapy?",
+    "options": [
+      "Trastuzumab",
+      "Tamoxifen",
+      "Methotrexate",
+      "Bevacizumab"
+    ],
+    "correctIndex": 1,
+    "explanation": "Tamoxifen, a selective estrogen receptor modulator (SERM), is the standard hormonal therapy for ER-positive breast cancer; trastuzumab instead targets HER2-positive tumors, and methotrexate and bevacizumab are not hormonal therapies.",
+    "optionExplanations": [
+      "Trastuzumab targets HER2-positive breast cancer, not ER/PR receptor-positive status.",
+      "",
+      "Methotrexate is a cytotoxic chemotherapy agent, not a hormonal therapy.",
+      "Bevacizumab is an anti-VEGF antiangiogenic agent, not a hormonal therapy."
+    ],
+    "source": "Gynecology & Obstetrics — 8 July Morning Paper"
+  },
+  {
+    "systemSlug": "renal",
+    "topicSlug": "glomerular-disease",
+    "stem": "A patient with nephrotic syndrome develops generalized edema. What is the primary mechanism responsible?",
+    "options": [
+      "Increased hydrostatic pressure",
+      "Increased capillary permeability",
+      "Lymphatic obstruction",
+      "Decreased plasma oncotic pressure"
+    ],
+    "correctIndex": 3,
+    "explanation": "Nephrotic syndrome results in massive proteinuria (loss of albumin), which drops intravascular plasma oncotic pressure and allows fluid to shift out into the interstitial space, producing generalized edema.",
+    "optionExplanations": [
+      "Increased hydrostatic pressure is the mechanism of cardiac (not nephrotic) edema.",
+      "Increased capillary permeability underlies inflammatory or allergic edema, not the classic nephrotic mechanism.",
+      "Lymphatic obstruction causes localized lymphedema, not the generalized edema of nephrotic syndrome.",
+      ""
+    ],
+    "source": "Gynecology & Obstetrics — 8 July Morning Paper"
+  },
+  {
+    "systemSlug": "cardiovascular",
+    "topicSlug": "heart-failure",
+    "stem": "A patient with congestive heart failure and hypertension presents with generalized edema. Which mechanism is primarily responsible?",
+    "options": [
+      "Decreased plasma oncotic pressure",
+      "Increased capillary permeability",
+      "Increased hydrostatic pressure",
+      "Lymphatic obstruction"
+    ],
+    "correctIndex": 2,
+    "explanation": "Congestive heart failure leads to backup of blood and venous congestion, raising capillary hydrostatic pressure and forcing fluid into tissue spaces.",
+    "optionExplanations": [
+      "Decreased oncotic pressure is the mechanism in nephrotic syndrome or liver failure, not heart failure.",
+      "Increased capillary permeability underlies inflammatory edema, not the venous congestion of heart failure.",
+      "",
+      "Lymphatic obstruction causes localized lymphedema, not the generalized edema of heart failure."
+    ],
+    "source": "Gynecology & Obstetrics — 8 July Morning Paper"
+  },
+  {
+    "systemSlug": "cardiovascular",
+    "topicSlug": "cardiac-hemodynamics",
+    "stem": "Which of the following is the most likely cause of localized (rather than generalized) edema?",
+    "options": [
+      "Nephrotic syndrome",
+      "Congestive heart failure",
+      "Liver cirrhosis",
+      "Malignancy or infection causing lymphatic obstruction/inflammation"
+    ],
+    "correctIndex": 3,
+    "explanation": "Localized edema is confined to a specific tissue bed or limb and is caused by localized factors such as lymphatic blockade (lymphedema) or local vascular inflammation, unlike the generalized edema of nephrotic syndrome, heart failure, or cirrhosis.",
+    "optionExplanations": [
+      "Nephrotic syndrome causes generalized, not localized, edema from hypoalbuminemia.",
+      "Congestive heart failure causes generalized (often dependent) edema, not localized edema.",
+      "Liver cirrhosis causes generalized edema and ascites from hypoalbuminemia/portal hypertension, not localized edema.",
+      ""
+    ],
+    "source": "Gynecology & Obstetrics — 8 July Morning Paper"
+  },
+  {
+    "systemSlug": "endocrine",
+    "topicSlug": "hormone-physiology-signaling",
+    "stem": "The enzyme 5-alpha-reductase catalyzes the conversion of which of the following?",
+    "options": [
+      "Testosterone to estrogen",
+      "Testosterone to dihydrotestosterone (DHT)",
+      "DHEA to testosterone",
+      "Androstenedione to estrogen"
+    ],
+    "correctIndex": 1,
+    "explanation": "5-alpha-reductase converts testosterone into dihydrotestosterone (DHT), a much more potent androgen responsible for male external genitalia development and prostate growth.",
+    "optionExplanations": [
+      "5-alpha-reductase does not convert testosterone to estrogen; that is the role of aromatase.",
+      "",
+      "DHEA to testosterone conversion involves other enzymes (17beta-HSD), not 5-alpha-reductase.",
+      "Androstenedione to estrogen conversion is catalyzed by aromatase, not 5-alpha-reductase."
+    ],
+    "source": "Gynecology & Obstetrics — 8 July Morning Paper"
+  },
+  {
+    "systemSlug": "reproductive-health",
+    "topicSlug": "pregnancy-antenatal-care",
+    "stem": "During pregnancy, what is the major source of estrogen?",
+    "options": [
+      "Maternal ovary",
+      "Corpus luteum throughout pregnancy",
+      "Placenta",
+      "Fetal adrenal gland"
+    ],
+    "correctIndex": 2,
+    "explanation": "While the corpus luteum maintains early pregnancy, the syncytiotrophoblast of the placenta becomes the main producer of progesterone and estrogens (especially estriol) after 8-10 weeks of gestation.",
+    "optionExplanations": [
+      "The maternal ovary's contribution becomes minor after early pregnancy, once the placenta takes over.",
+      "The corpus luteum supports early pregnancy but regresses after about 8-10 weeks, handing over estrogen/progesterone production to the placenta.",
+      "",
+      "The fetal adrenal gland supplies precursor androgens (DHEA-S) for placental estrogen synthesis but is not itself the major source of estrogen."
+    ],
+    "source": "Gynecology & Obstetrics — 8 July Morning Paper"
+  },
+  {
+    "systemSlug": "reproductive-health",
+    "topicSlug": "reproductive-anatomy-embryology",
+    "stem": "During a pudendal nerve block, the nerve is identified in relation to which structure?",
+    "options": [
+      "Ischial spine",
+      "Ischial tuberosity",
+      "Pubic symphysis",
+      "Sacral promontory"
+    ],
+    "correctIndex": 0,
+    "explanation": "The pudendal nerve passes just medial to the ischial spine as it exits the pelvis, making the ischial spine the key bony landmark for pudendal nerve block during labor.",
+    "optionExplanations": [
+      "",
+      "The ischial tuberosity is a palpable landmark but not the one used to locate the pudendal nerve for the block.",
+      "The pubic symphysis is an anterior midline landmark unrelated to pudendal nerve location.",
+      "The sacral promontory is a posterior pelvic inlet landmark unrelated to pudendal nerve block technique."
+    ],
+    "source": "Gynecology & Obstetrics — 8 July Morning Paper"
+  },
+  {
+    "systemSlug": "reproductive-health",
+    "topicSlug": "labor-delivery-complications",
+    "stem": "Epidural anesthesia during spontaneous vaginal delivery primarily blocks which nerve roots?",
+    "options": [
+      "Pudendal nerve roots only",
+      "T10-S5 nerve roots",
+      "L1-L2 only",
+      "S2-S4 only"
+    ],
+    "correctIndex": 1,
+    "explanation": "T10 to L1 nerve roots carry visceral pain from uterine contractions during the first stage of labor, while S2 to S5 roots block somatic pain from vaginal and perineal stretching during the second stage; a labor epidural is titrated to cover this full T10-S5 range.",
+    "optionExplanations": [
+      "Pudendal block alone covers only perineal (S2-S4) pain, not the visceral uterine pain of the first stage covered by a full labor epidural.",
+      "",
+      "L1-L2 alone would not cover the sacral roots needed for perineal/vaginal pain during the second stage.",
+      "S2-S4 alone would not cover the visceral uterine contraction pain carried by the T10-L1 roots during the first stage."
+    ],
+    "source": "Gynecology & Obstetrics — 8 July Morning Paper"
+  },
+  {
+    "systemSlug": "endocrine",
+    "topicSlug": "thyroid-disorders",
+    "stem": "During the first trimester of pregnancy, TSH is usually:",
+    "options": [
+      "Increased",
+      "Suppressed (low)",
+      "Unchanged",
+      "Extremely elevated"
+    ],
+    "correctIndex": 1,
+    "explanation": "Human chorionic gonadotropin (hCG) shares a structural alpha-subunit with TSH and weakly stimulates the thyroid gland, leading to transiently high free T4 levels and a physiological suppression of serum TSH during the first trimester.",
+    "optionExplanations": [
+      "TSH is suppressed, not increased, in the first trimester due to hCG's thyroid-stimulating cross-reactivity.",
+      "",
+      "TSH characteristically changes (falls) rather than staying unchanged during the first trimester.",
+      "TSH is mildly suppressed, not extremely elevated, in normal first-trimester physiology."
+    ],
+    "source": "Gynecology & Obstetrics — 8 July Morning Paper"
+  },
+  {
+    "systemSlug": "reproductive-health",
+    "topicSlug": "menstrual-cycle-physiology",
+    "stem": "Eumenorrhea refers to:",
+    "options": [
+      "Painful menstruation",
+      "Normal, regular menstruation",
+      "Heavy menstrual bleeding",
+      "Absence of menstruation"
+    ],
+    "correctIndex": 1,
+    "explanation": "The prefix \"eu-\" means normal or well; eumenorrhea describes a normal, healthy, regular menstrual pattern.",
+    "optionExplanations": [
+      "Painful menstruation is dysmenorrhea, a distinct term from eumenorrhea.",
+      "",
+      "Heavy menstrual bleeding is menorrhagia, not eumenorrhea.",
+      "Absence of menstruation is amenorrhea, the opposite of eumenorrhea."
+    ],
+    "source": "Gynecology & Obstetrics — 8 July Morning Paper"
+  },
+  {
+    "systemSlug": "endocrine",
+    "topicSlug": "thyroid-disorders",
+    "stem": "A first-trimester pregnant woman has positive TPO antibodies, low T4, and elevated TSH. What is the diagnosis?",
+    "options": [
+      "Subclinical hypothyroidism",
+      "Overt hypothyroidism",
+      "Hyperthyroidism",
+      "Euthyroid state"
+    ],
+    "correctIndex": 1,
+    "explanation": "An elevated TSH paired with a frankly low free T4 level establishes overt hypothyroidism; the presence of anti-TPO antibodies confirms Hashimoto's thyroiditis as the underlying autoimmune cause.",
+    "optionExplanations": [
+      "Subclinical hypothyroidism by definition has a normal (not low) free T4, unlike this patient's low T4.",
+      "",
+      "Hyperthyroidism would show a suppressed TSH with elevated, not low, T4.",
+      "A euthyroid state would show normal TSH and T4, not an elevated TSH with low T4."
+    ],
+    "source": "Gynecology & Obstetrics — 8 July Morning Paper"
+  },
+  {
+    "systemSlug": "musculoskeletal",
+    "topicSlug": "msk-anatomy-embryology",
+    "stem": "A scaphoid fracture most commonly compromises blood supply to which region of the bone?",
+    "options": [
+      "Distal pole",
+      "Proximal pole",
+      "Waist only",
+      "Tubercle"
+    ],
+    "correctIndex": 1,
+    "explanation": "The scaphoid receives its blood supply from distal to proximal via a retrograde flow network; a fracture through the waist cuts off the blood supply to the isolated proximal pole, making it vulnerable to avascular necrosis (AVN).",
+    "optionExplanations": [
+      "The distal pole receives the initial blood supply and is not the region rendered ischemic after fracture.",
+      "",
+      "\"Waist only\" is imprecise; the waist is the fracture site, but it is the isolated proximal pole beyond it that loses blood supply.",
+      "The tubercle is a palpable bony prominence, not the region classically at risk of avascular necrosis."
+    ],
+    "source": "Gynecology & Obstetrics — 8 July Morning Paper"
+  },
+  {
+    "systemSlug": "musculoskeletal",
+    "topicSlug": "fractures-metabolic-bone",
+    "stem": "The classic triad of fat embolism includes:",
+    "options": [
+      "Fever, jaundice, hypotension",
+      "Dyspnea, neurological signs, petechial rash",
+      "Hematuria, edema, hypertension",
+      "Cough, hemoptysis, cyanosis"
+    ],
+    "correctIndex": 1,
+    "explanation": "Fat embolism syndrome classically presents with a triad of respiratory distress (dyspnea), neurological signs (confusion, altered consciousness), and a petechial rash.",
+    "optionExplanations": [
+      "Fever, jaundice, and hypotension are not the classic triad of fat embolism syndrome.",
+      "",
+      "Hematuria, edema, and hypertension describe a renal/glomerular picture, not fat embolism syndrome.",
+      "Cough, hemoptysis, and cyanosis are not the classic triad; petechial rash and neurological signs are the distinguishing features instead."
+    ],
+    "source": "Gynecology & Obstetrics — 8 July Morning Paper"
+  },
+  {
+    "systemSlug": "musculoskeletal",
+    "topicSlug": "fractures-metabolic-bone",
+    "stem": "Fat embolism usually develops within what time frame after injury?",
+    "options": [
+      "Immediately after fracture",
+      "24-72 hours after injury",
+      "7 days after injury",
+      "2 weeks after injury"
+    ],
+    "correctIndex": 1,
+    "explanation": "Fat embolism syndrome classically presents 24-72 hours after a long-bone fracture or major orthopedic trauma, not immediately.",
+    "optionExplanations": [
+      "Immediate onset would suggest a different diagnosis (such as air embolism), as fat embolism has a characteristic delay.",
+      "",
+      "7 days is longer than the classic 24-72 hour window for fat embolism syndrome onset.",
+      "2 weeks is far later than the typical onset window for fat embolism syndrome."
+    ],
+    "source": "Gynecology & Obstetrics — 8 July Morning Paper"
+  },
+  {
+    "systemSlug": "musculoskeletal",
+    "topicSlug": "fractures-metabolic-bone",
+    "stem": "Management of fat embolism syndrome is primarily:",
+    "options": [
+      "Anticoagulation",
+      "Surgical embolectomy",
+      "Supportive care",
+      "Thrombolysis"
+    ],
+    "correctIndex": 2,
+    "explanation": "There is no definitive medical or targeted pharmacological treatment for fat embolism; care relies strictly on high-quality supportive measures, focused on oxygenation, mechanical ventilation if necessary, and maintaining hemodynamic stability.",
+    "optionExplanations": [
+      "Anticoagulation is not indicated, as fat embolism is not primarily a thrombotic process.",
+      "Surgical embolectomy is not feasible or indicated for microscopic fat globules dispersed in the pulmonary microcirculation.",
+      "",
+      "Thrombolysis targets fibrin clots and has no role in dissolving fat emboli."
+    ],
+    "source": "Gynecology & Obstetrics — 8 July Morning Paper"
+  },
+  {
+    "systemSlug": "microbiology",
+    "topicSlug": "mycobacteria-atypical-bacteria",
+    "stem": "Central caseous necrosis is characteristic of which disease?",
+    "options": [
+      "Sarcoidosis",
+      "Tuberculosis",
+      "Syphilis",
+      "Crohn disease"
+    ],
+    "correctIndex": 1,
+    "explanation": "Caseous necrosis, with its characteristic cheese-like, friable appearance, is the hallmark of tuberculous granulomas, distinguishing them from the typically non-caseating granulomas of sarcoidosis and Crohn disease.",
+    "optionExplanations": [
+      "Sarcoidosis classically forms non-caseating granulomas, not central caseous necrosis.",
+      "",
+      "Syphilis (gummas) shows a different necrosis pattern with distinct histology, not classic TB-type caseation.",
+      "Crohn disease also classically forms non-caseating granulomas, distinguishing it from TB."
+    ],
+    "source": "Gynecology & Obstetrics — 8 July Morning Paper"
+  }
+]

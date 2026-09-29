@@ -1,0 +1,2904 @@
+[
+  {
+    "systemSlug": "microbiology",
+    "topicSlug": "virology",
+    "stem": "A woman is diagnosed with cervical carcinoma caused by high-risk human papillomavirus (HPV). Which viral protein is responsible for inactivation of the retinoblastoma (Rb) tumor suppressor gene?",
+    "options": [
+      "E1",
+      "E2",
+      "E6",
+      "E7"
+    ],
+    "correctIndex": 3,
+    "explanation": "High-risk HPV types produce the E6 and E7 oncoproteins. E7 binds and inactivates the Rb tumor suppressor protein, releasing E2F transcription factors and driving uncontrolled cell-cycle progression, while E6 instead promotes degradation of p53.",
+    "optionExplanations": [
+      "E1 is involved in viral DNA replication, not Rb inactivation.",
+      "E2 regulates viral transcription and represses E6/E7 expression; it does not inactivate Rb.",
+      "E6 promotes p53 degradation, not Rb inactivation.",
+      ""
+    ],
+    "source": "Internal Medicine — 10 July Morning Paper"
+  },
+  {
+    "systemSlug": "nervous-system",
+    "topicSlug": "peripheral-nerve-neuromuscular",
+    "stem": "A young woman presents with fluctuating muscle weakness that worsens with activity and improves with rest. What is the underlying mechanism of her disease?",
+    "options": [
+      "Presynaptic calcium channel antibodies",
+      "Postsynaptic acetylcholine receptor antibodies",
+      "Demyelination of peripheral nerves",
+      "Acetylcholinesterase deficiency"
+    ],
+    "correctIndex": 1,
+    "explanation": "Myasthenia gravis is caused by autoantibodies directed against postsynaptic nicotinic acetylcholine receptors at the neuromuscular junction. This impairs neuromuscular transmission, producing fatigable muscle weakness that worsens with repeated use and improves with rest.",
+    "optionExplanations": [
+      "Presynaptic calcium channel antibodies cause Lambert-Eaton myasthenic syndrome, which improves rather than worsens with repeated activity.",
+      "",
+      "Demyelination of peripheral nerves causes conditions like Guillain-Barre syndrome, not a fatigable neuromuscular junction disorder.",
+      "Acetylcholinesterase deficiency would increase, not decrease, synaptic acetylcholine and is not the mechanism of myasthenia gravis."
+    ],
+    "source": "Internal Medicine — 10 July Morning Paper"
+  },
+  {
+    "systemSlug": "microbiology",
+    "topicSlug": "virology",
+    "stem": "A college student presents with fever, sore throat, and posterior cervical lymphadenopathy. Which is the most appropriate initial screening test for Epstein-Barr virus (EBV) infection?",
+    "options": [
+      "EBV PCR",
+      "Monospot test",
+      "Viral culture",
+      "Paul-Bunnell test"
+    ],
+    "correctIndex": 1,
+    "explanation": "The Monospot test detects heterophile antibodies and is the preferred initial screening test for infectious mononucleosis. EBV-specific serology can confirm the diagnosis when the Monospot test is negative but suspicion remains high.",
+    "optionExplanations": [
+      "EBV PCR is not the standard initial screening test; it is reserved for atypical or immunocompromised presentations.",
+      "",
+      "Viral culture is slow and technically difficult, and is not used for routine diagnosis of EBV.",
+      "The Paul-Bunnell tube test is the older heterophile antibody assay that has largely been replaced by the more convenient Monospot slide test."
+    ],
+    "source": "Internal Medicine — 10 July Morning Paper"
+  },
+  {
+    "systemSlug": "hematology-oncology",
+    "topicSlug": "hematopoiesis-blood-physiology",
+    "stem": "A patient with infectious mononucleosis has atypical lymphocytes on peripheral blood smear. These cells are primarily:",
+    "options": [
+      "Infected B lymphocytes",
+      "Reactive CD8+ T lymphocytes",
+      "Plasma cells",
+      "Neutrophils"
+    ],
+    "correctIndex": 1,
+    "explanation": "EBV infects B lymphocytes through the CD21 receptor. The atypical lymphocytes seen on peripheral smear are activated CD8+ cytotoxic T cells responding to the infected B cells, not the infected cells themselves.",
+    "optionExplanations": [
+      "Infected B lymphocytes are the reservoir for EBV, but they are not the atypical cells seen on the smear.",
+      "",
+      "Plasma cells are terminally differentiated antibody-producing B cells, not the reactive lymphocytes of mononucleosis.",
+      "Neutrophils are not increased or morphologically altered in a characteristic way in infectious mononucleosis."
+    ],
+    "source": "Internal Medicine — 10 July Morning Paper"
+  },
+  {
+    "systemSlug": "nervous-system",
+    "topicSlug": "neuroanatomy-embryology",
+    "stem": "A patient develops ipsilateral loss of vibration sense and motor function with contralateral loss of pain and temperature sensation below the level of a spinal injury. Which syndrome is most likely?",
+    "options": [
+      "Central cord syndrome",
+      "Brown-Sequard syndrome",
+      "Anterior spinal artery syndrome",
+      "Syringomyelia"
+    ],
+    "correctIndex": 1,
+    "explanation": "Brown-Sequard syndrome results from hemisection of the spinal cord. It causes ipsilateral motor weakness and dorsal column loss (vibration and proprioception), with contralateral loss of pain and temperature sensation beginning a few segments below the lesion, since the spinothalamic tract has already crossed.",
+    "optionExplanations": [
+      "Central cord syndrome causes bilateral, upper-limb-predominant weakness with cape-like sensory loss, not the ipsilateral/contralateral pattern described.",
+      "",
+      "Anterior spinal artery syndrome causes bilateral motor and pain/temperature loss with preserved dorsal columns, not a hemicord pattern.",
+      "Syringomyelia produces bilateral, cape-like loss of pain and temperature, not the hemisection pattern described."
+    ],
+    "source": "Internal Medicine — 10 July Morning Paper"
+  },
+  {
+    "systemSlug": "microbiology",
+    "topicSlug": "fungal-infections",
+    "stem": "A patient presents with annular, scaly skin lesions with central clearing and a raised border. What is the most likely diagnosis?",
+    "options": [
+      "Psoriasis",
+      "Tinea corporis",
+      "Pityriasis rosea",
+      "Nummular eczema"
+    ],
+    "correctIndex": 1,
+    "explanation": "Tinea corporis is a dermatophyte fungal infection producing ring-shaped lesions with central clearing and a scaly, active border. Diagnosis is confirmed with a KOH preparation showing branching hyphae.",
+    "optionExplanations": [
+      "Psoriasis produces well-demarcated plaques with silvery scale on extensor surfaces, not annular lesions with central clearing.",
+      "",
+      "Pityriasis rosea produces a herald patch followed by a Christmas-tree distribution of oval lesions, not a single annular scaly plaque.",
+      "Nummular eczema produces coin-shaped, intensely itchy plaques without the active, scaly, advancing border typical of a dermatophyte."
+    ],
+    "source": "Internal Medicine — 10 July Morning Paper"
+  },
+  {
+    "systemSlug": "gastrointestinal",
+    "topicSlug": "gi-physiology",
+    "stem": "A patient with chronic diarrhea is suspected of having celiac disease. What is the expected D-xylose test result?",
+    "options": [
+      "Increased absorption",
+      "Normal absorption",
+      "Decreased absorption",
+      "Increased urinary glucose"
+    ],
+    "correctIndex": 2,
+    "explanation": "D-xylose is absorbed directly by the intestinal mucosa without requiring pancreatic enzymes. Decreased absorption points to mucosal disease such as celiac disease, whereas the test remains normal in pancreatic exocrine insufficiency.",
+    "optionExplanations": [
+      "D-xylose absorption is reduced, not increased, when the intestinal mucosa is diseased.",
+      "Normal absorption would suggest a pancreatic rather than a mucosal cause of malabsorption.",
+      "",
+      "Increased urinary glucose is not a feature of the D-xylose test, which measures xylose, not glucose, excretion."
+    ],
+    "source": "Internal Medicine — 10 July Morning Paper"
+  },
+  {
+    "systemSlug": "cardiovascular",
+    "topicSlug": "cardiac-pharmacology",
+    "stem": "Ivabradine is contraindicated in patients receiving which of the following drugs?",
+    "options": [
+      "Amlodipine",
+      "Verapamil",
+      "Digoxin",
+      "Hydrochlorothiazide"
+    ],
+    "correctIndex": 1,
+    "explanation": "Verapamil is a strong CYP3A4 inhibitor that raises ivabradine levels. Combined use can precipitate severe bradycardia and should be avoided.",
+    "optionExplanations": [
+      "Amlodipine is a dihydropyridine calcium channel blocker without significant CYP3A4 inhibition or additive sinus node suppression.",
+      "",
+      "Digoxin does not significantly inhibit CYP3A4 and is not specifically contraindicated with ivabradine.",
+      "Hydrochlorothiazide has no relevant pharmacokinetic interaction with ivabradine."
+    ],
+    "source": "Internal Medicine — 10 July Morning Paper"
+  },
+  {
+    "systemSlug": "microbiology",
+    "topicSlug": "parasitology",
+    "stem": "A patient is diagnosed with lymphatic filariasis caused by Wuchereria bancrofti. Which is the drug of choice?",
+    "options": [
+      "Albendazole",
+      "Mebendazole",
+      "Diethylcarbamazine",
+      "Praziquantel"
+    ],
+    "correctIndex": 2,
+    "explanation": "Diethylcarbamazine (DEC) is the drug of choice for lymphatic filariasis caused by Wuchereria bancrofti. It is effective against circulating microfilariae and some adult worms.",
+    "optionExplanations": [
+      "Albendazole is used as adjunct or alternative therapy but is not the drug of choice for lymphatic filariasis.",
+      "Mebendazole is used for intestinal nematodes, not for filarial infections.",
+      "",
+      "Praziquantel treats trematode and cestode infections such as schistosomiasis, not filariasis."
+    ],
+    "source": "Internal Medicine — 10 July Morning Paper"
+  },
+  {
+    "systemSlug": "cardiovascular",
+    "topicSlug": "ischemic-heart-disease",
+    "stem": "ST-segment elevation is present in leads II, III, and aVF. Which coronary artery is most likely occluded?",
+    "options": [
+      "Left anterior descending artery",
+      "Left circumflex artery",
+      "Right coronary artery",
+      "Posterior descending artery"
+    ],
+    "correctIndex": 2,
+    "explanation": "Inferior wall myocardial infarction presents with ST elevation in leads II, III, and aVF. The most common cause is occlusion of the right coronary artery (RCA), which also supplies the AV node in most individuals, explaining the frequent association with AV conduction abnormalities.",
+    "optionExplanations": [
+      "The LAD supplies the anterior wall and septum, producing anterior (V1-V4) ST elevation, not inferior.",
+      "The left circumflex supplies the lateral wall (leads I, aVL, V5-V6) in most patients, not the inferior leads.",
+      "",
+      "The posterior descending artery is typically a branch of the RCA itself, not the primary named vessel for this occlusion pattern."
+    ],
+    "source": "Internal Medicine — 10 July Morning Paper"
+  },
+  {
+    "systemSlug": "endocrine",
+    "topicSlug": "endocrine-anatomy-embryology",
+    "stem": "Monozygotic twins have one chorion and two amnions. During which period did embryonic division most likely occur?",
+    "options": [
+      "Days 1-3",
+      "Days 4-8",
+      "Days 8-13",
+      "After day 13"
+    ],
+    "correctIndex": 1,
+    "explanation": "Splitting between days 4 and 8 produces monochorionic-diamniotic twins, the most common type of monozygotic twinning. Earlier or later splitting results in different placental and amniotic arrangements (dichorionic-diamniotic before day 4, monochorionic-monoamniotic days 8-13, conjoined twins after day 13).",
+    "optionExplanations": [
+      "Splitting within the first 3 days, before the chorion forms, produces dichorionic-diamniotic twins.",
+      "",
+      "Splitting on days 8-13, after the amnion has formed, produces monochorionic-monoamniotic twins.",
+      "Splitting after day 13, once the embryonic disc has begun to form, produces conjoined twins."
+    ],
+    "source": "Internal Medicine — 10 July Morning Paper"
+  },
+  {
+    "systemSlug": "nervous-system",
+    "topicSlug": "neuropharmacology",
+    "stem": "Carbamazepine reduces the efficacy of many other drugs because it acts as a:",
+    "options": [
+      "CYP450 inhibitor",
+      "CYP450 inducer",
+      "Monoamine oxidase inhibitor",
+      "Acetylcholinesterase inhibitor"
+    ],
+    "correctIndex": 1,
+    "explanation": "Carbamazepine is a potent inducer of hepatic CYP450 enzymes. It accelerates the metabolism of many co-administered drugs, including warfarin, oral contraceptives, and corticosteroids, reducing their therapeutic effect.",
+    "optionExplanations": [
+      "Carbamazepine induces, rather than inhibits, hepatic CYP450 enzymes.",
+      "",
+      "Carbamazepine has no monoamine oxidase inhibitory activity.",
+      "Carbamazepine does not inhibit acetylcholinesterase; this is unrelated to its drug interaction profile."
+    ],
+    "source": "Internal Medicine — 10 July Morning Paper"
+  },
+  {
+    "systemSlug": "cardiovascular",
+    "topicSlug": "cardiac-electrophysiology-ecg",
+    "stem": "An ECG shows a negative QRS complex in lead I and a positive QRS complex in lead aVF. This finding most likely indicates:",
+    "options": [
+      "Left ventricular hypertrophy",
+      "Left axis deviation",
+      "Right axis deviation due to pulmonary hypertension",
+      "Hyperkalemia"
+    ],
+    "correctIndex": 2,
+    "explanation": "A negative QRS in lead I with a positive QRS in aVF places the electrical axis in the right axis deviation range. This pattern is classically associated with right ventricular hypertrophy from conditions such as pulmonary hypertension.",
+    "optionExplanations": [
+      "LVH typically produces high QRS voltage with a left, not right, axis and does not specifically produce this lead I/aVF pattern.",
+      "Left axis deviation would show a positive QRS in lead I and negative in aVF, the opposite of the pattern described.",
+      "",
+      "Hyperkalemia causes peaked T waves and a widened QRS, not a specific right axis pattern."
+    ],
+    "source": "Internal Medicine — 10 July Morning Paper"
+  },
+  {
+    "systemSlug": "musculoskeletal",
+    "topicSlug": "msk-anatomy-embryology",
+    "stem": "The biceps brachii muscle is supplied by which nerve?",
+    "options": [
+      "Radial nerve",
+      "Median nerve",
+      "Ulnar nerve",
+      "Musculocutaneous nerve"
+    ],
+    "correctIndex": 3,
+    "explanation": "The musculocutaneous nerve (C5-C6) supplies the biceps brachii, brachialis, and coracobrachialis muscles. It is responsible for elbow flexion and forearm supination; injury weakens these movements.",
+    "optionExplanations": [
+      "The radial nerve supplies the posterior (extensor) compartment of the arm, not the biceps.",
+      "The median nerve does not innervate any muscle of the anterior arm compartment.",
+      "The ulnar nerve supplies forearm and hand intrinsic muscles, not the biceps brachii.",
+      ""
+    ],
+    "source": "Internal Medicine — 10 July Morning Paper"
+  },
+  {
+    "systemSlug": "microbiology",
+    "topicSlug": "antimicrobial-pharmacology",
+    "stem": "A patient receiving antituberculous therapy develops psychosis, peripheral neuropathy, hepatitis, and a lupus-like syndrome. Which drug is most likely responsible?",
+    "options": [
+      "Rifampicin",
+      "Pyrazinamide",
+      "Isoniazid",
+      "Ethambutol"
+    ],
+    "correctIndex": 2,
+    "explanation": "Isoniazid can cause psychosis, peripheral neuropathy, hepatitis, and drug-induced lupus. Pyridoxine (vitamin B6) supplementation helps prevent the neuropathy but does not prevent the lupus-like syndrome.",
+    "optionExplanations": [
+      "Rifampicin causes hepatotoxicity and a flu-like reaction, but not psychosis, peripheral neuropathy, or a lupus-like syndrome.",
+      "Pyrazinamide is classically associated with hepatotoxicity and hyperuricemia, not psychosis or drug-induced lupus.",
+      "",
+      "Ethambutol is classically associated with optic neuritis, not psychosis or a lupus-like syndrome."
+    ],
+    "source": "Internal Medicine — 10 July Morning Paper"
+  },
+  {
+    "systemSlug": "respiratory",
+    "topicSlug": "pulmonary-vascular-interstitial",
+    "stem": "In sarcoidosis, which cytokine directly activates macrophages to form granulomas?",
+    "options": [
+      "IL-4",
+      "IL-10",
+      "IFN-gamma",
+      "TNF-beta"
+    ],
+    "correctIndex": 2,
+    "explanation": "Th1 lymphocytes produce interferon-gamma (IFN-gamma), which activates macrophages. Activated macrophages aggregate to form the non-caseating granulomas characteristic of sarcoidosis.",
+    "optionExplanations": [
+      "IL-4 drives Th2 responses and B-cell class switching, not macrophage activation for granuloma formation.",
+      "IL-10 is an anti-inflammatory cytokine that suppresses, rather than activates, macrophages.",
+      "",
+      "TNF-beta (lymphotoxin) is not the principal macrophage-activating cytokine in sarcoid granuloma formation; IFN-gamma is."
+    ],
+    "source": "Internal Medicine — 10 July Morning Paper"
+  },
+  {
+    "systemSlug": "nervous-system",
+    "topicSlug": "neuroanatomy-embryology",
+    "stem": "A patient speaks fluently but produces meaningless sentences and has poor comprehension. Which condition is most likely?",
+    "options": [
+      "Broca aphasia",
+      "Wernicke aphasia",
+      "Global aphasia",
+      "Conduction aphasia"
+    ],
+    "correctIndex": 1,
+    "explanation": "Wernicke aphasia results from a lesion in the dominant temporal lobe. Speech remains fluent but lacks meaning, comprehension is impaired, and repetition is also affected.",
+    "optionExplanations": [
+      "Broca aphasia produces non-fluent, effortful speech with relatively preserved comprehension, the opposite pattern.",
+      "",
+      "Global aphasia severely impairs both fluency and comprehension, not isolated comprehension loss with fluent speech.",
+      "Conduction aphasia produces fluent speech with intact comprehension but a disproportionate repetition deficit from arcuate fasciculus damage."
+    ],
+    "source": "Internal Medicine — 10 July Morning Paper"
+  },
+  {
+    "systemSlug": "microbiology",
+    "topicSlug": "gram-negative-bacteria",
+    "stem": "Deficiency of complement components C5-C9 predisposes patients to recurrent infections with which organism?",
+    "options": [
+      "Streptococcus pneumoniae",
+      "Haemophilus influenzae",
+      "Neisseria species",
+      "Staphylococcus aureus"
+    ],
+    "correctIndex": 2,
+    "explanation": "Complement components C5-C9 form the membrane attack complex (MAC). Deficiency of these components impairs direct lysis of gram-negative diplococci, predisposing to recurrent infection with Neisseria meningitidis and Neisseria gonorrhoeae.",
+    "optionExplanations": [
+      "Streptococcus pneumoniae susceptibility is more classically linked to early complement or antibody/splenic dysfunction, not C5-C9 deficiency.",
+      "Haemophilus influenzae susceptibility is more associated with antibody or splenic dysfunction than terminal complement deficiency.",
+      "",
+      "Staphylococcus aureus is not the organism classically associated with membrane attack complex deficiency."
+    ],
+    "source": "Internal Medicine — 10 July Morning Paper"
+  },
+  {
+    "systemSlug": "gastrointestinal",
+    "topicSlug": "gi-anatomy-embryology",
+    "stem": "Which anatomical structure lies superior to the midpoint of the inguinal ligament and lateral to the inferior epigastric vessels?",
+    "options": [
+      "Superficial inguinal ring",
+      "Deep inguinal ring",
+      "Femoral canal",
+      "Saphenous opening"
+    ],
+    "correctIndex": 1,
+    "explanation": "The deep inguinal ring lies superior to the midpoint of the inguinal ligament and lateral to the inferior epigastric vessels. It is the entrance to the inguinal canal for indirect inguinal hernias.",
+    "optionExplanations": [
+      "The superficial inguinal ring is the medial exit point of the inguinal canal, not the described lateral landmark.",
+      "",
+      "The femoral canal lies below the inguinal ligament, medial to the femoral vein, not superior to the ligament.",
+      "The saphenous opening is in the fascia lata of the thigh, unrelated to the inguinal ligament landmark described."
+    ],
+    "source": "Internal Medicine — 10 July Morning Paper"
+  },
+  {
+    "systemSlug": "gastrointestinal",
+    "topicSlug": "pancreatic-disease",
+    "stem": "A patient presents with severe epigastric pain radiating to the back. Serum amylase is normal, but acute pancreatitis is still strongly suspected. Which investigation is most helpful?",
+    "options": [
+      "Serum amylase",
+      "Serum lipase",
+      "Plain abdominal X-ray",
+      "Serum bilirubin"
+    ],
+    "correctIndex": 1,
+    "explanation": "Serum lipase is more sensitive and specific than amylase for acute pancreatitis and remains elevated for a longer duration, making it especially useful in later presentations when amylase may have already normalized.",
+    "optionExplanations": [
+      "Serum amylase is less specific and returns to normal sooner than lipase, making it a poor choice when already normal.",
+      "",
+      "Plain abdominal X-ray has low sensitivity for pancreatitis and does not directly confirm the diagnosis.",
+      "Serum bilirubin reflects biliary obstruction, not pancreatic inflammation."
+    ],
+    "source": "Internal Medicine — 10 July Morning Paper"
+  },
+  {
+    "systemSlug": "gastrointestinal",
+    "topicSlug": "gi-pharmacology",
+    "stem": "A patient develops profuse foul-smelling diarrhea after receiving broad-spectrum antibiotics. Colonoscopy shows pseudomembranes. What is the treatment of choice?",
+    "options": [
+      "Oral metronidazole only",
+      "Oral vancomycin",
+      "Ciprofloxacin",
+      "Ceftriaxone"
+    ],
+    "correctIndex": 1,
+    "explanation": "Broad-spectrum antibiotics predispose to Clostridioides difficile overgrowth. Its toxins produce pseudomembranous colitis with profuse diarrhea. Oral vancomycin is the first-line treatment; severe cases may require additional intravenous metronidazole.",
+    "optionExplanations": [
+      "Oral metronidazole is now considered inferior to oral vancomycin as first-line therapy, though IV metronidazole may be added in severe disease.",
+      "",
+      "Ciprofloxacin has no activity against Clostridioides difficile and is a recognized precipitant of the infection.",
+      "Ceftriaxone is a broad-spectrum antibiotic that predisposes to, rather than treats, C. difficile colitis."
+    ],
+    "source": "Internal Medicine — 10 July Morning Paper"
+  },
+  {
+    "systemSlug": "cardiovascular",
+    "topicSlug": "cardiomyopathy-pericardial-disease",
+    "stem": "A young adult develops chest pain a few days after recovering from a viral upper respiratory tract infection. The pain is not related to respiration. What is the most likely diagnosis?",
+    "options": [
+      "Acute pericarditis",
+      "Viral myocarditis",
+      "Stable angina",
+      "Pulmonary embolism"
+    ],
+    "correctIndex": 1,
+    "explanation": "Viral myocarditis commonly follows a viral illness, especially Coxsackie B infection. Chest pain is usually non-pleuritic and may be associated with arrhythmias or heart failure, distinguishing it from pericarditis, which typically causes pleuritic/positional pain.",
+    "optionExplanations": [
+      "Acute pericarditis typically causes sharp, pleuritic, positional chest pain, unlike the non-pleuritic pain described.",
+      "",
+      "Stable angina is exertional and related to fixed coronary atherosclerosis, unlikely in a young patient after a viral illness.",
+      "Pulmonary embolism classically causes pleuritic pain and dyspnea, not the described non-pleuritic post-viral pain."
+    ],
+    "source": "Internal Medicine — 10 July Morning Paper"
+  },
+  {
+    "systemSlug": "endocrine",
+    "topicSlug": "thyroid-disorders",
+    "stem": "A woman being evaluated for infertility has a TSH level of 12 mIU/L with normal T3 and T4 levels. What is the most likely diagnosis?",
+    "options": [
+      "Secondary hypothyroidism",
+      "Hyperthyroidism",
+      "Subclinical hypothyroidism",
+      "Panhypopituitarism"
+    ],
+    "correctIndex": 2,
+    "explanation": "An elevated TSH with normal thyroid hormone levels indicates subclinical hypothyroidism, which may contribute to infertility and menstrual disturbances. Levothyroxine may be indicated in selected patients.",
+    "optionExplanations": [
+      "Secondary hypothyroidism results from pituitary failure and would present with a low or inappropriately normal TSH, not an elevated one.",
+      "Hyperthyroidism would show a suppressed TSH with elevated, not normal, thyroid hormone levels.",
+      "",
+      "Panhypopituitarism would produce deficiency of multiple pituitary hormones with a low, not elevated, TSH."
+    ],
+    "source": "Internal Medicine — 10 July Morning Paper"
+  },
+  {
+    "systemSlug": "nervous-system",
+    "topicSlug": "cns-infections",
+    "stem": "A young patient presents with fever, neck stiffness, altered consciousness, and a petechial rash. What is the most likely causative organism?",
+    "options": [
+      "Streptococcus pneumoniae",
+      "Haemophilus influenzae",
+      "Neisseria meningitidis",
+      "Listeria monocytogenes"
+    ],
+    "correctIndex": 2,
+    "explanation": "The combination of meningitis with a petechial or purpuric rash strongly suggests meningococcal meningitis. Neisseria meningitidis commonly causes outbreaks and severe septicemia.",
+    "optionExplanations": [
+      "Streptococcus pneumoniae is a common cause of meningitis but is not classically linked to a petechial/purpuric rash.",
+      "Haemophilus influenzae meningitis is now rare due to vaccination and is not classically associated with a petechial rash.",
+      "",
+      "Listeria monocytogenes typically causes meningitis in neonates, the elderly, or the immunocompromised, without a characteristic petechial rash."
+    ],
+    "source": "Internal Medicine — 10 July Morning Paper"
+  },
+  {
+    "systemSlug": "cardiovascular",
+    "topicSlug": "arrhythmias",
+    "stem": "An ECG demonstrates ventricular fibrillation in an unconscious patient with no palpable pulse. What is the immediate management?",
+    "options": [
+      "Intravenous amiodarone",
+      "Synchronized cardioversion",
+      "Immediate defibrillation",
+      "Temporary pacing"
+    ],
+    "correctIndex": 2,
+    "explanation": "Ventricular fibrillation is a shockable cardiac arrest rhythm. Immediate unsynchronized defibrillation combined with high-quality CPR offers the best chance of survival; antiarrhythmic drugs are used afterward if needed.",
+    "optionExplanations": [
+      "Amiodarone may be given for refractory VF after initial shocks but is not the immediate first step.",
+      "Synchronized cardioversion requires an organized rhythm to synchronize to and cannot be delivered in pulseless VF.",
+      "",
+      "Temporary pacing is used for symptomatic bradyarrhythmias, not for a shockable rhythm like VF."
+    ],
+    "source": "Internal Medicine — 10 July Morning Paper"
+  },
+  {
+    "systemSlug": "nervous-system",
+    "topicSlug": "neuropharmacology",
+    "stem": "Which drug is preferred for the treatment of moderate-to-severe Alzheimer's disease?",
+    "options": [
+      "Donepezil",
+      "Rivastigmine",
+      "Memantine",
+      "Galantamine"
+    ],
+    "correctIndex": 2,
+    "explanation": "Memantine is an NMDA receptor antagonist indicated for moderate-to-severe Alzheimer's disease. It slows symptom progression and may be combined with an acetylcholinesterase inhibitor.",
+    "optionExplanations": [
+      "Donepezil is a cholinesterase inhibitor typically used for mild-to-moderate, rather than moderate-to-severe, disease.",
+      "Rivastigmine is a cholinesterase inhibitor primarily indicated in mild-to-moderate Alzheimer's disease.",
+      "",
+      "Galantamine is a cholinesterase inhibitor used mainly in mild-to-moderate disease, not moderate-to-severe."
+    ],
+    "source": "Internal Medicine — 10 July Morning Paper"
+  },
+  {
+    "systemSlug": "microbiology",
+    "topicSlug": "parasitology",
+    "stem": "A patient is diagnosed with visceral leishmaniasis (Kala-azar). Which drug is considered the preferred treatment?",
+    "options": [
+      "Mebendazole",
+      "Praziquantel",
+      "Liposomal amphotericin B",
+      "Albendazole"
+    ],
+    "correctIndex": 2,
+    "explanation": "Liposomal amphotericin B is the preferred treatment for visceral leishmaniasis. It has excellent efficacy and lower toxicity than conventional amphotericin B.",
+    "optionExplanations": [
+      "Mebendazole is used for intestinal nematode infections, not protozoal leishmaniasis.",
+      "Praziquantel targets trematodes and cestodes, not Leishmania.",
+      "",
+      "Albendazole is an anthelmintic without significant activity against Leishmania."
+    ],
+    "source": "Internal Medicine — 10 July Morning Paper"
+  },
+  {
+    "systemSlug": "community-medicine-public-health",
+    "topicSlug": "environmental-occupational-health",
+    "stem": "Gamma radiation causes infertility primarily by damaging which tissue?",
+    "options": [
+      "Sertoli cells",
+      "Leydig cells",
+      "Germinal epithelium",
+      "Seminiferous basement membrane"
+    ],
+    "correctIndex": 2,
+    "explanation": "Spermatogonia within the germinal epithelium are highly sensitive to radiation. Damage impairs spermatogenesis and causes infertility; germ cells are more radiosensitive than Leydig cells.",
+    "optionExplanations": [
+      "Sertoli cells are relatively radioresistant compared with the actively dividing germ cells they support.",
+      "Leydig cells are hormone-producing and relatively resistant to radiation compared with rapidly dividing spermatogonia.",
+      "",
+      "The basement membrane is a structural, non-dividing element and is not the primary radiosensitive target."
+    ],
+    "source": "Internal Medicine — 10 July Morning Paper"
+  },
+  {
+    "systemSlug": "gastrointestinal",
+    "topicSlug": "peptic-ulcer-upper-gi",
+    "stem": "A patient has persistent dyspepsia following prolonged NSAID use. Which investigation is most appropriate?",
+    "options": [
+      "Barium meal",
+      "Stool occult blood test",
+      "Upper gastrointestinal endoscopy",
+      "CT abdomen"
+    ],
+    "correctIndex": 2,
+    "explanation": "Upper gastrointestinal endoscopy is the investigation of choice for persistent NSAID-induced dyspepsia or suspected peptic ulcer disease. It allows direct visualization and biopsy when required.",
+    "optionExplanations": [
+      "Barium meal has largely been superseded by endoscopy, which allows direct visualization and biopsy.",
+      "Stool occult blood testing can suggest bleeding but does not identify the underlying mucosal lesion.",
+      "",
+      "CT abdomen is not sensitive for detecting mucosal ulceration and is not the investigation of choice for dyspepsia."
+    ],
+    "source": "Internal Medicine — 10 July Morning Paper"
+  },
+  {
+    "systemSlug": "cardiovascular",
+    "topicSlug": "ischemic-heart-disease",
+    "stem": "Following a myocardial infarction, which histological change is typically seen earliest?",
+    "options": [
+      "Fibrosis",
+      "Neutrophilic infiltration",
+      "Coagulative necrosis",
+      "Granulation tissue"
+    ],
+    "correctIndex": 2,
+    "explanation": "Coagulative necrosis is the earliest recognizable histological change after myocardial infarction, typically appearing within 4-12 hours and becoming well established by 24 hours. Neutrophilic infiltration follows over the next 1-3 days, then granulation tissue and finally fibrosis over subsequent weeks.",
+    "optionExplanations": [
+      "Fibrosis is the final stage of healing, occurring weeks after infarction, not the earliest change.",
+      "Neutrophilic infiltration follows coagulative necrosis, becoming prominent at 1-3 days rather than being the earliest change.",
+      "",
+      "Granulation tissue forms during the reparative phase, roughly 1-2 weeks after infarction, well after the earliest necrotic changes."
+    ],
+    "source": "Internal Medicine — 10 July Morning Paper"
+  },
+  {
+    "systemSlug": "respiratory",
+    "topicSlug": "respiratory-physiology",
+    "stem": "A healthy person ascends from sea level to high altitude. Which physiological adaptation improves oxygen unloading to tissues?",
+    "options": [
+      "Increased fetal hemoglobin",
+      "Increased 2,3-BPG concentration",
+      "Decreased erythropoietin",
+      "Decreased cardiac output"
+    ],
+    "correctIndex": 1,
+    "explanation": "High altitude increases red blood cell 2,3-BPG levels. This shifts the oxygen dissociation curve to the right, reducing hemoglobin's oxygen affinity and enhancing oxygen unloading to tissues.",
+    "optionExplanations": [
+      "Fetal hemoglobin has a higher oxygen affinity and is not induced by adult high-altitude adaptation; it would impair, not improve, tissue unloading.",
+      "",
+      "High altitude increases, not decreases, erythropoietin secretion in response to hypoxia.",
+      "Cardiac output typically increases, not decreases, acutely at high altitude to help maintain oxygen delivery."
+    ],
+    "source": "Internal Medicine — 10 July Morning Paper"
+  },
+  {
+    "systemSlug": "endocrine",
+    "topicSlug": "adrenal-disorders",
+    "stem": "A patient presents with weight loss, hypotension, hyperpigmentation, hyponatremia, and hyperkalemia. What is the most likely diagnosis?",
+    "options": [
+      "Cushing syndrome",
+      "Conn syndrome",
+      "Addison disease",
+      "Sheehan syndrome"
+    ],
+    "correctIndex": 2,
+    "explanation": "Primary adrenal insufficiency (Addison disease) causes loss of both cortisol and aldosterone. Reduced cortisol removes negative feedback on ACTH, and the resulting rise in POMC-derived peptides causes hyperpigmentation, while aldosterone loss causes hyponatremia, hyperkalemia, and hypotension.",
+    "optionExplanations": [
+      "Cushing syndrome results from cortisol excess and would cause hypertension and weight gain, not hypotension and hyperpigmentation.",
+      "Conn syndrome (primary hyperaldosteronism) causes hypertension and hypokalemia, not hypotension and hyperpigmentation.",
+      "",
+      "Sheehan syndrome is postpartum pituitary infarction causing panhypopituitarism, typically without the hyperpigmentation or hyperkalemia of primary adrenal failure."
+    ],
+    "source": "Internal Medicine — 10 July Morning Paper"
+  },
+  {
+    "systemSlug": "cardiovascular",
+    "topicSlug": "ischemic-heart-disease",
+    "stem": "What is the primary mechanism responsible for ST-elevation myocardial infarction?",
+    "options": [
+      "Coronary vasospasm alone",
+      "Arterial thrombus following atherosclerotic plaque rupture",
+      "Gradual luminal narrowing from stable plaque",
+      "Coronary artery dissection"
+    ],
+    "correctIndex": 1,
+    "explanation": "STEMI is most commonly caused by acute thrombus formation at the site of a ruptured or eroded atherosclerotic plaque, causing sudden complete occlusion of the coronary artery and transmural ischemia.",
+    "optionExplanations": [
+      "Isolated coronary vasospasm (Prinzmetal angina) can cause transient ST elevation but is not the primary mechanism of typical STEMI.",
+      "",
+      "Gradual luminal narrowing from stable plaque more typically produces stable angina, not the sudden complete occlusion of STEMI.",
+      "Coronary artery dissection is an important but less common cause of acute coronary syndrome, not the primary mechanism of STEMI."
+    ],
+    "source": "Internal Medicine — 10 July Morning Paper"
+  },
+  {
+    "systemSlug": "respiratory",
+    "topicSlug": "pulmonary-vascular-interstitial",
+    "stem": "A pigeon breeder presents with progressive dyspnea and dry cough. High-resolution CT shows ground-glass opacities. What is the most likely diagnosis?",
+    "options": [
+      "Idiopathic pulmonary fibrosis",
+      "Sarcoidosis",
+      "Hypersensitivity pneumonitis",
+      "Pulmonary tuberculosis"
+    ],
+    "correctIndex": 2,
+    "explanation": "Repeated exposure to avian proteins in bird droppings and feathers causes hypersensitivity pneumonitis (bird fancier's lung), a type III/IV hypersensitivity reaction producing ground-glass opacities on imaging.",
+    "optionExplanations": [
+      "Idiopathic pulmonary fibrosis is not linked to a specific antigen exposure such as bird proteins.",
+      "Sarcoidosis is a granulomatous disease of unknown cause, not directly triggered by avian antigen exposure.",
+      "",
+      "Pulmonary tuberculosis would more typically show cavitation or consolidation rather than diffuse ground-glass opacities tied to bird exposure."
+    ],
+    "source": "Internal Medicine — 10 July Morning Paper"
+  },
+  {
+    "systemSlug": "endocrine",
+    "topicSlug": "adrenal-disorders",
+    "stem": "Ectopic ACTH secretion causing Cushing syndrome is most classically associated with which tumor?",
+    "options": [
+      "Renal cell carcinoma",
+      "Small cell lung carcinoma",
+      "Hepatocellular carcinoma",
+      "Adrenal adenoma"
+    ],
+    "correctIndex": 1,
+    "explanation": "Small cell lung carcinoma is the classic cause of ectopic ACTH secretion, producing rapidly progressive Cushing syndrome features, often with prominent hyperpigmentation and hypokalemia.",
+    "optionExplanations": [
+      "Renal cell carcinoma is more classically associated with ectopic erythropoietin or PTHrP secretion, not ACTH.",
+      "",
+      "Hepatocellular carcinoma is not a classic source of ectopic ACTH secretion.",
+      "An adrenal adenoma causing Cushing syndrome secretes cortisol directly and suppresses, rather than elevates, ACTH."
+    ],
+    "source": "Internal Medicine — 10 July Morning Paper"
+  },
+  {
+    "systemSlug": "gastrointestinal",
+    "topicSlug": "peptic-ulcer-upper-gi",
+    "stem": "Which test is most appropriate to confirm eradication of Helicobacter pylori after treatment?",
+    "options": [
+      "Serology (IgG antibody test)",
+      "Urea breath test",
+      "Stool culture",
+      "Rapid plasma reagin test"
+    ],
+    "correctIndex": 1,
+    "explanation": "The urea breath test detects active H. pylori infection based on bacterial urease activity and is the preferred test to confirm eradication. Serology remains positive long after successful treatment because antibodies persist.",
+    "optionExplanations": [
+      "Serology detects antibodies that persist long after eradication, making it unsuitable for confirming cure.",
+      "",
+      "Stool culture for H. pylori is not routinely used because the organism is fastidious and difficult to culture.",
+      "The RPR test screens for syphilis and has no role in H. pylori diagnosis."
+    ],
+    "source": "Internal Medicine — 10 July Morning Paper"
+  },
+  {
+    "systemSlug": "hematology-oncology",
+    "topicSlug": "bleeding-clotting-disorders",
+    "stem": "A pregnant woman develops hypertension, proteinuria, thrombocytopenia, and elevated liver enzymes. What is the most likely diagnosis?",
+    "options": [
+      "Acute fatty liver of pregnancy",
+      "HELLP syndrome",
+      "Gestational diabetes",
+      "Cholestasis of pregnancy"
+    ],
+    "correctIndex": 1,
+    "explanation": "HELLP syndrome (Hemolysis, Elevated Liver enzymes, Low Platelets) is a severe variant of preeclampsia. It requires prompt recognition and typically delivery of the fetus for definitive management.",
+    "optionExplanations": [
+      "Acute fatty liver of pregnancy typically presents with hypoglycemia and coagulopathy from liver failure rather than the hemolysis/thrombocytopenia triad described.",
+      "",
+      "Gestational diabetes does not cause hypertension, hemolysis, or thrombocytopenia.",
+      "Cholestasis of pregnancy presents with pruritus and elevated bile acids, not hypertension, hemolysis, and thrombocytopenia."
+    ],
+    "source": "Internal Medicine — 10 July Morning Paper"
+  },
+  {
+    "systemSlug": "hematology-oncology",
+    "topicSlug": "bleeding-clotting-disorders",
+    "stem": "A child develops bloody diarrhea followed by acute kidney injury, thrombocytopenia, and schistocytes on peripheral smear. What is the most likely diagnosis?",
+    "options": [
+      "Immune thrombocytopenic purpura",
+      "Hemolytic uremic syndrome",
+      "Disseminated intravascular coagulation",
+      "Henoch-Schonlein purpura"
+    ],
+    "correctIndex": 1,
+    "explanation": "Hemolytic uremic syndrome classically follows infection with Shiga toxin-producing E. coli (O157:H7), causing the triad of microangiopathic hemolytic anemia, thrombocytopenia, and acute kidney injury.",
+    "optionExplanations": [
+      "ITP causes isolated thrombocytopenia without the preceding bloody diarrhea, renal failure, or schistocytes.",
+      "",
+      "DIC involves widespread clotting factor consumption with abnormal PT/PTT, not a picture typically preceded by a specific diarrheal illness.",
+      "Henoch-Schonlein purpura causes palpable purpura and arthralgia but not the microangiopathic hemolysis and thrombocytopenia described."
+    ],
+    "source": "Internal Medicine — 10 July Morning Paper"
+  },
+  {
+    "systemSlug": "psychiatry",
+    "topicSlug": "psychopharmacology",
+    "stem": "A patient on long-term olanzapine develops significant weight gain and new-onset insulin resistance. What is the underlying mechanism?",
+    "options": [
+      "Increased dopamine D2 blockade in the nigrostriatal pathway",
+      "Antagonism of histamine H1 and serotonin 5-HT2C receptors",
+      "Increased acetylcholine activity",
+      "Decreased prolactin secretion"
+    ],
+    "correctIndex": 1,
+    "explanation": "Olanzapine and other atypical antipsychotics antagonize histamine H1 and serotonin 5-HT2C receptors, which increases appetite and promotes weight gain, contributing to insulin resistance and metabolic syndrome.",
+    "optionExplanations": [
+      "Nigrostriatal D2 blockade produces extrapyramidal symptoms, not weight gain or insulin resistance.",
+      "",
+      "Olanzapine has anticholinergic, not pro-cholinergic, activity, which is unrelated to its metabolic effects.",
+      "Olanzapine tends to cause modest or variable, not decreased, prolactin changes, which is not the mechanism of weight gain."
+    ],
+    "source": "Internal Medicine — 10 July Morning Paper"
+  },
+  {
+    "systemSlug": "respiratory",
+    "topicSlug": "respiratory-physiology",
+    "stem": "In an upright person, which zone of the lung receives the greatest pulmonary blood flow?",
+    "options": [
+      "Zone 1 (apex)",
+      "Zone 2 (mid-zone)",
+      "Zone 3 (base)",
+      "Blood flow is equal throughout"
+    ],
+    "correctIndex": 2,
+    "explanation": "In the upright lung, gravity increases pulmonary arterial pressure toward the base. Zone 3 (the lung base) therefore receives the greatest blood flow, where pulmonary arterial and venous pressures both exceed alveolar pressure.",
+    "optionExplanations": [
+      "Zone 1 (apex) has the least blood flow because alveolar pressure can exceed pulmonary arterial pressure there.",
+      "Zone 2 has intermediate flow, determined intermittently by the arterial-alveolar pressure difference, less than zone 3.",
+      "",
+      "Blood flow is not equal throughout the upright lung; gravity creates a gradient that favors the base."
+    ],
+    "source": "Internal Medicine — 10 July Morning Paper"
+  },
+  {
+    "systemSlug": "respiratory",
+    "topicSlug": "obstructive-airway-disease",
+    "stem": "Cystic fibrosis is inherited in which pattern?",
+    "options": [
+      "Autosomal dominant",
+      "X-linked recessive",
+      "Autosomal recessive",
+      "Mitochondrial inheritance"
+    ],
+    "correctIndex": 2,
+    "explanation": "Cystic fibrosis results from mutations in the CFTR gene and is inherited in an autosomal recessive pattern, most commonly from the delta-F508 mutation.",
+    "optionExplanations": [
+      "Cystic fibrosis requires two mutated CFTR alleles, not one, so it is not autosomal dominant.",
+      "Cystic fibrosis is not linked to the X chromosome and affects both sexes equally.",
+      "",
+      "Cystic fibrosis is caused by a nuclear gene (CFTR) mutation, not a mitochondrial one."
+    ],
+    "source": "Internal Medicine — 10 July Morning Paper"
+  },
+  {
+    "systemSlug": "nervous-system",
+    "topicSlug": "neuropharmacology",
+    "stem": "Thiopental has a very short duration of action despite a long elimination half-life. What explains this?",
+    "options": [
+      "Rapid hepatic metabolism",
+      "Rapid renal excretion",
+      "Redistribution from brain to other tissues",
+      "High protein binding"
+    ],
+    "correctIndex": 2,
+    "explanation": "Thiopental is highly lipophilic and rapidly redistributes from the highly-perfused brain to less-perfused tissues such as muscle and fat. This redistribution, not metabolism, terminates its clinical effect after a single dose.",
+    "optionExplanations": [
+      "Hepatic metabolism of thiopental is relatively slow and accounts for its long elimination half-life, not its short duration of action.",
+      "Thiopental is not primarily eliminated by renal excretion.",
+      "",
+      "High protein binding affects free drug concentration but does not explain the rapid offset of a single dose."
+    ],
+    "source": "Internal Medicine — 10 July Morning Paper"
+  },
+  {
+    "systemSlug": "microbiology",
+    "topicSlug": "fungal-infections",
+    "stem": "A patient with chronic pulmonary aspergillosis is being started on antifungal therapy. Which drug is preferred?",
+    "options": [
+      "Fluconazole",
+      "Voriconazole",
+      "Nystatin",
+      "Griseofulvin"
+    ],
+    "correctIndex": 1,
+    "explanation": "Voriconazole is the preferred first-line agent for invasive and chronic pulmonary aspergillosis, with good activity against Aspergillus species and CNS penetration.",
+    "optionExplanations": [
+      "Fluconazole has poor activity against Aspergillus species.",
+      "",
+      "Nystatin is used topically for Candida infections and is not effective against invasive Aspergillus.",
+      "Griseofulvin is used for dermatophyte infections, not invasive or chronic pulmonary aspergillosis."
+    ],
+    "source": "Internal Medicine — 10 July Morning Paper"
+  },
+  {
+    "systemSlug": "renal",
+    "topicSlug": "electrolyte-disorders",
+    "stem": "A patient with raised intracranial pressure develops hyponatremia. What is the most likely underlying mechanism?",
+    "options": [
+      "Diabetes insipidus",
+      "Syndrome of inappropriate antidiuretic hormone secretion (SIADH)",
+      "Primary polydipsia",
+      "Osmotic demyelination"
+    ],
+    "correctIndex": 1,
+    "explanation": "CNS insults, including raised intracranial pressure, can trigger inappropriate ADH release (SIADH), causing water retention and dilutional hyponatremia. Cerebral salt wasting is an important alternative diagnosis and is distinguished by volume status.",
+    "optionExplanations": [
+      "Diabetes insipidus causes hypernatremia from water loss, the opposite of the hyponatremia described.",
+      "",
+      "Primary polydipsia is a behavioral cause of hyponatremia unrelated to an acute CNS insult.",
+      "Osmotic demyelination is a complication of overly rapid sodium correction, not a cause of hyponatremia itself."
+    ],
+    "source": "Internal Medicine — 10 July Morning Paper"
+  },
+  {
+    "systemSlug": "hematology-oncology",
+    "topicSlug": "anemia",
+    "stem": "A patient presents with normocytic anemia, jaundice, splenomegaly, increased MCHC, and spherocytes on peripheral smear. What is the most likely diagnosis?",
+    "options": [
+      "Autoimmune hemolytic anemia",
+      "Hereditary spherocytosis",
+      "Thalassemia",
+      "Iron deficiency anemia"
+    ],
+    "correctIndex": 1,
+    "explanation": "Hereditary spherocytosis results from defects in RBC membrane proteins such as spectrin or ankyrin. It presents with hemolytic anemia, jaundice, splenomegaly, spherocytes, and increased MCHC.",
+    "optionExplanations": [
+      "Autoimmune hemolytic anemia is acquired and would typically show a positive direct Coombs test, distinguishing it from an inherited membrane defect.",
+      "",
+      "Thalassemia produces a microcytic anemia with target cells, not spherocytes with increased MCHC.",
+      "Iron deficiency anemia is microcytic and hypochromic, not associated with spherocytes or an elevated MCHC."
+    ],
+    "source": "Internal Medicine — 10 July Morning Paper"
+  },
+  {
+    "systemSlug": "gastrointestinal",
+    "topicSlug": "liver-disease",
+    "stem": "A patient with polycythemia vera develops hepatomegaly, ascites, and right upper quadrant pain. What is the most likely diagnosis?",
+    "options": [
+      "Portal vein thrombosis",
+      "Budd-Chiari syndrome",
+      "Cirrhosis",
+      "Hepatic abscess"
+    ],
+    "correctIndex": 1,
+    "explanation": "Polycythemia vera creates a hypercoagulable state that predisposes to hepatic vein thrombosis, producing Budd-Chiari syndrome with painful hepatomegaly and ascites.",
+    "optionExplanations": [
+      "Portal vein thrombosis typically causes variceal bleeding and splenomegaly rather than the painful hepatomegaly of hepatic venous outflow obstruction.",
+      "",
+      "Cirrhosis develops gradually and is not the acute hypercoagulable complication expected in polycythemia vera.",
+      "A hepatic abscess would present with fever and systemic sepsis features rather than being explained by a hypercoagulable state."
+    ],
+    "source": "Internal Medicine — 10 July Morning Paper"
+  },
+  {
+    "systemSlug": "respiratory",
+    "topicSlug": "obstructive-airway-disease",
+    "stem": "Which spirometric finding confirms a diagnosis of bronchial asthma?",
+    "options": [
+      "FEV1/FVC less than 70% only",
+      "An increase in FEV1 of at least 12% and 200 mL after bronchodilator",
+      "Increased residual volume alone",
+      "Decreased total lung capacity"
+    ],
+    "correctIndex": 1,
+    "explanation": "Asthma is confirmed by demonstrating reversible airflow obstruction. An increase in FEV1 of at least 12% and 200 mL after bronchodilator administration is diagnostic of significant reversibility.",
+    "optionExplanations": [
+      "A reduced FEV1/FVC ratio indicates obstruction but does not confirm the reversibility that defines asthma.",
+      "",
+      "Increased residual volume reflects air trapping but does not by itself confirm reversible airway obstruction.",
+      "Decreased total lung capacity is a feature of restrictive, not obstructive, lung disease."
+    ],
+    "source": "Internal Medicine — 10 July Morning Paper"
+  },
+  {
+    "systemSlug": "microbiology",
+    "topicSlug": "antimicrobial-pharmacology",
+    "stem": "Which adverse effect is classically associated with amikacin therapy?",
+    "options": [
+      "Hepatitis",
+      "Ototoxicity",
+      "Hemolytic anemia",
+      "Hyperglycemia"
+    ],
+    "correctIndex": 1,
+    "explanation": "Amikacin is an aminoglycoside that commonly causes ototoxicity and nephrotoxicity. Hearing loss and tinnitus should be monitored during treatment, particularly with prolonged courses or renal impairment.",
+    "optionExplanations": [
+      "Aminoglycosides are not classically hepatotoxic.",
+      "",
+      "Amikacin is not a recognized cause of hemolytic anemia.",
+      "Amikacin does not typically cause hyperglycemia; this is not part of its toxicity profile."
+    ],
+    "source": "Internal Medicine — 10 July Morning Paper"
+  },
+  {
+    "systemSlug": "endocrine",
+    "topicSlug": "hormone-physiology-signaling",
+    "stem": "Which sequence correctly represents the biosynthetic pathway of catecholamines?",
+    "options": [
+      "Tyrosine to dopamine to DOPA to epinephrine",
+      "Tyrosine to DOPA to dopamine to norepinephrine to epinephrine",
+      "Tyrosine to DOPA to epinephrine to dopamine to norepinephrine",
+      "Phenylalanine to tyrosine to epinephrine to dopamine to norepinephrine"
+    ],
+    "correctIndex": 1,
+    "explanation": "Catecholamine synthesis proceeds from tyrosine to DOPA (via tyrosine hydroxylase), then to dopamine, norepinephrine, and finally epinephrine. This pathway is frequently tested in pharmacology and biochemistry.",
+    "optionExplanations": [
+      "This sequence reverses the order of DOPA and dopamine formation; DOPA must be formed before dopamine.",
+      "",
+      "This sequence places epinephrine before dopamine and norepinephrine, reversing the true biosynthetic order.",
+      "While phenylalanine is converted to tyrosine upstream, this sequence still misorders the downstream steps, placing epinephrine before dopamine and norepinephrine."
+    ],
+    "source": "Internal Medicine — 10 July Morning Paper"
+  },
+  {
+    "systemSlug": "renal",
+    "topicSlug": "renal-anatomy-embryology",
+    "stem": "Which type of epithelium lines the urinary bladder?",
+    "options": [
+      "Stratified squamous epithelium",
+      "Simple cuboidal epithelium",
+      "Transitional epithelium (urothelium)",
+      "Pseudostratified columnar epithelium"
+    ],
+    "correctIndex": 2,
+    "explanation": "The urinary bladder is lined by transitional epithelium (urothelium), which allows significant stretching while maintaining an impermeable barrier as the bladder fills.",
+    "optionExplanations": [
+      "Stratified squamous epithelium lines structures like the esophagus and vagina, not the bladder.",
+      "Simple cuboidal epithelium lines structures such as renal tubules and small ducts, not the bladder lumen.",
+      "",
+      "Pseudostratified columnar epithelium lines the trachea and parts of the male urethra, not the bladder."
+    ],
+    "source": "Internal Medicine — 10 July Morning Paper"
+  },
+  {
+    "systemSlug": "respiratory",
+    "topicSlug": "obstructive-airway-disease",
+    "stem": "During an acute exacerbation of COPD, what is the recommended target oxygen saturation?",
+    "options": [
+      "90-94%",
+      "88-92%",
+      "95-100%",
+      "Above 98%"
+    ],
+    "correctIndex": 1,
+    "explanation": "In COPD exacerbations, oxygen should be carefully titrated to maintain saturation between 88% and 92%. Excess oxygen can worsen hypercapnia by blunting the hypoxic respiratory drive and increasing ventilation-perfusion mismatch.",
+    "optionExplanations": [
+      "90-94% is the general target for most acutely unwell patients, but COPD patients at risk of CO2 retention need a lower target.",
+      "",
+      "95-100% risks suppressing hypoxic respiratory drive and worsening hypercapnia in a COPD patient.",
+      "Oxygen saturation above 98% substantially increases the risk of CO2 narcosis in susceptible COPD patients."
+    ],
+    "source": "Internal Medicine — 10 July Morning Paper"
+  },
+  {
+    "systemSlug": "hematology-oncology",
+    "topicSlug": "anemia",
+    "stem": "Hereditary spherocytosis is most commonly caused by a defect in which red blood cell structural protein?",
+    "options": [
+      "Spectrin",
+      "Hemoglobin A",
+      "Ferritin",
+      "Transferrin"
+    ],
+    "correctIndex": 0,
+    "explanation": "Spectrin deficiency is the most common cause of hereditary spherocytosis. Defects in ankyrin, band 3, and protein 4.2 may also occur, all disrupting the RBC membrane cytoskeleton.",
+    "optionExplanations": [
+      "",
+      "Hemoglobin A is a normal oxygen-carrying protein and is not a structural membrane protein.",
+      "Ferritin is an iron-storage protein, unrelated to red cell membrane structure.",
+      "Transferrin transports iron in plasma and is not part of the red cell cytoskeleton."
+    ],
+    "source": "Internal Medicine — 10 July Morning Paper"
+  },
+  {
+    "systemSlug": "musculoskeletal",
+    "topicSlug": "msk-anatomy-embryology",
+    "stem": "Ear wax (cerumen) is produced by which specialized gland?",
+    "options": [
+      "Sebaceous gland",
+      "Eccrine sweat gland",
+      "Ceruminous gland",
+      "Holocrine gland"
+    ],
+    "correctIndex": 2,
+    "explanation": "Ceruminous glands are modified apocrine sweat glands located in the external auditory canal. They produce cerumen (ear wax), which helps trap debris and has antimicrobial properties.",
+    "optionExplanations": [
+      "Sebaceous glands secrete sebum via a holocrine mechanism into hair follicles, not cerumen.",
+      "Eccrine sweat glands produce watery sweat throughout the skin, not the waxy secretion of the ear canal.",
+      "",
+      "'Holocrine gland' describes a secretory mechanism (as in sebaceous glands), not the specific gland type that produces cerumen."
+    ],
+    "source": "Internal Medicine — 10 July Morning Paper"
+  },
+  {
+    "systemSlug": "psychiatry",
+    "topicSlug": "psychopharmacology",
+    "stem": "Which class of drug is considered first-line pharmacotherapy for major depressive disorder?",
+    "options": [
+      "Tricyclic antidepressants",
+      "Typical antipsychotics",
+      "Selective serotonin reuptake inhibitors (SSRIs)",
+      "Lithium"
+    ],
+    "correctIndex": 2,
+    "explanation": "SSRIs such as sertraline are first-line drugs for major depressive disorder because of their favorable safety and side-effect profile compared with tricyclics or MAOIs.",
+    "optionExplanations": [
+      "Tricyclic antidepressants are effective but have a less favorable side-effect and safety profile, making them second-line.",
+      "Typical antipsychotics are not indicated for uncomplicated major depressive disorder.",
+      "",
+      "Lithium is used for mood stabilization in bipolar disorder or as adjunct therapy, not as first-line monotherapy for MDD."
+    ],
+    "source": "Internal Medicine — 10 July Morning Paper"
+  },
+  {
+    "systemSlug": "psychiatry",
+    "topicSlug": "psychotic-disorders",
+    "stem": "Increased activity of which neurotransmitter pathway is primarily responsible for the positive symptoms of schizophrenia?",
+    "options": [
+      "Serotonin",
+      "GABA",
+      "Dopamine (mesolimbic pathway)",
+      "Acetylcholine"
+    ],
+    "correctIndex": 2,
+    "explanation": "Positive symptoms such as hallucinations and delusions result from increased dopaminergic activity in the mesolimbic pathway. Most antipsychotics work primarily by blocking dopamine D2 receptors.",
+    "optionExplanations": [
+      "Serotonin dysregulation is more implicated in mood and anxiety disorders than the positive symptoms of schizophrenia.",
+      "GABA is an inhibitory neurotransmitter; its dysfunction is more linked to anxiety and seizure disorders.",
+      "",
+      "Acetylcholine pathway abnormalities are not the primary driver of positive psychotic symptoms."
+    ],
+    "source": "Internal Medicine — 10 July Morning Paper"
+  },
+  {
+    "systemSlug": "nervous-system",
+    "topicSlug": "stroke",
+    "stem": "A hypertensive patient develops a pure motor stroke due to a lacunar infarct. Which structure is most likely affected?",
+    "options": [
+      "Cerebellum",
+      "Internal capsule",
+      "Occipital lobe",
+      "Medulla"
+    ],
+    "correctIndex": 1,
+    "explanation": "Lacunar infarcts commonly involve the internal capsule due to lipohyalinosis of small penetrating arteries from chronic hypertension. This produces a pure motor stroke without cortical signs.",
+    "optionExplanations": [
+      "Cerebellar lacunar infarcts typically cause ataxia, not pure motor weakness.",
+      "",
+      "Occipital lobe infarcts cause visual field deficits, not pure motor hemiparesis.",
+      "Medullary lacunar infarcts typically produce brainstem syndromes with cranial nerve findings, not an isolated pure motor deficit."
+    ],
+    "source": "Internal Medicine — 10 July Morning Paper"
+  },
+  {
+    "systemSlug": "nervous-system",
+    "topicSlug": "neuroanatomy-embryology",
+    "stem": "A patient has bilateral loss of pain and temperature sensation below a spinal lesion, with bowel and bladder dysfunction, while vibration and proprioception remain intact. Which syndrome is most likely?",
+    "options": [
+      "Brown-Sequard syndrome",
+      "Syringomyelia",
+      "Anterior spinal artery syndrome",
+      "Posterior cord syndrome"
+    ],
+    "correctIndex": 2,
+    "explanation": "Anterior spinal artery syndrome causes bilateral motor weakness and loss of pain and temperature sensation from infarction of the anterior two-thirds of the spinal cord, while the dorsal columns (supplied separately by the posterior spinal arteries) remain intact.",
+    "optionExplanations": [
+      "Brown-Sequard syndrome causes an asymmetric, ipsilateral/contralateral pattern from hemisection, not bilateral loss.",
+      "Syringomyelia typically produces upper-limb-predominant, cape-like sensory loss without prominent bowel/bladder or motor involvement early on.",
+      "",
+      "Posterior cord syndrome affects the dorsal columns (vibration/proprioception), the opposite of what is described here."
+    ],
+    "source": "Internal Medicine — 10 July Morning Paper"
+  },
+  {
+    "systemSlug": "nervous-system",
+    "topicSlug": "neuroanatomy-embryology",
+    "stem": "A patient has bilateral \"cape-like\" loss of pain and temperature sensation with preserved vibration and proprioception. What is the most likely diagnosis?",
+    "options": [
+      "Tabes dorsalis",
+      "Brown-Sequard syndrome",
+      "Syringomyelia",
+      "Multiple sclerosis"
+    ],
+    "correctIndex": 2,
+    "explanation": "Syringomyelia damages the crossing spinothalamic fibers near the central canal, producing bilateral, cape-like loss of pain and temperature sensation while dorsal column function is preserved.",
+    "optionExplanations": [
+      "Tabes dorsalis affects the dorsal columns, causing loss of vibration/proprioception, not a cape-like pain/temperature loss.",
+      "Brown-Sequard syndrome produces an asymmetric hemicord pattern, not bilateral cape-like loss.",
+      "",
+      "Multiple sclerosis causes varied, typically asymmetric and relapsing deficits, not a classic bilateral cape-like distribution."
+    ],
+    "source": "Internal Medicine — 10 July Morning Paper"
+  },
+  {
+    "systemSlug": "microbiology",
+    "topicSlug": "virology",
+    "stem": "A patient develops a painful unilateral vesicular rash distributed along a single dermatome. What is the most likely diagnosis?",
+    "options": [
+      "Herpes simplex infection",
+      "Chickenpox",
+      "Herpes zoster",
+      "Impetigo"
+    ],
+    "correctIndex": 2,
+    "explanation": "Herpes zoster (shingles) results from reactivation of latent varicella-zoster virus in a sensory ganglion. It presents with a painful vesicular eruption confined to a single dermatome.",
+    "optionExplanations": [
+      "Herpes simplex typically causes grouped vesicles in oral or genital regions, not a single dermatomal band.",
+      "Chickenpox (primary VZV infection) causes a diffuse, generalized vesicular rash, not one confined to a single dermatome.",
+      "",
+      "Impetigo is a superficial bacterial infection with honey-colored crusted lesions, not painful vesicles in a dermatomal pattern."
+    ],
+    "source": "Internal Medicine — 10 July Morning Paper"
+  },
+  {
+    "systemSlug": "endocrine",
+    "topicSlug": "diabetes-mellitus",
+    "stem": "A diabetic patient has severe hyperglycemia with a low measured serum sodium. What is the most likely explanation?",
+    "options": [
+      "SIADH",
+      "Hypertonic (translocational) hyponatremia",
+      "Cerebral salt wasting",
+      "Addison disease"
+    ],
+    "correctIndex": 1,
+    "explanation": "Severe hyperglycemia draws water into the extracellular space by osmosis, diluting serum sodium and producing hypertonic (translocational) hyponatremia. Correcting for glucose gives a more accurate estimate of the true sodium concentration.",
+    "optionExplanations": [
+      "SIADH causes a euvolemic, hypotonic hyponatremia unrelated to glucose-driven fluid shifts.",
+      "",
+      "Cerebral salt wasting is a renal sodium-losing state seen with intracranial pathology, not hyperglycemia.",
+      "Addison disease causes hyponatremia through aldosterone deficiency, not through an osmotic glucose effect."
+    ],
+    "source": "Internal Medicine — 10 July Morning Paper"
+  },
+  {
+    "systemSlug": "renal",
+    "topicSlug": "renal-physiology-acid-base",
+    "stem": "An arterial blood gas shows pH 7.1, HCO3- 10 mmol/L, and PCO2 18 mmHg. What is the acid-base disorder?",
+    "options": [
+      "Respiratory acidosis",
+      "Respiratory alkalosis",
+      "Metabolic alkalosis",
+      "Metabolic acidosis with respiratory compensation"
+    ],
+    "correctIndex": 3,
+    "explanation": "The low pH and low bicarbonate indicate a primary metabolic acidosis. The low PCO2 reflects appropriate respiratory compensation through hyperventilation, attempting to normalize pH.",
+    "optionExplanations": [
+      "Respiratory acidosis would show an elevated, not decreased, PCO2.",
+      "Respiratory alkalosis would present with an elevated pH, not the profound acidemia seen here.",
+      "Metabolic alkalosis would present with an elevated, not decreased, pH and bicarbonate.",
+      ""
+    ],
+    "source": "Internal Medicine — 10 July Morning Paper"
+  },
+  {
+    "systemSlug": "endocrine",
+    "topicSlug": "calcium-bone-metabolism",
+    "stem": "A patient has persistent mild hypercalcemia with low urinary calcium excretion and normal parathyroid hormone levels. What is the most likely diagnosis?",
+    "options": [
+      "Primary hyperparathyroidism",
+      "Familial hypocalciuric hypercalcemia",
+      "Hypervitaminosis D",
+      "Multiple myeloma"
+    ],
+    "correctIndex": 1,
+    "explanation": "Familial hypocalciuric hypercalcemia results from an inactivating mutation of the calcium-sensing receptor (CaSR). It presents with mild hypercalcemia, low urinary calcium excretion, and normal or mildly elevated PTH.",
+    "optionExplanations": [
+      "Primary hyperparathyroidism typically causes elevated urinary calcium excretion, not the low excretion seen here.",
+      "",
+      "Hypervitaminosis D would suppress PTH and usually cause more pronounced hypercalcemia with high urinary calcium.",
+      "Multiple myeloma causes hypercalcemia with other features such as renal failure, anemia, and bone lesions, and does not present with isolated low urinary calcium."
+    ],
+    "source": "Internal Medicine — 10 July Morning Paper"
+  },
+  {
+    "systemSlug": "hematology-oncology",
+    "topicSlug": "leukemia-lymphoma",
+    "stem": "The Philadelphia chromosome t(9;22) is characteristically associated with which disease?",
+    "options": [
+      "Acute lymphoblastic leukemia",
+      "Chronic lymphocytic leukemia",
+      "Chronic myeloid leukemia",
+      "Multiple myeloma"
+    ],
+    "correctIndex": 2,
+    "explanation": "The Philadelphia chromosome forms the BCR-ABL fusion gene with constitutive tyrosine kinase activity. It is the hallmark of chronic myeloid leukemia and is treated with imatinib.",
+    "optionExplanations": [
+      "The Philadelphia chromosome occurs in a minority of ALL cases but is the defining hallmark of CML.",
+      "Chronic lymphocytic leukemia is not associated with the Philadelphia chromosome.",
+      "",
+      "Multiple myeloma is a plasma cell neoplasm with different characteristic cytogenetic abnormalities, not t(9;22)."
+    ],
+    "source": "Internal Medicine — 10 July Morning Paper"
+  },
+  {
+    "systemSlug": "hematology-oncology",
+    "topicSlug": "general-oncology-principles",
+    "stem": "Clear cell renal cell carcinoma is most strongly associated with mutation of which gene?",
+    "options": [
+      "APC",
+      "BRCA1",
+      "VHL gene",
+      "RET proto-oncogene"
+    ],
+    "correctIndex": 2,
+    "explanation": "Clear cell renal cell carcinoma is associated with mutation or deletion of the VHL tumor suppressor gene on chromosome 3p. Loss of VHL increases HIF activity, promoting angiogenesis and tumor growth.",
+    "optionExplanations": [
+      "APC mutations underlie familial adenomatous polyposis and colorectal cancer, not clear cell RCC.",
+      "BRCA1 mutations predispose to breast and ovarian cancer, not clear cell RCC.",
+      "",
+      "RET proto-oncogene mutations cause MEN2 syndromes and medullary thyroid carcinoma, not clear cell RCC."
+    ],
+    "source": "Internal Medicine — 10 July Morning Paper"
+  },
+  {
+    "systemSlug": "renal",
+    "topicSlug": "acute-kidney-injury",
+    "stem": "A patient with septicemia develops hypotension followed by acute kidney injury. What is the underlying condition responsible for the renal failure?",
+    "options": [
+      "Acute glomerulonephritis",
+      "Systemic inflammatory response (sepsis)",
+      "Renal artery stenosis",
+      "Nephrotic syndrome"
+    ],
+    "correctIndex": 1,
+    "explanation": "Sepsis causes a dysregulated systemic inflammatory response leading to hypotension, endothelial dysfunction, tissue hypoperfusion, and acute kidney injury.",
+    "optionExplanations": [
+      "Acute glomerulonephritis is an immune-mediated process, not the mechanism of AKI following septicemia.",
+      "",
+      "Renal artery stenosis is a chronic, structural vascular cause of renal impairment, not an acute septic process.",
+      "Nephrotic syndrome is characterized by heavy proteinuria and is not the mechanism of sepsis-associated AKI."
+    ],
+    "source": "Internal Medicine — 10 July Morning Paper"
+  },
+  {
+    "systemSlug": "cardiovascular",
+    "topicSlug": "congenital-vascular-disease",
+    "stem": "A cyanotic infant experiences hypercyanotic (\"tet\") spells that improve with squatting. What is the most likely diagnosis?",
+    "options": [
+      "Ventricular septal defect",
+      "Patent ductus arteriosus",
+      "Tetralogy of Fallot",
+      "Coarctation of the aorta"
+    ],
+    "correctIndex": 2,
+    "explanation": "Tetralogy of Fallot consists of a VSD, right ventricular outflow obstruction, an overriding aorta, and right ventricular hypertrophy. Squatting increases systemic vascular resistance, reducing the right-to-left shunt and relieving cyanosis.",
+    "optionExplanations": [
+      "An isolated VSD alone does not typically cause cyanotic hypercyanotic spells relieved by squatting.",
+      "Patent ductus arteriosus is typically acyanotic, producing a continuous murmur rather than hypercyanotic spells.",
+      "",
+      "Coarctation of the aorta classically causes upper-limb hypertension and differential pulses, not tet spells."
+    ],
+    "source": "Internal Medicine — 10 July Morning Paper"
+  },
+  {
+    "systemSlug": "respiratory",
+    "topicSlug": "pneumonia-tb",
+    "stem": "A patient develops bilateral lung infiltrates several days after an acute stroke. What is the most likely diagnosis?",
+    "options": [
+      "Pulmonary edema",
+      "Aspiration pneumonia",
+      "Tuberculosis",
+      "Pulmonary embolism"
+    ],
+    "correctIndex": 1,
+    "explanation": "Stroke commonly causes dysphagia and an impaired cough reflex, predisposing to aspiration. Imaging typically shows infiltrates in dependent lung segments.",
+    "optionExplanations": [
+      "Pulmonary edema is typically related to cardiac dysfunction or fluid overload, not dysphagia after stroke.",
+      "",
+      "Tuberculosis develops over a more chronic course and is not the acute consequence of post-stroke dysphagia.",
+      "Pulmonary embolism would present with acute dyspnea and pleuritic chest pain, not gradual bilateral infiltrates from aspiration."
+    ],
+    "source": "Internal Medicine — 10 July Morning Paper"
+  },
+  {
+    "systemSlug": "endocrine",
+    "topicSlug": "hormone-physiology-signaling",
+    "stem": "Enlargement of the uterus during pregnancy is an example of which cellular adaptation?",
+    "options": [
+      "Hyperplasia only",
+      "Atrophy",
+      "Physiological hypertrophy",
+      "Metaplasia"
+    ],
+    "correctIndex": 2,
+    "explanation": "Estrogen stimulates hypertrophy of uterine smooth muscle cells during pregnancy. This is a normal, reversible physiological adaptation, though hyperplasia contributes as well.",
+    "optionExplanations": [
+      "Hyperplasia does contribute early in pregnancy, but 'only' excludes the dominant hypertrophic component of later uterine growth.",
+      "Atrophy is a decrease in cell size, the opposite of the uterine enlargement seen in pregnancy.",
+      "",
+      "Metaplasia is the reversible change of one differentiated cell type to another, not an increase in muscle cell size."
+    ],
+    "source": "Internal Medicine — 10 July Morning Paper"
+  },
+  {
+    "systemSlug": "microbiology",
+    "topicSlug": "parasitology",
+    "stem": "Donovan bodies, seen in Leishmania infection, correspond to which form of the organism?",
+    "options": [
+      "Promastigotes in blood",
+      "Amastigotes within macrophages",
+      "Epimastigotes",
+      "Sporozoites"
+    ],
+    "correctIndex": 1,
+    "explanation": "Donovan bodies are intracellular amastigotes of Leishmania found within tissue macrophages, seen on biopsy or aspirate in visceral leishmaniasis.",
+    "optionExplanations": [
+      "Promastigotes are the flagellated form found in the sandfly vector, not within human macrophages.",
+      "",
+      "Epimastigotes are a form seen in Trypanosoma life cycles, not Leishmania.",
+      "Sporozoites are the infective form of Plasmodium, not Leishmania."
+    ],
+    "source": "Internal Medicine — 10 July Morning Paper"
+  },
+  {
+    "systemSlug": "respiratory",
+    "topicSlug": "respiratory-physiology",
+    "stem": "During quiet inspiration, intrapleural pressure is approximately:",
+    "options": [
+      "+5 cm H2O",
+      "0 cm H2O",
+      "-8 cm H2O",
+      "-2 cm H2O"
+    ],
+    "correctIndex": 2,
+    "explanation": "Intrapleural pressure falls from about -5 cm H2O at rest to approximately -8 cm H2O during inspiration. This negative pressure allows lung expansion as the chest wall expands.",
+    "optionExplanations": [
+      "A positive intrapleural pressure would not allow the lung to remain expanded against the chest wall.",
+      "Zero intrapleural pressure would not generate the transpulmonary pressure gradient needed to keep the lung inflated.",
+      "",
+      "-2 cm H2O approximates resting end-expiratory pressure, not the more negative pressure generated during active inspiration."
+    ],
+    "source": "Internal Medicine — 10 July Morning Paper"
+  },
+  {
+    "systemSlug": "nervous-system",
+    "topicSlug": "cns-infections",
+    "stem": "A patient with meningitis has CSF showing lymphocytic predominance, increased protein, and decreased glucose. What is the most likely diagnosis?",
+    "options": [
+      "Viral meningitis",
+      "Tuberculous meningitis",
+      "Acute pyogenic meningitis",
+      "Fungal meningitis"
+    ],
+    "correctIndex": 1,
+    "explanation": "Tuberculous meningitis classically presents with lymphocytic predominance, elevated protein, and low glucose in the CSF, distinguishing it from typical viral meningitis (normal glucose) and bacterial meningitis (neutrophilic predominance).",
+    "optionExplanations": [
+      "Viral meningitis typically shows normal CSF glucose, unlike the low glucose seen here.",
+      "",
+      "Acute pyogenic (bacterial) meningitis typically shows neutrophilic, not lymphocytic, predominance.",
+      "Fungal meningitis can show a similar CSF profile, but the clinical context here favors tuberculous meningitis specifically."
+    ],
+    "source": "Internal Medicine — 10 July Morning Paper"
+  },
+  {
+    "systemSlug": "respiratory",
+    "topicSlug": "respiratory-physiology",
+    "stem": "Pulmonary surfactant is produced by:",
+    "options": [
+      "Type I pneumocytes",
+      "Alveolar macrophages",
+      "Type II pneumocytes",
+      "Club cells"
+    ],
+    "correctIndex": 2,
+    "explanation": "Type II pneumocytes synthesize and secrete pulmonary surfactant, which is stored in lamellar bodies and reduces alveolar surface tension, preventing alveolar collapse during expiration.",
+    "optionExplanations": [
+      "Type I pneumocytes form the thin gas-exchange surface but do not synthesize surfactant.",
+      "Alveolar macrophages perform immune surveillance and debris clearance, not surfactant production.",
+      "",
+      "Club cells protect the bronchiolar epithelium and metabolize toxins, but do not produce alveolar surfactant."
+    ],
+    "source": "Internal Medicine — 10 July Morning Paper"
+  },
+  {
+    "systemSlug": "gastrointestinal",
+    "topicSlug": "gi-anatomy-embryology",
+    "stem": "An indirect inguinal hernia passes through which structure?",
+    "options": [
+      "Medial to the inferior epigastric vessels",
+      "Through Hesselbach's triangle",
+      "Through the deep inguinal ring, lateral to the inferior epigastric vessels",
+      "Through the femoral canal"
+    ],
+    "correctIndex": 2,
+    "explanation": "An indirect inguinal hernia enters through the deep inguinal ring, lateral to the inferior epigastric vessels. It results from a patent processus vaginalis.",
+    "optionExplanations": [
+      "A hernia medial to the inferior epigastric vessels through Hesselbach's triangle describes a direct, not indirect, inguinal hernia.",
+      "Hesselbach's triangle is the site of direct inguinal hernias, not the indirect pathway.",
+      "",
+      "The femoral canal is the route of femoral hernias, a distinct entity from indirect inguinal hernias."
+    ],
+    "source": "Internal Medicine — 10 July Morning Paper"
+  },
+  {
+    "systemSlug": "respiratory",
+    "topicSlug": "respiratory-physiology",
+    "stem": "Functional residual capacity (FRC) is equal to:",
+    "options": [
+      "Tidal volume + inspiratory reserve volume",
+      "Residual volume + expiratory reserve volume",
+      "Vital capacity - tidal volume",
+      "Total lung capacity - residual volume"
+    ],
+    "correctIndex": 1,
+    "explanation": "Functional residual capacity is the volume of air remaining in the lungs after a normal expiration. It equals residual volume plus expiratory reserve volume (RV + ERV).",
+    "optionExplanations": [
+      "Tidal volume plus inspiratory reserve volume equals inspiratory capacity, not FRC.",
+      "",
+      "Vital capacity minus tidal volume does not correspond to the standard definition of FRC.",
+      "Total lung capacity minus residual volume equals vital capacity, not FRC."
+    ],
+    "source": "Internal Medicine — 10 July Morning Paper"
+  },
+  {
+    "systemSlug": "gastrointestinal",
+    "topicSlug": "gi-anatomy-embryology",
+    "stem": "The appendicular artery arises from the:",
+    "options": [
+      "Right colic artery",
+      "Middle colic artery",
+      "Ileocolic artery",
+      "Inferior mesenteric artery"
+    ],
+    "correctIndex": 2,
+    "explanation": "The appendicular artery is a branch of the ileocolic artery, which itself arises from the superior mesenteric artery.",
+    "optionExplanations": [
+      "The right colic artery supplies the ascending colon, not the appendix.",
+      "The middle colic artery supplies the transverse colon, a separate branch from the appendix's blood supply.",
+      "",
+      "The inferior mesenteric artery supplies the hindgut (distal colon and rectum), not the appendix, which is a midgut structure."
+    ],
+    "source": "Internal Medicine — 10 July Morning Paper"
+  },
+  {
+    "systemSlug": "cardiovascular",
+    "topicSlug": "congenital-vascular-disease",
+    "stem": "A continuous \"machinery\" murmur is characteristic of which cardiac lesion?",
+    "options": [
+      "Ventricular septal defect",
+      "Atrial septal defect",
+      "Patent ductus arteriosus",
+      "Coarctation of the aorta"
+    ],
+    "correctIndex": 2,
+    "explanation": "Patent ductus arteriosus produces a continuous machinery murmur heard beneath the left clavicle, from persistent flow between the aorta and pulmonary artery throughout the cardiac cycle.",
+    "optionExplanations": [
+      "A VSD produces a harsh holosystolic murmur, not a continuous machinery murmur.",
+      "An ASD produces a fixed split S2 with a systolic ejection murmur, not a continuous murmur.",
+      "",
+      "Coarctation of the aorta produces a systolic murmur best heard over the back, not a continuous machinery murmur."
+    ],
+    "source": "Internal Medicine — 10 July Morning Paper"
+  },
+  {
+    "systemSlug": "cardiovascular",
+    "topicSlug": "congenital-vascular-disease",
+    "stem": "The most common cyanotic congenital heart disease beyond infancy is:",
+    "options": [
+      "Transposition of the great arteries",
+      "Tetralogy of Fallot",
+      "Tricuspid atresia",
+      "Total anomalous pulmonary venous return"
+    ],
+    "correctIndex": 1,
+    "explanation": "Tetralogy of Fallot is the most common cyanotic congenital heart disease overall beyond early infancy; transposition of the great arteries is more common in the immediate newborn period.",
+    "optionExplanations": [
+      "Transposition of the great arteries is the most common cyanotic lesion presenting in the immediate newborn period, not beyond infancy.",
+      "",
+      "Tricuspid atresia is a less common cyanotic lesion overall compared with tetralogy of Fallot.",
+      "Total anomalous pulmonary venous return is a rarer cyanotic lesion than tetralogy of Fallot."
+    ],
+    "source": "Internal Medicine — 10 July Morning Paper"
+  },
+  {
+    "systemSlug": "gastrointestinal",
+    "topicSlug": "gi-anatomy-embryology",
+    "stem": "A femoral hernia lies:",
+    "options": [
+      "Medial to the pubic tubercle",
+      "Above the inguinal ligament",
+      "Inferolateral to the pubic tubercle",
+      "Lateral to the ASIS"
+    ],
+    "correctIndex": 2,
+    "explanation": "Femoral hernias pass through the femoral canal below the inguinal ligament. They lie inferolateral to the pubic tubercle, distinguishing them from inguinal hernias, which lie superomedial to it.",
+    "optionExplanations": [
+      "A hernia medial to the pubic tubercle would be more consistent with an inguinal, not femoral, hernia location.",
+      "Femoral hernias pass below, not above, the inguinal ligament.",
+      "",
+      "The region lateral to the ASIS is not the anatomical location of the femoral canal."
+    ],
+    "source": "Internal Medicine — 10 July Morning Paper"
+  },
+  {
+    "systemSlug": "renal",
+    "topicSlug": "glomerular-disease",
+    "stem": "Membranous nephropathy is characterized by:",
+    "options": [
+      "Mesangial proliferation",
+      "Diffuse thickening of the glomerular basement membrane",
+      "Crescent formation",
+      "Nodular glomerulosclerosis"
+    ],
+    "correctIndex": 1,
+    "explanation": "Membranous nephropathy shows diffuse thickening of the glomerular basement membrane from subepithelial immune complex deposition. It commonly presents with nephrotic syndrome, and anti-PLA2R antibodies are associated with the primary form.",
+    "optionExplanations": [
+      "Mesangial proliferation is characteristic of IgA nephropathy or mesangioproliferative glomerulonephritis, not membranous nephropathy.",
+      "",
+      "Crescent formation is characteristic of rapidly progressive glomerulonephritis, not membranous nephropathy.",
+      "Nodular glomerulosclerosis (Kimmelstiel-Wilson lesions) is characteristic of diabetic nephropathy, not membranous nephropathy."
+    ],
+    "source": "Internal Medicine — 10 July Morning Paper"
+  },
+  {
+    "systemSlug": "gastrointestinal",
+    "topicSlug": "gi-pharmacology",
+    "stem": "An alcoholic patient is receiving metronidazole as part of treatment for Helicobacter pylori. What should be avoided during therapy?",
+    "options": [
+      "Dairy products",
+      "Alcohol",
+      "Citrus fruits",
+      "Caffeine"
+    ],
+    "correctIndex": 1,
+    "explanation": "Metronidazole causes a disulfiram-like reaction when taken with alcohol, from accumulation of acetaldehyde. Patients may develop flushing, nausea, vomiting, and hypotension, so alcohol should be avoided during therapy.",
+    "optionExplanations": [
+      "Dairy products do not have a clinically significant interaction with metronidazole.",
+      "",
+      "Citrus fruits have no recognized interaction with metronidazole.",
+      "Caffeine does not interact with metronidazole in a clinically significant way."
+    ],
+    "source": "Internal Medicine — 10 July Morning Paper"
+  },
+  {
+    "systemSlug": "respiratory",
+    "topicSlug": "pulmonary-vascular-interstitial",
+    "stem": "A hemodynamically stable patient is suspected of having a pulmonary embolism. Which investigation is preferred?",
+    "options": [
+      "Chest X-ray",
+      "Ventilation-perfusion scan",
+      "CT pulmonary angiography (CTPA)",
+      "Echocardiography"
+    ],
+    "correctIndex": 2,
+    "explanation": "CT pulmonary angiography is the investigation of choice in hemodynamically stable patients with suspected pulmonary embolism. It directly demonstrates intraluminal filling defects with high sensitivity and specificity.",
+    "optionExplanations": [
+      "Chest X-ray is often normal or nonspecific in PE and cannot confirm the diagnosis.",
+      "V/Q scanning is reserved for patients who cannot undergo CTPA, such as those with renal impairment or contrast allergy.",
+      "",
+      "Echocardiography can suggest right heart strain but does not directly visualize the pulmonary emboli themselves."
+    ],
+    "source": "Internal Medicine — 10 July Morning Paper"
+  },
+  {
+    "systemSlug": "hematology-oncology",
+    "topicSlug": "general-oncology-principles",
+    "stem": "Li-Fraumeni syndrome is caused by a germline mutation in which gene?",
+    "options": [
+      "BRCA1",
+      "APC",
+      "TP53",
+      "RET"
+    ],
+    "correctIndex": 2,
+    "explanation": "Li-Fraumeni syndrome is an autosomal dominant cancer predisposition syndrome caused by a germline TP53 mutation. Affected patients develop multiple malignancies (sarcomas, breast cancer, leukemia, brain tumors) at a young age.",
+    "optionExplanations": [
+      "BRCA1 mutations cause hereditary breast-ovarian cancer syndrome, a distinct entity from Li-Fraumeni syndrome.",
+      "APC mutations cause familial adenomatous polyposis, not Li-Fraumeni syndrome.",
+      "",
+      "RET mutations cause MEN2 syndromes, not Li-Fraumeni syndrome."
+    ],
+    "source": "Internal Medicine — 10 July Morning Paper"
+  },
+  {
+    "systemSlug": "hematology-oncology",
+    "topicSlug": "hematopoiesis-blood-physiology",
+    "stem": "A reticulocyte matures into a mature red blood cell primarily by:",
+    "options": [
+      "Synthesizing hemoglobin",
+      "Losing its nucleus",
+      "Loss of residual RNA",
+      "Increasing mitochondrial content"
+    ],
+    "correctIndex": 2,
+    "explanation": "Reticulocytes have already lost their nucleus by the time they enter circulation. They mature into fully mature erythrocytes by degrading their residual ribosomal RNA over 1-2 days.",
+    "optionExplanations": [
+      "Hemoglobin synthesis occurs earlier, during the normoblast stages, before the reticulocyte is released into circulation.",
+      "The nucleus is already extruded at the normoblast-to-reticulocyte transition, before the cell enters the bloodstream.",
+      "",
+      "Mature erythrocytes lose, rather than gain, mitochondria and other organelles as they mature."
+    ],
+    "source": "Internal Medicine — 10 July Morning Paper"
+  },
+  {
+    "systemSlug": "respiratory",
+    "topicSlug": "respiratory-anatomy-embryology",
+    "stem": "A newborn presents with respiratory distress, and imaging reveals bowel loops within the left hemithorax. What is the embryological defect?",
+    "options": [
+      "Failure of septum transversum formation",
+      "Failure of pleuroperitoneal membrane closure",
+      "Failure of pleuropericardial membrane closure",
+      "Failure of tracheoesophageal septum formation"
+    ],
+    "correctIndex": 1,
+    "explanation": "Failure of pleuroperitoneal membrane closure causes a Bochdalek diaphragmatic hernia, allowing abdominal contents to enter the thoracic cavity. It most commonly occurs on the left side and causes pulmonary hypoplasia.",
+    "optionExplanations": [
+      "Failure of septum transversum formation would affect the central tendon area, not typically cause the classic left-sided Bochdalek defect.",
+      "",
+      "Failure of the pleuropericardial membrane causes a defect between the pleural and pericardial cavities, not a diaphragmatic hernia.",
+      "Failure of tracheoesophageal septum formation causes tracheoesophageal fistula, not diaphragmatic herniation."
+    ],
+    "source": "Internal Medicine — 10 July Morning Paper"
+  },
+  {
+    "systemSlug": "nervous-system",
+    "topicSlug": "neuropharmacology",
+    "stem": "A farmer develops excessive salivation, lacrimation, sweating, and pinpoint pupils after insecticide exposure. What is the underlying mechanism?",
+    "options": [
+      "Increased acetylcholine release",
+      "Acetylcholinesterase inhibition causing excess muscarinic stimulation",
+      "Nicotinic receptor blockade",
+      "Increased adrenergic stimulation"
+    ],
+    "correctIndex": 1,
+    "explanation": "Organophosphate insecticides inhibit acetylcholinesterase, causing accumulation of acetylcholine at muscarinic and nicotinic receptors. Treatment includes atropine and pralidoxime.",
+    "optionExplanations": [
+      "Organophosphates inhibit the breakdown of acetylcholine rather than directly increasing its release.",
+      "",
+      "Organophosphates cause nicotinic and muscarinic receptor overstimulation, not receptor blockade.",
+      "The toxidrome is cholinergic, not adrenergic, in nature."
+    ],
+    "source": "Internal Medicine — 10 July Morning Paper"
+  },
+  {
+    "systemSlug": "endocrine",
+    "topicSlug": "endocrine-anatomy-embryology",
+    "stem": "A child has recurrent infections, hypocalcemia, and congenital heart disease. Which genetic abnormality is most likely?",
+    "options": [
+      "Trisomy 21",
+      "22q11 deletion",
+      "Turner syndrome",
+      "Trisomy 18"
+    ],
+    "correctIndex": 1,
+    "explanation": "DiGeorge syndrome results from a 22q11 deletion causing failure of the third and fourth pharyngeal pouches to develop, leading to thymic aplasia, hypocalcemia (from parathyroid hypoplasia), and conotruncal cardiac defects.",
+    "optionExplanations": [
+      "Trisomy 21 (Down syndrome) is associated with different cardiac defects and does not cause thymic/parathyroid aplasia.",
+      "",
+      "Turner syndrome (45,X) causes distinct features such as webbed neck and coarctation, not the 3rd/4th pharyngeal pouch defects described.",
+      "Trisomy 18 (Edwards syndrome) causes a different pattern of severe congenital anomalies, not the pharyngeal pouch defect of DiGeorge syndrome."
+    ],
+    "source": "Internal Medicine — 10 July Morning Paper"
+  },
+  {
+    "systemSlug": "nervous-system",
+    "topicSlug": "headache-movement-disorders",
+    "stem": "Deficiency of orexin (hypocretin) is associated with which condition?",
+    "options": [
+      "Parkinson disease",
+      "Narcolepsy",
+      "Alzheimer disease",
+      "Huntington disease"
+    ],
+    "correctIndex": 1,
+    "explanation": "Orexin is produced in the hypothalamus and promotes wakefulness. Loss of orexin-producing neurons causes narcolepsy, often with cataplexy and excessive daytime sleepiness.",
+    "optionExplanations": [
+      "Parkinson disease results from dopaminergic neuron loss in the substantia nigra, not orexin deficiency.",
+      "",
+      "Alzheimer disease is linked to amyloid and tau pathology, not orexin deficiency.",
+      "Huntington disease results from CAG repeat expansion causing striatal degeneration, not orexin deficiency."
+    ],
+    "source": "Internal Medicine — 10 July Morning Paper"
+  },
+  {
+    "systemSlug": "musculoskeletal",
+    "topicSlug": "msk-physiology",
+    "stem": "The pyruvate dehydrogenase complex requires several cofactors. Which vitamin is the correct answer from the given options?",
+    "options": [
+      "Vitamin B12",
+      "Riboflavin (FAD)",
+      "Vitamin C",
+      "Vitamin K"
+    ],
+    "correctIndex": 1,
+    "explanation": "The pyruvate dehydrogenase complex requires TPP, lipoic acid, CoA, FAD, and NAD+. FAD is derived from riboflavin (vitamin B2), making it the correct answer among the given options.",
+    "optionExplanations": [
+      "Vitamin B12 is a cofactor for methylmalonyl-CoA mutase and methionine synthase, not the pyruvate dehydrogenase complex.",
+      "",
+      "Vitamin C is a cofactor for hydroxylation reactions such as collagen synthesis, not pyruvate dehydrogenase.",
+      "Vitamin K is required for carboxylation of clotting factors, unrelated to the pyruvate dehydrogenase complex."
+    ],
+    "source": "Internal Medicine — 10 July Morning Paper"
+  },
+  {
+    "systemSlug": "cardiovascular",
+    "topicSlug": "ischemic-heart-disease",
+    "stem": "A patient presents with STEMI to a PCI-capable hospital. What is the preferred immediate management?",
+    "options": [
+      "Thrombolytic therapy",
+      "Aspirin alone",
+      "Primary PCI",
+      "Coronary artery bypass grafting"
+    ],
+    "correctIndex": 2,
+    "explanation": "Primary percutaneous coronary intervention is the preferred reperfusion strategy for STEMI when it can be performed promptly, offering better outcomes than thrombolysis. Antiplatelet therapy should be started while arranging PCI.",
+    "optionExplanations": [
+      "Thrombolytic therapy is reserved for situations where timely PCI is not available.",
+      "Aspirin alone is inadequate as definitive reperfusion therapy for STEMI.",
+      "",
+      "CABG is not the immediate reperfusion strategy for acute STEMI and is reserved for specific anatomic or complicated situations."
+    ],
+    "source": "Internal Medicine — 10 July Morning Paper"
+  },
+  {
+    "systemSlug": "microbiology",
+    "topicSlug": "parasitology",
+    "stem": "Which investigation is considered the gold standard for diagnosing malaria?",
+    "options": [
+      "Rapid antigen test",
+      "PCR",
+      "Thick and thin peripheral blood smear",
+      "Blood culture"
+    ],
+    "correctIndex": 2,
+    "explanation": "The thick smear is highly sensitive for detecting malaria parasites, while the thin smear identifies the Plasmodium species and estimates parasitemia. Together they remain the gold standard for diagnosis.",
+    "optionExplanations": [
+      "Rapid antigen tests are useful adjuncts but are less sensitive and cannot quantify parasitemia or reliably speciate like microscopy.",
+      "PCR is highly sensitive but is not the practical, widely available gold-standard test in most settings.",
+      "",
+      "Blood culture detects bacteremia, not intraerythrocytic parasites, and has no role in malaria diagnosis."
+    ],
+    "source": "Internal Medicine — 10 July Morning Paper"
+  },
+  {
+    "systemSlug": "renal",
+    "topicSlug": "renal-anatomy-embryology",
+    "stem": "Hypospadias results from failure of fusion of the:",
+    "options": [
+      "Genital tubercle",
+      "Labioscrotal swellings",
+      "Urethral (urogenital) folds",
+      "Mullerian ducts"
+    ],
+    "correctIndex": 2,
+    "explanation": "Hypospadias results from incomplete fusion of the urethral folds, causing the urethral opening to be located on the ventral surface of the penis rather than at the tip. It is distinct from epispadias, which is associated with bladder exstrophy.",
+    "optionExplanations": [
+      "Failure of genital tubercle development affects phallic formation broadly, not specifically the ventral urethral closure.",
+      "Failure of labioscrotal swelling fusion causes scrotal or labial abnormalities, not hypospadias.",
+      "",
+      "Mullerian duct defects relate to female internal reproductive structures and are unrelated to hypospadias."
+    ],
+    "source": "Internal Medicine — 10 July Morning Paper"
+  },
+  {
+    "systemSlug": "community-medicine-public-health",
+    "topicSlug": "biostatistics",
+    "stem": "In a normal distribution curve, the standard deviation extends:",
+    "options": [
+      "Only to the right of the mean",
+      "Only to the left of the mean",
+      "Equally on both sides of the mean",
+      "Randomly around the mean"
+    ],
+    "correctIndex": 2,
+    "explanation": "A normal (Gaussian) distribution is symmetrical about the mean, with standard deviations extending equally on both sides. Approximately 68%, 95%, and 99.7% of observations lie within +/-1, +/-2, and +/-3 SD, respectively.",
+    "optionExplanations": [
+      "A normal distribution is symmetric, not skewed to extend only to the right of the mean.",
+      "A normal distribution is symmetric, not skewed to extend only to the left of the mean.",
+      "",
+      "The spread of a normal distribution follows a defined, symmetric mathematical pattern, not a random one."
+    ],
+    "source": "Internal Medicine — 10 July Morning Paper"
+  },
+  {
+    "systemSlug": "musculoskeletal",
+    "topicSlug": "crystal-arthropathies",
+    "stem": "A patient with acute gout cannot take NSAIDs because of chronic kidney disease. Which drug is the best alternative?",
+    "options": [
+      "Allopurinol",
+      "Prednisolone",
+      "Probenecid",
+      "Febuxostat"
+    ],
+    "correctIndex": 1,
+    "explanation": "Corticosteroids such as prednisolone are an effective alternative for acute gout when NSAIDs are contraindicated. Urate-lowering drugs like allopurinol and febuxostat are not started during an acute attack.",
+    "optionExplanations": [
+      "Allopurinol is a urate-lowering drug that is not started during an acute gout flare and can worsen an attack if begun acutely.",
+      "",
+      "Probenecid is a uricosuric urate-lowering agent not used to treat acute attacks, and it is also less effective in renal impairment.",
+      "Febuxostat is a urate-lowering drug not indicated for acute attacks and is not the preferred alternative when NSAIDs are contraindicated."
+    ],
+    "source": "Internal Medicine — 10 July Morning Paper"
+  },
+  {
+    "systemSlug": "musculoskeletal",
+    "topicSlug": "rheumatoid-arthritis-oa",
+    "stem": "A patient develops arthritis, urethritis, conjunctivitis, and circinate balanitis after a gastrointestinal infection. What is the most likely diagnosis?",
+    "options": [
+      "Psoriatic arthritis",
+      "Reactive arthritis (Reiter syndrome)",
+      "Rheumatoid arthritis",
+      "Ankylosing spondylitis"
+    ],
+    "correctIndex": 1,
+    "explanation": "Reactive arthritis typically follows gastrointestinal or Chlamydia infection. The classic triad is arthritis, urethritis, and conjunctivitis, with circinate balanitis and HLA-B27 positivity as characteristic features.",
+    "optionExplanations": [
+      "Psoriatic arthritis is associated with psoriasis and nail changes, not a preceding GI infection with this specific triad.",
+      "",
+      "Rheumatoid arthritis is a symmetric small-joint polyarthritis unrelated to a preceding gastrointestinal infection.",
+      "Ankylosing spondylitis primarily causes axial/spinal involvement, not the urethritis-conjunctivitis-arthritis triad described."
+    ],
+    "source": "Internal Medicine — 10 July Morning Paper"
+  },
+  {
+    "systemSlug": "nervous-system",
+    "topicSlug": "cns-infections",
+    "stem": "A patient with untreated syphilis develops sensory ataxia, loss of vibration sense, and lightning pains. What is the diagnosis?",
+    "options": [
+      "General paresis",
+      "Tabes dorsalis",
+      "Meningovascular syphilis",
+      "Neurosarcoidosis"
+    ],
+    "correctIndex": 1,
+    "explanation": "Tabes dorsalis is a manifestation of tertiary syphilis involving the dorsal columns. Patients develop sensory ataxia, loss of proprioception, and lightning pains, often with a positive Romberg sign.",
+    "optionExplanations": [
+      "General paresis presents with progressive dementia and personality change from parenchymal brain involvement, not sensory ataxia.",
+      "",
+      "Meningovascular syphilis presents with stroke-like focal deficits from vascular involvement, not the classic dorsal column syndrome.",
+      "Neurosarcoidosis is a distinct granulomatous condition unrelated to syphilis and would not present with this classic triad."
+    ],
+    "source": "Internal Medicine — 10 July Morning Paper"
+  },
+  {
+    "systemSlug": "hematology-oncology",
+    "topicSlug": "bleeding-clotting-disorders",
+    "stem": "A woman presents with thrombocytopenia, fever, neurological symptoms, renal dysfunction, and schistocytes on blood smear. What is the most likely diagnosis?",
+    "options": [
+      "Hemolytic uremic syndrome",
+      "Immune thrombocytopenic purpura",
+      "Thrombotic thrombocytopenic purpura",
+      "Disseminated intravascular coagulation"
+    ],
+    "correctIndex": 2,
+    "explanation": "Thrombotic thrombocytopenic purpura is caused by ADAMTS13 deficiency and presents with thrombocytopenia, microangiopathic hemolytic anemia, neurological symptoms, renal dysfunction, and fever. Urgent plasma exchange is the treatment of choice.",
+    "optionExplanations": [
+      "HUS classically involves prominent renal failure with less pronounced neurological involvement and typically follows a diarrheal illness.",
+      "ITP causes isolated thrombocytopenia without the hemolysis, fever, renal, and neurological findings described.",
+      "",
+      "DIC is usually triggered by an underlying illness such as sepsis or trauma and features abnormal coagulation studies, unlike the typically normal coagulation profile in TTP."
+    ],
+    "source": "Internal Medicine — 10 July Morning Paper"
+  },
+  {
+    "systemSlug": "gastrointestinal",
+    "topicSlug": "liver-disease",
+    "stem": "A young patient presents with chronic liver disease, tremors, and Kayser-Fleischer rings. What is the most likely diagnosis?",
+    "options": [
+      "Hemochromatosis",
+      "Alpha-1 antitrypsin deficiency",
+      "Wilson disease",
+      "Primary biliary cholangitis"
+    ],
+    "correctIndex": 2,
+    "explanation": "Wilson disease is caused by defective copper metabolism due to ATP7B mutation. It presents with liver disease, neurological symptoms, and Kayser-Fleischer rings; low ceruloplasmin and increased urinary copper are characteristic.",
+    "optionExplanations": [
+      "Hemochromatosis causes iron, not copper, overload and does not cause Kayser-Fleischer rings.",
+      "Alpha-1 antitrypsin deficiency causes liver and lung disease but not the characteristic neurologic signs or copper-related eye findings.",
+      "",
+      "Primary biliary cholangitis is an autoimmune cholestatic disease unrelated to copper metabolism or Kayser-Fleischer rings."
+    ],
+    "source": "Internal Medicine — 10 July Morning Paper"
+  },
+  {
+    "systemSlug": "gastrointestinal",
+    "topicSlug": "liver-disease",
+    "stem": "Menkes syndrome is caused by mutation in which gene?",
+    "options": [
+      "ATP7B",
+      "ATP7A",
+      "CFTR",
+      "HFE"
+    ],
+    "correctIndex": 1,
+    "explanation": "Menkes syndrome results from mutation of the ATP7A gene, causing defective copper transport and copper deficiency. Patients have kinky hair, developmental delay, and hypotonia, in contrast to Wilson disease (ATP7B) and hemochromatosis (HFE).",
+    "optionExplanations": [
+      "ATP7B mutations cause Wilson disease, a copper-overload disorder distinct from Menkes disease.",
+      "",
+      "CFTR mutations cause cystic fibrosis, unrelated to copper transport.",
+      "HFE mutations cause hereditary hemochromatosis (iron overload), unrelated to Menkes syndrome."
+    ],
+    "source": "Internal Medicine — 10 July Morning Paper"
+  },
+  {
+    "systemSlug": "gastrointestinal",
+    "topicSlug": "liver-disease",
+    "stem": "A patient with cirrhosis develops confusion, asterixis, and elevated serum ammonia. What is the most likely diagnosis?",
+    "options": [
+      "Hepatorenal syndrome",
+      "Hepatic encephalopathy",
+      "Wilson disease",
+      "Acute viral hepatitis"
+    ],
+    "correctIndex": 1,
+    "explanation": "Hepatic encephalopathy results from accumulation of ammonia and other toxins in liver failure. Patients present with confusion, altered consciousness, and asterixis. Treatment includes lactulose, with or without rifaximin.",
+    "optionExplanations": [
+      "Hepatorenal syndrome is a renal failure complication of cirrhosis, not the cause of confusion and asterixis described.",
+      "",
+      "Wilson disease is a specific inherited cause of liver disease, not the general descriptive diagnosis for ammonia-driven confusion in cirrhosis.",
+      "Acute viral hepatitis would present with an acute hepatitic illness, not necessarily the chronic cirrhotic picture with elevated ammonia described."
+    ],
+    "source": "Internal Medicine — 10 July Morning Paper"
+  },
+  {
+    "systemSlug": "gastrointestinal",
+    "topicSlug": "gi-pharmacology",
+    "stem": "Which of the following is an over-the-counter stimulant laxative?",
+    "options": [
+      "Lactulose",
+      "Bisacodyl",
+      "Psyllium",
+      "Docusate sodium"
+    ],
+    "correctIndex": 1,
+    "explanation": "Bisacodyl is a stimulant laxative that increases colonic motility and is commonly available over the counter for constipation. Senna is another commonly used stimulant laxative.",
+    "optionExplanations": [
+      "Lactulose is an osmotic laxative, not a stimulant laxative.",
+      "",
+      "Psyllium is a bulk-forming laxative, not a stimulant.",
+      "Docusate sodium is a stool softener, not a stimulant laxative."
+    ],
+    "source": "Internal Medicine — 10 July Morning Paper"
+  },
+  {
+    "systemSlug": "endocrine",
+    "topicSlug": "thyroid-disorders",
+    "stem": "A patient with Graves disease undergoes definitive treatment and later develops permanent hypothyroidism requiring lifelong levothyroxine. Which therapy most likely caused this outcome?",
+    "options": [
+      "Methimazole",
+      "Propylthiouracil",
+      "Radioactive iodine (I-131)",
+      "Propranolol"
+    ],
+    "correctIndex": 2,
+    "explanation": "Radioactive iodine destroys thyroid follicular cells through beta radiation. Permanent hypothyroidism is a common long-term outcome, and most patients require lifelong levothyroxine replacement.",
+    "optionExplanations": [
+      "Methimazole is a reversible antithyroid drug and does not permanently destroy thyroid tissue.",
+      "Propylthiouracil is a reversible antithyroid drug, not a definitive ablative therapy.",
+      "",
+      "Propranolol only controls adrenergic symptoms and has no effect on thyroid tissue or long-term thyroid function."
+    ],
+    "source": "Internal Medicine — 10 July Morning Paper"
+  },
+  {
+    "systemSlug": "endocrine",
+    "topicSlug": "endocrine-pharmacology",
+    "stem": "Radioactive iodine (I-131) is used in the treatment of hyperthyroidism. What is its primary mechanism of action?",
+    "options": [
+      "Inhibition of thyroid hormone synthesis",
+      "Blockade of TSH receptors",
+      "Radiation-induced DNA damage and follicular cell destruction",
+      "Inhibition of peripheral T4 to T3 conversion"
+    ],
+    "correctIndex": 2,
+    "explanation": "I-131 emits beta particles that damage DNA within thyroid follicular cells, causing irreversible destruction of thyroid tissue and providing definitive treatment of hyperthyroidism.",
+    "optionExplanations": [
+      "Inhibiting thyroid hormone synthesis describes thionamide drugs like methimazole, not radioactive iodine.",
+      "I-131 does not act by blocking the TSH receptor.",
+      "",
+      "Inhibition of peripheral T4-to-T3 conversion describes drugs like propranolol or high-dose propylthiouracil, not I-131's mechanism."
+    ],
+    "source": "Internal Medicine — 10 July Morning Paper"
+  },
+  {
+    "systemSlug": "musculoskeletal",
+    "topicSlug": "rheumatoid-arthritis-oa",
+    "stem": "A 35-year-old man presents with well-demarcated erythematous plaques covered by silvery scales over his elbows and knees. What is the most likely diagnosis?",
+    "options": [
+      "Tinea corporis",
+      "Psoriasis",
+      "Seborrheic dermatitis",
+      "Lichen planus"
+    ],
+    "correctIndex": 1,
+    "explanation": "Psoriasis presents with well-demarcated plaques and silvery scales on extensor surfaces. Histology shows parakeratosis, acanthosis, and Munro microabscesses; it is a chronic immune-mediated inflammatory skin disease.",
+    "optionExplanations": [
+      "Tinea corporis produces an annular lesion with an active border and central clearing, not thick silvery plaques on extensor surfaces.",
+      "",
+      "Seborrheic dermatitis produces greasy yellow scales in sebaceous areas like the scalp and face, not silvery plaques on extensor surfaces.",
+      "Lichen planus produces violaceous, flat-topped papules with Wickham striae, not silvery scaled plaques."
+    ],
+    "source": "Internal Medicine — 10 July Morning Paper"
+  },
+  {
+    "systemSlug": "endocrine",
+    "topicSlug": "adrenal-disorders",
+    "stem": "A patient presents with episodic headaches, palpitations, sweating, and severe hypertension. What is the most likely diagnosis?",
+    "options": [
+      "Adrenal adenoma",
+      "Pheochromocytoma",
+      "Cushing syndrome",
+      "Conn syndrome"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pheochromocytoma is a catecholamine-secreting tumor of the adrenal medulla. It classically presents with episodic headache, sweating, palpitations, and hypertension. Alpha-blockade should always precede beta-blockade before surgery.",
+    "optionExplanations": [
+      "A nonfunctioning adrenal adenoma would not cause the episodic catecholamine-driven symptoms described.",
+      "",
+      "Cushing syndrome causes sustained features of cortisol excess (weight gain, striae), not episodic catecholamine surges.",
+      "Conn syndrome causes sustained hypertension with hypokalemia, not episodic palpitations and headache from catecholamine excess."
+    ],
+    "source": "Internal Medicine — 10 July Morning Paper"
+  },
+  {
+    "systemSlug": "cardiovascular",
+    "topicSlug": "cardiomyopathy-pericardial-disease",
+    "stem": "A trauma patient presents with hypotension, distended neck veins, and muffled heart sounds. What is the most likely diagnosis?",
+    "options": [
+      "Massive pulmonary embolism",
+      "Cardiac tamponade",
+      "Acute myocardial infarction",
+      "Tension pneumothorax"
+    ],
+    "correctIndex": 1,
+    "explanation": "Beck's triad (hypotension, raised jugular venous pressure, and muffled heart sounds) is characteristic of cardiac tamponade, an obstructive form of shock requiring urgent pericardial drainage.",
+    "optionExplanations": [
+      "Massive pulmonary embolism causes hypotension and distended neck veins but not muffled heart sounds.",
+      "",
+      "Acute MI can cause hypotension but does not typically cause muffled heart sounds or distended neck veins as a triad.",
+      "Tension pneumothorax causes distended neck veins and hypotension but presents with absent breath sounds and tracheal deviation, not muffled heart sounds."
+    ],
+    "source": "Internal Medicine — 10 July Morning Paper"
+  },
+  {
+    "systemSlug": "respiratory",
+    "topicSlug": "pulmonary-vascular-interstitial",
+    "stem": "A patient with sudden-onset dyspnea is suspected of having a pulmonary embolism. CT pulmonary angiography is performed. Which finding is most characteristic?",
+    "options": [
+      "Ground-glass opacities",
+      "Air bronchograms",
+      "Intraluminal filling defect in the pulmonary artery",
+      "Pleural effusion"
+    ],
+    "correctIndex": 2,
+    "explanation": "CT pulmonary angiography demonstrates an intraluminal filling defect within the pulmonary arteries, confirming thromboembolism.",
+    "optionExplanations": [
+      "Ground-glass opacities are a nonspecific finding seen in many diffuse lung diseases, not the specific sign of PE.",
+      "Air bronchograms suggest airspace consolidation (e.g., pneumonia), not thromboembolism.",
+      "",
+      "A pleural effusion can accompany PE but is a nonspecific secondary finding, not the characteristic direct sign."
+    ],
+    "source": "Internal Medicine — 10 July Morning Paper"
+  },
+  {
+    "systemSlug": "respiratory",
+    "topicSlug": "respiratory-physiology",
+    "stem": "Pulmonary surfactant primarily performs which function?",
+    "options": [
+      "Increases airway resistance",
+      "Decreases pulmonary blood flow",
+      "Increases lung compliance by reducing alveolar surface tension",
+      "Stimulates mucus secretion"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pulmonary surfactant reduces alveolar surface tension, preventing alveolar collapse during expiration and increasing lung compliance. It is produced by type II pneumocytes.",
+    "optionExplanations": [
+      "Surfactant decreases, rather than increases, the work of breathing by lowering surface tension.",
+      "Surfactant acts on alveolar surface tension and does not directly regulate pulmonary blood flow.",
+      "",
+      "Surfactant does not stimulate mucus secretion; that is a function of goblet cells and submucosal glands."
+    ],
+    "source": "Internal Medicine — 10 July Morning Paper"
+  },
+  {
+    "systemSlug": "musculoskeletal",
+    "topicSlug": "msk-physiology",
+    "stem": "A biochemistry student is asked about the enzyme inhibited in Complex II of the electron transport chain. Which enzyme is involved?",
+    "options": [
+      "Cytochrome oxidase",
+      "Succinate dehydrogenase",
+      "NADH dehydrogenase",
+      "ATP synthase"
+    ],
+    "correctIndex": 1,
+    "explanation": "Succinate dehydrogenase is the only TCA cycle enzyme located in the inner mitochondrial membrane. It functions as Complex II of the electron transport chain, transferring electrons from succinate to coenzyme Q.",
+    "optionExplanations": [
+      "Cytochrome oxidase is Complex IV of the electron transport chain, not Complex II.",
+      "",
+      "NADH dehydrogenase is Complex I, which oxidizes NADH rather than succinate.",
+      "ATP synthase is Complex V, which synthesizes ATP using the proton gradient, and is not part of the succinate-oxidizing complex."
+    ],
+    "source": "Internal Medicine — 10 July Morning Paper"
+  },
+  {
+    "systemSlug": "endocrine",
+    "topicSlug": "endocrine-anatomy-embryology",
+    "stem": "A newborn is diagnosed with Down syndrome. What is the most common underlying genetic mechanism?",
+    "options": [
+      "Robertsonian translocation",
+      "Mosaicism",
+      "Meiotic nondisjunction",
+      "Deletion of chromosome 21"
+    ],
+    "correctIndex": 2,
+    "explanation": "Approximately 95% of Down syndrome cases result from meiotic nondisjunction, most often during maternal meiosis I. Robertsonian translocation and mosaicism are less common causes.",
+    "optionExplanations": [
+      "Robertsonian translocation accounts for a minority of Down syndrome cases, not the majority.",
+      "Mosaicism accounts for only a small fraction of Down syndrome cases, arising from a post-zygotic mitotic error.",
+      "",
+      "Down syndrome results from an extra copy of chromosome 21, not a deletion."
+    ],
+    "source": "Internal Medicine — 10 July Morning Paper"
+  },
+  {
+    "systemSlug": "endocrine",
+    "topicSlug": "adrenal-disorders",
+    "stem": "A hypertensive patient has persistent hypokalemia. Laboratory tests reveal high aldosterone and suppressed plasma renin activity. What is the most likely diagnosis?",
+    "options": [
+      "Secondary hyperaldosteronism",
+      "Addison disease",
+      "Primary hyperaldosteronism",
+      "Cushing syndrome"
+    ],
+    "correctIndex": 2,
+    "explanation": "Primary hyperaldosteronism (Conn syndrome) causes autonomous aldosterone secretion, producing hypertension, hypokalemia, and suppressed renin. The aldosterone-to-renin ratio is the preferred screening test.",
+    "optionExplanations": [
+      "Secondary hyperaldosteronism results from activation of the renin-angiotensin system and would show elevated, not suppressed, renin.",
+      "Addison disease causes aldosterone deficiency, producing hyperkalemia and hypotension, the opposite picture.",
+      "",
+      "Cushing syndrome causes hypokalemia through cortisol's mineralocorticoid effect but presents with a distinct cortisol excess phenotype and different aldosterone/renin pattern."
+    ],
+    "source": "Internal Medicine — 10 July Morning Paper"
+  },
+  {
+    "systemSlug": "endocrine",
+    "topicSlug": "adrenal-disorders",
+    "stem": "A patient is suspected of having Cushing syndrome. Which investigation is the preferred initial screening test?",
+    "options": [
+      "Plasma ACTH level",
+      "High-dose dexamethasone suppression test",
+      "Low-dose dexamethasone suppression test",
+      "MRI of the pituitary gland"
+    ],
+    "correctIndex": 2,
+    "explanation": "The overnight low-dose dexamethasone suppression test is the standard screening test for Cushing syndrome. Failure to suppress cortisol suggests hypercortisolism; ACTH measurement follows to determine the cause.",
+    "optionExplanations": [
+      "Plasma ACTH helps determine the cause once hypercortisolism is confirmed, but is not the initial screening test.",
+      "The high-dose test is used to distinguish pituitary from ectopic ACTH sources after Cushing syndrome is already confirmed.",
+      "",
+      "Pituitary MRI is used after biochemical confirmation to localize a source, not as the initial screening test."
+    ],
+    "source": "Internal Medicine — 10 July Morning Paper"
+  },
+  {
+    "systemSlug": "nervous-system",
+    "topicSlug": "neuroanatomy-embryology",
+    "stem": "A patient presents with ptosis, a \"down-and-out\" eye, and a fixed dilated pupil. Which cranial nerve is most likely affected?",
+    "options": [
+      "Trochlear nerve (CN IV)",
+      "Trigeminal nerve (CN V)",
+      "Abducens nerve (CN VI)",
+      "Oculomotor nerve (CN III)"
+    ],
+    "correctIndex": 3,
+    "explanation": "Oculomotor nerve palsy causes ptosis and a \"down-and-out\" eye position. Parasympathetic fiber involvement, which runs superficially on the nerve, produces a fixed dilated pupil; a posterior communicating artery aneurysm is an important cause.",
+    "optionExplanations": [
+      "Trochlear nerve palsy causes vertical diplopia from superior oblique weakness, not ptosis or pupillary involvement.",
+      "Trigeminal nerve palsy causes facial sensory loss or masticatory weakness, not ptosis or pupillary changes.",
+      "Abducens nerve palsy causes an isolated horizontal gaze deficit (medially deviated eye), not ptosis or pupil involvement.",
+      ""
+    ],
+    "source": "Internal Medicine — 10 July Morning Paper"
+  },
+  {
+    "systemSlug": "hematology-oncology",
+    "topicSlug": "leukemia-lymphoma",
+    "stem": "A child from an endemic region presents with a rapidly enlarging jaw mass. Which malignancy is the most likely diagnosis?",
+    "options": [
+      "Hodgkin lymphoma",
+      "Burkitt lymphoma",
+      "Diffuse large B-cell lymphoma",
+      "Osteosarcoma"
+    ],
+    "correctIndex": 1,
+    "explanation": "Endemic Burkitt lymphoma commonly presents with a jaw mass in children. It is associated with Epstein-Barr virus infection and the t(8;14) c-MYC translocation, and is one of the fastest-growing human malignancies.",
+    "optionExplanations": [
+      "Hodgkin lymphoma typically presents with painless lymphadenopathy and Reed-Sternberg cells, not a rapidly enlarging jaw mass in endemic regions.",
+      "",
+      "Diffuse large B-cell lymphoma occurs mainly in older patients and is not classically linked to a jaw mass with endemic EBV association.",
+      "Osteosarcoma is a primary bone tumor typically of the long bones in adolescents, not a jaw mass linked to EBV."
+    ],
+    "source": "Internal Medicine — 10 July Morning Paper"
+  },
+  {
+    "systemSlug": "microbiology",
+    "topicSlug": "virology",
+    "stem": "A teenager presents with fever, sore throat, posterior cervical lymphadenopathy, and atypical lymphocytes on peripheral smear. What is the most likely diagnosis?",
+    "options": [
+      "Acute lymphoblastic leukemia",
+      "Cytomegalovirus infection",
+      "EBV infectious mononucleosis",
+      "Toxoplasmosis"
+    ],
+    "correctIndex": 2,
+    "explanation": "EBV infectious mononucleosis classically presents with fever, pharyngitis, and posterior cervical lymphadenopathy. Atypical lymphocytes are reactive CD8+ T cells; the Monospot test is commonly used for screening.",
+    "optionExplanations": [
+      "Acute lymphoblastic leukemia would show additional systemic features like cytopenias or circulating blasts, not simply atypical reactive lymphocytes.",
+      "CMV can mimic mononucleosis, but the classic posterior cervical lymphadenopathy and pharyngitis picture is more typical of EBV.",
+      "",
+      "Toxoplasmosis can also cause a mono-like illness but typically lacks the prominent exudative pharyngitis seen with EBV."
+    ],
+    "source": "Internal Medicine — 10 July Morning Paper"
+  },
+  {
+    "systemSlug": "hematology-oncology",
+    "topicSlug": "anemia",
+    "stem": "A 65-year-old man has chronic occult gastrointestinal blood loss due to colorectal carcinoma. Which hematologic abnormality is most likely to develop?",
+    "options": [
+      "Megaloblastic anemia",
+      "Aplastic anemia",
+      "Iron deficiency anemia",
+      "Hemolytic anemia"
+    ],
+    "correctIndex": 2,
+    "explanation": "Chronic gastrointestinal blood loss is the most common cause of iron deficiency anemia in adults, producing a microcytic, hypochromic anemia. Colorectal carcinoma should always be excluded in elderly patients with new iron deficiency.",
+    "optionExplanations": [
+      "Megaloblastic anemia results from B12 or folate deficiency, not chronic blood loss.",
+      "Aplastic anemia results from bone marrow failure, not peripheral blood loss.",
+      "",
+      "Hemolytic anemia results from red cell destruction, not external blood loss."
+    ],
+    "source": "Internal Medicine — 10 July Morning Paper"
+  },
+  {
+    "systemSlug": "nervous-system",
+    "topicSlug": "peripheral-nerve-neuromuscular",
+    "stem": "A 45-year-old patient develops unilateral ptosis, miosis, and loss of sweating on the same side of the face after neck trauma. Which structure is most likely damaged?",
+    "options": [
+      "Facial nerve",
+      "Oculomotor nerve",
+      "Sympathetic chain",
+      "Trigeminal nerve"
+    ],
+    "correctIndex": 2,
+    "explanation": "Damage to the cervical sympathetic chain causes Horner syndrome. The classic triad is ptosis, miosis, and ipsilateral anhidrosis; neck trauma is a recognized cause.",
+    "optionExplanations": [
+      "Facial nerve injury causes facial muscle weakness, not the ptosis-miosis-anhidrosis triad.",
+      "Oculomotor nerve injury causes a dilated pupil and 'down-and-out' eye, the opposite of the miosis seen in Horner syndrome.",
+      "",
+      "Trigeminal nerve injury causes facial sensory loss, not the autonomic triad described."
+    ],
+    "source": "Internal Medicine — 10 July Morning Paper"
+  },
+  {
+    "systemSlug": "musculoskeletal",
+    "topicSlug": "connective-tissue-vasculitis",
+    "stem": "A 67-year-old patient with diffuse skin thickening and pulmonary fibrosis tests positive for anti-Scl-70 antibodies. Which disease is most likely?",
+    "options": [
+      "CREST syndrome",
+      "Diffuse systemic sclerosis",
+      "Systemic lupus erythematosus",
+      "Dermatomyositis"
+    ],
+    "correctIndex": 1,
+    "explanation": "Anti-Scl-70 (anti-topoisomerase I) antibodies are associated with diffuse systemic sclerosis, in which pulmonary fibrosis is a common complication. Diffuse skin involvement distinguishes it from the more limited CREST syndrome.",
+    "optionExplanations": [
+      "CREST syndrome (limited systemic sclerosis) is associated with anti-centromere, not anti-Scl-70, antibodies.",
+      "",
+      "SLE is associated with anti-dsDNA and anti-Smith antibodies, not anti-Scl-70.",
+      "Dermatomyositis is associated with anti-Jo-1 and anti-Mi-2 antibodies and characteristic skin/muscle findings, not anti-Scl-70."
+    ],
+    "source": "Internal Medicine — 10 July Morning Paper"
+  },
+  {
+    "systemSlug": "endocrine",
+    "topicSlug": "hormone-physiology-signaling",
+    "stem": "A patient with type 2 diabetes receives insulin therapy. Which statement best describes how insulin acts on target cells?",
+    "options": [
+      "Simple diffusion across the cell membrane",
+      "Receptor-mediated binding to its cell surface receptor",
+      "Facilitated diffusion through GLUT4 transporters",
+      "Active transport via sodium-dependent channels"
+    ],
+    "correctIndex": 1,
+    "explanation": "Insulin does not enter cells. It binds to insulin receptors on the cell membrane and initiates intracellular signaling, which in turn mobilizes GLUT4 transporters to move glucose (not insulin itself) into skeletal muscle and adipose tissue.",
+    "optionExplanations": [
+      "Insulin is a peptide hormone and cannot cross the lipid bilayer by simple diffusion.",
+      "",
+      "GLUT4 facilitates glucose, not insulin, entry into cells, and is mobilized as a downstream effect of insulin signaling.",
+      "Insulin action does not involve sodium-dependent active transport channels."
+    ],
+    "source": "Internal Medicine — 10 July Morning Paper"
+  },
+  {
+    "systemSlug": "hematology-oncology",
+    "topicSlug": "bleeding-clotting-disorders",
+    "stem": "An 8-year-old boy has recurrent spontaneous hemarthroses. His maternal uncle has a similar bleeding disorder. What is the mode of inheritance of this condition?",
+    "options": [
+      "Autosomal dominant",
+      "Autosomal recessive",
+      "X-linked dominant",
+      "X-linked recessive"
+    ],
+    "correctIndex": 3,
+    "explanation": "Hemophilia A and B are inherited in an X-linked recessive pattern. Affected males commonly have maternal male relatives with the disease, and hemarthroses are a classic clinical feature.",
+    "optionExplanations": [
+      "Autosomal dominant inheritance would affect both sexes roughly equally, unlike the male-predominant maternal transmission pattern described.",
+      "Autosomal recessive inheritance would not show the maternal male-relative pattern typical of hemophilia.",
+      "X-linked dominant conditions would affect heterozygous females as well, unlike the pattern seen in hemophilia.",
+      ""
+    ],
+    "source": "Internal Medicine — 10 July Morning Paper"
+  },
+  {
+    "systemSlug": "cardiovascular",
+    "topicSlug": "cardiac-pharmacology",
+    "stem": "A patient with chronic heart failure is started on digoxin. What is the primary mechanism of action of this drug?",
+    "options": [
+      "Beta-1 adrenergic receptor stimulation",
+      "Calcium channel blockade",
+      "Na+/K+-ATPase inhibition",
+      "Phosphodiesterase inhibition"
+    ],
+    "correctIndex": 2,
+    "explanation": "Digoxin inhibits the Na+/K+-ATPase pump, increasing intracellular calcium by reducing Na+/Ca2+ exchange. This results in increased myocardial contractility.",
+    "optionExplanations": [
+      "Digoxin does not act via direct beta-1 adrenergic receptor stimulation.",
+      "Digoxin does not block calcium channels directly; its increase in intracellular calcium is secondary to Na+/K+-ATPase inhibition.",
+      "",
+      "Phosphodiesterase inhibition describes drugs like milrinone, not digoxin's mechanism."
+    ],
+    "source": "Internal Medicine — 10 July Morning Paper"
+  },
+  {
+    "systemSlug": "endocrine",
+    "topicSlug": "diabetes-mellitus",
+    "stem": "During prolonged fasting, gluconeogenesis primarily occurs in which organs?",
+    "options": [
+      "Liver only",
+      "Skeletal muscle and liver",
+      "Liver and kidney",
+      "Kidney only"
+    ],
+    "correctIndex": 2,
+    "explanation": "The liver is the principal site of gluconeogenesis. The kidney contributes significantly during prolonged fasting, and together they maintain blood glucose levels.",
+    "optionExplanations": [
+      "The liver is the principal site, but the kidney also contributes meaningfully, especially during prolonged fasting.",
+      "Skeletal muscle lacks glucose-6-phosphatase and cannot release free glucose via gluconeogenesis.",
+      "",
+      "The kidney contributes, but the liver remains the dominant site of gluconeogenesis overall."
+    ],
+    "source": "Internal Medicine — 10 July Morning Paper"
+  },
+  {
+    "systemSlug": "cardiovascular",
+    "topicSlug": "cardiac-anatomy-embryology",
+    "stem": "The hemiazygos vein normally drains into which venous structure?",
+    "options": [
+      "Superior vena cava",
+      "Inferior vena cava",
+      "Azygos vein",
+      "Left brachiocephalic vein"
+    ],
+    "correctIndex": 2,
+    "explanation": "The hemiazygos vein ascends on the left side of the vertebral column and crosses the midline to drain into the azygos vein; it does not drain directly into the superior vena cava.",
+    "optionExplanations": [
+      "The hemiazygos vein does not drain directly into the SVC; it crosses to join the azygos system first.",
+      "The hemiazygos vein drains cranially into the azygos system, not into the IVC.",
+      "",
+      "The left brachiocephalic vein receives drainage from structures in the neck and upper thorax, not the hemiazygos vein."
+    ],
+    "source": "Internal Medicine — 10 July Morning Paper"
+  },
+  {
+    "systemSlug": "endocrine",
+    "topicSlug": "diabetes-mellitus",
+    "stem": "An obese patient has velvety hyperpigmented plaques over the neck and axillae (acanthosis nigricans). What is the most likely underlying abnormality?",
+    "options": [
+      "Autoimmune destruction of beta cells",
+      "Insulin resistance",
+      "Cortisol deficiency",
+      "Growth hormone deficiency"
+    ],
+    "correctIndex": 1,
+    "explanation": "Acanthosis nigricans is a marker of hyperinsulinemia and insulin resistance, commonly associated with obesity and type 2 diabetes mellitus. Lesions most often involve the neck and axillae.",
+    "optionExplanations": [
+      "Autoimmune beta-cell destruction describes type 1 diabetes, which is not the classic association with acanthosis nigricans.",
+      "",
+      "Cortisol deficiency (Addison disease) is not associated with acanthosis nigricans.",
+      "Growth hormone deficiency is not the underlying abnormality linked to acanthosis nigricans."
+    ],
+    "source": "Internal Medicine — 10 July Morning Paper"
+  },
+  {
+    "systemSlug": "endocrine",
+    "topicSlug": "diabetes-mellitus",
+    "stem": "A patient is being evaluated for impaired glucose tolerance. Which investigation is commonly used to diagnose diabetes mellitus, especially gestational diabetes?",
+    "options": [
+      "Random blood glucose",
+      "HbA1c",
+      "Oral glucose tolerance test (OGTT)",
+      "Fasting insulin level"
+    ],
+    "correctIndex": 2,
+    "explanation": "The oral glucose tolerance test evaluates the body's response to a glucose load and is particularly useful for diagnosing gestational diabetes and detecting impaired glucose tolerance.",
+    "optionExplanations": [
+      "A random glucose is a screening tool but not the definitive diagnostic test, especially in pregnancy.",
+      "HbA1c can be unreliable in pregnancy due to altered red cell turnover and is not the standard test for gestational diabetes.",
+      "",
+      "Fasting insulin level does not directly assess glucose tolerance and is not used to diagnose gestational diabetes."
+    ],
+    "source": "Internal Medicine — 10 July Morning Paper"
+  },
+  {
+    "systemSlug": "endocrine",
+    "topicSlug": "diabetes-mellitus",
+    "stem": "Chronic obesity is associated with insulin resistance due to persistent low-grade inflammation. Which cytokine plays the most important role in this process?",
+    "options": [
+      "Interleukin-2 (IL-2)",
+      "Interferon-gamma (IFN-gamma)",
+      "Tumor necrosis factor-alpha (TNF-alpha)",
+      "Interleukin-10 (IL-10)"
+    ],
+    "correctIndex": 2,
+    "explanation": "TNF-alpha released by adipose tissue macrophages interferes with insulin signaling, contributing significantly to insulin resistance. IL-6 also plays an important role.",
+    "optionExplanations": [
+      "IL-2 primarily drives T-cell proliferation and is not the key cytokine linking obesity to insulin resistance.",
+      "IFN-gamma is more central to antiviral and cell-mediated immunity than to adipose-driven insulin resistance.",
+      "",
+      "IL-10 is an anti-inflammatory cytokine that would counteract, not promote, insulin resistance."
+    ],
+    "source": "Internal Medicine — 10 July Morning Paper"
+  },
+  {
+    "systemSlug": "endocrine",
+    "topicSlug": "pituitary-disorders",
+    "stem": "A patient with a pituitary adenoma develops progressive loss of peripheral vision in both eyes. Which structure is most likely compressed?",
+    "options": [
+      "Optic nerve",
+      "Optic tract",
+      "Optic chiasm",
+      "Lateral geniculate body"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pituitary adenomas commonly compress the optic chiasm, damaging the crossing nasal retinal fibers and producing bitemporal hemianopia.",
+    "optionExplanations": [
+      "Optic nerve compression causes monocular, not bitemporal, visual loss.",
+      "Optic tract lesions cause a homonymous, not bitemporal, visual field defect.",
+      "",
+      "Lateral geniculate body lesions cause a homonymous visual field defect, not bitemporal hemianopia."
+    ],
+    "source": "Internal Medicine — 10 July Morning Paper"
+  },
+  {
+    "systemSlug": "musculoskeletal",
+    "topicSlug": "connective-tissue-vasculitis",
+    "stem": "A patient with active systemic lupus erythematosus has low serum C3 and C4 levels. Which immunological mechanism best explains these findings?",
+    "options": [
+      "Type I hypersensitivity",
+      "Type II hypersensitivity",
+      "Type III hypersensitivity (immune complex deposition)",
+      "Type IV hypersensitivity"
+    ],
+    "correctIndex": 2,
+    "explanation": "SLE is primarily a type III hypersensitivity disorder. Immune complex deposition activates complement, consuming C3 and C4; low complement levels often indicate active disease.",
+    "optionExplanations": [
+      "Type I hypersensitivity is IgE-mediated and immediate, unrelated to immune complex-driven complement consumption.",
+      "Type II hypersensitivity involves antibodies directed against cell-surface antigens, not circulating immune complexes.",
+      "",
+      "Type IV hypersensitivity is T-cell mediated and delayed, not driven by complement-consuming immune complexes."
+    ],
+    "source": "Internal Medicine — 10 July Morning Paper"
+  },
+  {
+    "systemSlug": "cardiovascular",
+    "topicSlug": "cardiac-hemodynamics",
+    "stem": "A patient develops hypotension with a mean arterial pressure (MAP) of approximately 60 mmHg. Which physiological reflex is primarily responsible for compensating at this level of blood pressure?",
+    "options": [
+      "Baroreceptor reflex",
+      "Bainbridge reflex",
+      "CNS ischemic response",
+      "Bezold-Jarisch reflex"
+    ],
+    "correctIndex": 0,
+    "explanation": "The baroreceptor reflex is the primary, rapidly-acting mechanism that continuously regulates blood pressure across the normal physiological range, including at a moderately reduced MAP of around 60 mmHg. The CNS ischemic response is a more extreme, last-resort mechanism that only activates when MAP falls below approximately 50 mmHg and becomes maximal near 15-20 mmHg, well below the level described here.",
+    "optionExplanations": [
+      "",
+      "The Bainbridge reflex adjusts heart rate in response to venous return/atrial stretch, not moderate arterial hypotension.",
+      "The CNS ischemic response only activates at much lower MAP (roughly below 50 mmHg), not at 60 mmHg.",
+      "The Bezold-Jarisch reflex is a cardioinhibitory reflex triggered by ventricular mechanoreceptors, not the primary regulator at moderately reduced MAP."
+    ],
+    "source": "Internal Medicine — 10 July Morning Paper"
+  },
+  {
+    "systemSlug": "cardiovascular",
+    "topicSlug": "cardiac-hemodynamics",
+    "stem": "A healthy individual suddenly stands up from a lying position and experiences a transient fall in blood pressure. Which physiological reflex is primarily responsible for restoring blood pressure?",
+    "options": [
+      "Bainbridge reflex",
+      "Chemoreceptor reflex",
+      "Baroreceptor reflex",
+      "CNS ischemic response"
+    ],
+    "correctIndex": 2,
+    "explanation": "The baroreceptor reflex is the primary short-term regulator of blood pressure. Baroreceptors in the carotid sinus and aortic arch increase sympathetic outflow when blood pressure falls, rapidly restoring arterial pressure after standing.",
+    "optionExplanations": [
+      "The Bainbridge reflex responds to increased venous return/right atrial stretch, not the fall in pressure upon standing.",
+      "The chemoreceptor reflex responds primarily to hypoxia and hypercapnia, not moderate orthostatic pressure changes.",
+      "",
+      "The CNS ischemic response is a last-resort mechanism activated only at very low MAP, not for routine orthostatic changes."
+    ],
+    "source": "Internal Medicine — 10 July Morning Paper"
+  },
+  {
+    "systemSlug": "musculoskeletal",
+    "topicSlug": "msk-anatomy-embryology",
+    "stem": "A 16-year-old patient sustains a fracture of the surgical neck of the humerus and develops loss of sensation over the lateral aspect of the shoulder. Which nerve is most likely injured?",
+    "options": [
+      "Radial nerve",
+      "Median nerve",
+      "Ulnar nerve",
+      "Axillary nerve",
+      "Musculocutaneous nerve"
+    ],
+    "correctIndex": 3,
+    "explanation": "The axillary nerve winds around the surgical neck of the humerus. It supplies the deltoid and teres minor muscles and sensation over the lateral shoulder; injury causes impaired shoulder abduction and sensory loss over the \"regimental badge\" area.",
+    "optionExplanations": [
+      "The radial nerve is classically injured in midshaft humeral fractures, causing wrist drop, not this presentation.",
+      "The median nerve is not anatomically related to the surgical neck of the humerus.",
+      "The ulnar nerve is classically injured with medial epicondyle fractures, not surgical neck fractures.",
+      "",
+      "The musculocutaneous nerve supplies the anterior arm and is not anatomically related to the surgical neck of the humerus."
+    ],
+    "source": "Internal Medicine — 10 July Morning Paper"
+  },
+  {
+    "systemSlug": "endocrine",
+    "topicSlug": "diabetes-mellitus",
+    "stem": "During the first 12-24 hours of starvation, what is the primary source of energy for the body?",
+    "options": [
+      "Gluconeogenesis",
+      "Glycogenolysis",
+      "Ketone body utilization",
+      "Protein breakdown only"
+    ],
+    "correctIndex": 1,
+    "explanation": "During the first day of fasting, liver glycogen is the main source of blood glucose. Glycogen stores are depleted after approximately 24 hours, after which gluconeogenesis becomes increasingly important.",
+    "optionExplanations": [
+      "Gluconeogenesis becomes increasingly important only after glycogen stores are depleted, roughly after 24 hours.",
+      "",
+      "Ketone body utilization becomes significant only after several days of fasting, not within the first 12-24 hours.",
+      "Protein breakdown is minimized early in fasting and increases only as a later, less preferred fuel source."
+    ],
+    "source": "Internal Medicine — 10 July Morning Paper"
+  },
+  {
+    "systemSlug": "nervous-system",
+    "topicSlug": "neuroanatomy-embryology",
+    "stem": "A 50-year-old man presents with loss of vibration and proprioception in both lower limbs, a positive Romberg sign, but intact pain and temperature sensation. Which pathway is most likely affected?",
+    "options": [
+      "Spinothalamic tract",
+      "Corticospinal tract",
+      "Dorsal column-medial lemniscus pathway",
+      "Spinocerebellar tract"
+    ],
+    "correctIndex": 2,
+    "explanation": "The dorsal columns carry vibration, proprioception, and fine touch sensations. Lesions produce sensory ataxia and a positive Romberg sign, while pain and temperature remain intact because the spinothalamic tract is unaffected.",
+    "optionExplanations": [
+      "The spinothalamic tract carries pain and temperature, which are preserved in this patient.",
+      "The corticospinal tract is a motor pathway and does not carry the sensory modalities described.",
+      "",
+      "The spinocerebellar tract carries unconscious proprioceptive information to the cerebellum, not the conscious sensation tested by Romberg's sign."
+    ],
+    "source": "Internal Medicine — 10 July Morning Paper"
+  },
+  {
+    "systemSlug": "nervous-system",
+    "topicSlug": "seizures-epilepsy",
+    "stem": "A 20-year-old patient presents with generalized tonic-clonic seizures. Which is the most appropriate first-line long-term antiepileptic drug?",
+    "options": [
+      "Diazepam",
+      "Phenytoin",
+      "Valproate",
+      "Levetiracetam"
+    ],
+    "correctIndex": 2,
+    "explanation": "Valproate is a broad-spectrum antiepileptic effective for generalized tonic-clonic seizures. It increases GABA levels and blocks sodium channels, but should be avoided in pregnancy because of teratogenicity.",
+    "optionExplanations": [
+      "Diazepam is used for acute seizure termination, not long-term maintenance therapy.",
+      "Phenytoin is effective but has a less favorable side-effect profile and is not first-line for generalized tonic-clonic seizures.",
+      "",
+      "Levetiracetam is a reasonable alternative, but valproate remains the classic first-line agent for generalized seizures in appropriate patients."
+    ],
+    "source": "Internal Medicine — 10 July Morning Paper"
+  },
+  {
+    "systemSlug": "nervous-system",
+    "topicSlug": "neuropharmacology",
+    "stem": "A 45-year-old man has been taking diazepam daily for many years and is scheduled for surgery under general anesthesia. What is the most appropriate anesthetic adjustment?",
+    "options": [
+      "Increase the dose of anesthetic agents",
+      "Decrease the dose of anesthetic agents",
+      "Stop diazepam immediately before surgery",
+      "Give flumazenil preoperatively",
+      "Switch to barbiturates"
+    ],
+    "correctIndex": 0,
+    "explanation": "Chronic benzodiazepine use leads to pharmacologic tolerance. Patients often require higher doses of anesthetic agents to achieve adequate anesthesia, and abrupt discontinuation may precipitate withdrawal.",
+    "optionExplanations": [
+      "",
+      "Decreasing the anesthetic dose would risk inadequate anesthesia in a tolerant patient.",
+      "Abruptly stopping chronic diazepam before surgery risks precipitating withdrawal, not improving anesthetic management.",
+      "Flumazenil is a benzodiazepine antagonist and would reverse, not assist, the patient's baseline benzodiazepine effect, and can precipitate withdrawal seizures.",
+      "Switching to barbiturates does not address benzodiazepine tolerance and introduces unnecessary additional risk."
+    ],
+    "source": "Internal Medicine — 10 July Morning Paper"
+  },
+  {
+    "systemSlug": "nervous-system",
+    "topicSlug": "stroke",
+    "stem": "A 43-year-old patient with intracerebral hemorrhage develops signs of raised intracranial pressure. What is the most appropriate immediate management?",
+    "options": [
+      "Increase blood pressure",
+      "Give mannitol",
+      "Start aspirin",
+      "Administer thrombolysis (tPA)",
+      "Restrict oxygen"
+    ],
+    "correctIndex": 1,
+    "explanation": "Mannitol is an osmotic diuretic that rapidly lowers intracranial pressure by drawing fluid out of brain tissue, reducing cerebral edema. It is commonly used in acute raised ICP.",
+    "optionExplanations": [
+      "Increasing blood pressure could worsen cerebral edema and bleeding, not reduce ICP.",
+      "",
+      "Aspirin is an antiplatelet agent and has no role in reducing acutely raised ICP; it may worsen a hemorrhagic process.",
+      "Thrombolysis is contraindicated in intracerebral hemorrhage, as it would worsen the bleeding.",
+      "Restricting oxygen is not part of ICP management and could worsen cerebral hypoxia."
+    ],
+    "source": "Internal Medicine — 10 July Morning Paper"
+  },
+  {
+    "systemSlug": "microbiology",
+    "topicSlug": "microbiology-basics",
+    "stem": "A patient develops induration and erythema 48-72 hours after a Mantoux test. Which type of hypersensitivity reaction is responsible?",
+    "options": [
+      "Type I",
+      "Type II",
+      "Type III",
+      "Type IV"
+    ],
+    "correctIndex": 3,
+    "explanation": "The Mantoux test is a delayed-type (Type IV) hypersensitivity reaction, mediated by sensitized T lymphocytes rather than antibodies. The reaction peaks at 48-72 hours.",
+    "optionExplanations": [
+      "Type I hypersensitivity is immediate, IgE-mediated, occurring within minutes, not 48-72 hours.",
+      "Type II hypersensitivity is antibody-mediated cytotoxicity against cell-surface antigens, unrelated to the Mantoux reaction.",
+      "Type III hypersensitivity involves immune complex deposition, not the T-cell-mediated delayed reaction of the Mantoux test.",
+      ""
+    ],
+    "source": "Internal Medicine — 10 July Morning Paper"
+  },
+  {
+    "systemSlug": "endocrine",
+    "topicSlug": "diabetes-mellitus",
+    "stem": "Polyendocrine Syndrome A 39-year-old woman with autoimmune polyendocrine syndrome is most commonly associated with which endocrine disorder?",
+    "options": [
+      "Type 2 diabetes mellitus",
+      "Type 1 diabetes mellitus",
+      "Acromegaly",
+      "Cushing syndrome",
+      "Hyperthyroidism only"
+    ],
+    "correctIndex": 1,
+    "explanation": "Autoimmune polyendocrine syndromes commonly include type 1 diabetes mellitus, along with autoimmune thyroid disease and Addison disease, all from autoimmune destruction of endocrine glands.",
+    "optionExplanations": [
+      "Type 2 diabetes is driven by insulin resistance, not autoimmune destruction, and is not the classic association with autoimmune polyendocrine syndromes.",
+      "",
+      "Acromegaly results from excess growth hormone, typically from a pituitary adenoma, not autoimmune gland destruction.",
+      "Cushing syndrome results from cortisol excess, not the autoimmune endocrine gland failure typical of polyendocrine syndromes.",
+      "Autoimmune polyendocrine syndromes typically cause hypothyroidism or multiple gland involvement, not isolated hyperthyroidism."
+    ],
+    "source": "Internal Medicine — 10 July Morning Paper"
+  },
+  {
+    "systemSlug": "musculoskeletal",
+    "topicSlug": "crystal-arthropathies",
+    "stem": "A 14-year-old boy presents with recurrent gout-like arthritis and developmental delay. Increased activity of which enzyme is the most likely cause?",
+    "options": [
+      "Xanthine oxidase",
+      "HGPRT",
+      "PRPP synthetase",
+      "Adenosine deaminase",
+      "Ribose-5-phosphate isomerase"
+    ],
+    "correctIndex": 2,
+    "explanation": "PRPP synthetase superactivity increases purine synthesis, resulting in excessive uric acid production and early-onset gout. In its severe form, neurological manifestations including developmental delay may also occur, distinguishing it from HGPRT deficiency (Lesch-Nyhan syndrome), which is a loss, not a gain, of enzyme activity.",
+    "optionExplanations": [
+      "Xanthine oxidase converts purines to uric acid; its inhibition (not overactivity) is a treatment strategy, and it is not the primary defect described.",
+      "HGPRT deficiency (a loss of function, causing Lesch-Nyhan syndrome) impairs purine salvage, the opposite of the gain-of-function enzyme defect described.",
+      "",
+      "Adenosine deaminase deficiency causes severe combined immunodeficiency, not a purine-overproduction gout syndrome.",
+      "Ribose-5-phosphate isomerase is a pentose phosphate pathway enzyme not linked to this purine-overproduction syndrome."
+    ],
+    "source": "Internal Medicine — 10 July Morning Paper"
+  },
+  {
+    "systemSlug": "gastrointestinal",
+    "topicSlug": "gi-physiology",
+    "stem": "A middle-aged man presents with chronic diarrhea, weight loss, and arthralgia. Small bowel biopsy shows PAS-positive foamy macrophages. What is the most likely diagnosis?",
+    "options": [
+      "Crohn disease",
+      "Celiac disease",
+      "Whipple disease",
+      "Ulcerative colitis",
+      "Giardiasis"
+    ],
+    "correctIndex": 2,
+    "explanation": "Whipple disease is caused by Tropheryma whipplei. PAS-positive macrophages are characteristic on intestinal biopsy, and patients present with malabsorption, weight loss, diarrhea, and arthralgia.",
+    "optionExplanations": [
+      "Crohn disease shows transmural granulomatous inflammation on biopsy, not PAS-positive foamy macrophages.",
+      "Celiac disease shows villous atrophy and intraepithelial lymphocytosis, not PAS-positive macrophages.",
+      "",
+      "Ulcerative colitis is confined to the colon with continuous mucosal inflammation, not PAS-positive foamy macrophages or arthralgia as the dominant feature.",
+      "Giardiasis is diagnosed by stool antigen or trophozoite identification, not PAS-positive macrophages on biopsy."
+    ],
+    "source": "Internal Medicine — 10 July Morning Paper"
+  },
+  {
+    "systemSlug": "microbiology",
+    "topicSlug": "parasitology",
+    "stem": "A 20-year-old patient presents with recurrent high-grade fever associated with chills and rigors. What is the most likely diagnosis?",
+    "options": [
+      "Dengue fever",
+      "Malaria",
+      "Typhoid fever",
+      "Viral hepatitis",
+      "Leptospirosis"
+    ],
+    "correctIndex": 1,
+    "explanation": "Malaria classically causes periodic fever with chills and rigors. Diagnosis is confirmed by thick and thin peripheral blood smears, and Plasmodium infection should be suspected in patients from endemic areas.",
+    "optionExplanations": [
+      "Dengue fever typically causes a biphasic fever with rash and myalgia, without the classic periodic chills and rigors of malaria.",
+      "",
+      "Typhoid fever classically causes a stepwise, sustained fever rather than the periodic chills and rigors of malaria.",
+      "Viral hepatitis presents with jaundice and elevated liver enzymes, not classic periodic fever with rigors.",
+      "Leptospirosis can cause fever but is more associated with conjunctival suffusion, myalgia, and jaundice than periodic rigors."
+    ],
+    "source": "Internal Medicine — 10 July Morning Paper"
+  },
+  {
+    "systemSlug": "gastrointestinal",
+    "topicSlug": "liver-disease",
+    "stem": "A chronic alcoholic presents with jaundice and hepatomegaly. Liver biopsy reveals Mallory bodies. What is the most likely diagnosis?",
+    "options": [
+      "Viral hepatitis",
+      "Alcoholic hepatitis",
+      "Non-alcoholic fatty liver disease",
+      "Hepatocellular carcinoma",
+      "Wilson disease"
+    ],
+    "correctIndex": 1,
+    "explanation": "Mallory-Denk bodies are characteristic of alcoholic hepatitis. They consist of damaged intermediate filaments within hepatocytes, and patients commonly present with jaundice, fever, and hepatomegaly.",
+    "optionExplanations": [
+      "Viral hepatitis is diagnosed serologically and does not classically show Mallory bodies on biopsy.",
+      "",
+      "NAFLD shares some histologic overlap but occurs without significant alcohol use, and Mallory bodies are less characteristic.",
+      "Hepatocellular carcinoma would show a mass lesion, not the diffuse Mallory body pattern described.",
+      "Wilson disease is associated with copper accumulation and Kayser-Fleischer rings, not Mallory bodies from alcohol use."
+    ],
+    "source": "Internal Medicine — 10 July Morning Paper"
+  },
+  {
+    "systemSlug": "nervous-system",
+    "topicSlug": "neuropharmacology",
+    "stem": "A 37-year-old patient experiences prolonged paralysis after administration of an ester local anesthetic. Deficiency of which enzyme is the most likely cause?",
+    "options": [
+      "Monoamine oxidase",
+      "Pseudocholinesterase",
+      "Acetylcholinesterase",
+      "Cytochrome P450",
+      "Carboxypeptidase"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pseudocholinesterase (plasma cholinesterase) metabolizes ester local anesthetics and succinylcholine. Deficiency prolongs the action of both, causing delayed recovery after anesthesia.",
+    "optionExplanations": [
+      "Monoamine oxidase metabolizes biogenic amines and is unrelated to ester local anesthetic metabolism.",
+      "",
+      "Acetylcholinesterase acts at the neuromuscular junction and synapses, not on plasma ester hydrolysis of these drugs.",
+      "Cytochrome P450 enzymes metabolize many drugs hepatically but are not responsible for hydrolyzing ester-type local anesthetics.",
+      "Carboxypeptidase is not the enzyme responsible for metabolizing ester local anesthetics or succinylcholine."
+    ],
+    "source": "Internal Medicine — 10 July Morning Paper"
+  },
+  {
+    "systemSlug": "microbiology",
+    "topicSlug": "microbiology-basics",
+    "stem": "A 15-year-old patient develops urticaria, itching, and bronchospasm immediately after exposure to peanuts. Which type of hypersensitivity reaction is responsible?",
+    "options": [
+      "Type I",
+      "Type II",
+      "Type III",
+      "Type IV",
+      "Type V"
+    ],
+    "correctIndex": 0,
+    "explanation": "Type I hypersensitivity is IgE-mediated and occurs within minutes of exposure. Mast-cell degranulation releases histamine and other mediators, producing urticaria, bronchospasm, and anaphylaxis.",
+    "optionExplanations": [
+      "",
+      "Type II hypersensitivity involves antibody-mediated cell destruction, not immediate mast cell degranulation.",
+      "Type III hypersensitivity involves immune complex deposition over hours to days, not an immediate reaction.",
+      "Type IV hypersensitivity is T-cell mediated and delayed by 48-72 hours, not immediate.",
+      "'Type V' hypersensitivity (stimulatory, as in Graves disease) is a distinct antibody-receptor mechanism, not immediate mast-cell degranulation."
+    ],
+    "source": "Internal Medicine — 10 July Morning Paper"
+  },
+  {
+    "systemSlug": "nervous-system",
+    "topicSlug": "headache-movement-disorders",
+    "stem": "In Parkinson disease, which neurotransmitter imbalance is primarily responsible for the clinical manifestations?",
+    "options": [
+      "Increased acetylcholine and increased dopamine",
+      "Decreased acetylcholine and increased dopamine",
+      "Decreased dopamine with relative increase in acetylcholine",
+      "Increased dopamine and decreased serotonin",
+      "Decreased GABA and increased glutamate"
+    ],
+    "correctIndex": 2,
+    "explanation": "Parkinson disease results from degeneration of dopaminergic neurons in the substantia nigra. Loss of dopamine creates a relative excess of acetylcholine in the basal ganglia, producing tremor, rigidity, bradykinesia, and postural instability.",
+    "optionExplanations": [
+      "Parkinson disease involves decreased, not increased, dopamine.",
+      "Parkinson disease features decreased dopamine with relatively increased (not decreased) acetylcholine activity.",
+      "",
+      "Dopamine is decreased, not increased, in Parkinson disease, and serotonin is not the primary neurotransmitter implicated.",
+      "GABA and glutamate imbalance is not the primary neurotransmitter mechanism described in classic Parkinson disease pathophysiology."
+    ],
+    "source": "Internal Medicine — 10 July Morning Paper"
+  }
+]

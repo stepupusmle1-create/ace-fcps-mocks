@@ -16137,6 +16137,70 @@ const systems: SeedSystem[] = [
       },
     ],
   },
+  {
+    slug: "reproductive-health",
+    name: "Gynecology & Obstetrics",
+    description: "Reproductive anatomy and physiology, pregnancy, labor, and gynecological disease.",
+    order: 12,
+    topics: [
+      {
+        slug: "reproductive-anatomy-embryology",
+        name: "Reproductive Anatomy & Embryology",
+        description: "Pelvic anatomy and development of the female reproductive tract.",
+        order: 1,
+        questions: [],
+      },
+      {
+        slug: "menstrual-cycle-physiology",
+        name: "Menstrual Cycle & Reproductive Physiology",
+        description: "Hormonal regulation of the menstrual cycle and reproductive physiology.",
+        order: 2,
+        questions: [],
+      },
+      {
+        slug: "pregnancy-antenatal-care",
+        name: "Pregnancy & Antenatal Care",
+        description: "Normal pregnancy, antenatal screening, and common antenatal complications.",
+        order: 3,
+        questions: [],
+      },
+      {
+        slug: "labor-delivery-complications",
+        name: "Labor, Delivery & Obstetric Complications",
+        description: "Stages of labor, delivery, and peripartum complications.",
+        order: 4,
+        questions: [],
+      },
+      {
+        slug: "gynecological-disorders",
+        name: "Gynecological Disorders",
+        description: "Menstrual disorders, infections, and benign gynecological disease.",
+        order: 5,
+        questions: [],
+      },
+      {
+        slug: "gynecological-oncology",
+        name: "Gynecological Oncology",
+        description: "Malignancies of the female reproductive tract.",
+        order: 6,
+        questions: [],
+      },
+      {
+        slug: "contraception-family-planning",
+        name: "Contraception & Family Planning",
+        description: "Contraceptive methods and family planning principles.",
+        order: 7,
+        questions: [],
+      },
+      {
+        slug: "reproductive-pharmacology",
+        name: "Reproductive Pharmacology",
+        description: "Drugs used in obstetrics, gynecology, and contraception.",
+        order: 8,
+        questions: [],
+      },
+    ],
+  },
 ];
 
 function shuffleOptions(q: SeedQuestion): { options: string[]; correctIndex: number; optionExplanations?: string[] } {
