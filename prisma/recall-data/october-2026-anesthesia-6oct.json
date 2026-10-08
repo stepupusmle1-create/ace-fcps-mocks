@@ -1,0 +1,1922 @@
+[
+ {
+  "systemSlug": "respiratory",
+  "topicSlug": "pleural-upper-airway",
+  "stem": "A 28-year-old man with severe traumatic brain injury is being intubated in the emergency department. Two laryngoscopy attempts fail, and a supraglottic airway device also fails to give adequate ventilation. Bag-mask ventilation is now impossible, SpO2 is 62% and falling, and the patient is flaccid after neuromuscular blockade. What is the next best step?",
+  "options": [
+   "Awake fibreoptic intubation",
+   "Formal surgical tracheostomy in theatre",
+   "Third attempt at endotracheal intubation with a bougie",
+   "Reinsert a different-size supraglottic airway device",
+   "Emergency front-of-neck access (scalpel cricothyroidotomy)"
+  ],
+  "correctIndex": 4,
+  "explanation": "When intubation, supraglottic airway and face-mask ventilation have all failed (cannot intubate, cannot oxygenate), the Difficult Airway Society and ASA algorithms call for immediate front-of-neck access, i.e. scalpel-bougie cricothyroidotomy, before irreversible hypoxic brain injury occurs. Further attempts at the same techniques only add delay. (Standard anaesthesia teaching; First Aid — Pharmacology: Anesthetics)",
+  "optionExplanations": [
+   "This needs time, a cooperative patient and a patent upper airway, none of which exist in this emergency.",
+   "Too slow and not a rescue technique; the patient will arrest long before it is set up.",
+   "Repeated attempts at a failed technique waste the few minutes left before hypoxic cardiac arrest and worsen secondary brain injury.",
+   "A further supraglottic attempt is not recommended once a supraglottic device has failed in a cannot-intubate-cannot-oxygenate situation.",
+   ""
+  ],
+  "source": "October 2026 Recalls — Anesthesia — 6 Oct Morning",
+  "recallSet": "october-2026",
+  "recallPaper": "Anesthesia — 6 Oct Morning"
+ },
+ {
+  "systemSlug": "respiratory",
+  "topicSlug": "respiratory-physiology",
+  "stem": "A 38-year-old woman with a BMI of 46 kg/m² is being positioned for induction on a ramped pillow set. Which end-point confirms correct ramping and gives the best laryngoscopic view and alignment of the airway axes?",
+  "options": [
+   "Shoulders raised on a roll with the neck in neutral position and no head elevation",
+   "External auditory meatus level horizontally with the sternal notch",
+   "Chin pressed firmly onto the chest wall (full neck flexion) with the occiput on a flat table",
+   "Head hanging off the table end in full extension (Magill position without ramp)",
+   "Table tilted 30° head-down (Trendelenburg)"
+  ],
+  "correctIndex": 1,
+  "explanation": "In obese patients the upper body and head are elevated on a ramp or stacked blankets until the external auditory meatus lies horizontally level with the sternal notch. This aligns the oral, pharyngeal and laryngeal axes, improves the view at laryngoscopy, and also improves FRC and bag-mask ventilation. (Standard anaesthesia teaching; First Aid — Respiratory: Physiology)",
+  "optionExplanations": [
+   "Raising only the shoulders without elevating the head leaves the external auditory meatus below the sternal notch; ramping needs both upper body and head elevated.",
+   "",
+   "Extreme flexion and a flat occiput worsen the view in an obese patient; ramping is meant to lift the upper body and head, not flex the neck onto the chest.",
+   "This cannot compensate for the chest and breast bulk that obstructs the laryngoscope handle and is not what ramping achieves.",
+   "Head-down tilt worsens FRC, ventilation and aspiration risk in obesity; reverse Trendelenburg or head-up ramp is used instead."
+  ],
+  "source": "October 2026 Recalls — Anesthesia — 6 Oct Morning",
+  "recallSet": "october-2026",
+  "recallPaper": "Anesthesia — 6 Oct Morning"
+ },
+ {
+  "systemSlug": "respiratory",
+  "topicSlug": "obstructive-airway-disease",
+  "stem": "A 60-year-old man with severe acute asthma is mechanically ventilated and sedated. Flow-time waveform shows expiratory flow that has not returned to zero before the next breath, and the plateau pressure is rising with hypotension. Which ventilator adjustment most directly corrects the underlying cause (auto-PEEP)?",
+  "options": [
+   "Prolong the inspiratory time to improve oxygenation",
+   "Decrease respiratory rate and tidal volume to lengthen expiratory time",
+   "Add high levels of extrinsic PEEP (above the auto-PEEP) in a fully sedated, paralysed patient",
+   "Increase respiratory rate to maintain minute ventilation",
+   "Increase tidal volume"
+  ],
+  "correctIndex": 1,
+  "explanation": "Auto-PEEP (intrinsic PEEP) arises when expiratory time is insufficient to empty the lungs, as in severe airflow obstruction. The direct fix is to lengthen expiratory time by reducing the rate (and tidal volume), shortening inspiratory time and accepting permissive hypercapnia; temporary disconnection allows exhalation in a crisis. (Standard anaesthesia/critical-care teaching; First Aid — Respiratory: Obstructive lung diseases)",
+  "optionExplanations": [
+   "A longer inspiratory phase cuts into the expiratory time, increasing air trapping.",
+   "",
+   "Extrinsic PEEP above intrinsic PEEP adds to hyperinflation; it can only help if set below auto-PEEP in spontaneously triggering patients.",
+   "A higher rate shortens the expiratory time further and worsens gas trapping and auto-PEEP.",
+   "Larger breaths need longer to exhale and worsen dynamic hyperinflation."
+  ],
+  "source": "October 2026 Recalls — Anesthesia — 6 Oct Morning",
+  "recallSet": "october-2026",
+  "recallPaper": "Anesthesia — 6 Oct Morning"
+ },
+ {
+  "systemSlug": "cardiovascular",
+  "topicSlug": "cardiac-electrophysiology-ecg",
+  "stem": "During major vascular surgery in a patient with known coronary artery disease, a single ECG lead is to be selected for the best detection of intra-operative myocardial ischaemia of the left ventricle. Which lead is the most sensitive single choice?",
+  "options": [
+   "Lead II",
+   "Lead III",
+   "Lead V1",
+   "Lead aVR",
+   "Lead V5"
+  ],
+  "correctIndex": 4,
+  "explanation": "Lead V5 (5th intercostal space, anterior axillary line) overlies the anterolateral left ventricle and detects the large majority of intra-operative ischaemic ST changes; combining II and V5 increases sensitivity further. Lead II alone is chosen mainly for rhythm and inferior wall monitoring. (Standard anaesthesia teaching; First Aid — Cardiovascular: ECG)",
+  "optionExplanations": [
+   "Lead II is best for detecting arrhythmias and inferior ischaemia (right coronary territory), and for P-wave visibility, but is less sensitive for anterolateral LV ischaemia.",
+   "Lead III is variable, has low sensitivity for LV ischaemia and is not recommended as a single monitoring lead.",
+   "V1 overlies the right ventricle/septum and is best for P-wave and bundle-branch analysis, not LV ischaemia.",
+   "aVR looks at the cavity of the left ventricle and is not used for routine ischaemia surveillance.",
+   ""
+  ],
+  "source": "October 2026 Recalls — Anesthesia — 6 Oct Morning",
+  "recallSet": "october-2026",
+  "recallPaper": "Anesthesia — 6 Oct Morning"
+ },
+ {
+  "systemSlug": "nervous-system",
+  "topicSlug": "neuropharmacology",
+  "stem": "A 66-year-old woman with open-angle glaucoma using echothiophate eye drops long-term is scheduled for emergency laparotomy requiring rapid-sequence induction. Which neuromuscular blocker is most likely to produce a markedly prolonged block in this patient?",
+  "options": [
+   "Rocuronium",
+   "Succinylcholine",
+   "Cisatracurium",
+   "Pancuronium",
+   "Vecuronium"
+  ],
+  "correctIndex": 1,
+  "explanation": "Echothiophate is an irreversible organophosphate cholinesterase inhibitor that also depletes plasma (pseudo)cholinesterase. Succinylcholine is hydrolysed by plasma cholinesterase, so its action is markedly prolonged (and neostigmine-type reversal of other drugs is also altered). The non-depolarisers listed do not depend on this enzyme. (Standard anaesthesia teaching; First Aid — Pharmacology: Autonomic drugs, cholinomimetics)",
+  "optionExplanations": [
+   "A non-depolarising agent is cleared by hepatic uptake and is not metabolised by plasma cholinesterase, so its duration is not meaningfully prolonged by echothiophate.",
+   "",
+   "Eliminated by Hofmann degradation and ester hydrolysis independent of plasma cholinesterase.",
+   "Mainly renally excreted and unaffected by plasma cholinesterase inhibition.",
+   "Cleared by hepatic metabolism and biliary/renal excretion; plasma cholinesterase is not involved."
+  ],
+  "source": "October 2026 Recalls — Anesthesia — 6 Oct Morning",
+  "recallSet": "october-2026",
+  "recallPaper": "Anesthesia — 6 Oct Morning"
+ },
+ {
+  "systemSlug": "endocrine",
+  "topicSlug": "endocrine-pharmacology",
+  "stem": "A 52-year-old man with type 2 diabetes mellitus and active Graves ophthalmopathy (proptosis, periorbital oedema, chemosis) needs a new oral antidiabetic agent. Which drug class should be avoided?",
+  "options": [
+   "DPP-4 inhibitors (sitagliptin)",
+   "SGLT2 inhibitors (empagliflozin)",
+   "Biguanides (metformin)",
+   "Thiazolidinediones (e.g., pioglitazone)",
+   "Sulfonylureas (glimepiride)"
+  ],
+  "correctIndex": 3,
+  "explanation": "Thiazolidinediones (PPAR-γ agonists) cause fluid retention, oedema and weight gain, are contraindicated in heart failure, and are best avoided in active thyroid eye disease because PPAR-γ activation promotes orbital adipogenesis and tissue expansion. The other agents have no such effect. (First Aid — Pharmacology: Endocrine, Diabetes drugs)",
+  "optionExplanations": [
+   "These do not cause fluid retention or orbital adipogenesis.",
+   "These promote osmotic diuresis rather than fluid retention and are not linked to worsening orbitopathy.",
+   "Metformin has no effect on orbital tissues and remains first-line.",
+   "",
+   "Their main hazards are hypoglycaemia and weight gain, not worsening of ophthalmopathy."
+  ],
+  "source": "October 2026 Recalls — Anesthesia — 6 Oct Morning",
+  "recallSet": "october-2026",
+  "recallPaper": "Anesthesia — 6 Oct Morning"
+ },
+ {
+  "systemSlug": "cardiovascular",
+  "topicSlug": "cardiac-pharmacology",
+  "stem": "A 72-year-old man with severe aortic stenosis and an ejection fraction of 25% is to undergo emergency hip fixation under general anaesthesia. Which induction agent provides the greatest haemodynamic stability?",
+  "options": [
+   "Ketamine",
+   "Midazolam in large induction doses",
+   "Thiopentone",
+   "Etomidate",
+   "Propofol"
+  ],
+  "correctIndex": 3,
+  "explanation": "Etomidate has minimal effect on heart rate, contractility and systemic vascular resistance because it does not depress sympathetic outflow, making it the induction agent of choice in cardiovascular compromise. Its drawbacks are adrenocortical suppression (11β-hydroxylase inhibition), myoclonus and PONV. (Standard anaesthesia teaching; First Aid — Pharmacology: Anesthetics, intravenous)",
+  "optionExplanations": [
+   "Its sympathomimetic effect raises heart rate, blood pressure and myocardial oxygen demand, which is undesirable in severe AS and ischaemic heart disease; it may also depress a failing, catecholamine-depleted myocardium.",
+   "Large doses cause hypotension and slow, unpredictable onset; it is less haemodynamically neutral than etomidate.",
+   "Causes dose-dependent myocardial depression and venodilatation with reflex tachycardia.",
+   "",
+   "Causes marked vasodilatation and myocardial depression, risking profound hypotension and coronary hypoperfusion in AS."
+  ],
+  "source": "October 2026 Recalls — Anesthesia — 6 Oct Morning",
+  "recallSet": "october-2026",
+  "recallPaper": "Anesthesia — 6 Oct Morning"
+ },
+ {
+  "systemSlug": "respiratory",
+  "topicSlug": "respiratory-anatomy-embryology",
+  "stem": "A 1-year-old child is scheduled for adenotonsillectomy. The anaesthetist anticipates a more difficult direct laryngoscopic view of the glottis than in an adult. Which anatomical feature is chiefly responsible?",
+  "options": [
+   "Larynx situated higher (C3–C4) and more anterior, with a prominent occiput",
+   "Narrow nasal passages causing obligate nasal breathing",
+   "Short trachea (about 4–5 cm)",
+   "Narrowest part of the airway at the cricoid ring",
+   "Small pulmonary alveoli and low compliance"
+  ],
+  "correctIndex": 0,
+  "explanation": "In infants the larynx lies higher (C3–C4) and more anteriorly, the epiglottis is long and floppy, and the large occiput flexes the neck on the table, so direct laryngoscopy needs a straight blade and a shoulder roll rather than a head pillow. The cricoid ring being the narrowest part determines tube size, not visualisation. (Standard anaesthesia teaching; First Aid — Embryology: Respiratory system; Respiratory: Anatomy)",
+  "optionExplanations": [
+   "",
+   "This is relevant to obstruction in neonates but does not impede direct laryngoscopy.",
+   "This predisposes to endobronchial intubation, not poor visualisation of the cords.",
+   "This explains the choice of an uncuffed or small tube and subglottic oedema risk, not difficulty visualising the glottis.",
+   "This is a respiratory mechanics feature, unrelated to laryngoscopic view."
+  ],
+  "source": "October 2026 Recalls — Anesthesia — 6 Oct Morning",
+  "recallSet": "october-2026",
+  "recallPaper": "Anesthesia — 6 Oct Morning"
+ },
+ {
+  "systemSlug": "endocrine",
+  "topicSlug": "hormone-physiology-signaling",
+  "stem": "A 58-year-old woman with a normal fasting glucose on routine pre-operative testing develops blood glucose of 11 mmol/L on the first post-operative day after a major abdominal operation. She is not on dextrose-containing infusions. What is the main mechanism?",
+  "options": [
+   "Reduced hepatic glycogen storage due to fasting alone",
+   "Surgical stress response with raised cortisol, catecholamines and glucagon causing insulin resistance and gluconeogenesis",
+   "Pancreatic beta-cell destruction by the anaesthetic agents",
+   "Increased insulin secretion causing receptor down-regulation",
+   "Insulin antibodies produced after surgery"
+  ],
+  "correctIndex": 1,
+  "explanation": "Surgery triggers a neuroendocrine stress response: raised cortisol, adrenaline, glucagon and growth hormone increase hepatic gluconeogenesis and glycogenolysis and induce peripheral insulin resistance, producing hyperglycaemia even in non-diabetics. Inflammatory cytokines (IL-6, TNF-α) contribute. (Standard anaesthesia teaching; First Aid — Endocrine: Adrenal hormone physiology)",
+  "optionExplanations": [
+   "Fasting lowers rather than raises glucose and does not explain hyperglycaemia.",
+   "",
+   "Volatile and intravenous anaesthetics do not destroy beta cells; they may transiently alter insulin secretion.",
+   "Insulin secretion is relatively suppressed during stress, particularly by catecholamines (alpha-2 effect).",
+   "Antibodies do not develop acutely and are not part of the perioperative response."
+  ],
+  "source": "October 2026 Recalls — Anesthesia — 6 Oct Morning",
+  "recallSet": "october-2026",
+  "recallPaper": "Anesthesia — 6 Oct Morning"
+ },
+ {
+  "systemSlug": "endocrine",
+  "topicSlug": "diabetes-mellitus",
+  "stem": "A 55-year-old man with type 2 diabetes on basal insulin glargine is booked for a morning elective hernia repair. He is fasting from midnight and is told to take only half of his usual morning dose of basal insulin. What is the main reason for halving the dose rather than giving it in full?",
+  "options": [
+   "Insulin causes gastric emptying delay and aspiration",
+   "Anaesthetic agents increase insulin sensitivity permanently",
+   "To avoid insulin interfering with neuromuscular blockade",
+   "Reduced intake while fasting makes full-dose basal insulin risk hypoglycaemia, but total omission risks hyperglycaemia/ketosis",
+   "Insulin glargine is cleared by the lungs under anaesthesia"
+  ],
+  "correctIndex": 3,
+  "explanation": "While fasting, glucose supply falls, so full doses of insulin predispose to hypoglycaemia, which is dangerous because anaesthesia masks symptoms. However, basal insulin must not be omitted entirely (especially in type 1) because insulin deficiency leads to hyperglycaemia and ketoacidosis, so the dose is reduced. (Standard perioperative teaching; First Aid — Endocrine: Diabetes mellitus)",
+  "optionExplanations": [
+   "Insulin is not a recognised cause of delayed gastric emptying that would guide dosing.",
+   "Anaesthetic effects on insulin sensitivity are modest and transient; dosing is not adjusted for them.",
+   "Insulin has no clinically relevant effect on neuromuscular blockers.",
+   "",
+   "Insulin is cleared by liver and kidney, not the lungs."
+  ],
+  "source": "October 2026 Recalls — Anesthesia — 6 Oct Morning",
+  "recallSet": "october-2026",
+  "recallPaper": "Anesthesia — 6 Oct Morning"
+ },
+ {
+  "systemSlug": "respiratory",
+  "topicSlug": "respiratory-physiology",
+  "stem": "During rapid-sequence induction of a patient with a full stomach, positive-pressure bag-mask ventilation is deliberately avoided between loss of consciousness and intubation. What is the main reason?",
+  "options": [
+   "It increases ICP by raising PaCO2",
+   "It causes laryngospasm in all patients",
+   "It insufflates the stomach, raising intragastric pressure and the risk of regurgitation and aspiration",
+   "It causes pulmonary barotrauma",
+   "It delays onset of the neuromuscular blocker"
+  ],
+  "correctIndex": 2,
+  "explanation": "In rapid-sequence induction the patient is pre-oxygenated and then induced and paralysed without mask ventilation so that air is not forced into the stomach through the lower oesophageal sphincter, which would increase the chance of regurgitation and aspiration of gastric contents. (Standard anaesthesia teaching; First Aid — Pharmacology: Anesthetics)",
+  "optionExplanations": [
+   "Mask ventilation lowers rather than raises PaCO2.",
+   "Laryngospasm is not caused by gentle mask ventilation in a paralysed patient.",
+   "",
+   "Barotrauma is not the concern in normal gentle ventilation.",
+   "Mask ventilation does not delay the block."
+  ],
+  "source": "October 2026 Recalls — Anesthesia — 6 Oct Morning",
+  "recallSet": "october-2026",
+  "recallPaper": "Anesthesia — 6 Oct Morning"
+ },
+ {
+  "systemSlug": "respiratory",
+  "topicSlug": "respiratory-anatomy-embryology",
+  "stem": "Cricoid pressure (Sellick manoeuvre) is applied during rapid-sequence induction to reduce regurgitation. Which anatomical feature is the basis of this technique?",
+  "options": [
+   "The thyroid cartilage is the only complete ring and protects the oesophagus",
+   "The cricoid compresses the trachea to prevent gastric insufflation",
+   "The cricoid is a C-shaped cartilage that opens posteriorly",
+   "The cricoid lies above the vocal cords and blocks the pharynx",
+   "The cricoid is the only complete cartilaginous ring in the airway, allowing it to compress the oesophagus against the vertebral body"
+  ],
+  "correctIndex": 4,
+  "explanation": "The cricoid cartilage is the only complete ring in the airway, so pressure applied to it displaces it backwards and occludes the post-cricoid oesophagus against the C6 vertebral body without collapsing the airway. Its efficacy is debated, but this is the established rationale. (Standard anaesthesia teaching; First Aid — Embryology: Pharyngeal arch derivatives; Respiratory: Anatomy)",
+  "optionExplanations": [
+   "The thyroid cartilage is an open shield-shaped cartilage.",
+   "Pressure on a complete ring does not collapse the trachea; its effect is to occlude the oesophagus behind it.",
+   "This describes the tracheal rings; the cricoid is a complete ring.",
+   "The cricoid lies below the vocal cords.",
+   ""
+  ],
+  "source": "October 2026 Recalls — Anesthesia — 6 Oct Morning",
+  "recallSet": "october-2026",
+  "recallPaper": "Anesthesia — 6 Oct Morning"
+ },
+ {
+  "systemSlug": "cardiovascular",
+  "topicSlug": "cardiac-pharmacology",
+  "stem": "A 56-year-old man develops a blood pressure of 180/100 mmHg and sinus tachycardia of 140/min immediately after laryngoscopy and intubation. An intravenous nitroglycerin infusion fails to control the haemodynamic response. Which drug is most appropriate next?",
+  "options": [
+   "Isosorbide dinitrate",
+   "Sodium nitroprusside",
+   "Carvedilol",
+   "Esmolol",
+   "Hydralazine"
+  ],
+  "correctIndex": 3,
+  "explanation": "The haemodynamic response to laryngoscopy (hypertension with tachycardia) is mediated by sympathetic discharge, and nitrates, being vasodilators, do not address the tachycardia. Esmolol is a short-acting (half-life about 9 minutes) selective β1-blocker that rapidly controls both heart rate and blood pressure when given intravenously. (First Aid — Pharmacology: Cardiovascular, Beta-blockers; Standard anaesthesia teaching)",
+  "optionExplanations": [
+   "An oral organic nitrate with the same limitations as nitroglycerin and a slow onset.",
+   "Potent vasodilator that can cause further reflex tachycardia unless given with a beta-blocker, and carries cyanide toxicity.",
+   "Carvedilol is an oral non-selective beta/alpha-1 blocker with long half-life and is not suitable for rapid titration in the theatre.",
+   "",
+   "Direct arteriolar vasodilator that increases reflex sympathetic tachycardia."
+  ],
+  "source": "October 2026 Recalls — Anesthesia — 6 Oct Morning",
+  "recallSet": "october-2026",
+  "recallPaper": "Anesthesia — 6 Oct Morning"
+ },
+ {
+  "systemSlug": "nervous-system",
+  "topicSlug": "neuropharmacology",
+  "stem": "A 45-year-old man on long-term oral oxycodone for chronic back pain undergoes laminectomy. Post-operatively, standard doses of intravenous morphine give little pain relief, and larger doses are needed to achieve any analgesic effect. What is the best explanation?",
+  "options": [
+   "Opioid receptor antagonism by the surgical anaesthesia",
+   "Opioid allergy",
+   "Opioid tolerance, with a rightward shift of the dose-response curve",
+   "Acute withdrawal syndrome",
+   "Spinal cord injury during the operation"
+  ],
+  "correctIndex": 2,
+  "explanation": "Chronic opioid exposure causes tolerance (receptor desensitisation, internalisation and NMDA-mediated changes), shifting the dose-response curve to the right so that opioid-naive doses are ineffective, and cross-tolerance exists between opioids. Multimodal analgesia (paracetamol, NSAIDs, ketamine, regional techniques) is recommended. (First Aid — Pharmacology: Opioid analgesics; Psychiatry: Substance use disorders)",
+  "optionExplanations": [
+   "Anaesthetic agents do not antagonise opioid receptors.",
+   "Allergy would cause urticaria, bronchospasm or anaphylaxis, not reduced analgesic effect.",
+   "",
+   "Withdrawal produces autonomic hyperactivity, diarrhoea and goosebumps; here intravenous morphine is being given, so withdrawal is not the problem.",
+   "Neural injury would produce neurological deficits, not requirement for escalating opioid doses."
+  ],
+  "source": "October 2026 Recalls — Anesthesia — 6 Oct Morning",
+  "recallSet": "october-2026",
+  "recallPaper": "Anesthesia — 6 Oct Morning"
+ },
+ {
+  "systemSlug": "respiratory",
+  "topicSlug": "respiratory-physiology",
+  "stem": "A 60-year-old man receives a rapid intravenous bolus of fentanyl 500 mcg during induction of general anaesthesia. He becomes apnoeic, SpO2 falls to 85%, and bag-mask ventilation is extremely difficult because of a rigid chest wall. Surgery is to proceed under general anaesthesia. What is the most appropriate immediate management?",
+  "options": [
+   "Administer atropine",
+   "Give increasing pressure bag-mask ventilation only",
+   "Administer flumazenil",
+   "Give a neuromuscular blocker, ventilate, and intubate",
+   "Administer additional fentanyl to deepen anaesthesia"
+  ],
+  "correctIndex": 3,
+  "explanation": "Rapid high-dose intravenous opioid (fentanyl family) can cause 'wooden chest' syndrome from increased truncal muscle tone and glottic closure. Treatment is a neuromuscular blocker (succinylcholine or rocuronium) with controlled ventilation, which abolishes the rigidity and allows the anaesthetic to continue; naloxone can also reverse it, but at the cost of losing analgesia. (Standard anaesthesia teaching; First Aid — Pharmacology: Opioid analgesics)",
+  "optionExplanations": [
+   "Atropine treats bradycardia and does not relieve chest wall rigidity.",
+   "Rigid chest wall will not yield to higher pressures, and gastric insufflation and barotrauma may result.",
+   "Flumazenil reverses benzodiazepines, not opioid-induced rigidity.",
+   "",
+   "More opioid would worsen rigidity."
+  ],
+  "source": "October 2026 Recalls — Anesthesia — 6 Oct Morning",
+  "recallSet": "october-2026",
+  "recallPaper": "Anesthesia — 6 Oct Morning"
+ },
+ {
+  "systemSlug": "cardiovascular",
+  "topicSlug": "cardiac-hemodynamics",
+  "stem": "In a healthy woman undergoing vaginal delivery under epidural analgesia, at which time is cardiac output normally highest?",
+  "options": [
+   "Immediately after delivery of the baby",
+   "At 72 hours post-partum",
+   "At the end of the first stage of labour",
+   "At 48 hours post-partum",
+   "At the end of the second stage of labour"
+  ],
+  "correctIndex": 0,
+  "explanation": "Cardiac output increases progressively through pregnancy and labour, and peaks immediately after delivery (up to 60–80% above pre-labour values) because of autotransfusion of about 500 mL blood from the contracting uterus and relief of IVC compression. This is the highest-risk period for women with cardiac disease. (Standard obstetric anaesthesia teaching; First Aid — Reproductive: Pregnancy physiology; Cardiovascular: Hemodynamics)",
+  "optionExplanations": [
+   "",
+   "Cardiac output has returned much closer to pre-pregnancy levels.",
+   "Cardiac output rises in labour (about 30–50%) but is not at its peak at this stage.",
+   "By 48 hours the autotransfusion effect is wearing off and output is falling towards baseline.",
+   "Output is raised by pushing and pain but remains lower than the early post-partum peak."
+  ],
+  "source": "October 2026 Recalls — Anesthesia — 6 Oct Morning",
+  "recallSet": "october-2026",
+  "recallPaper": "Anesthesia — 6 Oct Morning"
+ },
+ {
+  "systemSlug": "hematology-oncology",
+  "topicSlug": "transfusion-medicine",
+  "stem": "A 30-year-old man is brought after a road traffic accident with ongoing external bleeding, pulse 130/min and blood pressure 80/50 mmHg. He has received 1 L of warmed crystalloid with only transient response. Haemoglobin is 6.5 g/dL. What is the next best step in management?",
+  "options": [
+   "Platelet transfusion alone",
+   "Albumin 5% infusion",
+   "Transfuse packed red blood cells (with balanced plasma/platelets if bleeding is massive)",
+   "Wait for cross-matched blood before any other intervention, with no further fluid",
+   "A further 2 L of 0.9% saline"
+  ],
+  "correctIndex": 2,
+  "explanation": "A haemorrhaging, hypotensive patient with a haemoglobin of 6.5 g/dL who is a transient responder to crystalloid (class III–IV haemorrhage) needs early transfusion of packed red cells, with balanced plasma and platelets in massive transfusion and control of the bleeding source. Crystalloids are used only briefly. (Standard trauma/anaesthesia teaching; First Aid — Hematology and Oncology: Transfusion products)",
+  "optionExplanations": [
+   "Platelets are not the first priority; red cells and balanced products are given first in a bleeding, hypotensive patient.",
+   "Colloids do not carry oxygen and do not correct the anaemia of haemorrhage.",
+   "",
+   "Delaying treatment risks death; uncrossmatched or type-specific blood is used if needed.",
+   "Large volumes of crystalloid dilute clotting factors, cause acidosis and increase bleeding; the patient needs oxygen-carrying capacity."
+  ],
+  "source": "October 2026 Recalls — Anesthesia — 6 Oct Morning",
+  "recallSet": "october-2026",
+  "recallPaper": "Anesthesia — 6 Oct Morning"
+ },
+ {
+  "systemSlug": "hematology-oncology",
+  "topicSlug": "bleeding-clotting-disorders",
+  "stem": "During a major fluid resuscitation, a patient receives large volumes of a synthetic colloid and develops a bleeding diathesis with prolonged aPTT, low factor VIII activity and reduced von Willebrand factor function. Which fluid is most likely responsible?",
+  "options": [
+   "Succinylated gelatin",
+   "5% albumin",
+   "Ringer's lactate",
+   "Hydroxyethyl starch",
+   "0.9% sodium chloride"
+  ],
+  "correctIndex": 3,
+  "explanation": "Hydroxyethyl starch reduces factor VIII and vWF activity (an acquired von Willebrand-like effect), impairs platelet function and fibrin polymerisation, and causes coagulopathy in addition to dilution; high-molecular-weight starches are worst. Starch also causes renal injury in critical illness. (Standard anaesthesia teaching; First Aid — Hematology and Oncology: Coagulation disorders)",
+  "optionExplanations": [
+   "Gelatins have the least effect on coagulation among colloids, mainly through dilution.",
+   "A natural colloid with no significant specific effect on coagulation.",
+   "A balanced crystalloid that only dilutes clotting factors and does not interfere with factor VIII or vWF function.",
+   "",
+   "Large volumes cause hyperchloraemic acidosis and dilutional coagulopathy but not an acquired vWD-like defect."
+  ],
+  "source": "October 2026 Recalls — Anesthesia — 6 Oct Morning",
+  "recallSet": "october-2026",
+  "recallPaper": "Anesthesia — 6 Oct Morning"
+ },
+ {
+  "systemSlug": "nervous-system",
+  "topicSlug": "neuropharmacology",
+  "stem": "Which of the following is considered the principal molecular mechanism of action of inhaled volatile anaesthetics such as sevoflurane and isoflurane?",
+  "options": [
+   "Agonism at alpha-2 adrenoceptors in the locus coeruleus",
+   "Potentiation of GABA-A receptor-mediated chloride currents (also glycine receptors)",
+   "Blockade of NMDA glutamate receptors",
+   "Antagonism of nicotinic acetylcholine receptors at the neuromuscular junction",
+   "Agonism at mu opioid receptors"
+  ],
+  "correctIndex": 1,
+  "explanation": "Volatile anaesthetics enhance inhibitory GABA-A and glycine receptor currents (increasing chloride conductance and hyperpolarisation), together with activation of two-pore-domain K+ channels and mild inhibition of excitatory receptors. Ketamine and nitrous oxide act via NMDA blockade. (First Aid — Pharmacology: Anesthetics; Neurology: Neuropharmacology)",
+  "optionExplanations": [
+   "This is the mechanism of dexmedetomidine and clonidine.",
+   "",
+   "This is the main mechanism of ketamine, nitrous oxide and xenon.",
+   "This is the mechanism of non-depolarising muscle relaxants.",
+   "This characterises opioids and is not the mechanism of volatile agents."
+  ],
+  "source": "October 2026 Recalls — Anesthesia — 6 Oct Morning",
+  "recallSet": "october-2026",
+  "recallPaper": "Anesthesia — 6 Oct Morning"
+ },
+ {
+  "systemSlug": "cardiovascular",
+  "topicSlug": "cardiac-hemodynamics",
+  "stem": "An automated oscillometric non-invasive blood pressure monitor is used in theatre. Which blood pressure parameter does the device actually measure most directly and reliably?",
+  "options": [
+   "Mean arterial pressure (point of maximal oscillation)",
+   "Pulse pressure",
+   "Diastolic pressure",
+   "Systolic pressure",
+   "Central venous pressure"
+  ],
+  "correctIndex": 0,
+  "explanation": "In oscillometry the cuff pressure at which oscillation amplitude is maximal corresponds to the mean arterial pressure; systolic and diastolic values are estimated from fixed fractions of this maximum using manufacturer algorithms. MAP is therefore the most accurate parameter, and it is also the best parameter on which to base management in shock. (Standard anaesthesia teaching; First Aid — Cardiovascular: Hemodynamics)",
+  "optionExplanations": [
+   "",
+   "It is a derived value (systolic minus diastolic), not measured directly.",
+   "It is also derived by algorithm and is less accurate than mean pressure.",
+   "It is calculated by the device's proprietary algorithm from the oscillation envelope rather than directly measured.",
+   "Oscillometry has no relationship to venous pressure."
+  ],
+  "source": "October 2026 Recalls — Anesthesia — 6 Oct Morning",
+  "recallSet": "october-2026",
+  "recallPaper": "Anesthesia — 6 Oct Morning"
+ },
+ {
+  "systemSlug": "nervous-system",
+  "topicSlug": "cns-infections",
+  "stem": "A 24-year-old man presents with fever, severe headache, neck stiffness and photophobia. Lumbar puncture shows a turbid CSF with a neutrophil-predominant pleocytosis, high protein and low glucose. Which is the best empirical treatment?",
+  "options": [
+   "Oral ciprofloxacin and observation",
+   "Aciclovir alone",
+   "Ceftriaxone plus vancomycin plus prednisolone",
+   "Ceftriaxone plus vancomycin plus dexamethasone",
+   "Ceftriaxone alone"
+  ],
+  "correctIndex": 3,
+  "explanation": "Bacterial meningitis requires immediate empirical ceftriaxone with vancomycin (covering penicillin-resistant S. pneumoniae), and in patients over 50 or immunocompromised, ampicillin for Listeria. Dexamethasone (0.15 mg/kg every 6 hours), started before or with the first antibiotic dose, reduces hearing loss and neurological sequelae in pneumococcal disease. (First Aid — Neurology: CNS infections; Microbiology: Meningitis)",
+  "optionExplanations": [
+   "Ciprofloxacin is used for chemoprophylaxis of contacts, not treatment.",
+   "Targets HSV encephalitis and would leave bacterial meningitis untreated.",
+   "Dexamethasone is the corticosteroid with evidence for reducing neurological sequelae in bacterial meningitis; prednisolone is not used.",
+   "",
+   "Lacks coverage for resistant pneumococci and omits adjunctive corticosteroid."
+  ],
+  "source": "October 2026 Recalls — Anesthesia — 6 Oct Morning",
+  "recallSet": "october-2026",
+  "recallPaper": "Anesthesia — 6 Oct Morning"
+ },
+ {
+  "systemSlug": "renal",
+  "topicSlug": "renal-pharmacology",
+  "stem": "A 65-year-old man with chronic kidney disease stage 5 is to undergo general anaesthesia. Which neuromuscular blocking agent is most dependent on renal excretion and therefore best avoided?",
+  "options": [
+   "Mivacurium",
+   "Cisatracurium",
+   "Rocuronium",
+   "Pancuronium",
+   "Atracurium"
+  ],
+  "correctIndex": 3,
+  "explanation": "Pancuronium is excreted chiefly by the kidneys (about 80% as unchanged drug and active metabolites), so its action is greatly prolonged in renal failure. Atracurium and cisatracurium (Hofmann elimination) are preferred in renal impairment. (Standard anaesthesia teaching; First Aid — Pharmacology: Skeletal muscle relaxants)",
+  "optionExplanations": [
+   "Metabolised by plasma cholinesterase; renal function has little effect.",
+   "Eliminated by organ-independent Hofmann degradation, so it is the preferred agent in renal failure.",
+   "Mainly hepatic and biliary elimination, with only a modest renal contribution.",
+   "",
+   "Eliminated by Hofmann degradation and ester hydrolysis, largely independent of renal function."
+  ],
+  "source": "October 2026 Recalls — Anesthesia — 6 Oct Morning",
+  "recallSet": "october-2026",
+  "recallPaper": "Anesthesia — 6 Oct Morning"
+ },
+ {
+  "systemSlug": "gastrointestinal",
+  "topicSlug": "liver-disease",
+  "stem": "A 55-year-old man with decompensated alcoholic cirrhosis (Child-Pugh C) requires a laparoscopic procedure under general anaesthesia. Which muscle relaxant has the most predictable duration because its elimination does not depend on hepatic function?",
+  "options": [
+   "Rocuronium",
+   "Pancuronium",
+   "Mivacurium",
+   "Vecuronium",
+   "Cisatracurium"
+  ],
+  "correctIndex": 4,
+  "explanation": "Cisatracurium undergoes organ-independent Hofmann elimination at physiological pH and temperature, so its duration is unaffected by liver or kidney failure, making it ideal in hepatic and renal impairment. Aminosteroid relaxants rely on hepatic uptake and biliary excretion. (Standard anaesthesia teaching; First Aid — Pharmacology: Skeletal muscle relaxants)",
+  "optionExplanations": [
+   "Taken up by the liver and excreted in bile, so duration is prolonged in significant hepatic dysfunction.",
+   "Partly hepatically metabolised and renally excreted; the duration is prolonged and unpredictable in cirrhosis.",
+   "Depends on plasma cholinesterase, which is synthesised by the liver and is low in cirrhosis, prolonging its action.",
+   "Largely metabolised and excreted by the liver and bile, so its action is prolonged in cirrhosis.",
+   ""
+  ],
+  "source": "October 2026 Recalls — Anesthesia — 6 Oct Morning",
+  "recallSet": "october-2026",
+  "recallPaper": "Anesthesia — 6 Oct Morning"
+ },
+ {
+  "systemSlug": "respiratory",
+  "topicSlug": "respiratory-pharmacology",
+  "stem": "A 40-year-old man with asthma is given intravenous aminophylline for refractory bronchospasm. Which is the principal mechanism of bronchodilation of theophylline?",
+  "options": [
+   "Stimulation of nitric oxide release from airway epithelium",
+   "Direct beta-2 adrenergic receptor agonism",
+   "Antagonism of cysteinyl leukotriene receptors",
+   "Blockade of muscarinic M3 receptors",
+   "Inhibition of phosphodiesterase, raising intracellular cAMP (with adenosine receptor antagonism)"
+  ],
+  "correctIndex": 4,
+  "explanation": "Theophylline is a non-selective phosphodiesterase inhibitor that increases cAMP, relaxing bronchial smooth muscle; it also antagonises adenosine receptors, contributing to both its effects and its toxicity (seizures, arrhythmias). It has a narrow therapeutic index and is metabolised by CYP1A2. (First Aid — Pharmacology: Respiratory drugs, Methylxanthines)",
+  "optionExplanations": [
+   "Not the mechanism of methylxanthines; nitric oxide is the mediator of nitrates and inhaled NO.",
+   "This is the mechanism of salbutamol and other beta-agonists.",
+   "This is the mechanism of montelukast and zafirlukast.",
+   "This is the mechanism of ipratropium and tiotropium.",
+   ""
+  ],
+  "source": "October 2026 Recalls — Anesthesia — 6 Oct Morning",
+  "recallSet": "october-2026",
+  "recallPaper": "Anesthesia — 6 Oct Morning"
+ },
+ {
+  "systemSlug": "musculoskeletal",
+  "topicSlug": "msk-anatomy-embryology",
+  "stem": "A 38-year-old tennis player feels a sudden 'pop' in the calf while lunging. Ultrasound shows a tear of a small muscle belly with a very long, slender tendon that runs between the gastrocnemius and soleus and inserts into the calcaneus. Which muscle is injured?",
+  "options": [
+   "Medial head of gastrocnemius",
+   "Plantaris",
+   "Flexor hallucis longus",
+   "Tibialis posterior",
+   "Soleus"
+  ],
+  "correctIndex": 1,
+  "explanation": "Plantaris is a vestigial muscle with a small belly and a long thin tendon running obliquely between gastrocnemius and soleus to insert medially into the calcaneus (or Achilles tendon). Its rupture produces a sudden calf pain and is classically associated with ‘tennis leg’. (First Aid — Musculoskeletal: Lower limb anatomy)",
+  "optionExplanations": [
+   "A bulky muscle with a broad aponeurosis forming the Achilles tendon, not a small muscle with a slender tendon.",
+   "",
+   "A deep posterior compartment muscle whose tendon passes under the sustentaculum tali to the great toe.",
+   "Lies deep in the posterior compartment and its tendon passes behind the medial malleolus to the navicular.",
+   "A broad flat muscle lying deep to gastrocnemius that inserts via the Achilles tendon."
+  ],
+  "source": "October 2026 Recalls — Anesthesia — 6 Oct Morning",
+  "recallSet": "october-2026",
+  "recallPaper": "Anesthesia — 6 Oct Morning"
+ },
+ {
+  "systemSlug": "reproductive-health",
+  "topicSlug": "gynecological-oncology",
+  "stem": "A 24-year-old woman presents at 10 weeks of amenorrhoea with vaginal bleeding and hyperemesis. Ultrasound shows a ‘snowstorm’ pattern in the uterine cavity with no fetal parts. Which serum marker is expected to be markedly elevated?",
+  "options": [
+   "CA-125",
+   "Inhibin A",
+   "Alpha-fetoprotein",
+   "Lactate dehydrogenase",
+   "Beta-hCG"
+  ],
+  "correctIndex": 4,
+  "explanation": "A complete hydatidiform mole produces a ‘snowstorm’ (cluster of grapes) ultrasound image of hydropic villi with no fetus, with very high beta-hCG levels that cause hyperemesis, early pre-eclampsia, thyroid stimulation and theca-lutein cysts. Serial hCG is followed after evacuation to detect gestational trophoblastic neoplasia. (First Aid — Reproductive: Gestational trophoblastic disease)",
+  "optionExplanations": [
+   "A marker of epithelial ovarian cancer.",
+   "Is elevated in granulosa cell tumours and used in Down syndrome screening, but not the diagnostic marker for molar pregnancy.",
+   "AFP is raised in neural tube defects and yolk sac tumours.",
+   "Raised in dysgerminoma and tissue damage but not the key marker here.",
+   ""
+  ],
+  "source": "October 2026 Recalls — Anesthesia — 6 Oct Morning",
+  "recallSet": "october-2026",
+  "recallPaper": "Anesthesia — 6 Oct Morning"
+ },
+ {
+  "systemSlug": "reproductive-health",
+  "topicSlug": "gynecological-oncology",
+  "stem": "A 19-year-old woman has a large solid adnexal mass. Serum alpha-fetoprotein is markedly elevated. Which tumour is most likely?",
+  "options": [
+   "Choriocarcinoma",
+   "Yolk sac (endodermal sinus) tumour",
+   "Granulosa cell tumour",
+   "Mature cystic teratoma",
+   "Dysgerminoma"
+  ],
+  "correctIndex": 1,
+  "explanation": "Yolk sac tumours secrete alpha-fetoprotein and show Schiller-Duval bodies (glomerulus-like structures) on histology. They occur in young women and children and are highly chemosensitive. Dysgerminoma (seminoma equivalent) raises LDH and hCG. (First Aid — Reproductive: Ovarian germ cell tumours)",
+  "optionExplanations": [
+   "Secretes hCG.",
+   "",
+   "Secretes oestrogen and inhibin.",
+   "Benign and generally has normal markers.",
+   "Typically elevates LDH and sometimes hCG, not AFP."
+  ],
+  "source": "October 2026 Recalls — Anesthesia — 6 Oct Morning",
+  "recallSet": "october-2026",
+  "recallPaper": "Anesthesia — 6 Oct Morning"
+ },
+ {
+  "systemSlug": "nervous-system",
+  "topicSlug": "neuroanatomy-embryology",
+  "stem": "A 35-year-old woman with a pituitary macroadenoma has bitemporal hemianopia. Which fibres are being compressed?",
+  "options": [
+   "Meyer loop fibres of the optic radiation",
+   "Optic tract fibres",
+   "Uncrossed temporal retinal fibres in the optic nerves",
+   "Crossing nasal retinal fibres at the optic chiasm",
+   "Optic radiation fibres in the parietal lobe"
+  ],
+  "correctIndex": 3,
+  "explanation": "At the optic chiasm, nasal retinal fibres from both eyes cross and carry information from the temporal visual fields. A mass compressing the chiasm from below (pituitary adenoma) or above (craniopharyngioma) damages these fibres and produces bitemporal hemianopia. (First Aid — Neurology: Visual pathway lesions)",
+  "optionExplanations": [
+   "Damage causes contralateral superior quadrantanopia (‘pie in the sky’).",
+   "A lesion here causes contralateral homonymous hemianopia.",
+   "Compression of these would produce a nasal field defect in one eye, not a bitemporal hemianopia.",
+   "",
+   "A lesion causes contralateral inferior quadrantanopia."
+  ],
+  "source": "October 2026 Recalls — Anesthesia — 6 Oct Morning",
+  "recallSet": "october-2026",
+  "recallPaper": "Anesthesia — 6 Oct Morning"
+ },
+ {
+  "systemSlug": "renal",
+  "topicSlug": "renal-pharmacology",
+  "stem": "A patient with acute pulmonary oedema is given intravenous furosemide. Which segment and transporter does it inhibit?",
+  "options": [
+   "Carbonic anhydrase in the proximal tubule",
+   "Na⁺–K⁺–2Cl⁻ cotransporter (NKCC2) in the thick ascending limb of the loop of Henle",
+   "Aldosterone receptors in the principal cells",
+   "Epithelial sodium channels in the cortical collecting duct",
+   "Na⁺–Cl⁻ cotransporter in the distal convoluted tubule"
+  ],
+  "correctIndex": 1,
+  "explanation": "Loop diuretics inhibit the Na⁺–K⁺–2Cl⁻ cotransporter in the thick ascending limb, abolishing the medullary concentration gradient and also increasing calcium and magnesium excretion (hence hypocalcaemia). Adverse effects include ototoxicity, hypokalaemia and hypomagnesaemia. (First Aid — Renal: Diuretics)",
+  "optionExplanations": [
+   "This is the site of acetazolamide.",
+   "",
+   "This is the site of spironolactone and eplerenone.",
+   "This is blocked by amiloride and triamterene.",
+   "This is the site of thiazide diuretics."
+  ],
+  "source": "October 2026 Recalls — Anesthesia — 6 Oct Morning",
+  "recallSet": "october-2026",
+  "recallPaper": "Anesthesia — 6 Oct Morning"
+ },
+ {
+  "systemSlug": "musculoskeletal",
+  "topicSlug": "msk-anatomy-embryology",
+  "stem": "A 25-year-old rugby player has an anterior shoulder dislocation. After reduction he cannot abduct the arm beyond about 15 degrees, the deltoid contour is flattened, and there is loss of sensation over the lateral upper arm. Which nerve is injured?",
+  "options": [
+   "Long thoracic nerve",
+   "Axillary nerve",
+   "Radial nerve",
+   "Suprascapular nerve",
+   "Musculocutaneous nerve"
+  ],
+  "correctIndex": 1,
+  "explanation": "The axillary nerve (C5–C6) wraps around the surgical neck of the humerus and is injured in shoulder dislocations and surgical neck fractures. It supplies deltoid (abduction beyond the first 15° that supraspinatus initiates) and teres minor, with sensation over the ‘regimental badge’ area of the lateral upper arm. (First Aid — Musculoskeletal: Upper limb nerve injuries)",
+  "optionExplanations": [
+   "Causes winged scapula by paralysis of serratus anterior.",
+   "",
+   "Causes wrist drop and loss of sensation over the dorsal hand and posterior arm.",
+   "Injury weakens initiation of abduction (supraspinatus) and external rotation, but spares deltoid and sensation to the lateral arm.",
+   "Causes weak elbow flexion and sensory loss over the lateral forearm."
+  ],
+  "source": "October 2026 Recalls — Anesthesia — 6 Oct Morning",
+  "recallSet": "october-2026",
+  "recallPaper": "Anesthesia — 6 Oct Morning"
+ },
+ {
+  "systemSlug": "musculoskeletal",
+  "topicSlug": "msk-anatomy-embryology",
+  "stem": "A 30-year-old man is brought after a high-speed car crash. His right leg is shortened, adducted and internally rotated. After closed reduction of a posterior hip dislocation he has foot drop and numbness of the lateral leg and dorsum of the foot, while knee extension is preserved. Which nerve is injured?",
+  "options": [
+   "Superior gluteal nerve",
+   "Sciatic nerve (common peroneal component)",
+   "Obturator nerve",
+   "Tibial nerve (alone)",
+   "Femoral nerve"
+  ],
+  "correctIndex": 1,
+  "explanation": "Posterior hip dislocation (the commonest type, in dashboard injuries) can stretch or contuse the sciatic nerve as it lies behind the hip joint. The common peroneal division, being more lateral and tethered at the fibular neck, is most commonly affected, causing foot drop and sensory loss over the lateral leg and dorsum. (First Aid — Musculoskeletal: Lower limb nerve injuries)",
+  "optionExplanations": [
+   "Would cause weak hip abduction and a Trendelenburg gait, with no foot drop.",
+   "",
+   "Would cause weakness of thigh adduction and medial thigh numbness.",
+   "Would impair plantarflexion and sole sensation, not cause foot drop.",
+   "Would cause weak knee extension and numbness of the anterior thigh and medial leg."
+  ],
+  "source": "October 2026 Recalls — Anesthesia — 6 Oct Morning",
+  "recallSet": "october-2026",
+  "recallPaper": "Anesthesia — 6 Oct Morning"
+ },
+ {
+  "systemSlug": "nervous-system",
+  "topicSlug": "peripheral-nerve-neuromuscular",
+  "stem": "A 30-year-old man sustains a crush injury to the thigh with complete loss of ankle dorsiflexion and plantarflexion. Nerve histology three days later shows axonal fragmentation, myelin breakdown and macrophage infiltration in the nerve segment distal to the injury. Which process is this?",
+  "options": [
+   "Retrograde chromatolysis only",
+   "Segmental demyelination",
+   "Axonal sprouting",
+   "Neuronal apoptosis from excitotoxicity",
+   "Wallerian degeneration"
+  ],
+  "correctIndex": 4,
+  "explanation": "After axonal injury, the distal axon and myelin degenerate within days (Wallerian degeneration) as macrophages and Schwann cells clear debris; the proximal stump shows chromatolysis. Regeneration proceeds at approximately 1 mm/day when the endoneurial tubes remain intact. (First Aid — Neurology: Neuropathology, Axonal injury)",
+  "optionExplanations": [
+   "Describes changes in the neuronal cell body, proximal to the injury.",
+   "Affects myelin with an intact axon, as in Guillain-Barré syndrome, and is not due to axonal injury.",
+   "Is a regenerative process that occurs after degeneration, not the initial change.",
+   "Describes neuronal death in ischaemia, not distal axonal breakdown.",
+   ""
+  ],
+  "source": "October 2026 Recalls — Anesthesia — 6 Oct Morning",
+  "recallSet": "october-2026",
+  "recallPaper": "Anesthesia — 6 Oct Morning"
+ },
+ {
+  "systemSlug": "nervous-system",
+  "topicSlug": "peripheral-nerve-neuromuscular",
+  "stem": "A crush injury to the sciatic nerve in the thigh causes complete motor and sensory loss below the knee. Surgical exploration shows that the nerve is in continuity with intact endoneurial tubes and epineurium. How is this injury classified?",
+  "options": [
+   "Radiculopathy",
+   "Wallerian degeneration",
+   "Neurotmesis",
+   "Neurapraxia",
+   "Axonotmesis"
+  ],
+  "correctIndex": 4,
+  "explanation": "Axonotmesis (Seddon classification) is axonal disruption with preserved connective tissue framework, usually due to crush or traction; Wallerian degeneration occurs distally, and regeneration at about 1 mm/day can restore function. Neurapraxia is conduction block with intact axons, and neurotmesis is complete nerve division. (First Aid — Neurology: Peripheral nerve injury)",
+  "optionExplanations": [
+   "Describes root compression within the spinal canal, not a peripheral nerve injury.",
+   "Is the degenerative process distal to an axonal injury, not a class of nerve injury.",
+   "Is complete transection of the nerve, including connective tissue, and needs surgical repair.",
+   "Is a transient conduction block without axonal loss, with recovery within days to weeks.",
+   ""
+  ],
+  "source": "October 2026 Recalls — Anesthesia — 6 Oct Morning",
+  "recallSet": "october-2026",
+  "recallPaper": "Anesthesia — 6 Oct Morning"
+ },
+ {
+  "systemSlug": "musculoskeletal",
+  "topicSlug": "msk-physiology",
+  "stem": "In an isolated skeletal muscle experiment, at which sarcomere length is the active tension generated the greatest?",
+  "options": [
+   "About 1.6 µm, where the thick filaments abut the Z discs",
+   "About 2.0–2.2 µm, where there is optimal overlap of thick and thin filaments",
+   "About 1.2 µm, where the thin filaments overlap each other",
+   "About 3.0 µm, where actin–myosin overlap is minimal",
+   "About 3.6 µm, where there is no overlap"
+  ],
+  "correctIndex": 1,
+  "explanation": "The length–tension relationship of striated muscle shows that maximal active tension develops at a sarcomere length of about 2.0–2.2 µm, where the number of actin–myosin cross-bridges is greatest. Tension falls at shorter lengths (filament interference) and longer lengths (reduced overlap). (First Aid — Musculoskeletal: Muscle physiology)",
+  "optionExplanations": [
+   "Tension falls because thick filaments are compressed against the Z discs.",
+   "",
+   "At short lengths, filaments collide and overlap, which reduces tension.",
+   "Fewer cross-bridges can form as overlap diminishes.",
+   "No cross-bridges can form, so active tension is zero."
+  ],
+  "source": "October 2026 Recalls — Anesthesia — 6 Oct Morning",
+  "recallSet": "october-2026",
+  "recallPaper": "Anesthesia — 6 Oct Morning"
+ },
+ {
+  "systemSlug": "endocrine",
+  "topicSlug": "diabetes-mellitus",
+  "stem": "A 12-year-old boy is diagnosed with type 1 diabetes mellitus with anti-GAD antibodies. Which hypersensitivity mechanism chiefly causes the destruction of pancreatic beta cells?",
+  "options": [
+   "No immune mechanism: beta-cell loss is due to insulin resistance",
+   "Type III (immune complex) hypersensitivity",
+   "Type I (IgE-mediated) hypersensitivity",
+   "Type II (antibody-mediated cytotoxic) hypersensitivity",
+   "Type IV (cell-mediated, CD8+ T cell) hypersensitivity"
+  ],
+  "correctIndex": 4,
+  "explanation": "Type 1 diabetes is an autoimmune disease in which autoreactive CD8+ cytotoxic T cells (together with CD4+ T cells) destroy pancreatic islet beta cells in genetically susceptible individuals (HLA-DR3 and DR4). Autoantibodies (GAD65, insulin, islet cell) are markers of disease, not the main effector. (First Aid — Endocrine: Diabetes mellitus; Immunology: Hypersensitivity)",
+  "optionExplanations": [
+   "Insulin resistance characterises type 2 diabetes.",
+   "Seen in SLE and serum sickness, not in T1DM.",
+   "Mediates allergy and anaphylaxis through mast cell degranulation.",
+   "Antibody-mediated cell destruction as in autoimmune haemolysis; autoantibodies in T1DM are markers rather than the primary effector.",
+   ""
+  ],
+  "source": "October 2026 Recalls — Anesthesia — 6 Oct Morning",
+  "recallSet": "october-2026",
+  "recallPaper": "Anesthesia — 6 Oct Morning"
+ },
+ {
+  "systemSlug": "nervous-system",
+  "topicSlug": "neuropharmacology",
+  "stem": "A 6-year-old child is given intramuscular ketamine for a painful dressing change. Which respiratory-related effect is the characteristic adverse effect of this drug that is often pre-treated with glycopyrrolate?",
+  "options": [
+   "Profound dose-dependent respiratory depression with loss of hypoxic drive",
+   "Absent pharyngeal and laryngeal reflexes with high aspiration risk",
+   "Hypersalivation and bronchial secretions, with a risk of laryngospasm",
+   "Pulmonary oedema from alveolar membrane damage",
+   "Bronchospasm through histamine release"
+  ],
+  "correctIndex": 2,
+  "explanation": "Ketamine (NMDA antagonist) causes dissociative anaesthesia with preserved respiratory drive and bronchodilation, but increases salivary and tracheobronchial secretions, predisposing to laryngospasm; an antisialagogue (glycopyrrolate or atropine) is given. Other effects: increased HR, BP, ICP and emergence phenomena. (First Aid — Pharmacology: Anesthetics, intravenous)",
+  "optionExplanations": [
+   "At clinical doses, ketamine largely preserves respiratory drive and airway reflexes.",
+   "Airway reflexes are relatively preserved but not fully reliable, and this is not the characteristic effect.",
+   "",
+   "Is not a recognised ketamine effect.",
+   "Ketamine is a bronchodilator and is used in severe asthma."
+  ],
+  "source": "October 2026 Recalls — Anesthesia — 6 Oct Morning",
+  "recallSet": "october-2026",
+  "recallPaper": "Anesthesia — 6 Oct Morning"
+ },
+ {
+  "systemSlug": "microbiology",
+  "topicSlug": "microbiology-basics",
+  "stem": "Which of the following is the disinfectant most appropriate for routine decontamination of operating theatre floors, walls and blood spills?",
+  "options": [
+   "Sodium hypochlorite solution",
+   "70% isopropyl alcohol wipes alone",
+   "Glutaraldehyde 2%",
+   "Povidone-iodine",
+   "Chlorhexidine gluconate"
+  ],
+  "correctIndex": 0,
+  "explanation": "Sodium hypochlorite (bleach, typically 0.1–1% available chlorine depending on contamination) is a cheap, broad-spectrum, rapidly acting disinfectant that inactivates bacteria, spores, fungi and viruses including HBV and HIV, and is used for environmental surfaces and blood spills. (Standard infection-control teaching; First Aid — Microbiology: Sterilisation and disinfection)",
+  "optionExplanations": [
+   "",
+   "Rapidly evaporate, do not penetrate organic matter and are not suitable for floors and large surfaces.",
+   "Is used for high-level disinfection of heat-sensitive instruments such as endoscopes; it is toxic and unsuitable for surfaces.",
+   "Is a skin and mucosal antiseptic that stains surfaces.",
+   "Is a skin antiseptic and not a surface disinfectant for floors."
+  ],
+  "source": "October 2026 Recalls — Anesthesia — 6 Oct Morning",
+  "recallSet": "october-2026",
+  "recallPaper": "Anesthesia — 6 Oct Morning"
+ },
+ {
+  "systemSlug": "microbiology",
+  "topicSlug": "antimicrobial-pharmacology",
+  "stem": "A 50-year-old man is scheduled for elective abdominal surgery. Which skin preparation is recommended to reduce the risk of surgical site infection?",
+  "options": [
+   "Aqueous povidone-iodine",
+   "Plain soap and water",
+   "Hydrogen peroxide 3%",
+   "Chlorhexidine in alcohol",
+   "Normal saline"
+  ],
+  "correctIndex": 3,
+  "explanation": "Chlorhexidine–alcohol skin preparation is superior to aqueous povidone-iodine for preventing surgical site infection, because alcohol gives rapid kill and chlorhexidine gives persistent residual activity. Contraindicated near the eyes, ears and mucosa because of toxicity. (Standard surgical teaching; First Aid — Microbiology: Antiseptics and disinfectants)",
+  "optionExplanations": [
+   "Is less effective than chlorhexidine–alcohol in randomised trials.",
+   "Does not give sustained antisepsis.",
+   "Is toxic to tissues and not recommended for skin preparation.",
+   "",
+   "Has no antiseptic activity."
+  ],
+  "source": "October 2026 Recalls — Anesthesia — 6 Oct Morning",
+  "recallSet": "october-2026",
+  "recallPaper": "Anesthesia — 6 Oct Morning"
+ },
+ {
+  "systemSlug": "hematology-oncology",
+  "topicSlug": "general-oncology-principles",
+  "stem": "A 62-year-old man presents with a slowly growing, painless, firm mass at the angle of the jaw. Biopsy shows epithelial and myoepithelial cells in a chondromyxoid stroma. What is the diagnosis?",
+  "options": [
+   "Pleomorphic adenoma",
+   "Acinic cell carcinoma",
+   "Mucoepidermoid carcinoma",
+   "Adenoid cystic carcinoma",
+   "Warthin tumour"
+  ],
+  "correctIndex": 0,
+  "explanation": "Pleomorphic adenoma (benign mixed tumour) is the commonest salivary gland tumour, typically in the parotid. It consists of epithelial and myoepithelial cells in a chondromyxoid stroma; it can recur if enucleated and carries a small risk of malignant transformation. (First Aid — Gastrointestinal: Salivary gland tumours)",
+  "optionExplanations": [
+   "",
+   "Shows cells resembling serous acini with basophilic granules.",
+   "Shows mucinous, squamous and intermediate cells; the commonest malignant salivary tumour.",
+   "Shows cribriform ‘Swiss cheese’ pattern and perineural invasion.",
+   "Shows papillary cystic spaces with lymphoid stroma and oncocytic epithelium."
+  ],
+  "source": "October 2026 Recalls — Anesthesia — 6 Oct Morning",
+  "recallSet": "october-2026",
+  "recallPaper": "Anesthesia — 6 Oct Morning"
+ },
+ {
+  "systemSlug": "nervous-system",
+  "topicSlug": "peripheral-nerve-neuromuscular",
+  "stem": "A 40-year-old woman is unable to supinate her forearm when the elbow is held fully extended. Which nerve supplies the muscle responsible for this movement?",
+  "options": [
+   "Radial nerve (deep branch / posterior interosseous nerve)",
+   "Ulnar nerve",
+   "Axillary nerve",
+   "Musculocutaneous nerve",
+   "Median nerve (anterior interosseous branch)"
+  ],
+  "correctIndex": 0,
+  "explanation": "Supinator is supplied by the deep branch of the radial nerve (posterior interosseous nerve), and it is the only supinator acting with the elbow extended. Biceps brachii (musculocutaneous nerve) also supinates but only when the elbow is flexed. (First Aid — Musculoskeletal: Upper limb nerves)",
+  "optionExplanations": [
+   "",
+   "Supplies intrinsic hand muscles and has no role in supination.",
+   "Supplies deltoid and teres minor around the shoulder.",
+   "Supplies biceps, which is a powerful supinator when the elbow is flexed but not with the elbow extended.",
+   "Supplies pronator quadratus and the deep flexors, causing weak pronation."
+  ],
+  "source": "October 2026 Recalls — Anesthesia — 6 Oct Morning",
+  "recallSet": "october-2026",
+  "recallPaper": "Anesthesia — 6 Oct Morning"
+ },
+ {
+  "systemSlug": "nervous-system",
+  "topicSlug": "peripheral-nerve-neuromuscular",
+  "stem": "A patient is undergoing wrist surgery under a brachial plexus block. After blocking the median, radial and musculocutaneous nerves the surgeon notices that sensation persists over the hypothenar eminence and the medial palm. Which nerve needs to be supplemented?",
+  "options": [
+   "Radial nerve",
+   "Musculocutaneous nerve (lateral antebrachial cutaneous)",
+   "Medial cutaneous nerve of the arm (T1)",
+   "Ulnar nerve",
+   "Median nerve"
+  ],
+  "correctIndex": 3,
+  "explanation": "The ulnar nerve (C8–T1) supplies the medial (ulnar) side of the palm via the palmar cutaneous branch, the hypothenar eminence, the little finger and the medial half of the ring finger. Persistent sensation in this area after median, radial and musculocutaneous blocks implies an ulnar block is inadequate. (First Aid — Musculoskeletal: Upper limb nerve sensory distribution)",
+  "optionExplanations": [
+   "Supplies the dorsum of the hand, mainly the lateral side, and has already been blocked.",
+   "Supplies the lateral forearm and has already been blocked.",
+   "Supplies the medial arm above the elbow, not the palm.",
+   "",
+   "Median nerve supplies the lateral palm, thumb, index, middle and lateral half of the ring finger; it has already been blocked."
+  ],
+  "source": "October 2026 Recalls — Anesthesia — 6 Oct Morning",
+  "recallSet": "october-2026",
+  "recallPaper": "Anesthesia — 6 Oct Morning"
+ },
+ {
+  "systemSlug": "musculoskeletal",
+  "topicSlug": "msk-anatomy-embryology",
+  "stem": "A foot surgeon plans an amputation of the first three toes under regional anaesthesia at the ankle. Which combination of nerves must be blocked to anaesthetise the medial three toes (dorsal and plantar surfaces)?",
+  "options": [
+   "Sural nerve and saphenous nerve only",
+   "Deep peroneal, superficial peroneal and posterior tibial (medial plantar) nerves",
+   "Superficial peroneal and sural nerves only",
+   "Femoral nerve at the inguinal ligament",
+   "Deep peroneal and sural nerves only"
+  ],
+  "correctIndex": 1,
+  "explanation": "Dorsal skin of the medial toes is supplied by the superficial peroneal nerve (medial dorsal cutaneous) and the first web space by the deep peroneal nerve, while the plantar surface of the medial three and a half toes is supplied by the medial plantar branch of the tibial nerve. The saphenous nerve supplies the medial border to the first metatarsal head. (First Aid — Musculoskeletal: Lower limb nerves)",
+  "optionExplanations": [
+   "These supply the lateral border and medial malleolus/arch, not the medial three toes.",
+   "",
+   "Leaves the first web space and plantar skin unblocked.",
+   "Anaesthetises the anterior thigh, and via the saphenous nerve the medial leg, but not the toes.",
+   "Leaves the plantar surface (medial plantar nerve) and the medial dorsal skin unblocked."
+  ],
+  "source": "October 2026 Recalls — Anesthesia — 6 Oct Morning",
+  "recallSet": "october-2026",
+  "recallPaper": "Anesthesia — 6 Oct Morning"
+ },
+ {
+  "systemSlug": "reproductive-health",
+  "topicSlug": "reproductive-anatomy-embryology",
+  "stem": "Which embryonic structures give rise to the uterus, fallopian tubes and upper part of the vagina?",
+  "options": [
+   "Paramesonephric (Müllerian) ducts",
+   "Genital tubercle",
+   "Urogenital sinus",
+   "Metanephric blastema",
+   "Mesonephric (Wolffian) ducts"
+  ],
+  "correctIndex": 0,
+  "explanation": "The paramesonephric (Müllerian) ducts fuse to form the uterus, uterine tubes, cervix and upper vagina (the lower vagina arises from the urogenital sinus). Failure of development causes Mayer-Rokitansky-Küster-Hauser syndrome. (First Aid — Reproductive: Embryology of the female genital tract)",
+  "optionExplanations": [
+   "",
+   "Forms the clitoris and glans penis.",
+   "Forms the lower part of the vagina, urethra and vestibular glands.",
+   "Forms the nephrons of the kidney.",
+   "In females degenerate to Gartner duct remnants; in males form epididymis, vas and seminal vesicles."
+  ],
+  "source": "October 2026 Recalls — Anesthesia — 6 Oct Morning",
+  "recallSet": "october-2026",
+  "recallPaper": "Anesthesia — 6 Oct Morning"
+ },
+ {
+  "systemSlug": "gastrointestinal",
+  "topicSlug": "gi-pharmacology",
+  "stem": "A 68-year-old man with osteoarthritis and a past history of gastric ulcer needs long-term naproxen. Which co-prescription is the preferred gastroprotective strategy?",
+  "options": [
+   "Antacids as needed",
+   "Bismuth subsalicylate",
+   "Proton pump inhibitor",
+   "Sucralfate",
+   "H2 receptor antagonist at standard dose"
+  ],
+  "correctIndex": 2,
+  "explanation": "NSAIDs inhibit COX-1-dependent prostaglandin synthesis, reducing mucosal protection, so gastroprotection with a PPI is preferred in patients at risk. (Misoprostol, a PGE1 analogue, is an alternative but has poorer tolerability.) (First Aid — Gastrointestinal: Peptic ulcer disease; Pharmacology: NSAIDs)",
+  "optionExplanations": [
+   "Offer symptomatic relief without ulcer prevention.",
+   "Is not recommended for NSAID ulcer prevention and contains salicylate.",
+   "",
+   "Has not been shown to reduce NSAID ulcer incidence.",
+   "Is not effective in preventing NSAID-induced gastric ulcer."
+  ],
+  "source": "October 2026 Recalls — Anesthesia — 6 Oct Morning",
+  "recallSet": "october-2026",
+  "recallPaper": "Anesthesia — 6 Oct Morning"
+ },
+ {
+  "systemSlug": "respiratory",
+  "topicSlug": "obstructive-airway-disease",
+  "stem": "A 62-year-old smoker with chronic obstructive pulmonary disease and a chronic cough has ABG on room air: pH 7.36, PaO2 58 mmHg, HCO3 38 mmol/L. What is the primary ABG abnormality?",
+  "options": [
+   "High pH (alkalaemia)",
+   "Normal PaCO2 with hypoxia only",
+   "Low PaCO2",
+   "Raised PaCO2 (chronic compensated respiratory acidosis)",
+   "Low bicarbonate"
+  ],
+  "correctIndex": 3,
+  "explanation": "In advanced COPD, alveolar hypoventilation and V/Q mismatch retain CO2 (raised PaCO2), producing respiratory acidosis; renal bicarbonate retention compensates in chronic disease, so the pH is near normal with a high HCO3. (First Aid — Respiratory: COPD; Renal: Acid–base disturbances)",
+  "optionExplanations": [
+   "Chronic compensation brings pH towards normal and does not produce alkalosis.",
+   "Hypercapnia is typical of advanced COPD with hypoventilation and V/Q mismatch.",
+   "Would be seen in hyperventilation, anxiety or pulmonary embolism.",
+   "",
+   "Would suggest metabolic acidosis; here bicarbonate is raised as compensation."
+  ],
+  "source": "October 2026 Recalls — Anesthesia — 6 Oct Morning",
+  "recallSet": "october-2026",
+  "recallPaper": "Anesthesia — 6 Oct Morning"
+ },
+ {
+  "systemSlug": "renal",
+  "topicSlug": "renal-anatomy-embryology",
+  "stem": "A 28-year-old man is hit in the left flank in a football match. He has gross haematuria, a soft non-tender abdomen and is haemodynamically stable. What is the best initial investigation?",
+  "options": [
+   "Contrast-enhanced CT abdomen and pelvis",
+   "Plain abdominal X-ray",
+   "Retrograde urethrogram",
+   "Intravenous urogram",
+   "Ultrasound KUB alone"
+  ],
+  "correctIndex": 0,
+  "explanation": "Haemodynamically stable patients with blunt renal trauma and haematuria are evaluated by contrast-enhanced CT, which grades renal injury (laceration, haematoma, vascular injury, urinary extravasation) and detects associated injuries; unstable patients go to surgery. (Standard trauma teaching; First Aid — Renal: Anatomy and trauma)",
+  "optionExplanations": [
+   "",
+   "Offers little information about solid organ and renal injury.",
+   "Is indicated for suspected urethral injury (blood at the meatus, high-riding prostate), not flank trauma.",
+   "Is largely obsolete in trauma and gives limited detail of parenchymal injury.",
+   "Has limited sensitivity for renal laceration and urinary extravasation."
+  ],
+  "source": "October 2026 Recalls — Anesthesia — 6 Oct Morning",
+  "recallSet": "october-2026",
+  "recallPaper": "Anesthesia — 6 Oct Morning"
+ },
+ {
+  "systemSlug": "reproductive-health",
+  "topicSlug": "gynecological-oncology",
+  "stem": "A 22-year-old woman has a unilateral ovarian cyst containing hair, teeth, cartilage and bone. What is the diagnosis?",
+  "options": [
+   "Immature teratoma",
+   "Mature cystic teratoma (dermoid cyst)",
+   "Struma ovarii",
+   "Dysgerminoma",
+   "Brenner tumour"
+  ],
+  "correctIndex": 1,
+  "explanation": "Mature cystic teratomas are the commonest ovarian germ cell tumours and contain well-differentiated tissues from all three germ layers (hair, sebum, teeth, bone, cartilage). Complications include torsion and rupture; malignant change (squamous carcinoma) is uncommon. (First Aid — Reproductive: Ovarian neoplasms)",
+  "optionExplanations": [
+   "Contains immature, often neural, tissue and is malignant, usually presenting as a solid mass.",
+   "",
+   "A teratoma with thyroid tissue that can cause hyperthyroidism.",
+   "A solid germ cell tumour with fried-egg cells, not a cystic mass with teeth and hair.",
+   "Has Walthard cell nests with coffee-bean nuclei."
+  ],
+  "source": "October 2026 Recalls — Anesthesia — 6 Oct Morning",
+  "recallSet": "october-2026",
+  "recallPaper": "Anesthesia — 6 Oct Morning"
+ },
+ {
+  "systemSlug": "microbiology",
+  "topicSlug": "antimicrobial-pharmacology",
+  "stem": "Doxycycline is given to a 25-year-old woman with Chlamydia trachomatis infection. Which is its mechanism of action?",
+  "options": [
+   "Binds the 30S subunit and causes misreading of mRNA",
+   "Binds the 50S subunit and blocks translocation",
+   "Inhibits peptidyl transferase at the 50S subunit",
+   "Binds the 30S ribosomal subunit and blocks attachment of aminoacyl-tRNA to the A site",
+   "Binds the 50S subunit and prevents formation of the initiation complex"
+  ],
+  "correctIndex": 3,
+  "explanation": "Tetracyclines (including doxycycline) bind the 30S ribosomal subunit and prevent attachment of aminoacyl-tRNA to the acceptor (A) site, producing a bacteriostatic effect. They are contraindicated in pregnancy and in children because they deposit in bone and teeth. (First Aid — Pharmacology: Antimicrobials, Protein synthesis inhibitors)",
+  "optionExplanations": [
+   "Is the mechanism of aminoglycosides, which are bactericidal.",
+   "Is the mechanism of macrolides and clindamycin.",
+   "Is the mechanism of chloramphenicol.",
+   "",
+   "Is the mechanism of linezolid."
+  ],
+  "source": "October 2026 Recalls — Anesthesia — 6 Oct Morning",
+  "recallSet": "october-2026",
+  "recallPaper": "Anesthesia — 6 Oct Morning"
+ },
+ {
+  "systemSlug": "respiratory",
+  "topicSlug": "pleural-upper-airway",
+  "stem": "What type of epithelium lines the true vocal cords?",
+  "options": [
+   "Pseudostratified ciliated columnar epithelium",
+   "Simple columnar epithelium",
+   "Stratified squamous keratinised epithelium",
+   "Stratified squamous non-keratinised epithelium",
+   "Transitional epithelium"
+  ],
+  "correctIndex": 3,
+  "explanation": "The vocal folds are covered by stratified squamous non-keratinised epithelium that tolerates mechanical stress during phonation, while the rest of the laryngeal mucosa is pseudostratified ciliated columnar. Chronic irritation (smoking) predisposes to squamous metaplasia and carcinoma. (First Aid — Respiratory: Larynx histology)",
+  "optionExplanations": [
+   "Lines the rest of the larynx and trachea but not the vocal folds.",
+   "Lines the gastrointestinal tract.",
+   "Lines the skin and is not present on the vocal cords.",
+   "",
+   "Lines the urinary tract."
+  ],
+  "source": "October 2026 Recalls — Anesthesia — 6 Oct Morning",
+  "recallSet": "october-2026",
+  "recallPaper": "Anesthesia — 6 Oct Morning"
+ },
+ {
+  "systemSlug": "hematology-oncology",
+  "topicSlug": "anemia",
+  "stem": "A peripheral blood smear from a patient after splenectomy shows red cells containing small, round, dark purple inclusions. What do these Howell-Jolly bodies represent?",
+  "options": [
+   "Nuclear (DNA) remnants",
+   "Denatured, precipitated haemoglobin (Heinz bodies)",
+   "Malarial parasites",
+   "Iron granules within mitochondria (ring sideroblasts)",
+   "Aggregated ribosomal RNA (basophilic stippling)"
+  ],
+  "correctIndex": 0,
+  "explanation": "Howell-Jolly bodies are small remnants of nuclear DNA in erythrocytes, normally removed by the spleen, and therefore seen in asplenia or hyposplenism (also in sickle cell disease and severe megaloblastic anaemia). (First Aid — Hematology and Oncology: RBC inclusions)",
+  "optionExplanations": [
+   "",
+   "Require supravital stain and are seen in G6PD deficiency.",
+   "Plasmodium shows ring forms or trophozoites, with different morphology.",
+   "Seen in sideroblastic anaemia with Prussian blue stain.",
+   "Seen in lead poisoning and thalassaemia as multiple fine granules."
+  ],
+  "source": "October 2026 Recalls — Anesthesia — 6 Oct Morning",
+  "recallSet": "october-2026",
+  "recallPaper": "Anesthesia — 6 Oct Morning"
+ },
+ {
+  "systemSlug": "hematology-oncology",
+  "topicSlug": "hematology-pharmacology",
+  "stem": "A patient on warfarin has an elevated INR. Warfarin inhibits the synthesis of which clotting factors?",
+  "options": [
+   "II, VII, IX, X (and proteins C and S)",
+   "II, V, VII, X",
+   "V, VIII, XI, XII",
+   "I, V, VIII, XIII",
+   "VII, IX, X, XI"
+  ],
+  "correctIndex": 0,
+  "explanation": "Warfarin inhibits vitamin K epoxide reductase, blocking γ-carboxylation of factors II, VII, IX and X and the anticoagulant proteins C and S. It is monitored using the INR (extrinsic pathway) and is teratogenic. Factor VII has the shortest half-life, so protein C falls first, risking skin necrosis. (First Aid — Hematology and Oncology: Anticoagulants)",
+  "optionExplanations": [
+   "",
+   "Factor V is not vitamin K dependent (factor IX is).",
+   "Are not vitamin K dependent.",
+   "Are not vitamin K dependent.",
+   "Factor XI is not vitamin K dependent (factor II is)."
+  ],
+  "source": "October 2026 Recalls — Anesthesia — 6 Oct Morning",
+  "recallSet": "october-2026",
+  "recallPaper": "Anesthesia — 6 Oct Morning"
+ },
+ {
+  "systemSlug": "hematology-oncology",
+  "topicSlug": "bleeding-clotting-disorders",
+  "stem": "A 22-year-old woman has menorrhagia and easy bruising. aPTT is prolonged with a low factor VIII level, and normal von Willebrand factor antigen and ristocetin cofactor activity, with no inhibitors. Her brother and maternal uncle have severe haemophilia A, and her mother is a carrier. Karyotype is 46,XX. What is the most likely explanation?",
+  "options": [
+   "von Willebrand disease type 2N",
+   "Acquired haemophilia A due to an autoantibody",
+   "Normal carrier state with no expected symptoms",
+   "Turner syndrome (45,X)",
+   "Heterozygous carrier with skewed X-inactivation (lyonization) favouring the mutant X"
+  ],
+  "correctIndex": 4,
+  "explanation": "Haemophilia A is X-linked recessive; female carriers usually have about 50% factor VIII activity, but extreme skewed X-inactivation (lyonization) of the normal X chromosome in hepatic/endothelial cells can lower the level into the symptomatic range. Acquired haemophilia would show an inhibitor and no family history. (First Aid — Hematology and Oncology: Coagulation disorders; Genetics: X-inactivation)",
+  "optionExplanations": [
+   "Autosomal; reduced vWF–FVIII binding but the pedigree here is X-linked and vWF activity is normal.",
+   "Would show an inhibitor on mixing studies and no family history.",
+   "Carriers usually have FVIII around 50% and are asymptomatic, but the very low level here implies skewed lyonization.",
+   "Karyotype is 46,XX.",
+   ""
+  ],
+  "source": "October 2026 Recalls — Anesthesia — 6 Oct Morning",
+  "recallSet": "october-2026",
+  "recallPaper": "Anesthesia — 6 Oct Morning"
+ },
+ {
+  "systemSlug": "hematology-oncology",
+  "topicSlug": "anemia",
+  "stem": "A 45-year-old woman with macrocytic anaemia has raised serum homocysteine and normal methylmalonic acid (MMA) levels. What is the most likely deficiency?",
+  "options": [
+   "Vitamin C",
+   "Folate",
+   "Vitamin B12",
+   "Iron",
+   "Vitamin B6"
+  ],
+  "correctIndex": 1,
+  "explanation": "Folate is needed for converting homocysteine to methionine (with B12), so folate deficiency raises homocysteine only. B12 deficiency also impairs conversion of methylmalonyl-CoA to succinyl-CoA and raises MMA, which separates the two. (First Aid — Hematology and Oncology: Megaloblastic anaemias)",
+  "optionExplanations": [
+   "Causes scurvy with impaired collagen synthesis, not macrocytic anaemia.",
+   "",
+   "B12 deficiency raises both homocysteine and methylmalonic acid.",
+   "Gives a microcytic anaemia with normal homocysteine and MMA.",
+   "Causes sideroblastic anaemia and is not marked by this biochemical pattern."
+  ],
+  "source": "October 2026 Recalls — Anesthesia — 6 Oct Morning",
+  "recallSet": "october-2026",
+  "recallPaper": "Anesthesia — 6 Oct Morning"
+ },
+ {
+  "systemSlug": "gastrointestinal",
+  "topicSlug": "gi-physiology",
+  "stem": "A man consumes a meal of sugarcane juice (sucrose) and milk (lactose). Which monosaccharides appear in his portal blood after digestion and absorption?",
+  "options": [
+   "Glucose only",
+   "Glucose and galactose only",
+   "Glucose and fructose only",
+   "Fructose and galactose only",
+   "Glucose, fructose and galactose"
+  ],
+  "correctIndex": 4,
+  "explanation": "Brush-border sucrase hydrolyses sucrose into glucose and fructose, and lactase hydrolyses lactose into glucose and galactose; glucose and galactose are absorbed by SGLT-1 and fructose by GLUT-5. (First Aid — Gastrointestinal: Carbohydrate digestion and absorption)",
+  "optionExplanations": [
+   "Sucrose and lactose also yield fructose and galactose respectively.",
+   "Does not account for fructose from sucrose.",
+   "Does not account for galactose from lactose.",
+   "Glucose is released from both disaccharides.",
+   ""
+  ],
+  "source": "October 2026 Recalls — Anesthesia — 6 Oct Morning",
+  "recallSet": "october-2026",
+  "recallPaper": "Anesthesia — 6 Oct Morning"
+ },
+ {
+  "systemSlug": "nervous-system",
+  "topicSlug": "neuroanatomy-embryology",
+  "stem": "A patient with their eyes closed cannot identify a key placed in the hand, though simple touch and pain sensation are intact. Which pathway is affected?",
+  "options": [
+   "Dorsal column–medial lemniscus pathway",
+   "Lateral spinothalamic tract",
+   "Lateral corticospinal tract",
+   "Anterior spinothalamic tract",
+   "Dorsal spinocerebellar tract"
+  ],
+  "correctIndex": 0,
+  "explanation": "Astereognosis (inability to recognise objects by touch) is due to the loss of fine discriminative touch, vibration and conscious proprioception, carried in the dorsal column–medial lemniscus pathway, or to a parietal cortical lesion. (First Aid — Neurology: Spinal cord tracts and lesions)",
+  "optionExplanations": [
+   "",
+   "Carries pain and temperature.",
+   "Is the motor pathway for voluntary movement.",
+   "Carries crude touch and pressure, which are intact.",
+   "Carries unconscious proprioception to the cerebellum."
+  ],
+  "source": "October 2026 Recalls — Anesthesia — 6 Oct Morning",
+  "recallSet": "october-2026",
+  "recallPaper": "Anesthesia — 6 Oct Morning"
+ },
+ {
+  "systemSlug": "nervous-system",
+  "topicSlug": "neuroanatomy-embryology",
+  "stem": "A patient has an absent gag reflex on the right with loss of sensation over the right tonsil and posterior pharyngeal wall. The efferent limb of the reflex is intact. Which nerve is injured?",
+  "options": [
+   "Facial nerve (CN VII)",
+   "Glossopharyngeal nerve (CN IX)",
+   "Trigeminal nerve (CN V3)",
+   "Vagus nerve (CN X)",
+   "Hypoglossal nerve (CN XII)"
+  ],
+  "correctIndex": 1,
+  "explanation": "The afferent limb of the gag reflex is the glossopharyngeal nerve (sensation of the tonsil, pharynx and posterior third of the tongue), and the efferent limb is the vagus nerve (pharyngeal muscle contraction). (First Aid — Neurology: Cranial nerves)",
+  "optionExplanations": [
+   "Provides taste from the anterior two-thirds of the tongue and motor supply to facial muscles.",
+   "",
+   "Provides sensory supply to the anterior two-thirds of the tongue and mandibular teeth, not the tonsil.",
+   "Provides the efferent limb of the reflex, which is intact in this patient.",
+   "Is the motor nerve for the tongue."
+  ],
+  "source": "October 2026 Recalls — Anesthesia — 6 Oct Morning",
+  "recallSet": "october-2026",
+  "recallPaper": "Anesthesia — 6 Oct Morning"
+ },
+ {
+  "systemSlug": "cardiovascular",
+  "topicSlug": "cardiac-hemodynamics",
+  "stem": "A hypovolaemic patient receives an intravenous fluid bolus, which raises preload and increases stroke volume and cardiac output. Which physiological law explains this?",
+  "options": [
+   "Bernoulli's principle",
+   "Laplace's law",
+   "Fick's law of diffusion",
+   "Frank–Starling law",
+   "Poiseuille's law"
+  ],
+  "correctIndex": 3,
+  "explanation": "The Frank–Starling mechanism describes how increased end-diastolic volume (preload) stretches the sarcomeres towards optimal length and increases force of contraction and stroke volume, up to a plateau; beyond this, in failing hearts, output falls. (First Aid — Cardiovascular: Cardiac output, preload and Starling curves)",
+  "optionExplanations": [
+   "Relates fluid velocity to pressure along a streamline.",
+   "Relates wall tension to pressure and radius divided by wall thickness.",
+   "Describes gas diffusion across a membrane.",
+   "",
+   "Relates flow to the fourth power of vessel radius."
+  ],
+  "source": "October 2026 Recalls — Anesthesia — 6 Oct Morning",
+  "recallSet": "october-2026",
+  "recallPaper": "Anesthesia — 6 Oct Morning"
+ },
+ {
+  "systemSlug": "nervous-system",
+  "topicSlug": "stroke",
+  "stem": "A 62-year-old man has a sudden stroke with right-sided tongue deviation on protrusion, left arm and leg weakness and loss of vibration and proprioception on the left. Where is the lesion?",
+  "options": [
+   "Right medial medulla",
+   "Left internal capsule",
+   "Right midbrain (Weber syndrome)",
+   "Right lateral medulla",
+   "Right medial pons"
+  ],
+  "correctIndex": 0,
+  "explanation": "Medial medullary syndrome (anterior spinal artery or vertebral artery) affects the pyramid (contralateral hemiparesis), medial lemniscus (contralateral loss of vibration/proprioception) and hypoglossal nucleus or fibres (ipsilateral tongue deviation, towards the lesion). (First Aid — Neurology: Brainstem stroke syndromes)",
+  "optionExplanations": [
+   "",
+   "Causes hemiparesis with tongue deviation away from the lesion and no ipsilateral cranial nerve palsy.",
+   "Causes ipsilateral oculomotor palsy with contralateral hemiparesis.",
+   "Causes Wallenberg syndrome with crossed sensory loss and dysphagia, not tongue deviation or hemiparesis.",
+   "Causes contralateral hemiparesis with abducens and facial nerve involvement, but not tongue deviation."
+  ],
+  "source": "October 2026 Recalls — Anesthesia — 6 Oct Morning",
+  "recallSet": "october-2026",
+  "recallPaper": "Anesthesia — 6 Oct Morning"
+ },
+ {
+  "systemSlug": "nervous-system",
+  "topicSlug": "neurophysiology",
+  "stem": "A 4-month-old boy has seizures, hypotonia, hypothermia and sparse, brittle ‘kinky’ hair, and a low serum copper and ceruloplasmin. Which defect is responsible?",
+  "options": [
+   "ATP7A copper-transporting ATPase defect with impaired intestinal copper absorption (Menkes disease)",
+   "Defective collagen type V synthesis",
+   "Cystathionine beta-synthase deficiency",
+   "Fibrillin-1 mutation",
+   "ATP7B copper-transporting ATPase defect with impaired biliary copper excretion"
+  ],
+  "correctIndex": 0,
+  "explanation": "Menkes disease is an X-linked recessive disorder of the copper-transporting ATPase ATP7A, causing impaired intestinal absorption and low copper-dependent enzyme activity (lysyl oxidase, dopamine β-hydroxylase), leading to kinky hair, hypotonia, neurodegeneration and vascular abnormalities. (First Aid — Biochemistry: Metal metabolism; Gastrointestinal: Copper)",
+  "optionExplanations": [
+   "",
+   "Causes classic Ehlers-Danlos syndrome.",
+   "Causes homocystinuria with lens dislocation and thrombosis.",
+   "Causes Marfan syndrome.",
+   "Is Wilson disease (hepatolenticular degeneration), which causes copper accumulation."
+  ],
+  "source": "October 2026 Recalls — Anesthesia — 6 Oct Morning",
+  "recallSet": "october-2026",
+  "recallPaper": "Anesthesia — 6 Oct Morning"
+ },
+ {
+  "systemSlug": "microbiology",
+  "topicSlug": "virology",
+  "stem": "A 6-year-old child has fever and a rash of small vesicles on erythematous bases described as ‘dew drops on a rose petal’, with lesions at different stages of evolution. Which virus is responsible?",
+  "options": [
+   "Herpes simplex virus type 1",
+   "Varicella-zoster virus",
+   "Coxsackie A virus",
+   "Measles virus",
+   "Variola virus"
+  ],
+  "correctIndex": 1,
+  "explanation": "Primary VZV infection (chickenpox) produces a pruritic vesicular rash in crops, ‘dew drops on a rose petal’, with lesions at all stages (macules, vesicles, crusts). Reactivation causes dermatomal shingles. (First Aid — Microbiology: Herpesviruses)",
+  "optionExplanations": [
+   "Causes grouped, localised vesicles such as gingivostomatitis and cold sores.",
+   "",
+   "Causes hand-foot-and-mouth disease with vesicles on palms, soles and mouth.",
+   "Causes a maculopapular rash starting on the face with Koplik spots.",
+   "Smallpox lesions are all at the same stage and are eradicated."
+  ],
+  "source": "October 2026 Recalls — Anesthesia — 6 Oct Morning",
+  "recallSet": "october-2026",
+  "recallPaper": "Anesthesia — 6 Oct Morning"
+ },
+ {
+  "systemSlug": "cardiovascular",
+  "topicSlug": "ischemic-heart-disease",
+  "stem": "A 55-year-old man presents 6 hours after the onset of crushing chest pain. The initial ECG is non-diagnostic. Which is the most sensitive and specific biochemical marker for myocardial necrosis?",
+  "options": [
+   "CK-MB",
+   "Myoglobin",
+   "Lactate dehydrogenase",
+   "Cardiac troponin I",
+   "AST"
+  ],
+  "correctIndex": 3,
+  "explanation": "Cardiac troponins I and T are the preferred biomarkers of myocardial infarction: they rise at about 3–6 hours, peak at 24–48 hours, and troponin I stays elevated for 7–10 days. CK-MB is useful for detecting reinfarction. (First Aid — Cardiovascular: Myocardial infarction biomarkers)",
+  "optionExplanations": [
+   "Is less specific, rises and falls earlier, and is used in reinfarction detection.",
+   "Rises earliest but is non-specific because it is released from skeletal muscle.",
+   "Is a late, non-specific marker.",
+   "",
+   "Is non-specific and no longer used."
+  ],
+  "source": "October 2026 Recalls — Anesthesia — 6 Oct Morning",
+  "recallSet": "october-2026",
+  "recallPaper": "Anesthesia — 6 Oct Morning"
+ },
+ {
+  "systemSlug": "community-medicine-public-health",
+  "topicSlug": "health-systems-ethics",
+  "stem": "A 45-year-old woman with a resectable breast cancer is fully informed about the risks and benefits and refuses surgery. Her family insists that the surgeon should do 'what is best for her' and operate. Which ethical principle supports respecting her decision?",
+  "options": [
+   "Beneficence",
+   "Paternalism",
+   "Justice",
+   "Non-maleficence",
+   "Autonomy"
+  ],
+  "correctIndex": 4,
+  "explanation": "A competent, informed adult has the right to accept or refuse treatment (autonomy), even when it is judged beneficial, and the family cannot give or withhold consent on her behalf. Document the discussion and offer ongoing support and alternatives. (First Aid — Ethics and Jurisprudence: Autonomy and informed consent)",
+  "optionExplanations": [
+   "Obliges doing good, but does not override a competent patient's refusal.",
+   "Is overriding choices for the patient's own good, which is inappropriate for a competent adult.",
+   "Concerns fair distribution of resources, not a patient's right to refuse.",
+   "Obliges avoiding harm and does not mandate imposing treatment against her will.",
+   ""
+  ],
+  "source": "October 2026 Recalls — Anesthesia — 6 Oct Morning",
+  "recallSet": "october-2026",
+  "recallPaper": "Anesthesia — 6 Oct Morning"
+ },
+ {
+  "systemSlug": "community-medicine-public-health",
+  "topicSlug": "biostatistics",
+  "stem": "A new test is intended to detect disease at an early stage. Which property of the test refers to its ability to correctly identify those who have the disease?",
+  "options": [
+   "Negative predictive value",
+   "Positive predictive value",
+   "Sensitivity",
+   "Specificity",
+   "Accuracy"
+  ],
+  "correctIndex": 2,
+  "explanation": "Sensitivity = TP/(TP+FN) is the proportion of diseased people who test positive, so high-sensitivity tests have few false negatives and are suitable for screening and early detection. Specificity = TN/(TN+FP). (First Aid — Biostatistics and Epidemiology: Test characteristics)",
+  "optionExplanations": [
+   "Is the proportion of negatives who are truly disease-free.",
+   "Depends on prevalence and is the proportion of positives who are truly diseased.",
+   "",
+   "Is the ability to correctly identify those without disease.",
+   "Is the proportion of all tests that give a correct result."
+  ],
+  "source": "October 2026 Recalls — Anesthesia — 6 Oct Morning",
+  "recallSet": "october-2026",
+  "recallPaper": "Anesthesia — 6 Oct Morning"
+ },
+ {
+  "systemSlug": "renal",
+  "topicSlug": "renal-physiology-acid-base",
+  "stem": "In a patient with polyuria and dilute urine, the concentrating mechanism is impaired because urea cannot be reabsorbed in the segment where ADH normally increases urea permeability. Which segment is this?",
+  "options": [
+   "Proximal convoluted tubule",
+   "Inner medullary collecting duct",
+   "Distal convoluted tubule",
+   "Cortical collecting duct",
+   "Thick ascending limb"
+  ],
+  "correctIndex": 1,
+  "explanation": "ADH increases urea permeability (via UT-A1/A3 transporters) in the inner medullary collecting duct, so urea moves into the medullary interstitium and helps create the hypertonic gradient needed to concentrate urine. Failure of this system leads to dilute urine. (First Aid — Renal: Urea handling and countercurrent multiplication)",
+  "optionExplanations": [
+   "Reabsorbs about 50% of filtered urea passively, independent of ADH.",
+   "",
+   "Is impermeable to urea.",
+   "Has limited urea permeability, with ADH mostly increasing water permeability.",
+   "Is impermeable to urea and water and transports Na⁺, K⁺ and 2Cl⁻."
+  ],
+  "source": "October 2026 Recalls — Anesthesia — 6 Oct Morning",
+  "recallSet": "october-2026",
+  "recallPaper": "Anesthesia — 6 Oct Morning"
+ },
+ {
+  "systemSlug": "community-medicine-public-health",
+  "topicSlug": "biostatistics",
+  "stem": "A study of a COVID-19 vaccine records for each of 100,000 vaccinees whether or not a thrombotic event occurred (yes/no) and relates the proportion with events to the vaccine dose. What type of dose–response relationship is being described?",
+  "options": [
+   "Potency",
+   "Quantal dose–response (all-or-none response in a population)",
+   "Efficacy",
+   "Therapeutic index",
+   "Graded dose–response"
+  ],
+  "correctIndex": 1,
+  "explanation": "A quantal dose–response curve plots the percentage of a population showing an all-or-none response (event present or absent), and is used to define ED50, TD50 and LD50. Graded curves describe a continuous response in an individual or tissue. (First Aid — Pharmacology: Dose-response curves)",
+  "optionExplanations": [
+   "Describes the dose required to produce a given effect.",
+   "",
+   "Describes the maximal effect achievable with the drug.",
+   "Is the ratio of toxic dose to effective dose.",
+   "Describes the magnitude of response in an individual or tissue, e.g., blood pressure change."
+  ],
+  "source": "October 2026 Recalls — Anesthesia — 6 Oct Morning",
+  "recallSet": "october-2026",
+  "recallPaper": "Anesthesia — 6 Oct Morning"
+ },
+ {
+  "systemSlug": "musculoskeletal",
+  "topicSlug": "msk-physiology",
+  "stem": "A 6-month-old infant has hypoketotic hypoglycaemia during fasting, hypotonia, cardiomyopathy and a very low plasma carnitine level. Which defect is the likely cause?",
+  "options": [
+   "Deficiency of glucose-6-phosphatase",
+   "Defective carnitine uptake (primary carnitine transporter OCTN2 deficiency)",
+   "Deficiency of branched-chain alpha-ketoacid dehydrogenase",
+   "Deficiency of acid alpha-glucosidase",
+   "Deficiency of ornithine transcarbamylase"
+  ],
+  "correctIndex": 1,
+  "explanation": "Carnitine transports long-chain fatty acids into mitochondria for β-oxidation. Primary carnitine deficiency (OCTN2 / SLC22A5 mutation) causes accumulation of fatty acids, hypoketotic hypoglycaemia, cardiomyopathy and muscle weakness, and responds to carnitine supplementation. (First Aid — Biochemistry: Fatty acid metabolism)",
+  "optionExplanations": [
+   "Causes von Gierke disease with hepatomegaly, lactic acidosis and hyperuricaemia.",
+   "",
+   "Causes maple syrup urine disease.",
+   "Causes Pompe disease with cardiomegaly but with normal carnitine.",
+   "Causes hyperammonaemia and orotic aciduria."
+  ],
+  "source": "October 2026 Recalls — Anesthesia — 6 Oct Morning",
+  "recallSet": "october-2026",
+  "recallPaper": "Anesthesia — 6 Oct Morning"
+ },
+ {
+  "systemSlug": "cardiovascular",
+  "topicSlug": "ischemic-heart-disease",
+  "stem": "A 58-year-old man has ST-elevation myocardial infarction 3 hours after onset. He has no contraindications and the nearest PCI centre is more than 3 hours away. Which intervention gives the greatest mortality reduction?",
+  "options": [
+   "Intravenous magnesium sulfate",
+   "Intravenous lidocaine prophylaxis",
+   "Oral nifedipine",
+   "Intravenous morphine",
+   "Intravenous alteplase (thrombolysis)"
+  ],
+  "correctIndex": 4,
+  "explanation": "In STEMI, rapid reperfusion limits infarct size and reduces mortality: primary PCI within 90–120 minutes is preferred, but if it is unavailable, fibrinolysis (alteplase, tenecteplase) within 12 hours is indicated, given with aspirin, clopidogrel and heparin. (First Aid — Cardiovascular: Acute coronary syndromes, treatment)",
+  "optionExplanations": [
+   "Was not shown to reduce mortality in large trials.",
+   "Prophylactic antiarrhythmics increase mortality and are not recommended.",
+   "Short-acting dihydropyridines may increase mortality in acute MI.",
+   "Relieves pain but has no mortality benefit.",
+   ""
+  ],
+  "source": "October 2026 Recalls — Anesthesia — 6 Oct Morning",
+  "recallSet": "october-2026",
+  "recallPaper": "Anesthesia — 6 Oct Morning"
+ },
+ {
+  "systemSlug": "cardiovascular",
+  "topicSlug": "cardiac-electrophysiology-ecg",
+  "stem": "A patient on long-term diuretics has a serum potassium of 2.4 mmol/L. Which ECG finding is characteristic?",
+  "options": [
+   "U waves",
+   "Sine-wave pattern",
+   "Short QT interval",
+   "Peaked T waves",
+   "Osborn (J) waves"
+  ],
+  "correctIndex": 0,
+  "explanation": "Hypokalaemia causes ST depression, T wave flattening, prominent U waves and prolonged QT, with a predisposition to arrhythmias including torsades de pointes. (First Aid — Cardiovascular: ECG changes in electrolyte abnormalities)",
+  "optionExplanations": [
+   "",
+   "Is a pre-arrest rhythm of severe hyperkalaemia.",
+   "Is seen in hypercalcaemia.",
+   "Are characteristic of hyperkalaemia.",
+   "Are seen in hypothermia."
+  ],
+  "source": "October 2026 Recalls — Anesthesia — 6 Oct Morning",
+  "recallSet": "october-2026",
+  "recallPaper": "Anesthesia — 6 Oct Morning"
+ },
+ {
+  "systemSlug": "cardiovascular",
+  "topicSlug": "cardiac-pharmacology",
+  "stem": "A 72-year-old woman on digoxin and a loop diuretic develops nausea, visual disturbances and ventricular ectopics. Which electrolyte disturbance most commonly precipitates digoxin toxicity?",
+  "options": [
+   "Hypernatraemia",
+   "Hypokalaemia",
+   "Hypocalcaemia",
+   "Hypermagnesaemia",
+   "Hypophosphataemia"
+  ],
+  "correctIndex": 1,
+  "explanation": "Digoxin binds the potassium site of the Na⁺/K⁺-ATPase, so hypokalaemia increases its binding and toxicity. Other precipitants are renal failure, hypomagnesaemia and hypercalcaemia, and quinidine, verapamil and amiodarone interactions. (First Aid — Pharmacology: Cardiac glycosides)",
+  "optionExplanations": [
+   "Does not directly increase digoxin toxicity.",
+   "",
+   "Does not precipitate digoxin toxicity; hypercalcaemia does.",
+   "Does not predispose to digoxin toxicity; hypomagnesaemia does.",
+   "Is not a recognised precipitant of digoxin toxicity."
+  ],
+  "source": "October 2026 Recalls — Anesthesia — 6 Oct Morning",
+  "recallSet": "october-2026",
+  "recallPaper": "Anesthesia — 6 Oct Morning"
+ },
+ {
+  "systemSlug": "nervous-system",
+  "topicSlug": "neurophysiology",
+  "stem": "A mechanically ventilated patient with raised intracranial pressure after head injury has PaCO2 lowered from 40 to 30 mmHg by hyperventilation. What is the immediate effect on ICP, and why?",
+  "options": [
+   "ICP is unchanged because cerebral autoregulation maintains cerebral blood flow",
+   "ICP falls because CSF production is increased and drained",
+   "ICP falls because of reduced cerebral metabolic rate",
+   "ICP rises because cerebral vasodilatation increases cerebral blood flow",
+   "ICP falls because cerebral vasoconstriction reduces cerebral blood volume"
+  ],
+  "correctIndex": 4,
+  "explanation": "Cerebral blood flow changes by about 2–4% per mmHg change in PaCO2: hypocapnia causes cerebral vasoconstriction, lowering cerebral blood volume and ICP rapidly. It is used as short-term rescue for impending herniation, since prolonged hyperventilation risks ischaemia. (First Aid — Neurology: Cerebral blood flow regulation)",
+  "optionExplanations": [
+   "Cerebrovascular CO2 reactivity is a separate mechanism from pressure autoregulation, and remains intact in most patients.",
+   "CO2 changes do not enhance CSF absorption.",
+   "Hypocapnia does not directly reduce metabolic rate; barbiturates and hypothermia do.",
+   "This would be seen with hypercapnia, not hypocapnia.",
+   ""
+  ],
+  "source": "October 2026 Recalls — Anesthesia — 6 Oct Morning",
+  "recallSet": "october-2026",
+  "recallPaper": "Anesthesia — 6 Oct Morning"
+ },
+ {
+  "systemSlug": "nervous-system",
+  "topicSlug": "peripheral-nerve-neuromuscular",
+  "stem": "During spinal anaesthesia with the patient in right lateral decubitus, the patient screams of a sharp shooting pain down the right leg as the needle is advanced. What is the correct action?",
+  "options": [
+   "Stop advancing, withdraw the needle slightly and redirect it",
+   "Inject local anaesthetic to numb the nerve root",
+   "Convert to general anaesthesia immediately without any further attempt",
+   "Continue advancing until CSF appears",
+   "Advance 2 mm more to bypass the nerve"
+  ],
+  "correctIndex": 0,
+  "explanation": "A sharp radiating pain or paraesthesia means that the needle tip is touching a nerve root; the needle must be stopped and withdrawn slightly and redirected. Never inject during persistent paraesthesia or high-pressure injection, as the risk is neurological injury. (Standard anaesthesia teaching; First Aid — Neurology: Peripheral nerve injury)",
+  "optionExplanations": [
+   "",
+   "Intraneural injection can cause permanent nerve damage.",
+   "Is excessive; most paraesthesias resolve on withdrawal and redirection.",
+   "Risks direct nerve root injury.",
+   "Could directly traumatise the nerve or the cauda equina."
+  ],
+  "source": "October 2026 Recalls — Anesthesia — 6 Oct Morning",
+  "recallSet": "october-2026",
+  "recallPaper": "Anesthesia — 6 Oct Morning"
+ },
+ {
+  "systemSlug": "nervous-system",
+  "topicSlug": "neuroanatomy-embryology",
+  "stem": "A spinal needle is inserted too far from the midline at the L3–L4 interspace in a patient undergoing caesarean section. Which structure is most at risk of damage?",
+  "options": [
+   "Anterior longitudinal ligament",
+   "Ligamentum flavum",
+   "Supraspinous ligament",
+   "Spinal nerve root (dorsal root) exiting the lateral recess",
+   "Spinal cord"
+  ],
+  "correctIndex": 3,
+  "explanation": "If the needle is placed too far laterally, it bypasses the midline ligamentum flavum, entering the lateral epidural space and the intervertebral foramen, risking contact with the exiting spinal nerve roots and epidural veins. The cord is not at risk at L3–L4 in adults. (Standard anaesthesia teaching; First Aid — Neurology: Spinal cord and vertebral anatomy)",
+  "optionExplanations": [
+   "Lies anterior to the vertebral bodies and is reached only by passing through the dura and spinal canal.",
+   "Is best crossed in the midline; a lateral approach tends to miss rather than damage it.",
+   "Is a midline structure that the needle would normally cross, not the structure at risk.",
+   "",
+   "Ends at L1–L2 in adults, well above L3–L4."
+  ],
+  "source": "October 2026 Recalls — Anesthesia — 6 Oct Morning",
+  "recallSet": "october-2026",
+  "recallPaper": "Anesthesia — 6 Oct Morning"
+ },
+ {
+  "systemSlug": "nervous-system",
+  "topicSlug": "neuroanatomy-embryology",
+  "stem": "A man is scheduled for unilateral orchidectomy under spinal anaesthesia. What is the minimum sensory block level needed?",
+  "options": [
+   "T6",
+   "S2",
+   "T4",
+   "T10",
+   "L1"
+  ],
+  "correctIndex": 3,
+  "explanation": "The testis develops near the T10 spinal segment, so its sensory innervation (via the testicular plexus and spermatic cord) travels with sympathetic fibres to T10. A T10 sensory level is needed for orchidectomy, T4 for caesarean section and T6 for upper abdominal surgery. (Standard anaesthesia teaching; First Aid — Reproductive: Embryology and innervation of testis)",
+  "optionExplanations": [
+   "Is required for visceral manipulation in upper abdominal surgery.",
+   "Is a sacral level only, adequate for perineal surgery.",
+   "Is required for caesarean section and upper abdominal surgery.",
+   "",
+   "Is sufficient for lower limb procedures but not testis and spermatic cord traction."
+  ],
+  "source": "October 2026 Recalls — Anesthesia — 6 Oct Morning",
+  "recallSet": "october-2026",
+  "recallPaper": "Anesthesia — 6 Oct Morning"
+ },
+ {
+  "systemSlug": "nervous-system",
+  "topicSlug": "neuroanatomy-embryology",
+  "stem": "An adult with severe scoliosis is planned for spinal anaesthesia. Only the L1 spinous process can be palpated, and the lower lumbar spaces cannot be identified. Why should the spinal anaesthetic be abandoned?",
+  "options": [
+   "CSF is absent above L2",
+   "The dural sac ends at L1 in adults",
+   "The epidural space ends at L1",
+   "The spinal cord ends at about L1–L2, so a needle at L1 risks direct cord (conus medullaris) injury",
+   "The cauda equina starts at S2"
+  ],
+  "correctIndex": 3,
+  "explanation": "In adults the spinal cord (conus medullaris) ends at the L1–L2 level (L3 in neonates); spinal anaesthesia should be performed at L3–L4 or below to avoid cord injury. If these spaces cannot be identified, an alternative technique such as general anaesthesia or ultrasound guidance is preferred. (Standard anaesthesia teaching; First Aid — Neurology: Spinal cord anatomy)",
+  "optionExplanations": [
+   "CSF extends up to the cranium.",
+   "The dural sac ends at S2.",
+   "The epidural space continues to the sacral hiatus.",
+   "",
+   "The cauda equina starts below the conus, around L1–L2."
+  ],
+  "source": "October 2026 Recalls — Anesthesia — 6 Oct Morning",
+  "recallSet": "october-2026",
+  "recallPaper": "Anesthesia — 6 Oct Morning"
+ },
+ {
+  "systemSlug": "nervous-system",
+  "topicSlug": "neurophysiology",
+  "stem": "Which of the following is an inhibitory neurotransmitter in the dorsal horn pain-modulating pathway?",
+  "options": [
+   "Glutamate",
+   "Bradykinin",
+   "Substance P",
+   "Gamma-aminobutyric acid (GABA)",
+   "Calcitonin gene-related peptide"
+  ],
+  "correctIndex": 3,
+  "explanation": "In the dorsal horn, glutamate and substance P transmit nociceptive signals, whereas GABA and glycine, released by inhibitory interneurons (along with endogenous opioids and descending serotonin/noradrenaline), mediate inhibition in the gate-control pain modulation. (First Aid — Neurology: Pain pathways)",
+  "optionExplanations": [
+   "Is the main excitatory transmitter of primary afferents.",
+   "Is an inflammatory mediator that activates nociceptors.",
+   "Is an excitatory neuropeptide released by C fibres.",
+   "",
+   "Is a pro-nociceptive peptide that causes vasodilatation and sensitisation."
+  ],
+  "source": "October 2026 Recalls — Anesthesia — 6 Oct Morning",
+  "recallSet": "october-2026",
+  "recallPaper": "Anesthesia — 6 Oct Morning"
+ },
+ {
+  "systemSlug": "nervous-system",
+  "topicSlug": "neuroanatomy-embryology",
+  "stem": "The substantia gelatinosa of the spinal cord dorsal horn corresponds to which Rexed lamina?",
+  "options": [
+   "Lamina I",
+   "Lamina V",
+   "Lamina II",
+   "Lamina III–IV",
+   "Lamina X"
+  ],
+  "correctIndex": 2,
+  "explanation": "Rexed lamina II is the substantia gelatinosa, a region rich in interneurons that modulate pain by receiving input from Aδ and C fibres, and key to the gate-control theory. Lamina I is the marginal zone, III–IV the nucleus proprius. (First Aid — Neurology: Spinal cord laminae)",
+  "optionExplanations": [
+   "Is the marginal zone.",
+   "Receives convergent visceral and somatic input.",
+   "",
+   "Is the nucleus proprius.",
+   "Surrounds the central canal."
+  ],
+  "source": "October 2026 Recalls — Anesthesia — 6 Oct Morning",
+  "recallSet": "october-2026",
+  "recallPaper": "Anesthesia — 6 Oct Morning"
+ },
+ {
+  "systemSlug": "cardiovascular",
+  "topicSlug": "cardiac-hemodynamics",
+  "stem": "A patient has a blood pressure of 120/60 mmHg. What is the mean arterial pressure?",
+  "options": [
+   "60 mmHg",
+   "100 mmHg",
+   "73 mmHg",
+   "90 mmHg",
+   "80 mmHg"
+  ],
+  "correctIndex": 4,
+  "explanation": "MAP = diastolic pressure + one-third of pulse pressure = 60 + (60 ÷ 3) = 80 mmHg, since diastole takes about two-thirds of the cardiac cycle. (First Aid — Cardiovascular: Hemodynamics)",
+  "optionExplanations": [
+   "Is the diastolic pressure, not the MAP.",
+   "Is too high; this would be correct only if diastolic were about 80.",
+   "Is too low; it would correspond to a pulse pressure of about 20.",
+   "Results from averaging systolic and diastolic pressures, which is inaccurate because diastole occupies about two-thirds of the cardiac cycle.",
+   ""
+  ],
+  "source": "October 2026 Recalls — Anesthesia — 6 Oct Morning",
+  "recallSet": "october-2026",
+  "recallPaper": "Anesthesia — 6 Oct Morning"
+ },
+ {
+  "systemSlug": "nervous-system",
+  "topicSlug": "neuroanatomy-embryology",
+  "stem": "A patient has a lesion confined to the primary olfactory cortex (periamygdaloid and entorhinal cortex). Which deficit is most expected?",
+  "options": [
+   "Receptive aphasia",
+   "Hemisensory loss",
+   "Loss of taste on the anterior two-thirds of the tongue",
+   "Homonymous hemianopia",
+   "Loss of smell (anosmia)"
+  ],
+  "correctIndex": 4,
+  "explanation": "The primary olfactory cortex includes the piriform, periamygdaloid and entorhinal cortices. Olfaction is the only sense that bypasses the thalamus before reaching the cortex, and its lesions result in impaired smell perception. (First Aid — Neurology: Olfactory pathway; Limbic system)",
+  "optionExplanations": [
+   "Is due to a lesion of the dominant temporal lobe (Wernicke area).",
+   "Is due to thalamic or parietal damage.",
+   "Is carried by the chorda tympani from the facial nerve.",
+   "Is a visual pathway lesion.",
+   ""
+  ],
+  "source": "October 2026 Recalls — Anesthesia — 6 Oct Morning",
+  "recallSet": "october-2026",
+  "recallPaper": "Anesthesia — 6 Oct Morning"
+ },
+ {
+  "systemSlug": "respiratory",
+  "topicSlug": "respiratory-physiology",
+  "stem": "In zone 1 of the lung (apex, in the upright position), which pressure relationship exists in a patient with hypovolaemia or positive pressure ventilation?",
+  "options": [
+   "Arterial pressure > venous pressure > alveolar pressure",
+   "Alveolar pressure > arterial pressure > venous pressure",
+   "Venous pressure > arterial pressure > alveolar pressure",
+   "Arterial pressure > alveolar pressure > venous pressure",
+   "Alveolar pressure = venous pressure > arterial pressure"
+  ],
+  "correctIndex": 1,
+  "explanation": "In West's zone 1, alveolar pressure exceeds pulmonary arterial pressure, so capillaries collapse and there is ventilation without perfusion (alveolar dead space). It does not occur in healthy lungs but occurs with hypovolaemia or positive pressure ventilation. (First Aid — Respiratory: Pulmonary blood flow, West zones)",
+  "optionExplanations": [
+   "Describes zone 3, where flow is continuous.",
+   "",
+   "Is not a physiological arrangement in the lung.",
+   "Describes zone 2 conditions.",
+   "Is not a recognised West zone pattern."
+  ],
+  "source": "October 2026 Recalls — Anesthesia — 6 Oct Morning",
+  "recallSet": "october-2026",
+  "recallPaper": "Anesthesia — 6 Oct Morning"
+ },
+ {
+  "systemSlug": "cardiovascular",
+  "topicSlug": "cardiac-hemodynamics",
+  "stem": "A 120-kg obese patient has blood pressure measured by a non-invasive cuff that is too small for the upper arm. What is the effect on the reading?",
+  "options": [
+   "Falsely high (overestimates both systolic and diastolic pressure)",
+   "No change, as the oscillometric method is independent of cuff size",
+   "Falsely low pressure",
+   "Falsely low diastolic only",
+   "Falsely high systolic only"
+  ],
+  "correctIndex": 0,
+  "explanation": "A cuff that is too narrow or short requires higher inflation pressure to compress the artery, resulting in overestimation of systolic and diastolic pressures. The bladder width should be about 40% and length about 80% of the arm circumference. (Standard clinical measurement teaching; First Aid — Cardiovascular: Blood pressure measurement)",
+  "optionExplanations": [
+   "",
+   "Cuff size is one of the commonest causes of inaccuracy.",
+   "Is the error produced by a cuff that is too large.",
+   "This is not the expected pattern.",
+   "Both systolic and diastolic are overestimated."
+  ],
+  "source": "October 2026 Recalls — Anesthesia — 6 Oct Morning",
+  "recallSet": "october-2026",
+  "recallPaper": "Anesthesia — 6 Oct Morning"
+ }
+]

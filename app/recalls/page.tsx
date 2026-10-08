@@ -4,17 +4,30 @@ import { GraduationCap } from "lucide-react";
 import { getCurrentUser } from "@/lib/auth";
 import { prisma } from "@/lib/prisma";
 import { RecallTopicPicker } from "@/components/recall-topic-picker";
+import { RECALL_SETS, resolveRecallSet } from "@/lib/recalls";
 
-export default async function RecallsPage() {
+export default async function RecallsPage({ searchParams }: { searchParams: { set?: string; paper?: string } }) {
   const user = await getCurrentUser();
   if (!user) redirect("/login");
+
+  const activeSet = resolveRecallSet(searchParams.set) ?? RECALL_SETS[0];
+  const paperRows = await prisma.question.groupBy({
+    by: ["recallPaper"],
+    where: { isRecall: true, recallSet: activeSet.value, recallPaper: { not: null } },
+    _count: { _all: true },
+    orderBy: { recallPaper: "asc" },
+  });
+  const activePaper = paperRows.find((r) => r.recallPaper === searchParams.paper)?.recallPaper ?? null;
+  const setCounts = await Promise.all(
+    RECALL_SETS.map((s) => prisma.question.count({ where: { isRecall: true, recallSet: s.value } })),
+  );
 
   const systems = await prisma.system.findMany({
     orderBy: { order: "asc" },
     include: {
       topics: {
         orderBy: { order: "asc" },
-        include: { _count: { select: { questions: { where: { isRecall: true } } } } },
+        include: { _count: { select: { questions: { where: { isRecall: true, recallSet: activeSet.value, ...(activePaper ? { recallPaper: activePaper } : {}) } } } } },
       },
     },
   });
@@ -45,11 +58,55 @@ export default async function RecallsPage() {
         explanations), then start.
       </p>
 
+      <div className="mt-5 flex flex-wrap gap-2">
+        {RECALL_SETS.map((s, i) => {
+          const active = s.slug === activeSet.slug;
+          return (
+            <Link
+              key={s.slug}
+              href={`/recalls?set=${s.slug}`}
+              className={`rounded-xl border px-4 py-2 text-sm font-semibold transition ${
+                active
+                  ? "border-brand-600 bg-brand-600 text-white shadow-sm"
+                  : "border-slate-200 bg-white text-slate-600 hover:bg-slate-50"
+              }`}
+            >
+              {s.label}
+              <span className={`ml-2 text-[11px] ${active ? "text-white/80" : "text-slate-400"}`}>{setCounts[i]}</span>
+            </Link>
+          );
+        })}
+      </div>
+
+      {paperRows.length > 0 && (
+        <div className="mt-3 flex flex-wrap items-center gap-2">
+          <span className="text-[12px] font-semibold uppercase tracking-wide text-slate-400">Paper</span>
+          {[{ recallPaper: null as string | null, _count: { _all: setCounts[RECALL_SETS.indexOf(activeSet)] } }, ...paperRows].map((r) => {
+            const active = r.recallPaper === activePaper;
+            const href = r.recallPaper
+              ? `/recalls?set=${activeSet.slug}&paper=${encodeURIComponent(r.recallPaper)}`
+              : `/recalls?set=${activeSet.slug}`;
+            return (
+              <Link
+                key={r.recallPaper ?? "all"}
+                href={href}
+                className={`rounded-lg border px-3 py-1.5 text-[13px] font-medium transition ${
+                  active ? "border-gold-500 bg-gold-50 text-gold-700" : "border-slate-200 bg-white text-slate-600 hover:bg-slate-50"
+                }`}
+              >
+                {r.recallPaper ?? "All papers"}
+                <span className="ml-1.5 text-[11px] text-slate-400">{r._count._all}</span>
+              </Link>
+            );
+          })}
+        </div>
+      )}
+
       {pickerData.length === 0 ? (
         <div className="mt-8 rounded-2xl border border-dashed border-slate-300 bg-white p-10 text-center">
           <GraduationCap size={22} className="mx-auto text-slate-300" />
           <p className="mt-2 text-sm text-slate-500">
-            No recall content has been added yet &mdash; check back soon.
+            No questions have been added to {activeSet.label} yet &mdash; check back soon.
           </p>
           <Link
             href="/mocks"
@@ -61,7 +118,7 @@ export default async function RecallsPage() {
       ) : (
         <>
           <p className="mt-4 text-[12px] font-semibold text-slate-400">{totalRecalls} recalled questions available</p>
-          <RecallTopicPicker systems={pickerData} />
+          <RecallTopicPicker systems={pickerData} recallSet={activeSet.slug} recallPaper={activePaper} />
         </>
       )}
     </div>

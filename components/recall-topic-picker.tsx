@@ -9,7 +9,7 @@ import type { QuestionForExam } from "@/lib/exam";
 type Topic = { id: string; name: string; questionCount: number };
 type System = { id: string; name: string; topics: Topic[] };
 
-export function RecallTopicPicker({ systems }: { systems: System[] }) {
+export function RecallTopicPicker({ systems, recallSet, recallPaper }: { systems: System[]; recallSet: string; recallPaper: string | null }) {
   const [mode, setMode] = useState<"MOCK" | "PRACTICE">("MOCK");
   const [selected, setSelected] = useState<Set<string>>(new Set());
   const [expanded, setExpanded] = useState<Set<string>>(new Set(systems.slice(0, 1).map((s) => s.id)));
@@ -71,7 +71,7 @@ export function RecallTopicPicker({ systems }: { systems: System[] }) {
     const res = await fetch("/api/exam/start", {
       method: "POST",
       headers: { "Content-Type": "application/json" },
-      body: JSON.stringify({ examType: "CUSTOM", topicIds: Array.from(selected), recallOnly: true, mode }),
+      body: JSON.stringify({ examType: "CUSTOM", topicIds: Array.from(selected), recallOnly: true, recallSet, recallPaper, mode }),
     });
     const data = await res.json().catch(() => ({}));
     if (!res.ok) {

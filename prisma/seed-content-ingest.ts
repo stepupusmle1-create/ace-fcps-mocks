@@ -13,6 +13,10 @@ type IngestQuestion = {
   explanation: string;
   optionExplanations?: string[];
   source?: string;
+  explanationImages?: string[];
+  imageAttribution?: string;
+  recallSet?: string;
+  recallPaper?: string;
 };
 
 function shuffleOptions(q: IngestQuestion): { options: string[]; correctIndex: number; optionExplanations?: string[] } {
@@ -34,7 +38,8 @@ async function main() {
     console.log("No recall-data directory found, nothing to ingest.");
     return;
   }
-  const files = fs.readdirSync(dataDir).filter((f) => f.endsWith(".json"));
+  const prefix = process.env.INGEST_PREFIX;
+  const files = fs.readdirSync(dataDir).filter((f) => f.endsWith(".json") && (!prefix || f.startsWith(prefix)));
   if (files.length === 0) {
     console.log("No JSON files found in recall-data, nothing to ingest.");
     return;
@@ -58,19 +63,23 @@ async function main() {
       }
 
       const { options, correctIndex, optionExplanations } = shuffleOptions(q);
+      const explanation = q.imageAttribution ? `${q.explanation} ${q.imageAttribution}` : q.explanation;
       const data = {
         topicId: topic.id,
         stem: q.stem,
         optionsJson: JSON.stringify(options),
         correctIndex,
-        explanation: q.explanation,
+        explanation,
         optionExplanationsJson: optionExplanations ? JSON.stringify(optionExplanations) : null,
         reference: q.source ?? null,
+        explanationImagesJson: q.explanationImages && q.explanationImages.length > 0 ? JSON.stringify(q.explanationImages) : null,
         isRecall: true,
+        recallSet: q.recallSet ?? null,
+        recallPaper: q.recallPaper ?? null,
       };
 
       const existing = await prisma.question.findFirst({
-        where: { topicId: topic.id, stem: q.stem, isRecall: true },
+        where: { topicId: topic.id, stem: q.stem, isRecall: true, recallSet: q.recallSet ?? null },
       });
       if (existing) {
         await prisma.question.update({ where: { id: existing.id }, data });

@@ -52,6 +52,8 @@ model Question {
   reference                String?
   explanationImagesJson    String?
   isRecall                 Boolean         @default(false)
+  recallSet                String?
+  recallPaper              String?
   createdAt                DateTime        @default(now())
   attemptAnswers           AttemptAnswer[]
 

@@ -8,6 +8,7 @@ import {
   shuffle,
   timeLimitSecFor,
 } from "@/lib/exam";
+import { resolveRecallSet } from "@/lib/recalls";
 
 type PoolQuestion = {
   id: string;
@@ -53,7 +54,7 @@ export async function POST(req: NextRequest) {
   let systemName: string | null = null;
   let topicId: string | null = null;
   let topicName: string | null = null;
-  let where: { topicId?: { in: string[] } | string; topic?: { systemId: string }; isRecall?: boolean } = {};
+  let where: { topicId?: { in: string[] } | string; topic?: { systemId: string }; isRecall?: boolean; recallSet?: string | null; recallPaper?: string } = {};
   let targetCount = GRAND_MOCK_QUESTION_COUNT;
   let storedExamType: string = examType;
 
@@ -94,6 +95,9 @@ export async function POST(req: NextRequest) {
 
   if (recallOnly) {
     where = { ...where, isRecall: true };
+    const recallSet = resolveRecallSet(body?.recallSet);
+    if (recallSet) where = { ...where, recallSet: recallSet.value };
+    if (typeof body?.recallPaper === "string" && body.recallPaper) where = { ...where, recallPaper: body.recallPaper };
   }
 
   // Only pull ids over the wire to pick the sample — the full rows (stem, options,
