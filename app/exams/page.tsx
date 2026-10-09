@@ -67,7 +67,7 @@ export default async function ExamsPage() {
   if (user) redirect(user.isAdmin ? "/admin" : "/dashboard");
 
   const [totalQuestions, systemCount] = await Promise.all([
-    prisma.question.count(),
+    prisma.question.count({ where: { OR: [{ recallSet: null }, { recallSet: { not: "october-2026-retired" } }] } }),
     prisma.system.count(),
   ]);
 
