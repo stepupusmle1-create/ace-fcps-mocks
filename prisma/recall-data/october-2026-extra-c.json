@@ -1,0 +1,2330 @@
+[
+ {
+  "systemSlug": "reproductive-health",
+  "topicSlug": "pregnancy-antenatal-care",
+  "stem": "A 24-year-old woman with classic phenylketonuria stopped her phenylalanine-restricted diet in adolescence and now plans a pregnancy. If her phenylalanine levels remain high during the pregnancy, which outcome is the fetus most at risk of?",
+  "options": [
+   "Classic phenylketonuria in the infant, because the fetus inherits both mutant alleles",
+   "Microcephaly, intellectual disability and congenital heart defects",
+   "Neural tube defects, which are prevented by high-dose folic acid",
+   "Macrosomia with neonatal hypoglycaemia",
+   "Fetal hypothyroidism with goitre"
+  ],
+  "correctIndex": 1,
+  "explanation": "Phenylalanine crosses the placenta and is teratogenic when maternal levels are high, causing microcephaly, intellectual disability, growth restriction and congenital heart disease in a genetically unaffected fetus. Strict dietary control must be re-established before conception. (First Aid — Biochemistry: Metabolism: Phenylketonuria)",
+  "optionExplanations": [
+   "The fetus inherits one mutant allele from her and is an obligate carrier; it is affected only if the father is also a carrier, and the harm here is from maternal phenylalanine, not fetal genotype.",
+   "",
+   "Neural tube defects are not the characteristic teratogenic effect of high maternal phenylalanine.",
+   "This is the pattern of poorly controlled maternal diabetes, not maternal PKU.",
+   "Not a feature of maternal PKU; high phenylalanine acts directly as a teratogen on the developing brain and heart."
+  ],
+  "source": "October 2026 Recalls — Gynae — 8 Oct Morning",
+  "recallSet": "october-2026",
+  "recallPaper": "Gynae — 8 Oct Morning"
+ },
+ {
+  "systemSlug": "psychiatry",
+  "topicSlug": "child-developmental-psychiatry",
+  "stem": "A 5-month-old infant diagnosed with classic phenylketonuria is started on a phenylalanine-restricted formula. Which amino acid becomes conditionally essential and must be supplemented in this infant?",
+  "options": [
+   "Tryptophan",
+   "Cysteine",
+   "Methionine",
+   "Leucine",
+   "Tyrosine"
+  ],
+  "correctIndex": 4,
+  "explanation": "Phenylalanine hydroxylase converts phenylalanine to tyrosine (BH4 as cofactor). When this block exists, tyrosine cannot be made and must be supplied in the diet while phenylalanine is restricted. (First Aid — Biochemistry: Metabolism: Phenylketonuria)",
+  "optionExplanations": [
+   "Tryptophan is an essential amino acid in everyone; its metabolism is unaffected by the phenylalanine hydroxylase block.",
+   "Cysteine becomes conditionally essential in homocystinuria (cystathionine synthase deficiency), not in PKU.",
+   "Methionine is essential for all and is not the product lacking in PKU.",
+   "Restricting branched-chain amino acids is the diet for maple syrup urine disease, not PKU.",
+   ""
+  ],
+  "source": "October 2026 Recalls — Gynae — 8 Oct Morning",
+  "recallSet": "october-2026",
+  "recallPaper": "Gynae — 8 Oct Morning"
+ },
+ {
+  "systemSlug": "microbiology",
+  "topicSlug": "virology",
+  "stem": "An 11-year-old boy has fever, exudative pharyngitis, posterior cervical lymphadenopathy and a spleen palpable 3 cm below the costal margin. The Monospot test is positive. Which cell type predominates among the atypical lymphocytes seen on his blood film?",
+  "options": [
+   "EBV-infected B cells transformed by the virus",
+   "CD4+ helper T cells, as in HIV infection",
+   "CD8+ T cells reacting to EBV-infected B cells",
+   "Natural killer cells of the innate immune system",
+   "Plasma cells producing the heterophile antibody"
+  ],
+  "correctIndex": 2,
+  "explanation": "Infectious mononucleosis is caused by EBV infecting B cells; the large atypical (Downey) lymphocytes are reactive CD8+ T cells. Heterophile (Monospot) antibodies are IgM that agglutinate sheep or horse red cells. (First Aid — Microbiology: Virology: Epstein-Barr virus)",
+  "optionExplanations": [
+   "EBV infects B cells, but the atypical lymphocytes on the film are the reactive T cells, not the infected B cells.",
+   "CD4+ T cells fall in HIV; the atypical cells of EBV are mostly CD8+.",
+   "",
+   "NK cells contribute to early control but are not the characteristic atypical lymphocyte.",
+   "Plasma cells producing the heterophile antibody are not the atypical lymphocytes of infectious mononucleosis."
+  ],
+  "source": "October 2026 Recalls — Gynae — 8 Oct Morning",
+  "recallSet": "october-2026",
+  "recallPaper": "Gynae — 8 Oct Morning"
+ },
+ {
+  "systemSlug": "microbiology",
+  "topicSlug": "virology",
+  "stem": "Epstein-Barr virus preferentially infects B lymphocytes and oropharyngeal epithelial cells. Through which surface receptor does it enter B cells?",
+  "options": [
+   "CD21 (complement receptor 2)",
+   "CD4",
+   "CD3",
+   "CD40",
+   "CD19"
+  ],
+  "correctIndex": 0,
+  "explanation": "EBV gp350 binds CD21 (CR2) on B cells, driving latent infection and polyclonal B-cell activation. This also explains B-cell lymphomas (Burkitt, post-transplant) linked to EBV. (First Aid — Microbiology: Virology: Epstein-Barr virus)",
+  "optionExplanations": [
+   "",
+   "CD4 is the principal receptor for HIV on helper T cells.",
+   "CD3 is part of the T-cell receptor complex and is not a viral receptor for EBV.",
+   "CD40 is the B-cell costimulatory receptor for CD40L on helper T cells.",
+   "CD19 is a B-cell coreceptor for signalling but is not the EBV entry receptor."
+  ],
+  "source": "October 2026 Recalls — Gynae — 8 Oct Morning",
+  "recallSet": "october-2026",
+  "recallPaper": "Gynae — 8 Oct Morning"
+ },
+ {
+  "systemSlug": "nervous-system",
+  "topicSlug": "neuropharmacology",
+  "stem": "Which vitamin is the cofactor (as pyridoxal phosphate) for the decarboxylation steps that convert L-DOPA to dopamine and glutamate to GABA?",
+  "options": [
+   "Thiamine (vitamin B1)",
+   "Riboflavin (vitamin B2)",
+   "Biotin (vitamin B7)",
+   "Pyridoxine (vitamin B6)",
+   "Cobalamin (vitamin B12)"
+  ],
+  "correctIndex": 3,
+  "explanation": "Pyridoxal phosphate is required for DOPA decarboxylase and glutamate decarboxylase (also transamination, heme synthesis and cystathionine synthase). Deficiency or isoniazid therapy reduces dopamine and GABA synthesis. (First Aid — Biochemistry: Nutrition: Vitamin B6)",
+  "optionExplanations": [
+   "Thiamine is the cofactor for pyruvate dehydrogenase, alpha-ketoglutarate dehydrogenase and transketolase.",
+   "Riboflavin forms FAD and FMN used in redox reactions.",
+   "Biotin is the cofactor for carboxylation reactions such as pyruvate carboxylase.",
+   "",
+   "B12 is needed for methylmalonyl-CoA mutase and methionine synthase, not amino-acid decarboxylation."
+  ],
+  "source": "October 2026 Recalls — Gynae — 8 Oct Morning",
+  "recallSet": "october-2026",
+  "recallPaper": "Gynae — 8 Oct Morning"
+ },
+ {
+  "systemSlug": "nervous-system",
+  "topicSlug": "neuropharmacology",
+  "stem": "A young woman is brought in with generalised seizures after an intentional overdose of isoniazid. The seizures are refractory to benzodiazepines and resolve after intravenous pyridoxine. Reduced synthesis of which neurotransmitter explains the seizures?",
+  "options": [
+   "Dopamine",
+   "Gamma-aminobutyric acid (GABA)",
+   "Glutamate",
+   "Acetylcholine",
+   "Glycine"
+  ],
+  "correctIndex": 1,
+  "explanation": "Isoniazid forms a hydrazone with pyridoxal and inhibits pyridoxal kinase, so pyridoxal phosphate falls and glutamate decarboxylase makes less GABA. The resulting loss of inhibition causes seizures that respond to high-dose pyridoxine. (First Aid — Pharmacology: Antimicrobials: Isoniazid)",
+  "optionExplanations": [
+   "Pyridoxal phosphate is also needed for dopamine synthesis, but loss of inhibitory tone (GABA) is what produces seizures.",
+   "",
+   "Glutamate is the substrate that is converted to GABA; it is not depleted.",
+   "Acetylcholine synthesis (choline acetyltransferase) does not depend on pyridoxal phosphate.",
+   "Glycine metabolism involves B6 but it is not the explanation for isoniazid-induced seizures."
+  ],
+  "source": "October 2026 Recalls — Gynae — 8 Oct Morning",
+  "recallSet": "october-2026",
+  "recallPaper": "Gynae — 8 Oct Morning"
+ },
+ {
+  "systemSlug": "endocrine",
+  "topicSlug": "endocrine-pharmacology",
+  "stem": "A 63-year-old man with type 2 diabetes has NYHA class III heart failure with peripheral oedema. Which antidiabetic drug should be avoided because it causes fluid retention?",
+  "options": [
+   "Empagliflozin",
+   "Linagliptin",
+   "Acarbose",
+   "Repaglinide",
+   "Pioglitazone"
+  ],
+  "correctIndex": 4,
+  "explanation": "Thiazolidinediones increase renal sodium and water retention and plasma volume, precipitating or worsening heart failure; they are contraindicated in NYHA III-IV disease. (First Aid — Pharmacology: Endocrine: Thiazolidinediones)",
+  "optionExplanations": [
+   "SGLT2 inhibitors reduce heart-failure hospitalisation and are favoured in this setting.",
+   "DPP-4 inhibitors of this type do not cause fluid retention (saxagliptin and alogliptin are the ones with a heart-failure signal).",
+   "Acarbose acts locally in the gut and does not cause fluid retention.",
+   "Meglitinides cause hypoglycaemia but not fluid retention.",
+   ""
+  ],
+  "source": "October 2026 Recalls — Gynae — 8 Oct Morning",
+  "recallSet": "october-2026",
+  "recallPaper": "Gynae — 8 Oct Morning"
+ },
+ {
+  "systemSlug": "musculoskeletal",
+  "topicSlug": "msk-anatomy-embryology",
+  "stem": "A 17-year-old runner develops sharp posterolateral knee pain on flexion after running downhill without warming up. Tenderness is localised just below the lateral femoral epicondyle, deep to the fibular collateral ligament, and is reproduced by resisted tibial internal rotation with the knee flexed. Which structure is most likely inflamed?",
+  "options": [
+   "Iliotibial band",
+   "Biceps femoris tendon",
+   "Popliteus tendon",
+   "Plantaris tendon",
+   "Lateral head of gastrocnemius"
+  ],
+  "correctIndex": 2,
+  "explanation": "The popliteus arises intracapsularly from the lateral femoral condyle and inserts on the posterior tibia; its tendon is stressed in downhill running, causing posterolateral knee pain. It is supplied by the tibial nerve. (First Aid — Musculoskeletal: Anatomy: Knee muscles and popliteus)",
+  "optionExplanations": [
+   "Iliotibial band syndrome causes lateral knee pain at the lateral epicondyle at about 30 degrees of flexion and tenderness over the band, not deep to the collateral ligament.",
+   "Biceps femoris tendinopathy is tender at the fibular head and is provoked by resisted flexion rather than tibial rotation.",
+   "",
+   "Plantaris lies in the calf and its rupture causes calf pain, not posterolateral knee pain.",
+   "Gastrocnemius strain causes posterior calf pain on resisted plantar flexion."
+  ],
+  "source": "October 2026 Recalls — Gynae — 8 Oct Morning",
+  "recallSet": "october-2026",
+  "recallPaper": "Gynae — 8 Oct Morning"
+ },
+ {
+  "systemSlug": "musculoskeletal",
+  "topicSlug": "msk-anatomy-embryology",
+  "stem": "With the foot planted and the knee fully extended, which muscle initiates flexion by laterally rotating the femur on the tibia, thereby 'unlocking' the knee?",
+  "options": [
+   "Popliteus",
+   "Semitendinosus",
+   "Gastrocnemius",
+   "Sartorius",
+   "Vastus lateralis"
+  ],
+  "correctIndex": 0,
+  "explanation": "In full extension the femur is medially rotated on the tibia (screw-home mechanism). The popliteus rotates the femur laterally on the fixed tibia to unlock the knee before flexion begins. (First Aid — Musculoskeletal: Anatomy: Lower limb muscles)",
+  "optionExplanations": [
+   "",
+   "Semitendinosus flexes the knee and medially rotates the flexed leg, but it does not unlock the extended knee.",
+   "Gastrocnemius flexes the knee mainly at larger angles and plantar-flexes the foot; it does not unlock the knee.",
+   "Sartorius flexes and externally rotates the hip and flexes the knee but does not unlock the screw-home mechanism.",
+   "Vastus lateralis is a knee extensor."
+  ],
+  "source": "October 2026 Recalls — Gynae — 8 Oct Morning",
+  "recallSet": "october-2026",
+  "recallPaper": "Gynae — 8 Oct Morning"
+ },
+ {
+  "systemSlug": "nervous-system",
+  "topicSlug": "neuroanatomy-embryology",
+  "stem": "A 22-year-old man is hit in the eye by a cricket ball and develops subluxation of the lens. Which structure normally holds the lens in position?",
+  "options": [
+   "Trabecular meshwork and canal of Schlemm",
+   "Sphincter pupillae muscle of the iris",
+   "Hyaloid canal running through the vitreous",
+   "Zonular fibres (suspensory ligament) of the ciliary body",
+   "The vitreous body behind the lens"
+  ],
+  "correctIndex": 3,
+  "explanation": "The lens is suspended from the ciliary body by zonular fibres (suspensory ligament). Trauma can rupture them, causing lens subluxation or dislocation; in Marfan syndrome weak zonules produce ectopia lentis upward. (First Aid — Neurology and Special Senses: Ophthalmology: Lens and ciliary body)",
+  "optionExplanations": [
+   "These drain aqueous humour at the iridocorneal angle and do not support the lens.",
+   "This constricts the pupil and is part of the iris.",
+   "This is a remnant of the embryonic hyaloid artery running through the vitreous.",
+   "",
+   "The vitreous lies behind the lens but it is the zonules that suspend it."
+  ],
+  "source": "October 2026 Recalls — Gynae — 8 Oct Morning",
+  "recallSet": "october-2026",
+  "recallPaper": "Gynae — 8 Oct Morning"
+ },
+ {
+  "systemSlug": "nervous-system",
+  "topicSlug": "neurophysiology",
+  "stem": "When a person shifts gaze from a distant to a near object, what happens to the ciliary muscle and zonular fibres?",
+  "options": [
+   "The ciliary muscle relaxes, zonular fibres tighten and the lens becomes rounder",
+   "The ciliary muscle contracts, zonular fibres slacken and the lens becomes more rounded",
+   "The ciliary muscle contracts, zonular fibres tighten and the lens flattens",
+   "The ciliary muscle relaxes, zonular fibres slacken and the lens flattens",
+   "The ciliary muscle is unchanged and accommodation occurs through iris constriction"
+  ],
+  "correctIndex": 1,
+  "explanation": "Accommodation is mediated by parasympathetic (M3) contraction of the ciliary muscle, which releases tension on the zonules so the elastic lens thickens. (First Aid — Neurology and Special Senses: Ophthalmology: Accommodation)",
+  "optionExplanations": [
+   "This describes the state for distant vision, with a flatter lens.",
+   "",
+   "Contraction of the ciliary ring reduces its diameter and slackens, not tightens, the zonules.",
+   "Slack zonules come with ciliary contraction, not relaxation.",
+   "Pupil constriction adds depth of focus but accommodation depends on the ciliary muscle."
+  ],
+  "source": "October 2026 Recalls — Gynae — 8 Oct Morning",
+  "recallSet": "october-2026",
+  "recallPaper": "Gynae — 8 Oct Morning"
+ },
+ {
+  "systemSlug": "respiratory",
+  "topicSlug": "respiratory-physiology",
+  "stem": "Perfume sprayed in the corner of a still room is smelled across the room within minutes. Which transport process principally explains the spread of the molecules?",
+  "options": [
+   "Bulk flow driven by a pressure gradient",
+   "Facilitated diffusion",
+   "Osmosis",
+   "Active transport",
+   "Simple diffusion down a concentration gradient"
+  ],
+  "correctIndex": 4,
+  "explanation": "Net movement of molecules from high to low concentration without energy is diffusion (Fick's law: rate rises with gradient and area, falls with thickness). The same law governs gas exchange in the alveoli. (First Aid — Physiology: Respiratory: Gas diffusion)",
+  "optionExplanations": [
+   "In still air there is no pressure-driven convection; molecular spread is by random motion down a concentration gradient.",
+   "This needs a carrier protein, which applies to membrane transport and not free air.",
+   "Osmosis is movement of water across a semipermeable membrane.",
+   "Active transport needs energy and a pump; none is involved in gas spreading.",
+   ""
+  ],
+  "source": "October 2026 Recalls — Gynae — 8 Oct Morning",
+  "recallSet": "october-2026",
+  "recallPaper": "Gynae — 8 Oct Morning"
+ },
+ {
+  "systemSlug": "gastrointestinal",
+  "topicSlug": "gi-pharmacology",
+  "stem": "A drug is given to ventilated ICU patients to protect the gastric mucosa. It polymerises in acid to form a viscous layer over the ulcer base, has negligible systemic absorption and works best when separated from acid-suppressing drugs. What is it?",
+  "options": [
+   "Misoprostol",
+   "Omeprazole",
+   "Sucralfate",
+   "Bismuth subsalicylate",
+   "Ranitidine"
+  ],
+  "correctIndex": 2,
+  "explanation": "Sucralfate (aluminium hydroxide plus sucrose octasulfate) binds necrotic ulcer tissue and protects it, needing an acidic pH to polymerise. It is minimally absorbed and may impair absorption of other drugs. (First Aid — Pharmacology: Gastrointestinal: Sucralfate)",
+  "optionExplanations": [
+   "This is a PGE1 analogue that is absorbed systemically and is contraindicated in pregnancy.",
+   "This is a proton pump inhibitor that is absorbed and reduces acid, rather than forming a physical barrier.",
+   "",
+   "Its salicylate component is absorbed systemically, a recognised concern.",
+   "This is an H2 blocker absorbed systemically."
+  ],
+  "source": "October 2026 Recalls — Gynae — 8 Oct Morning",
+  "recallSet": "october-2026",
+  "recallPaper": "Gynae — 8 Oct Morning"
+ },
+ {
+  "systemSlug": "gastrointestinal",
+  "topicSlug": "gi-anatomy-embryology",
+  "stem": "Which layer forms the anterior wall of the inguinal canal along its entire length?",
+  "options": [
+   "External oblique aponeurosis",
+   "Internal oblique aponeurosis",
+   "Transversalis fascia",
+   "Conjoint tendon",
+   "Inguinal ligament"
+  ],
+  "correctIndex": 0,
+  "explanation": "The inguinal canal has external oblique aponeurosis anteriorly (with internal oblique laterally), transversalis fascia and conjoint tendon posteriorly, inguinal ligament as the floor and internal oblique/transversus arching fibres as the roof. (First Aid — Gastrointestinal: Anatomy: Inguinal canal)",
+  "optionExplanations": [
+   "",
+   "The internal oblique reinforces the anterior wall only laterally, not along its entire length.",
+   "This forms the posterior wall and the deep inguinal ring.",
+   "The conjoint tendon reinforces the medial posterior wall.",
+   "This forms the floor of the canal."
+  ],
+  "source": "October 2026 Recalls — Gynae — 8 Oct Morning",
+  "recallSet": "october-2026",
+  "recallPaper": "Gynae — 8 Oct Morning"
+ },
+ {
+  "systemSlug": "gastrointestinal",
+  "topicSlug": "gi-anatomy-embryology",
+  "stem": "A 55-year-old man has a reducible groin bulge that extends into the scrotum and stays controlled when firm pressure is applied over the deep inguinal ring. At operation the neck of the sac lies lateral to the inferior epigastric vessels. What is the diagnosis?",
+  "options": [
+   "Direct inguinal hernia",
+   "Femoral hernia",
+   "Spigelian hernia",
+   "Indirect inguinal hernia",
+   "Obturator hernia"
+  ],
+  "correctIndex": 3,
+  "explanation": "An indirect hernia passes through the deep ring (lateral to the inferior epigastric vessels), travels in the canal within the spermatic cord covering and can reach the scrotum. A direct hernia bulges through Hesselbach's triangle. (First Aid — Gastrointestinal: Anatomy: Hernias)",
+  "optionExplanations": [
+   "A direct hernia protrudes through Hesselbach's triangle, medial to the inferior epigastric vessels.",
+   "This passes below the inguinal ligament through the femoral canal.",
+   "This occurs through the linea semilunaris, not the inguinal canal.",
+   "",
+   "This passes through the obturator canal and presents with pain in the medial thigh."
+  ],
+  "source": "October 2026 Recalls — Gynae — 8 Oct Morning",
+  "recallSet": "october-2026",
+  "recallPaper": "Gynae — 8 Oct Morning"
+ },
+ {
+  "systemSlug": "community-medicine-public-health",
+  "topicSlug": "health-systems-ethics",
+  "stem": "After licensing, clinicians begin to report angioedema in a few patients taking a newly marketed antihypertensive. Which activity is specifically designed to detect rare adverse drug reactions of this kind?",
+  "options": [
+   "Phase I safety trials in a small group of healthy volunteers",
+   "Post-marketing surveillance (phase IV) with spontaneous reporting",
+   "Phase II dose-finding trials in a few hundred patients",
+   "Phase III randomised trials performed before licensing",
+   "Preclinical animal toxicology before human exposure"
+  ],
+  "correctIndex": 1,
+  "explanation": "Pharmacovigilance monitors the safety of drugs after licensing using spontaneous reports, registries and cohort studies, detecting rare or long-term adverse effects that pre-licensing trials are too small to find. (First Aid — Biostatistics and Epidemiology: Clinical trials: Phase IV)",
+  "optionExplanations": [
+   "Phase I assesses safety and pharmacokinetics in a small group before efficacy testing.",
+   "",
+   "Phase II uses a few hundred patients and is too small to detect rare reactions.",
+   "Phase III uses thousands of patients before licensing and cannot detect very rare reactions.",
+   "Preclinical work cannot predict rare human idiosyncratic reactions."
+  ],
+  "source": "October 2026 Recalls — Gynae — 8 Oct Morning",
+  "recallSet": "october-2026",
+  "recallPaper": "Gynae — 8 Oct Morning"
+ },
+ {
+  "systemSlug": "reproductive-health",
+  "topicSlug": "labor-delivery-complications",
+  "stem": "A woman delivers at term after antepartum haemorrhage due to a placenta praevia in her first pregnancy. She asks about the risk of the placenta being praevia again in her next pregnancy. The recurrence risk is approximately:",
+  "options": [
+   "Less than 1%",
+   "20-25%",
+   "50%",
+   "75-100%",
+   "4-8%"
+  ],
+  "correctIndex": 4,
+  "explanation": "Placenta praevia recurs in roughly 4-8% of later pregnancies, higher with previous caesarean sections, multiparity, advanced maternal age and smoking. Early placental localisation should be arranged in the next pregnancy. (First Aid — Reproductive: Obstetrics: Placenta praevia)",
+  "optionExplanations": [
+   "This is near the baseline risk in women without a previous praevia; recurrence risk is clearly higher.",
+   "This overstates the recurrence risk.",
+   "This overstates the risk; praevia is not a dominantly inherited condition.",
+   "Recurrence is not the rule; most subsequent pregnancies have a normal placental site.",
+   ""
+  ],
+  "source": "October 2026 Recalls — Gynae — 8 Oct Morning",
+  "recallSet": "october-2026",
+  "recallPaper": "Gynae — 8 Oct Morning"
+ },
+ {
+  "systemSlug": "reproductive-health",
+  "topicSlug": "gynecological-oncology",
+  "stem": "A 40-year-old woman has a biopsy-proven squamous cell carcinoma of the cervix. MRI shows a tumour 4.5 cm in greatest dimension confined to the cervix, with no parametrial, vaginal or nodal involvement. According to FIGO 2018, what is the stage?",
+  "options": [
+   "IB2",
+   "IB1",
+   "IB3",
+   "IIA1",
+   "IIA2"
+  ],
+  "correctIndex": 2,
+  "explanation": "FIGO 2018 stage IB is confined to the cervix: IB1 is under 2 cm, IB2 is 2 to under 4 cm and IB3 is 4 cm or more. Tumour size therefore determines the sub-stage. (First Aid — Reproductive: Pathology: Cervical carcinoma staging)",
+  "optionExplanations": [
+   "IB2 is a tumour of 2 cm or more but less than 4 cm in greatest dimension.",
+   "IB1 has stromal invasion of 5 mm or more and a tumour smaller than 2 cm.",
+   "",
+   "IIA1 involves the upper two-thirds of the vagina in a tumour smaller than 4 cm.",
+   "IIA2 involves the upper vagina in a tumour of 4 cm or more; here the vagina is not involved."
+  ],
+  "source": "October 2026 Recalls — Gynae — 8 Oct Morning",
+  "recallSet": "october-2026",
+  "recallPaper": "Gynae — 8 Oct Morning"
+ },
+ {
+  "systemSlug": "reproductive-health",
+  "topicSlug": "labor-delivery-complications",
+  "stem": "After a vaginal delivery, examination of the perineum shows a tear that involves less than 50% of the thickness of the external anal sphincter, with the internal sphincter and anal mucosa intact. What is the classification?",
+  "options": [
+   "Third-degree tear, grade 3a",
+   "Second-degree tear",
+   "Third-degree tear, grade 3b",
+   "Third-degree tear, grade 3c",
+   "Fourth-degree tear"
+  ],
+  "correctIndex": 0,
+  "explanation": "RCOG classification: 3a is less than 50% of external anal sphincter (EAS), 3b is more than 50% of EAS, 3c involves EAS and internal sphincter, and fourth degree involves the anal epithelium too. Such tears are repaired in theatre. (First Aid — Reproductive: Obstetrics: Obstetric anal sphincter injury)",
+  "optionExplanations": [
+   "",
+   "A second-degree tear involves perineal muscle but not the anal sphincter.",
+   "Grade 3b involves more than 50% of the external anal sphincter thickness.",
+   "Grade 3c also includes the internal anal sphincter.",
+   "This involves both sphincters and the anorectal mucosa."
+  ],
+  "source": "October 2026 Recalls — Gynae — 8 Oct Morning",
+  "recallSet": "october-2026",
+  "recallPaper": "Gynae — 8 Oct Morning"
+ },
+ {
+  "systemSlug": "reproductive-health",
+  "topicSlug": "pregnancy-antenatal-care",
+  "stem": "A woman with cystic fibrosis (autosomal recessive) has a healthy husband of unknown carrier status from a population in which 1 in 25 people are carriers. What is the probability that their child will have cystic fibrosis?",
+  "options": [
+   "1 in 25",
+   "1 in 100",
+   "1 in 625",
+   "1 in 50",
+   "1 in 4"
+  ],
+  "correctIndex": 3,
+  "explanation": "An affected mother transmits a mutant allele with certainty. The child is affected only if the father is a carrier (1/25) and transmits his mutant allele (1/2), giving 1/50. All children are at least carriers. (First Aid — Biostatistics and Epidemiology: Genetics: Autosomal recessive inheritance)",
+  "optionExplanations": [
+   "This is the husband's carrier probability; he must also transmit his mutant allele.",
+   "This would result if the mother were a carrier rather than affected.",
+   "This is the probability that both parents are carriers (1/25 x 1/25), not applicable to an affected mother.",
+   "",
+   "This is the risk for two known carrier parents."
+  ],
+  "source": "October 2026 Recalls — Gynae — 8 Oct Morning",
+  "recallSet": "october-2026",
+  "recallPaper": "Gynae — 8 Oct Morning"
+ },
+ {
+  "systemSlug": "endocrine",
+  "topicSlug": "adrenal-disorders",
+  "stem": "A woman with a germline succinate dehydrogenase (SDHB) mutation causing hereditary paraganglioma-phaeochromocytoma asks about the chance that her child inherits the mutation. What is the probability?",
+  "options": [
+   "25%",
+   "50%",
+   "100%",
+   "12.5%",
+   "0%, as the condition is maternally inherited through mitochondria"
+  ],
+  "correctIndex": 1,
+  "explanation": "SDHx mutations are autosomal dominant with incomplete penetrance, so each child has a 50% chance of inheriting the mutation, though not all carriers develop tumours. Surveillance for paraganglioma is recommended in carriers. (First Aid — Endocrine: Pathology: Phaeochromocytoma and hereditary syndromes)",
+  "optionExplanations": [
+   "This is the risk for an autosomal recessive condition with two carrier parents.",
+   "",
+   "Each child inherits one of two alleles; it is not certain.",
+   "This would apply to a more distant relative, not a first-degree child.",
+   "SDH subunits are encoded by nuclear genes, so inheritance is autosomal dominant, not mitochondrial."
+  ],
+  "source": "October 2026 Recalls — Gynae — 8 Oct Morning",
+  "recallSet": "october-2026",
+  "recallPaper": "Gynae — 8 Oct Morning"
+ },
+ {
+  "systemSlug": "gastrointestinal",
+  "topicSlug": "gi-anatomy-embryology",
+  "stem": "Which structure lies directly posterior to the descending (second) part of the duodenum without intervening peritoneum?",
+  "options": [
+   "Head of the pancreas within the duodenal C-loop",
+   "Transverse colon and its mesocolon",
+   "Inferior vena cava",
+   "Left renal vein",
+   "Right renal hilum and vessels"
+  ],
+  "correctIndex": 4,
+  "explanation": "The descending duodenum is retroperitoneal, lying on the right renal hilum, renal vessels and psoas posteriorly, the pancreatic head medially, and the transverse colon anteriorly. The bile and pancreatic ducts open at the major papilla on its posteromedial wall. (First Aid — Gastrointestinal: Anatomy: Duodenum relations)",
+  "optionExplanations": [
+   "The pancreatic head lies medially, within the duodenal C-loop.",
+   "The transverse colon and its mesocolon lie anteriorly.",
+   "The IVC lies behind the third part of the duodenum, not the second.",
+   "The left renal vein runs to the left of the aorta at the level of L1-L2 and is not posterior to the second part of the duodenum.",
+   ""
+  ],
+  "source": "October 2026 Recalls — Gynae — 8 Oct Morning",
+  "recallSet": "october-2026",
+  "recallPaper": "Gynae — 8 Oct Morning"
+ },
+ {
+  "systemSlug": "reproductive-health",
+  "topicSlug": "pregnancy-antenatal-care",
+  "stem": "A 26-year-old woman at 6 weeks of amenorrhoea has mild lower abdominal discomfort but is haemodynamically stable. Serum hCG is 700 IU/L and has fallen to 450 IU/L at 48 hours. Ultrasound shows an empty uterus and a 15 mm adnexal mass with no cardiac activity and no free fluid. What is the most appropriate management?",
+  "options": [
+   "Intramuscular methotrexate injection",
+   "Laparoscopic salpingectomy of the affected tube",
+   "Expectant management with serial hCG measurements",
+   "Dilatation and curettage of the uterus",
+   "Intravenous oxytocin infusion"
+  ],
+  "correctIndex": 2,
+  "explanation": "Stable women with unruptured tubal ectopic pregnancy, minimal symptoms, a small mass and a low, falling hCG (below about 1000 IU/L) can be managed expectantly with hCG follow-up until negative. Methotrexate is used for a higher hCG, and surgery for instability or rupture. (First Aid — Reproductive: Obstetrics: Ectopic pregnancy)",
+  "optionExplanations": [
+   "Active treatment is not needed when hCG is low and already falling in a stable woman.",
+   "Surgery is reserved for rupture, instability, pain, a high hCG or a fetal heartbeat.",
+   "",
+   "The uterus is empty and D&C does not treat an extrauterine pregnancy.",
+   "Oxytocin has no role in treating an ectopic pregnancy."
+  ],
+  "source": "October 2026 Recalls — Gynae — 8 Oct Morning",
+  "recallSet": "october-2026",
+  "recallPaper": "Gynae — 8 Oct Morning"
+ },
+ {
+  "systemSlug": "reproductive-health",
+  "topicSlug": "pregnancy-antenatal-care",
+  "stem": "A woman with a tubal ectopic pregnancy receives intramuscular methotrexate on day 1 (hCG 2400 IU/L). hCG is 2300 IU/L on day 4 and 2200 IU/L on day 7, and she remains stable. What is the next step?",
+  "options": [
+   "Administer a second dose of methotrexate",
+   "Continue weekly hCG until negative",
+   "Immediate salpingectomy",
+   "Discharge with no follow-up",
+   "Administer anti-D immunoglobulin and observe"
+  ],
+  "correctIndex": 0,
+  "explanation": "After methotrexate, hCG is checked on days 4 and 7. A fall of less than 15% between day 4 and day 7 indicates inadequate response and a second dose is given; if the fall is 15% or more, weekly hCG is followed until negative. (First Aid — Reproductive: Obstetrics: Ectopic pregnancy management)",
+  "optionExplanations": [
+   "",
+   "Weekly monitoring applies only if hCG falls by at least 15% between days 4 and 7.",
+   "Surgery is for rupture, instability or severe pain, not for a stable woman with a slow fall in hCG.",
+   "Persisting trophoblast still threatens tubal rupture; follow-up is mandatory.",
+   "Anti-D is for Rh-negative women and does not address the failing treatment."
+  ],
+  "source": "October 2026 Recalls — Gynae — 8 Oct Morning",
+  "recallSet": "october-2026",
+  "recallPaper": "Gynae — 8 Oct Morning"
+ },
+ {
+  "systemSlug": "reproductive-health",
+  "topicSlug": "gynecological-disorders",
+  "stem": "A 32-year-old woman has had amenorrhoea for 6 months with hot flushes and vaginal dryness. Pregnancy test and prolactin are normal. Which hormone, measured twice 4 weeks apart, is characteristically raised in premature ovarian insufficiency?",
+  "options": [
+   "Prolactin",
+   "Oestradiol",
+   "Inhibin B",
+   "Follicle-stimulating hormone",
+   "Anti-Müllerian hormone"
+  ],
+  "correctIndex": 3,
+  "explanation": "Premature ovarian insufficiency (amenorrhoea before 40) causes loss of oestradiol and inhibin negative feedback, so FSH rises (hypergonadotropic hypogonadism, FSH above about 25-40 IU/L). (First Aid — Reproductive: Pathology: Primary ovarian insufficiency)",
+  "optionExplanations": [
+   "Prolactin is normal in this case and does not rise in ovarian failure.",
+   "Oestradiol is low, not raised.",
+   "Inhibin B is low because few follicles remain.",
+   "",
+   "AMH is low, reflecting a depleted follicle pool."
+  ],
+  "source": "October 2026 Recalls — Gynae — 8 Oct Morning",
+  "recallSet": "october-2026",
+  "recallPaper": "Gynae — 8 Oct Morning"
+ },
+ {
+  "systemSlug": "reproductive-health",
+  "topicSlug": "menstrual-cycle-physiology",
+  "stem": "A 56-year-old woman is postmenopausal. Which hormonal profile is expected?",
+  "options": [
+   "Raised FSH and LH, with raised oestradiol",
+   "Raised FSH and LH; low oestradiol and inhibin",
+   "Low FSH and LH, with low oestradiol",
+   "Raised FSH with low LH, low oestradiol",
+   "Raised prolactin with low FSH"
+  ],
+  "correctIndex": 1,
+  "explanation": "With follicular depletion, oestradiol and inhibin fall, removing negative feedback so FSH (more than LH) rises. The postmenopausal ovary mainly secretes androstenedione, converted to oestrone peripherally. (First Aid — Reproductive: Physiology: Menopause)",
+  "optionExplanations": [
+   "Oestradiol falls because the ovary has run out of follicles.",
+   "",
+   "Gonadotropins rise because negative feedback is lost.",
+   "LH also rises, though less than FSH.",
+   "Prolactin does not characteristically rise at menopause."
+  ],
+  "source": "October 2026 Recalls — Gynae — 8 Oct Morning",
+  "recallSet": "october-2026",
+  "recallPaper": "Gynae — 8 Oct Morning"
+ },
+ {
+  "systemSlug": "reproductive-health",
+  "topicSlug": "labor-delivery-complications",
+  "stem": "A woman with a breech presentation at 37 weeks is considered for external cephalic version. Which of the following is a contraindication?",
+  "options": [
+   "A single previous lower-segment caesarean section",
+   "Nulliparity",
+   "Maternal BMI of 32 kg/m2",
+   "Rhesus-negative blood group",
+   "Ruptured membranes with reduced liquor"
+  ],
+  "correctIndex": 4,
+  "explanation": "ECV is contraindicated when caesarean is needed anyway or the uterine cavity is unsafe: ruptured membranes, placenta praevia, recent antepartum haemorrhage, abnormal CTG, major uterine anomaly or multiple pregnancy. Previous single caesarean is not a contraindication. (First Aid — Reproductive: Obstetrics: Breech presentation and ECV)",
+  "optionExplanations": [
+   "This is not a contraindication; ECV can be offered after one prior caesarean.",
+   "Nulliparity lowers success rates but is not a contraindication.",
+   "Obesity lowers success but is not a contraindication.",
+   "Anti-D is given after ECV, so Rhesus status is not a contraindication.",
+   ""
+  ],
+  "source": "October 2026 Recalls — Gynae — 8 Oct Morning",
+  "recallSet": "october-2026",
+  "recallPaper": "Gynae — 8 Oct Morning"
+ },
+ {
+  "systemSlug": "reproductive-health",
+  "topicSlug": "gynecological-oncology",
+  "stem": "A cervical smear in a 28-year-old woman shows squamous cells with enlarged, hyperchromatic, wrinkled nuclei surrounded by a clear perinuclear halo. What is the most likely cause?",
+  "options": [
+   "Herpes simplex virus infection",
+   "Candida albicans infection",
+   "Human papillomavirus infection",
+   "Trichomonas vaginalis infection",
+   "Cytomegalovirus infection"
+  ],
+  "correctIndex": 2,
+  "explanation": "Koilocytes (perinuclear halo with raisinoid nuclei) are the cytopathic effect of HPV, most often types 16 and 18 (E6 inactivates p53 and E7 inactivates Rb). They indicate LSIL and risk for CIN and cervical carcinoma. (First Aid — Reproductive: Pathology: Cervical dysplasia and HPV)",
+  "optionExplanations": [
+   "HSV shows multinucleate cells with ground-glass nuclei and Cowdry A inclusions.",
+   "Candida shows budding yeasts and pseudohyphae.",
+   "",
+   "Trichomonas shows motile flagellated protozoa with 'strawberry' cervix on examination.",
+   "CMV causes enlarged cells with owl's-eye intranuclear inclusions."
+  ],
+  "source": "October 2026 Recalls — Gynae — 8 Oct Morning",
+  "recallSet": "october-2026",
+  "recallPaper": "Gynae — 8 Oct Morning"
+ },
+ {
+  "systemSlug": "reproductive-health",
+  "topicSlug": "gynecological-disorders",
+  "stem": "A 30-year-old man has a sperm concentration of 2 million/mL on semen analysis, three weeks after a febrile illness of 39.5 degrees C. When should the semen analysis be repeated?",
+  "options": [
+   "After about 3 months",
+   "The next day",
+   "After 1 week",
+   "After 2 weeks",
+   "After 12 months"
+  ],
+  "correctIndex": 0,
+  "explanation": "Spermatogenesis takes about 74 days plus epididymal transit, so a semen analysis reflects events about 3 months earlier. Fever can transiently suppress it, so an abnormal result is repeated after approximately 3 months. (First Aid — Reproductive: Physiology: Spermatogenesis)",
+  "optionExplanations": [
+   "",
+   "Spermatogenesis takes about 74 days, so a day later cannot reflect any recovery.",
+   "A week is far too short to reflect a new spermatogenic cycle.",
+   "Insufficient time for new spermatozoa to be produced and transported.",
+   "Waiting a full year unnecessarily delays diagnosis."
+  ],
+  "source": "October 2026 Recalls — Gynae — 8 Oct Morning",
+  "recallSet": "october-2026",
+  "recallPaper": "Gynae — 8 Oct Morning"
+ },
+ {
+  "systemSlug": "hematology-oncology",
+  "topicSlug": "general-oncology-principles",
+  "stem": "A 31-year-old man undergoes orchidectomy for a painless testicular mass. Histology shows sheets of uniform cells with clear cytoplasm and fried-egg appearance, and lymphocytic infiltrate. Which tumour marker result would be inconsistent with pure seminoma and suggest a non-seminomatous component?",
+  "options": [
+   "Elevated placental alkaline phosphatase",
+   "Elevated lactate dehydrogenase",
+   "Mildly elevated beta-hCG",
+   "Markedly elevated alpha-fetoprotein",
+   "Normal alpha-fetoprotein"
+  ],
+  "correctIndex": 3,
+  "explanation": "AFP is never raised in a pure seminoma; its elevation implies a yolk-sac or other non-seminomatous component. A mild rise in hCG may occur in seminoma, whereas high hCG usually signals choriocarcinoma. (First Aid — Reproductive: Pathology: Testicular germ cell tumours)",
+  "optionExplanations": [
+   "PLAP can be raised in seminoma.",
+   "LDH reflects tumour bulk and is raised in seminoma.",
+   "Syncytiotrophoblast giant cells in seminoma can cause mild hCG elevation.",
+   "",
+   "A normal AFP is expected in pure seminoma."
+  ],
+  "source": "October 2026 Recalls — Gynae — 8 Oct Morning",
+  "recallSet": "october-2026",
+  "recallPaper": "Gynae — 8 Oct Morning"
+ },
+ {
+  "systemSlug": "reproductive-health",
+  "topicSlug": "pregnancy-antenatal-care",
+  "stem": "A 32-year-old woman at 34 weeks has a blood pressure of 220/120 mmHg with headache, and severe pre-eclampsia is diagnosed. Which drug should be given for the immediate control of blood pressure?",
+  "options": [
+   "Enalapril",
+   "Intravenous labetalol",
+   "Intravenous sodium nitroprusside",
+   "Oral atenolol",
+   "Intravenous furosemide"
+  ],
+  "correctIndex": 1,
+  "explanation": "Severe hypertension in pregnancy (above 160/110) is urgent. IV labetalol (or oral nifedipine, IV hydralazine) is first-line; ACE inhibitors, ARBs and atenolol are avoided and nitroprusside is a last resort. Magnesium sulfate prevents eclampsia. (First Aid — Reproductive: Obstetrics: Hypertensive disorders of pregnancy)",
+  "optionExplanations": [
+   "ACE inhibitors are teratogenic and are contraindicated in pregnancy.",
+   "",
+   "Nitroprusside risks fetal cyanide toxicity and is reserved for refractory emergencies.",
+   "Atenolol is associated with fetal growth restriction and is not suitable for acute control.",
+   "Diuretics reduce plasma volume in pre-eclampsia and are not first-line antihypertensives."
+  ],
+  "source": "October 2026 Recalls — Gynae — 8 Oct Morning",
+  "recallSet": "october-2026",
+  "recallPaper": "Gynae — 8 Oct Morning"
+ },
+ {
+  "systemSlug": "reproductive-health",
+  "topicSlug": "gynecological-oncology",
+  "stem": "A 46-year-old obese woman has oligomenorrhoea and 6 months of prolonged, irregular heavy bleeding. Ovulation has not occurred for years and the endometrium measures 14 mm. Chronic unopposed oestrogen exposure predisposes her to which condition?",
+  "options": [
+   "Endometriosis",
+   "Asherman syndrome",
+   "Cervical ectropion",
+   "Adenomyosis",
+   "Endometrial hyperplasia"
+  ],
+  "correctIndex": 4,
+  "explanation": "Anovulation with chronic unopposed oestrogen (obesity, PCOS, oestrogen-only therapy) stimulates endometrial proliferation, causing hyperplasia that can progress to endometrioid carcinoma. Progestogen or endometrial sampling is therefore needed. (First Aid — Reproductive: Pathology: Endometrial hyperplasia and carcinoma)",
+  "optionExplanations": [
+   "Endometriosis is ectopic functioning endometrium and is not driven by unopposed oestrogen on the endometrium.",
+   "This is intrauterine adhesions after curettage, causing amenorrhoea.",
+   "This is a benign cervical change, not a result of unopposed oestrogen.",
+   "Adenomyosis is endometrial tissue within myometrium and is not a consequence of anovulation.",
+   ""
+  ],
+  "source": "October 2026 Recalls — Gynae — 8 Oct Morning",
+  "recallSet": "october-2026",
+  "recallPaper": "Gynae — 8 Oct Morning"
+ },
+ {
+  "systemSlug": "reproductive-health",
+  "topicSlug": "reproductive-anatomy-embryology",
+  "stem": "The uterine artery is a direct branch of which vessel?",
+  "options": [
+   "Posterior division of the internal iliac artery",
+   "External iliac artery",
+   "Anterior division of the internal iliac artery",
+   "Abdominal aorta",
+   "Internal pudendal artery"
+  ],
+  "correctIndex": 2,
+  "explanation": "The uterine artery arises from the anterior division of the internal iliac artery, runs medially in the base of the broad ligament (cardinal ligament) and anastomoses with the ovarian artery. (First Aid — Reproductive: Anatomy: Blood supply of the uterus)",
+  "optionExplanations": [
+   "The posterior division gives iliolumbar, lateral sacral and superior gluteal arteries.",
+   "The external iliac gives the inferior epigastric and deep circumflex iliac arteries.",
+   "",
+   "The ovarian arteries, not the uterine, arise from the aorta.",
+   "The internal pudendal supplies the perineum; the uterine artery is a separate branch."
+  ],
+  "source": "October 2026 Recalls — Gynae — 8 Oct Morning",
+  "recallSet": "october-2026",
+  "recallPaper": "Gynae — 8 Oct Morning"
+ },
+ {
+  "systemSlug": "reproductive-health",
+  "topicSlug": "reproductive-anatomy-embryology",
+  "stem": "During hysterectomy the surgeon clamps the uterine artery 2 cm lateral to the cervix. Which relationship makes the ureter vulnerable at this point?",
+  "options": [
+   "The ureter passes inferior (deep) to the uterine artery",
+   "The ureter passes anterior to the uterine artery",
+   "The ureter lies superior to the uterine artery in the infundibulopelvic ligament",
+   "The ureter runs medial to the uterine artery alongside the uterine vein",
+   "The ureter and uterine artery are separated by the uterosacral ligament"
+  ],
+  "correctIndex": 0,
+  "explanation": "The ureter runs beneath the uterine artery about 2 cm lateral to the supravaginal cervix ('water under the bridge'), so it is at risk of injury or ligation during hysterectomy. (First Aid — Reproductive: Anatomy: Ureter relations in the pelvis)",
+  "optionExplanations": [
+   "",
+   "The ureter lies below, not above, the artery.",
+   "The ureter crosses under the artery lateral to the cervix, not superior to it.",
+   "The ureter is lateral to the cervix and below the artery as they cross.",
+   "The crossing occurs within the base of the broad ligament, not through the uterosacral ligament."
+  ],
+  "source": "October 2026 Recalls — Gynae — 8 Oct Morning",
+  "recallSet": "october-2026",
+  "recallPaper": "Gynae — 8 Oct Morning"
+ },
+ {
+  "systemSlug": "reproductive-health",
+  "topicSlug": "labor-delivery-complications",
+  "stem": "Postpartum haemorrhage continues despite uterotonics, a Bakri balloon, B-Lynch suture, bilateral uterine artery ligation and bilateral internal iliac artery ligation. What is the definitive life-saving surgical step?",
+  "options": [
+   "Repeat bimanual uterine massage",
+   "Bilateral ovarian artery ligation alone",
+   "Manual removal of placenta",
+   "Peripartum hysterectomy",
+   "Cervical cerclage"
+  ],
+  "correctIndex": 3,
+  "explanation": "Stepwise management of atonic PPH moves from uterotonics and tamponade to compression sutures and devascularisation; if bleeding persists, peripartum hysterectomy is the definitive life-saving operation. (First Aid — Reproductive: Obstetrics: Postpartum haemorrhage)",
+  "optionExplanations": [
+   "Massage is a first-line measure and has already failed.",
+   "This gives limited extra devascularisation when the uterine and internal iliac arteries are already ligated.",
+   "This is for retained placenta and has no role in refractory haemorrhage with a delivered placenta.",
+   "",
+   "Cerclage is for cervical insufficiency and does not treat haemorrhage."
+  ],
+  "source": "October 2026 Recalls — Gynae — 8 Oct Morning",
+  "recallSet": "october-2026",
+  "recallPaper": "Gynae — 8 Oct Morning"
+ },
+ {
+  "systemSlug": "reproductive-health",
+  "topicSlug": "reproductive-anatomy-embryology",
+  "stem": "From which vessel does the left ovarian artery arise?",
+  "options": [
+   "Left renal artery",
+   "Abdominal aorta",
+   "Left internal iliac artery",
+   "Inferior mesenteric artery",
+   "Left uterine artery"
+  ],
+  "correctIndex": 1,
+  "explanation": "The ovarian arteries arise directly from the abdominal aorta below the renal arteries (L2) and descend in the infundibulopelvic ligament. The right ovarian vein drains into the IVC, the left into the left renal vein. (First Aid — Reproductive: Anatomy: Blood supply of the ovary)",
+  "optionExplanations": [
+   "The ovarian artery arises from the aorta just below the renal arteries.",
+   "",
+   "The internal iliac supplies pelvic organs, including the uterine artery.",
+   "The IMA supplies the hindgut and does not give the ovarian artery.",
+   "The uterine artery anastomoses with the ovarian artery but is not its origin."
+  ],
+  "source": "October 2026 Recalls — Gynae — 8 Oct Morning",
+  "recallSet": "october-2026",
+  "recallPaper": "Gynae — 8 Oct Morning"
+ },
+ {
+  "systemSlug": "reproductive-health",
+  "topicSlug": "gynecological-oncology",
+  "stem": "A Wertheim radical hysterectomy for early-stage cervical carcinoma includes lymphadenectomy of which nodes as the first-echelon drainage?",
+  "options": [
+   "Superficial inguinal nodes of the femoral triangle",
+   "Para-aortic nodes only (second echelon)",
+   "Mesenteric nodes of the small bowel",
+   "Deep inguinal (Cloquet) nodes",
+   "Obturator, internal and external iliac nodes"
+  ],
+  "correctIndex": 4,
+  "explanation": "The cervix drains via parametrial, obturator and iliac pelvic nodes (then common iliac and para-aortic). Wertheim hysterectomy removes the uterus, parametria, upper vagina and pelvic lymph nodes. (First Aid — Reproductive: Pathology: Cervical carcinoma)",
+  "optionExplanations": [
+   "These drain the vulva, lower vagina and lower limb, not the cervix.",
+   "These are second-echelon nodes involved after pelvic spread.",
+   "These drain the intestine and are not involved in cervical lymph drainage.",
+   "These drain the glans and deep tissues of the lower limb, not the cervix.",
+   ""
+  ],
+  "source": "October 2026 Recalls — Gynae — 8 Oct Morning",
+  "recallSet": "october-2026",
+  "recallPaper": "Gynae — 8 Oct Morning"
+ },
+ {
+  "systemSlug": "reproductive-health",
+  "topicSlug": "gynecological-disorders",
+  "stem": "A 28-year-old woman has been married for 4 years but has lived with her husband for only 6 months because he was abroad. She has regular cycles, no pelvic pain and no pregnancy. She is anxious about infertility. What is the most appropriate advice?",
+  "options": [
+   "Urgent hysterosalpingography and semen analysis",
+   "Start clomiphene citrate for ovulation induction",
+   "Reassure; advise regular intercourse and investigate only after 12 months of exposure",
+   "Immediate referral for IVF treatment",
+   "Diagnostic laparoscopy with dye test"
+  ],
+  "correctIndex": 2,
+  "explanation": "Infertility is failure to conceive after 12 months of regular unprotected intercourse, so only 6 months of cohabitation does not qualify. Advice includes intercourse every 2-3 days, folic acid and lifestyle changes; earlier work-up is for age 36 or older or known risk factors. (First Aid — Reproductive: Pathology: Infertility)",
+  "optionExplanations": [
+   "Investigation is premature before exposure of 12 months in a young woman without risk factors.",
+   "Ovulation induction is not indicated for a woman with regular cycles.",
+   "",
+   "IVF is for confirmed subfertility after failed first-line management.",
+   "Invasive tubal assessment is premature."
+  ],
+  "source": "October 2026 Recalls — Gynae — 8 Oct Morning",
+  "recallSet": "october-2026",
+  "recallPaper": "Gynae — 8 Oct Morning"
+ },
+ {
+  "systemSlug": "reproductive-health",
+  "topicSlug": "labor-delivery-complications",
+  "stem": "In a vaginal breech delivery the body has been delivered and the head is arrested in the pelvis. Which forceps are used to control delivery of the after-coming head?",
+  "options": [
+   "Piper forceps",
+   "Kielland forceps",
+   "Wrigley forceps",
+   "Simpson forceps",
+   "Neville-Barnes forceps"
+  ],
+  "correctIndex": 0,
+  "explanation": "Piper forceps have a reversed pelvic curve and long shanks, designed to be applied to the after-coming head of a breech while the baby's body hangs below. Kielland forceps are for rotation in cephalic presentations. (First Aid — Reproductive: Obstetrics: Operative vaginal delivery)",
+  "optionExplanations": [
+   "",
+   "These are used for rotation of the fetal head in the mid-pelvis.",
+   "These are short forceps for low outlet delivery and caesarean section.",
+   "These are standard forceps for cephalic presentations.",
+   "These are standard forceps for cephalic presentations without the reverse curve."
+  ],
+  "source": "October 2026 Recalls — Gynae — 8 Oct Morning",
+  "recallSet": "october-2026",
+  "recallPaper": "Gynae — 8 Oct Morning"
+ },
+ {
+  "systemSlug": "reproductive-health",
+  "topicSlug": "labor-delivery-complications",
+  "stem": "A primigravida has a forceps delivery after a prolonged second stage. Thirty minutes after the placenta is delivered complete, she has continuous bright-red bleeding. The uterine fundus is firm, well-contracted and at the umbilicus. What is the most likely cause?",
+  "options": [
+   "Uterine atony",
+   "Retained placental fragments",
+   "Uterine inversion",
+   "Cervical or vaginal laceration",
+   "Disseminated intravascular coagulation"
+  ],
+  "correctIndex": 3,
+  "explanation": "Continuing bright-red bleeding with a firm, contracted uterus indicates trauma (cervical, vaginal or perineal lacerations, haematoma), classically after instrumental delivery. Examination under good light, often in theatre, locates and repairs the tear. (First Aid — Reproductive: Obstetrics: Postpartum haemorrhage)",
+  "optionExplanations": [
+   "Atony produces a soft, boggy uterus with dark clots, not a firm contracted fundus.",
+   "The placenta was complete and retained tissue also prevents contraction.",
+   "Inversion causes shock and an absent fundus on palpation.",
+   "",
+   "DIC would give generalised oozing and abnormal clotting, which are not described."
+  ],
+  "source": "October 2026 Recalls — Gynae — 8 Oct Morning",
+  "recallSet": "october-2026",
+  "recallPaper": "Gynae — 8 Oct Morning"
+ },
+ {
+  "systemSlug": "reproductive-health",
+  "topicSlug": "reproductive-anatomy-embryology",
+  "stem": "A 14-year-old girl has cyclic lower abdominal pain, no menarche and a bluish bulging membrane at the introitus. Which embryological event has failed?",
+  "options": [
+   "Fusion of the paramesonephric ducts",
+   "Failure of the vaginal plate to canalise (persistent hymen)",
+   "Regression of the mesonephric ducts",
+   "Descent of the ovary through the gubernaculum",
+   "Closure of the urogenital folds"
+  ],
+  "correctIndex": 1,
+  "explanation": "The vaginal lumen forms by canalisation of the vaginal plate from sinovaginal bulbs (urogenital sinus). Persistence of the membrane at the vaginal introitus produces an imperforate hymen with haematocolpos at menarche. (First Aid — Reproductive: Embryology: Female genital development)",
+  "optionExplanations": [
+   "Failure of fusion causes a double uterus or septate uterus, not an imperforate hymen.",
+   "",
+   "Persistent mesonephric duct remnants cause Gartner cysts.",
+   "This has no relation to hymen patency.",
+   "Urogenital fold fusion is relevant to hypospadias in males."
+  ],
+  "source": "October 2026 Recalls — Gynae — 8 Oct Morning",
+  "recallSet": "october-2026",
+  "recallPaper": "Gynae — 8 Oct Morning"
+ },
+ {
+  "systemSlug": "reproductive-health",
+  "topicSlug": "reproductive-anatomy-embryology",
+  "stem": "In the female embryo, the cranial unfused portions of the paramesonephric ducts give rise to which structure?",
+  "options": [
+   "Uterus and cervix",
+   "Lower third of the vagina",
+   "Gartner duct",
+   "Round ligament of the uterus",
+   "Uterine (fallopian) tubes"
+  ],
+  "correctIndex": 4,
+  "explanation": "The cranial unfused parts of the paramesonephric ducts form the uterine tubes, whose funnel-shaped ends open into the coelomic cavity; the fused caudal parts give the uterus, cervix and upper vagina. (First Aid — Reproductive: Embryology: Female genital development)",
+  "optionExplanations": [
+   "These come from the fused caudal portions (uterovaginal primordium).",
+   "This arises from the urogenital sinus.",
+   "This is a mesonephric duct remnant.",
+   "This is derived from the gubernaculum.",
+   ""
+  ],
+  "source": "October 2026 Recalls — Gynae — 8 Oct Morning",
+  "recallSet": "october-2026",
+  "recallPaper": "Gynae — 8 Oct Morning"
+ },
+ {
+  "systemSlug": "reproductive-health",
+  "topicSlug": "reproductive-anatomy-embryology",
+  "stem": "A 30-year-old woman has a small cyst along the lateral wall of the vagina. It is considered to be a remnant of which embryonic structure?",
+  "options": [
+   "Paramesonephric (Müllerian) duct",
+   "Urogenital sinus",
+   "Mesonephric (Wolffian) duct",
+   "Gubernaculum",
+   "Urachus"
+  ],
+  "correctIndex": 2,
+  "explanation": "In the female the mesonephric ducts regress, but vestigial remnants may persist as Gartner duct cysts in the lateral vaginal wall or broad ligament. (First Aid — Reproductive: Embryology: Female genital development)",
+  "optionExplanations": [
+   "Müllerian duct remnants in the female form the uterus, tubes and upper vagina, not Gartner cysts.",
+   "This forms the lower vagina, urethra and vestibule.",
+   "",
+   "This forms the round ligament and ovarian ligament.",
+   "This is an allantoic remnant (median umbilical ligament)."
+  ],
+  "source": "October 2026 Recalls — Gynae — 8 Oct Morning",
+  "recallSet": "october-2026",
+  "recallPaper": "Gynae — 8 Oct Morning"
+ },
+ {
+  "systemSlug": "reproductive-health",
+  "topicSlug": "reproductive-anatomy-embryology",
+  "stem": "In a normal 46,XX embryo, what is the cause of regression of the mesonephric (Wolffian) ducts?",
+  "options": [
+   "Absence of testosterone",
+   "Presence of anti-Müllerian hormone",
+   "High oestrogen levels",
+   "Expression of SRY",
+   "Secretion of hCG"
+  ],
+  "correctIndex": 0,
+  "explanation": "Mesonephric ducts persist only when exposed to testosterone from Leydig cells; in females, no testosterone leads to their regression, while the absence of AMH allows the paramesonephric ducts to develop. (First Aid — Reproductive: Embryology: Sex differentiation)",
+  "optionExplanations": [
+   "",
+   "AMH causes regression of the Müllerian ducts in males, not Wolffian ducts.",
+   "Oestrogen is not required for Wolffian regression.",
+   "SRY is absent in the female and drives male development.",
+   "hCG stimulates fetal Leydig cells in males and is not the cause of regression."
+  ],
+  "source": "October 2026 Recalls — Gynae — 8 Oct Morning",
+  "recallSet": "october-2026",
+  "recallPaper": "Gynae — 8 Oct Morning"
+ },
+ {
+  "systemSlug": "reproductive-health",
+  "topicSlug": "reproductive-anatomy-embryology",
+  "stem": "From which embryonic tissue do the paramesonephric (Müllerian) ducts originate?",
+  "options": [
+   "Endoderm of the urogenital sinus lining",
+   "Ureteric bud outgrowth from the mesonephric duct",
+   "Neural crest cells migrating to the gonad",
+   "Coelomic epithelium invaginating lateral to the mesonephric ducts",
+   "Surface ectoderm of the genital tubercle"
+  ],
+  "correctIndex": 3,
+  "explanation": "The paramesonephric ducts form during week 6 as longitudinal invaginations of the coelomic epithelium of the urogenital ridge, lateral to the mesonephric ducts, in the intermediate mesoderm region. (First Aid — Reproductive: Embryology: Female genital development)",
+  "optionExplanations": [
+   "This forms the vestibule and lower vagina.",
+   "The ureteric bud forms the collecting system, ureter and renal pelvis.",
+   "Neural crest does not form the genital tract.",
+   "",
+   "Surface ectoderm gives skin and does not form the genital ducts."
+  ],
+  "source": "October 2026 Recalls — Gynae — 8 Oct Morning",
+  "recallSet": "october-2026",
+  "recallPaper": "Gynae — 8 Oct Morning"
+ },
+ {
+  "systemSlug": "reproductive-health",
+  "topicSlug": "gynecological-disorders",
+  "stem": "A 20-year-old woman has primary amenorrhoea, normal breast development and pubic hair, and a short blind-ending vagina. Karyotype is 46,XX and serum testosterone is in the female range. Which investigation best defines her uterine anatomy?",
+  "options": [
+   "Hysterosalpingography",
+   "MRI of the pelvis",
+   "Serum FSH measurement",
+   "Skeletal X-rays",
+   "Plain abdominal X-ray"
+  ],
+  "correctIndex": 1,
+  "explanation": "MRKH syndrome (Müllerian agenesis) with normal ovarian function is best characterised with pelvic MRI (preferred over ultrasound) to show absent uterus or rudimentary horns, and renal imaging is added. (First Aid — Reproductive: Pathology: Müllerian agenesis)",
+  "optionExplanations": [
+   "HSG cannot be done without a uterine cavity or cervix and does not visualise a rudimentary müllerian remnant.",
+   "",
+   "Hormones are normal in MRKH and do not show the anatomy.",
+   "These evaluate bone age or skeletal anomalies, not the uterus.",
+   "This does not visualise the uterus."
+  ],
+  "source": "October 2026 Recalls — Gynae — 8 Oct Morning",
+  "recallSet": "october-2026",
+  "recallPaper": "Gynae — 8 Oct Morning"
+ },
+ {
+  "systemSlug": "reproductive-health",
+  "topicSlug": "gynecological-disorders",
+  "stem": "A 50-year-old woman has had heavy menstrual bleeding for 4 months and looks pale. Which investigation is indicated at first assessment in all women with heavy menstrual bleeding?",
+  "options": [
+   "Clotting screen in every case",
+   "Hysteroscopy with biopsy in every case",
+   "Serum progesterone",
+   "CA-125",
+   "Full blood count (haemoglobin)"
+  ],
+  "correctIndex": 4,
+  "explanation": "A full blood count to detect iron-deficiency anaemia is advised for all women with heavy menstrual bleeding. Endometrial sampling is added at age 45 or older with persistent irregular bleeding or when treatment fails. (First Aid — Reproductive: Pathology: Abnormal uterine bleeding)",
+  "optionExplanations": [
+   "A clotting screen is indicated only with a history suggesting a bleeding disorder.",
+   "This is for those with persistent irregular bleeding or treatment failure.",
+   "This is used for assessing ovulation in infertility.",
+   "CA-125 is not a test for heavy menstrual bleeding.",
+   ""
+  ],
+  "source": "October 2026 Recalls — Gynae — 8 Oct Morning",
+  "recallSet": "october-2026",
+  "recallPaper": "Gynae — 8 Oct Morning"
+ },
+ {
+  "systemSlug": "microbiology",
+  "topicSlug": "fungal-infections",
+  "stem": "A 34-year-old man with HIV (CD4 count 70/mm3) has painful swallowing. Endoscopy shows white plaques on the oesophageal mucosa and biopsy shows budding yeasts with pseudohyphae. What is the treatment of choice?",
+  "options": [
+   "Nystatin mouthwash",
+   "Acyclovir",
+   "Oral or intravenous fluconazole",
+   "Ganciclovir",
+   "Oral terbinafine"
+  ],
+  "correctIndex": 2,
+  "explanation": "Candida oesophagitis in immunosuppression produces white plaques with pseudohyphae on biopsy; systemic fluconazole is first-line, while topical antifungals do not penetrate the oesophagus. (First Aid — Microbiology: Mycology: Candida albicans)",
+  "optionExplanations": [
+   "Topical nystatin treats oral thrush but not oesophageal candidiasis.",
+   "This treats HSV oesophagitis, which gives punched-out ulcers.",
+   "",
+   "This treats CMV oesophagitis, which gives linear ulcers with intranuclear inclusions.",
+   "Terbinafine treats dermatophytes and has no role in Candida oesophagitis."
+  ],
+  "source": "October 2026 Recalls — Gynae — 8 Oct Morning",
+  "recallSet": "october-2026",
+  "recallPaper": "Gynae — 8 Oct Morning"
+ },
+ {
+  "systemSlug": "hematology-oncology",
+  "topicSlug": "hematology-pharmacology",
+  "stem": "A 45-year-old woman receiving cyclophosphamide for lymphoma develops painless gross haematuria with sterile urine. Which metabolite is responsible, and which agent prevents this complication?",
+  "options": [
+   "Acrolein; mesna",
+   "Phosphoramide mustard; amifostine",
+   "Acrolein; leucovorin",
+   "Doxorubicin metabolite; dexrazoxane",
+   "Cisplatin; N-acetylcysteine"
+  ],
+  "correctIndex": 0,
+  "explanation": "Cyclophosphamide and ifosfamide are metabolised to acrolein, which injures the bladder urothelium and causes haemorrhagic cystitis. Mesna binds acrolein in the bladder; hydration also protects. (First Aid — Pharmacology: Hematology and Oncology: Cyclophosphamide)",
+  "optionExplanations": [
+   "",
+   "Phosphoramide mustard is the cytotoxic alkylating metabolite, not the cause of cystitis.",
+   "Leucovorin rescues methotrexate toxicity, not bladder toxicity.",
+   "Dexrazoxane protects the heart from anthracycline cardiotoxicity.",
+   "N-acetylcysteine is for acetaminophen overdose."
+  ],
+  "source": "October 2026 Recalls — Gynae — 8 Oct Morning",
+  "recallSet": "october-2026",
+  "recallPaper": "Gynae — 8 Oct Morning"
+ },
+ {
+  "systemSlug": "microbiology",
+  "topicSlug": "antimicrobial-pharmacology",
+  "stem": "A 60-year-old patient with ventilator-associated pneumonia grows Pseudomonas aeruginosa. Which of the following antibiotics has reliable antipseudomonal activity?",
+  "options": [
+   "Ceftriaxone",
+   "Cefazolin",
+   "Ertapenem",
+   "Ceftazidime",
+   "Vancomycin"
+  ],
+  "correctIndex": 3,
+  "explanation": "Antipseudomonal agents include ceftazidime, cefepime, piperacillin-tazobactam, carbapenems other than ertapenem (meropenem, imipenem), aztreonam, aminoglycosides, ciprofloxacin and colistin. Combination therapy may be used for severe infection. (First Aid — Microbiology: Antimicrobials: Antipseudomonal agents)",
+  "optionExplanations": [
+   "Ceftriaxone lacks reliable antipseudomonal activity.",
+   "A first-generation cephalosporin with gram-positive and some gram-negative cover, but no pseudomonal activity.",
+   "Ertapenem is the carbapenem with no activity against Pseudomonas.",
+   "",
+   "Vancomycin only acts on gram-positive organisms."
+  ],
+  "source": "October 2026 Recalls — Gynae — 8 Oct Morning",
+  "recallSet": "october-2026",
+  "recallPaper": "Gynae — 8 Oct Morning"
+ },
+ {
+  "systemSlug": "microbiology",
+  "topicSlug": "gram-negative-bacteria",
+  "stem": "A child with cystic fibrosis has chronic lung infection with an oxidase-positive, non-lactose-fermenting gram-negative rod that forms blue-green pigment and grape-like-smelling mucoid colonies. Which virulence factor accounts for the mucoid appearance?",
+  "options": [
+   "Exotoxin A",
+   "Alginate capsule-like polysaccharide",
+   "Pyocyanin",
+   "Lipopolysaccharide endotoxin",
+   "Hyaluronic acid capsule"
+  ],
+  "correctIndex": 1,
+  "explanation": "Pseudomonas aeruginosa overproduces alginate in the cystic fibrosis lung, forming a mucoid biofilm that resists antibiotics and phagocytosis. Exotoxin A inhibits EF-2, and pyocyanin is the blue-green pigment. (First Aid — Microbiology: Bacteriology: Pseudomonas aeruginosa)",
+  "optionExplanations": [
+   "Exotoxin A inactivates EF-2 by ADP-ribosylation but does not produce the mucoid phenotype.",
+   "",
+   "Pyocyanin is the blue-green pigment producing oxidative damage.",
+   "Endotoxin triggers septic shock but does not cause the mucoid appearance.",
+   "This capsule is typical of group A streptococci, which are gram-positive."
+  ],
+  "source": "October 2026 Recalls — Gynae — 8 Oct Morning",
+  "recallSet": "october-2026",
+  "recallPaper": "Gynae — 8 Oct Morning"
+ },
+ {
+  "systemSlug": "endocrine",
+  "topicSlug": "thyroid-disorders",
+  "stem": "A 38-year-old woman has weight loss, palpitations and heat intolerance. Which test is the best initial screening investigation for hyperthyroidism?",
+  "options": [
+   "Radioactive iodine uptake",
+   "Serum free T3 alone",
+   "TSH receptor antibody level",
+   "Thyroid ultrasound",
+   "Serum TSH"
+  ],
+  "correctIndex": 4,
+  "explanation": "Serum TSH is the most sensitive screening test of thyroid function: suppressed in primary hyperthyroidism and elevated in primary hypothyroidism. Free T4 (and T3) are then measured, followed by antibodies or scanning to find the cause. (First Aid — Endocrine: Physiology: Thyroid function tests)",
+  "optionExplanations": [
+   "RAIU helps determine the cause after biochemical hyperthyroidism is confirmed.",
+   "Hormone levels confirm the degree after the TSH is known to be suppressed.",
+   "This identifies Graves disease as a cause after diagnosis.",
+   "Ultrasound assesses nodules and goitre, not thyroid function.",
+   ""
+  ],
+  "source": "October 2026 Recalls — Gynae — 8 Oct Morning",
+  "recallSet": "october-2026",
+  "recallPaper": "Gynae — 8 Oct Morning"
+ },
+ {
+  "systemSlug": "endocrine",
+  "topicSlug": "thyroid-disorders",
+  "stem": "A healthy woman at 9 weeks' gestation with severe nausea has a TSH of 0.1 mU/L and a normal free T4. She has no goitre or eye signs. What explains the low TSH?",
+  "options": [
+   "Graves disease with TSH-receptor antibodies",
+   "Raised thyroxine-binding globulin from oestrogen",
+   "hCG acting on the TSH receptor (shared alpha subunit)",
+   "Iodine deficiency of pregnancy",
+   "TSH-secreting pituitary adenoma"
+  ],
+  "correctIndex": 2,
+  "explanation": "hCG peaks at 8-12 weeks and weakly stimulates the TSH receptor (shared alpha subunit), producing slight rises in free T4 and a physiologic fall in TSH in the first trimester. Treatment is not required. (First Aid — Endocrine: Physiology: Thyroid in pregnancy)",
+  "optionExplanations": [
+   "Graves is not suggested without goitre, eye signs or high free T4.",
+   "Raised TBG increases total T4 but TSH stays normal.",
+   "",
+   "Iodine deficiency tends to raise TSH.",
+   "A TSH-oma gives a raised, not suppressed, TSH."
+  ],
+  "source": "October 2026 Recalls — Gynae — 8 Oct Morning",
+  "recallSet": "october-2026",
+  "recallPaper": "Gynae — 8 Oct Morning"
+ },
+ {
+  "systemSlug": "endocrine",
+  "topicSlug": "thyroid-disorders",
+  "stem": "A woman with hypothyroidism has been stable on levothyroxine 100 micrograms daily. She is now 8 weeks pregnant. What is the most appropriate action?",
+  "options": [
+   "Increase levothyroxine by 25-30% and recheck TSH monthly",
+   "Reduce the dose, since pregnancy suppresses TSH",
+   "Continue the same dose until delivery",
+   "Stop levothyroxine and monitor",
+   "Add liothyronine"
+  ],
+  "correctIndex": 0,
+  "explanation": "Oestrogen raises TBG, iodide clearance rises and placental deiodinase increases requirements, so levothyroxine dose must be increased by roughly 25-30% when pregnancy is confirmed, with TSH monitored regularly. (First Aid — Endocrine: Pathology: Hypothyroidism in pregnancy)",
+  "optionExplanations": [
+   "",
+   "Hypothyroid pregnant women need more thyroxine, not less.",
+   "Requirements rise early in pregnancy and an unchanged dose risks maternal and fetal hypothyroidism.",
+   "Untreated maternal hypothyroidism impairs fetal neurodevelopment.",
+   "Fetal neurodevelopment depends on maternal T4, so T3 addition is not advised."
+  ],
+  "source": "October 2026 Recalls — Gynae — 8 Oct Morning",
+  "recallSet": "october-2026",
+  "recallPaper": "Gynae — 8 Oct Morning"
+ },
+ {
+  "systemSlug": "endocrine",
+  "topicSlug": "thyroid-disorders",
+  "stem": "A 45-year-old woman reports cold intolerance, constipation, dry skin and weight gain despite a reduced appetite. Which laboratory pattern is expected?",
+  "options": [
+   "Low TSH with raised free T4",
+   "Low TSH with low free T4",
+   "Raised TSH with raised free T4",
+   "Raised TSH with low free T4",
+   "Normal TSH with low total T3"
+  ],
+  "correctIndex": 3,
+  "explanation": "Primary hypothyroidism lowers metabolic rate, producing weight gain despite poor appetite, cold intolerance and constipation. Loss of negative feedback raises TSH while free T4 is low. (First Aid — Endocrine: Pathology: Hypothyroidism)",
+  "optionExplanations": [
+   "This is the pattern of primary hyperthyroidism.",
+   "This indicates central (secondary) hypothyroidism.",
+   "This suggests a TSH-secreting adenoma or thyroid hormone resistance.",
+   "",
+   "This is the euthyroid sick syndrome seen in non-thyroidal illness."
+  ],
+  "source": "October 2026 Recalls — Gynae — 8 Oct Morning",
+  "recallSet": "october-2026",
+  "recallPaper": "Gynae — 8 Oct Morning"
+ },
+ {
+  "systemSlug": "reproductive-health",
+  "topicSlug": "reproductive-anatomy-embryology",
+  "stem": "A culdocentesis needle is passed through the posterior vaginal fornix. Into which peritoneal space does it enter?",
+  "options": [
+   "Vesicouterine pouch between bladder and uterus",
+   "Rectouterine pouch (pouch of Douglas)",
+   "Retropubic space of Retzius",
+   "Ischiorectal fossa",
+   "Perineal body"
+  ],
+  "correctIndex": 1,
+  "explanation": "The posterior fornix of the vagina lies directly below the rectouterine pouch, the lowest point of the peritoneal cavity in the female, so free fluid or blood (for example ruptured ectopic pregnancy) collects there. (First Aid — Reproductive: Anatomy: Vagina and peritoneal relations)",
+  "optionExplanations": [
+   "This lies anterior to the uterus, between bladder and uterus.",
+   "",
+   "This is an extraperitoneal space anterior to the bladder.",
+   "This is a perineal fat-filled space lateral to the anal canal.",
+   "The perineal body is a fibromuscular mass between vagina and anus, not a peritoneal space."
+  ],
+  "source": "October 2026 Recalls — Gynae — 8 Oct Morning",
+  "recallSet": "october-2026",
+  "recallPaper": "Gynae — 8 Oct Morning"
+ },
+ {
+  "systemSlug": "nervous-system",
+  "topicSlug": "seizures-epilepsy",
+  "stem": "A 22-year-old woman has stereotyped episodes in which she first notices an unpleasant fishy smell, then stares, smacks her lips and picks at her clothes for about 90 seconds, with no memory of the event afterwards. Where is the seizure focus most likely located?",
+  "options": [
+   "Occipital lobe visual cortex",
+   "Frontal lobe motor cortex",
+   "Parietal lobe sensory cortex",
+   "Thalamus",
+   "Mesial temporal lobe"
+  ],
+  "correctIndex": 4,
+  "explanation": "Olfactory aura, oral automatisms (lip smacking), impaired awareness and post-ictal amnesia are the hallmark of mesial temporal lobe (focal impaired awareness) seizures, often from hippocampal sclerosis. (First Aid — Neurology and Special Senses: Seizures: Focal seizures)",
+  "optionExplanations": [
+   "Occipital seizures cause visual phenomena such as flashes or blindness.",
+   "Frontal lobe seizures are brief, often nocturnal, with hypermotor activity.",
+   "Parietal seizures produce sensory phenomena such as tingling.",
+   "The thalamus is involved in generalised absence seizures, not focal automatisms.",
+   ""
+  ],
+  "source": "October 2026 Recalls — Gynae — 8 Oct Morning",
+  "recallSet": "october-2026",
+  "recallPaper": "Gynae — 8 Oct Morning"
+ },
+ {
+  "systemSlug": "reproductive-health",
+  "topicSlug": "gynecological-disorders",
+  "stem": "An obese woman, 7 days after a vertical midline abdominal hysterectomy, coughs and feels something give way. The dressing is soaked with copious serosanguinous (salmon-coloured) fluid. No bowel or omentum is visible and the skin is intact. What is the most likely diagnosis?",
+  "options": [
+   "Wound seroma only",
+   "Superficial wound infection",
+   "Fascial (deep) wound dehiscence",
+   "Evisceration",
+   "Intra-abdominal abscess"
+  ],
+  "correctIndex": 2,
+  "explanation": "Sudden profuse serosanguinous (salmon-pink) discharge after straining, seven to ten days after surgery, signals fascial dehiscence; evisceration is when viscera protrude. Risks are obesity, infection and malnutrition. The wound is covered with moist saline gauze and returned to theatre. (First Aid — Rapid Review: Postoperative complications: Wound dehiscence)",
+  "optionExplanations": [
+   "A seroma does not follow a sudden give-way sensation with massive serosanguinous discharge.",
+   "This causes erythema, pus and fever rather than sudden profuse serosanguinous fluid.",
+   "",
+   "This requires visible protrusion of bowel or omentum through the wound.",
+   "This would present with fever and pain, not sudden wound leakage."
+  ],
+  "source": "October 2026 Recalls — Gynae — 8 Oct Morning",
+  "recallSet": "october-2026",
+  "recallPaper": "Gynae — 8 Oct Morning"
+ },
+ {
+  "systemSlug": "reproductive-health",
+  "topicSlug": "gynecological-disorders",
+  "stem": "A 42-year-old woman has heavy menstrual bleeding. Examination shows a firm, nontender, irregularly enlarged uterus with a bumpy outline. Ultrasound shows a well-defined, whorled hypoechoic mass bulging the uterine contour. What is the most likely diagnosis?",
+  "options": [
+   "Leiomyoma (fibroid)",
+   "Adenomyosis",
+   "Endometrial polyp",
+   "Endometrial hyperplasia",
+   "Ovarian fibroma"
+  ],
+  "correctIndex": 0,
+  "explanation": "Fibroids are benign smooth-muscle tumours causing heavy bleeding and an asymmetric, enlarged, firm uterus. Adenomyosis instead produces a diffusely enlarged, globular, tender uterus. (First Aid — Reproductive: Pathology: Leiomyoma)",
+  "optionExplanations": [
+   "",
+   "Adenomyosis gives a symmetric, globular, tender uterus without discrete masses.",
+   "A polyp is an intracavitary lesion and does not enlarge the uterus asymmetrically.",
+   "This thickens the endometrium without a myometrial mass.",
+   "This arises in the ovary, not the uterine wall."
+  ],
+  "source": "October 2026 Recalls — Gynae — 8 Oct Morning",
+  "recallSet": "october-2026",
+  "recallPaper": "Gynae — 8 Oct Morning"
+ },
+ {
+  "systemSlug": "reproductive-health",
+  "topicSlug": "labor-delivery-complications",
+  "stem": "A 33-year-old multigravida at 32 weeks has sudden painless bright-red vaginal bleeding. The uterus is soft and non-tender and the fetal heart rate is normal. Which investigation is best to localise the placenta?",
+  "options": [
+   "Digital vaginal examination",
+   "MRI of the pelvis",
+   "CT scan of the abdomen",
+   "Transvaginal ultrasound",
+   "Amniocentesis"
+  ],
+  "correctIndex": 3,
+  "explanation": "Painless bleeding with a soft, non-tender uterus suggests placenta praevia. Transvaginal ultrasound is safe and more accurate than transabdominal for locating the placental edge in relation to the internal os. (First Aid — Reproductive: Obstetrics: Placenta praevia)",
+  "optionExplanations": [
+   "This is contraindicated until placental position is known because it can provoke torrential bleeding.",
+   "MRI is reserved for suspected morbidly adherent placenta.",
+   "CT exposes the fetus to radiation and is unnecessary.",
+   "",
+   "This does not localise the placenta and risks bleeding."
+  ],
+  "source": "October 2026 Recalls — Gynae — 8 Oct Morning",
+  "recallSet": "october-2026",
+  "recallPaper": "Gynae — 8 Oct Morning"
+ },
+ {
+  "systemSlug": "hematology-oncology",
+  "topicSlug": "general-oncology-principles",
+  "stem": "Which pair of caspases serves as the initiators of the extrinsic (death receptor) and intrinsic (mitochondrial) pathways of apoptosis, respectively?",
+  "options": [
+   "Caspase-9 and caspase-8",
+   "Caspase-8 and caspase-9",
+   "Caspase-3 and caspase-7",
+   "Caspase-1 and caspase-3",
+   "Caspase-6 and caspase-3"
+  ],
+  "correctIndex": 1,
+  "explanation": "Caspase-8 is activated by death receptors (Fas, TNF) and caspase-9 via the apoptosome after cytochrome c release; both then activate executioner caspases-3, -6 and -7, which cleave cellular proteins. (First Aid — Pathology: Cell injury: Apoptosis)",
+  "optionExplanations": [
+   "This reverses the pathways.",
+   "",
+   "These are executioner caspases.",
+   "Caspase-1 is the inflammasome caspase processing IL-1 in pyroptosis.",
+   "Both are executioner caspases."
+  ],
+  "source": "October 2026 Recalls — Gynae — 8 Oct Morning",
+  "recallSet": "october-2026",
+  "recallPaper": "Gynae — 8 Oct Morning"
+ },
+ {
+  "systemSlug": "gastrointestinal",
+  "topicSlug": "liver-disease",
+  "stem": "A 16-year-old boy has tremor, dysarthria, personality change and mildly raised transaminases with Coombs-negative haemolytic anaemia. Which pattern of copper studies supports Wilson disease?",
+  "options": [
+   "High serum ceruloplasmin with low urinary copper",
+   "Low serum ceruloplasmin, low urinary copper and low hepatic copper",
+   "Normal ceruloplasmin with raised urinary copper only",
+   "High serum copper bound to ceruloplasmin with high hepatic copper",
+   "Low serum ceruloplasmin, raised 24-hour urinary copper and raised hepatic copper"
+  ],
+  "correctIndex": 4,
+  "explanation": "Impaired ATP7B function reduces copper incorporation into ceruloplasmin and biliary copper excretion, so ceruloplasmin and total serum copper are low while urinary copper (above about 100 micrograms/24 h) and hepatic copper are raised. (First Aid — Gastrointestinal: Pathology: Wilson disease)",
+  "optionExplanations": [
+   "This is the opposite of Wilson disease.",
+   "This pattern, with low copper everywhere, suggests Menkes disease or copper deficiency.",
+   "Ceruloplasmin is typically low in Wilson disease.",
+   "Total serum copper falls in Wilson disease because ceruloplasmin is low.",
+   ""
+  ],
+  "source": "October 2026 Recalls — Medicine — 8 Oct Paper 2",
+  "recallSet": "october-2026",
+  "recallPaper": "Medicine — 8 Oct Paper 2"
+ },
+ {
+  "systemSlug": "gastrointestinal",
+  "topicSlug": "liver-disease",
+  "stem": "Which presentation of Wilson disease is most likely to show no Kayser-Fleischer rings on slit-lamp examination?",
+  "options": [
+   "An adult with parkinsonism and dysarthria",
+   "A young adult with psychiatric symptoms and tremor",
+   "A child with isolated hepatic disease",
+   "An adolescent with chorea and dystonia",
+   "A patient with haemolysis and neurological signs"
+  ],
+  "correctIndex": 2,
+  "explanation": "Kayser-Fleischer rings (copper in Descemet's membrane) are present in nearly all patients with neurological or psychiatric Wilson disease but are absent in a substantial proportion of those with isolated hepatic presentation, so their absence does not exclude the diagnosis. (First Aid — Gastrointestinal: Pathology: Wilson disease)",
+  "optionExplanations": [
+   "Neurological Wilson disease almost always has Kayser-Fleischer rings.",
+   "Neuropsychiatric presentations have Kayser-Fleischer rings in nearly all patients.",
+   "",
+   "Movement disorders with Wilson disease are associated with Kayser-Fleischer rings.",
+   "With neurological involvement the rings are almost universal."
+  ],
+  "source": "October 2026 Recalls — Medicine — 8 Oct Paper 2",
+  "recallSet": "october-2026",
+  "recallPaper": "Medicine — 8 Oct Paper 2"
+ },
+ {
+  "systemSlug": "gastrointestinal",
+  "topicSlug": "liver-disease",
+  "stem": "Wilson disease is caused by a mutation in a gene encoding a hepatocyte copper-transporting ATPase. Which gene and chromosome are involved?",
+  "options": [
+   "ATP7B on chromosome 13",
+   "ATP7A on the X chromosome",
+   "HFE on chromosome 6",
+   "CFTR on chromosome 7",
+   "SERPINA1 on chromosome 14"
+  ],
+  "correctIndex": 0,
+  "explanation": "Wilson disease is autosomal recessive (ATP7B, chromosome 13); defective biliary copper excretion and loading of ceruloplasmin leads to copper accumulation in liver, basal ganglia, cornea and kidney. Penicillamine, trientine or zinc treat it. (First Aid — Gastrointestinal: Pathology: Wilson disease)",
+  "optionExplanations": [
+   "",
+   "This causes Menkes disease with impaired intestinal copper absorption.",
+   "This causes hereditary haemochromatosis.",
+   "This causes cystic fibrosis.",
+   "This causes alpha-1 antitrypsin deficiency."
+  ],
+  "source": "October 2026 Recalls — Medicine — 8 Oct Paper 2",
+  "recallSet": "october-2026",
+  "recallPaper": "Medicine — 8 Oct Paper 2"
+ },
+ {
+  "systemSlug": "reproductive-health",
+  "topicSlug": "reproductive-anatomy-embryology",
+  "stem": "A newborn has a large mass in the sacrococcygeal region containing hair, cartilage and cystic spaces. This tumour is thought to arise from which embryonic remnant?",
+  "options": [
+   "Notochord remnants of the nucleus pulposus",
+   "Neural crest cells",
+   "A persistent cloacal membrane",
+   "Primitive streak remnants that failed to regress",
+   "The allantois"
+  ],
+  "correctIndex": 3,
+  "explanation": "Sacrococcygeal teratoma is the commonest tumour of the newborn, arising from totipotent cells of the primitive streak at the caudal end. It contains tissue from all three germ layers and is usually resected early because of malignant risk. (First Aid — Reproductive: Embryology: Gastrulation and primitive streak)",
+  "optionExplanations": [
+   "These give rise to chordoma.",
+   "These give neuroblastoma, melanocytes and other tumours, not a multi-tissue teratoma.",
+   "This relates to bladder exstrophy and cloacal anomalies.",
+   "",
+   "The allantoic remnant is the urachus, not a tumour with several germ layers."
+  ],
+  "source": "October 2026 Recalls — Medicine — 8 Oct Paper 2",
+  "recallSet": "october-2026",
+  "recallPaper": "Medicine — 8 Oct Paper 2"
+ },
+ {
+  "systemSlug": "nervous-system",
+  "topicSlug": "neurophysiology",
+  "stem": "Two days after severe head injury, a man has raised intracranial pressure due to cytotoxic cerebral oedema. Failure of the Na+/K+-ATPase causes intracellular accumulation of which ion, drawing water into cells?",
+  "options": [
+   "Potassium",
+   "Sodium",
+   "Calcium",
+   "Chloride",
+   "Magnesium"
+  ],
+  "correctIndex": 1,
+  "explanation": "Ischaemia or trauma depletes ATP and the Na+/K+-ATPase fails, so sodium (and water) accumulates in neurons and astrocytes, causing cytotoxic oedema that raises intracranial pressure. (First Aid — Neurology and Special Senses: Pathology: Cerebral edema)",
+  "optionExplanations": [
+   "Potassium leaks out of the cell when the pump fails.",
+   "",
+   "Calcium entry mediates excitotoxic cell damage but is not the primary osmotic driver of cytotoxic swelling.",
+   "Chloride follows sodium passively and is not the primary driving ion.",
+   "Magnesium is not the ion that drives cell swelling."
+  ],
+  "source": "October 2026 Recalls — Medicine — 8 Oct Paper 2",
+  "recallSet": "october-2026",
+  "recallPaper": "Medicine — 8 Oct Paper 2"
+ },
+ {
+  "systemSlug": "respiratory",
+  "topicSlug": "obstructive-airway-disease",
+  "stem": "A 5-month-old infant has coryza for 3 days, then tachypnoea, nasal flaring, subcostal recession, diffuse expiratory wheeze and fine crackles. The chest X-ray shows hyperinflation with flattened diaphragms and patchy atelectasis, without lobar consolidation. What is the most likely diagnosis?",
+  "options": [
+   "Croup (laryngotracheobronchitis)",
+   "Lobar pneumonia",
+   "Acute epiglottitis with airway swelling",
+   "Inhaled foreign body aspiration",
+   "Bronchiolitis due to RSV"
+  ],
+  "correctIndex": 4,
+  "explanation": "Bronchiolitis from RSV inflames small airways of infants, giving wheeze, crackles, hyperinflation and nasal flaring. Treatment is supportive with oxygen, fluids and feeding support. (First Aid — Microbiology: Virology: Respiratory syncytial virus)",
+  "optionExplanations": [
+   "Croup causes a barking cough and inspiratory stridor from subglottic swelling.",
+   "This would show lobar consolidation, a focal chest finding and a high fever.",
+   "This causes drooling, muffled voice and rapid airway obstruction.",
+   "This gives sudden choking, unilateral wheeze and focal air trapping, not a viral prodrome.",
+   ""
+  ],
+  "source": "October 2026 Recalls — Medicine — 8 Oct Paper 2",
+  "recallSet": "october-2026",
+  "recallPaper": "Medicine — 8 Oct Paper 2"
+ },
+ {
+  "systemSlug": "respiratory",
+  "topicSlug": "obstructive-airway-disease",
+  "stem": "A 4-month-old infant with RSV bronchiolitis has oxygen saturation of 90% on air and is feeding poorly. What is the most appropriate management?",
+  "options": [
+   "Nebulised salbutamol bronchodilator",
+   "Oral prednisolone course",
+   "Supplemental oxygen and fluids",
+   "Intravenous ceftriaxone antibiotic",
+   "Nebulised ribavirin routinely"
+  ],
+  "correctIndex": 2,
+  "explanation": "Management of bronchiolitis is supportive: oxygen when SpO2 is low, fluids or nasogastric feeding, and nasal suction. Bronchodilators, steroids and antibiotics are not routinely beneficial. (First Aid — Microbiology: Virology: Respiratory syncytial virus)",
+  "optionExplanations": [
+   "Bronchodilators have not been shown to help in bronchiolitis.",
+   "Corticosteroids do not alter the course of bronchiolitis.",
+   "",
+   "Bronchiolitis is viral and antibiotics are not indicated without a bacterial complication.",
+   "Ribavirin is not routinely used and is reserved for severely immunocompromised patients."
+  ],
+  "source": "October 2026 Recalls — Medicine — 8 Oct Paper 2",
+  "recallSet": "october-2026",
+  "recallPaper": "Medicine — 8 Oct Paper 2"
+ },
+ {
+  "systemSlug": "reproductive-health",
+  "topicSlug": "gynecological-oncology",
+  "stem": "A 34-year-old woman has bloody discharge from the right nipple only. There is no palpable mass and mammography is normal; ultrasound shows a small dilated retroareolar duct with a nodule. What is the most likely diagnosis?",
+  "options": [
+   "Intraductal papilloma",
+   "Duct ectasia",
+   "Fibroadenoma",
+   "Paget disease of the nipple",
+   "Fat necrosis"
+  ],
+  "correctIndex": 0,
+  "explanation": "Intraductal papilloma, the commonest cause of bloody nipple discharge, is a papillary growth in a lactiferous duct, typically solitary and subareolar. Carcinoma (DCIS) must be excluded by imaging and cytology or microdochectomy. (First Aid — Reproductive: Pathology: Benign breast disease)",
+  "optionExplanations": [
+   "",
+   "Duct ectasia gives a thick green-brown multiduct discharge in perimenopausal women with nipple retraction.",
+   "This is a discrete, mobile breast lump in young women and does not cause nipple discharge.",
+   "This presents with eczema-like skin changes of the nipple.",
+   "This follows trauma and presents as a firm lump, not nipple discharge."
+  ],
+  "source": "October 2026 Recalls — Medicine — 8 Oct Paper 2",
+  "recallSet": "october-2026",
+  "recallPaper": "Medicine — 8 Oct Paper 2"
+ },
+ {
+  "systemSlug": "nervous-system",
+  "topicSlug": "neurophysiology",
+  "stem": "A man steps on a thorn and feels a sharp, well-localised pain in the sole. Which pathway carries this sensation to the thalamus?",
+  "options": [
+   "Dorsal column-medial lemniscus pathway",
+   "Anterior spinocerebellar tract",
+   "Lateral corticospinal tract",
+   "Lateral spinothalamic tract",
+   "Fasciculus cuneatus"
+  ],
+  "correctIndex": 3,
+  "explanation": "Sharp pain (A-delta fibres) synapses in the dorsal horn; second-order neurons cross in the anterior white commissure and ascend in the contralateral lateral spinothalamic tract to the VPL of thalamus. Dull pain (C fibres) uses the same tract. (First Aid — Neurology and Special Senses: Anatomy: Spinal cord tracts)",
+  "optionExplanations": [
+   "This carries fine touch, vibration and proprioception.",
+   "This carries unconscious proprioception to the cerebellum.",
+   "This is a descending motor pathway.",
+   "",
+   "This part of the dorsal columns carries upper limb proprioception and touch."
+  ],
+  "source": "October 2026 Recalls — Medicine — 8 Oct Paper 2",
+  "recallSet": "october-2026",
+  "recallPaper": "Medicine — 8 Oct Paper 2"
+ },
+ {
+  "systemSlug": "nervous-system",
+  "topicSlug": "peripheral-nerve-neuromuscular",
+  "stem": "A 55-year-old man has progressive weakness with muscle wasting, fasciculations and hyporeflexia in both arms. Plantar responses are flexor and sensation is normal. Where is the lesion?",
+  "options": [
+   "Corticospinal tract (upper motor neuron)",
+   "Anterior horn cells (lower motor neuron)",
+   "Dorsal columns",
+   "Neuromuscular junction",
+   "Muscle fibres"
+  ],
+  "correctIndex": 1,
+  "explanation": "Fasciculations, flaccid weakness, atrophy and hyporeflexia mean lower motor neuron disease, from the anterior horn cell (motor neuron disease, poliomyelitis) or its axon. UMN signs add spasticity and hyperreflexia, as in ALS. (First Aid — Neurology and Special Senses: Pathology: Motor neuron lesions)",
+  "optionExplanations": [
+   "UMN lesions cause spasticity, hyperreflexia and extensor plantars.",
+   "",
+   "These lesions cause loss of vibration and proprioception.",
+   "These lesions cause fatigable weakness without fasciculations or wasting.",
+   "Myopathies give proximal weakness without fasciculations, and reflexes are preserved until late."
+  ],
+  "source": "October 2026 Recalls — Medicine — 8 Oct Paper 2",
+  "recallSet": "october-2026",
+  "recallPaper": "Medicine — 8 Oct Paper 2"
+ },
+ {
+  "systemSlug": "hematology-oncology",
+  "topicSlug": "general-oncology-principles",
+  "stem": "A skin biopsy shows a tumour of the epidermis forming keratin pearls. Which intermediate filament protein is characteristic of epidermal squamous cells and used to identify such a tumour?",
+  "options": [
+   "Desmin",
+   "Glial fibrillary acidic protein",
+   "Neurofilaments",
+   "Vimentin",
+   "Keratin"
+  ],
+  "correctIndex": 4,
+  "explanation": "Epithelial cells express keratin, so squamous cell carcinoma and other carcinomas stain with cytokeratin. Mesenchymal cells use vimentin, muscle uses desmin, glia use GFAP and neurons use neurofilaments. (First Aid — Pathology: Cell structure: Intermediate filaments)",
+  "optionExplanations": [
+   "Desmin is found in muscle cells.",
+   "GFAP is the marker of astrocytes and glial tumours.",
+   "These are found in neurons.",
+   "Vimentin is found in connective tissue, fibroblasts and endothelial cells.",
+   ""
+  ],
+  "source": "October 2026 Recalls — Medicine — 8 Oct Paper 2",
+  "recallSet": "october-2026",
+  "recallPaper": "Medicine — 8 Oct Paper 2"
+ },
+ {
+  "systemSlug": "cardiovascular",
+  "topicSlug": "endocarditis-rheumatic-fever",
+  "stem": "A 58-year-old man with pancreatic adenocarcinoma and migratory thrombophlebitis develops a new murmur and embolic strokes. Blood cultures are negative and echocardiography shows small sterile vegetations along the valve closure lines. What is the diagnosis?",
+  "options": [
+   "Staphylococcus aureus infective endocarditis",
+   "Libman-Sacks endocarditis",
+   "Nonbacterial thrombotic (marantic) endocarditis",
+   "Acute rheumatic carditis",
+   "Carcinoid heart disease"
+  ],
+  "correctIndex": 2,
+  "explanation": "Nonbacterial thrombotic endocarditis produces sterile fibrin-platelet vegetations in hypercoagulable states such as mucin-secreting adenocarcinoma (Trousseau syndrome), causing systemic emboli. Treatment is heparin and treating the cancer. (First Aid — Cardiovascular: Pathology: Nonbacterial thrombotic endocarditis)",
+  "optionExplanations": [
+   "This causes large, friable, infected vegetations with positive blood cultures.",
+   "This is associated with SLE and vegetations on both sides of the valve leaflets.",
+   "",
+   "This causes small verrucous vegetations along closure lines with Aschoff bodies, in children after pharyngitis.",
+   "This causes right-sided plaque-like fibrosis of the tricuspid and pulmonary valves."
+  ],
+  "source": "October 2026 Recalls — Medicine — 8 Oct Paper 2",
+  "recallSet": "october-2026",
+  "recallPaper": "Medicine — 8 Oct Paper 2"
+ },
+ {
+  "systemSlug": "respiratory",
+  "topicSlug": "pulmonary-vascular-interstitial",
+  "stem": "A 62-year-old retired shipyard worker has progressive exertional dyspnoea, bibasal fine crackles and a restrictive spirometry pattern. Lung biopsy would most likely show which feature?",
+  "options": [
+   "Ferruginous (asbestos) bodies in lower-lobe fibrosis",
+   "Non-caseating granulomas with asteroid bodies in hilar nodes",
+   "Eggshell calcification of hilar nodes with silicotic nodules",
+   "Caseating granulomas in the lung apices",
+   "Anthracotic macrophages around upper-lobe bronchioles"
+  ],
+  "correctIndex": 0,
+  "explanation": "Asbestosis is lower-lobe interstitial fibrosis from asbestos exposure; histology shows golden-brown, beaded ferruginous (asbestos) bodies, fibres coated with iron-protein. It is associated with pleural plaques, bronchogenic carcinoma and mesothelioma. (First Aid — Respiratory: Pathology: Asbestosis)",
+  "optionExplanations": [
+   "",
+   "This is the picture of sarcoidosis.",
+   "This is typical of silicosis.",
+   "This is the picture of reactivation tuberculosis.",
+   "This is coal workers' pneumoconiosis, which affects the upper zones."
+  ],
+  "source": "October 2026 Recalls — Medicine — 8 Oct Evening",
+  "recallSet": "october-2026",
+  "recallPaper": "Medicine — 8 Oct Evening"
+ },
+ {
+  "systemSlug": "respiratory",
+  "topicSlug": "pulmonary-vascular-interstitial",
+  "stem": "Which is the most common pleural manifestation of asbestos exposure?",
+  "options": [
+   "Malignant mesothelioma",
+   "Diffuse pleural thickening of the visceral pleura",
+   "Pleural effusion with empyema",
+   "Pleural plaques",
+   "Pneumothorax"
+  ],
+  "correctIndex": 3,
+  "explanation": "Pleural plaques, benign collagenous thickening of the parietal pleura that spares the costophrenic angles and often calcifies, are the most frequent asbestos-related finding and need no treatment. (First Aid — Respiratory: Pathology: Asbestosis)",
+  "optionExplanations": [
+   "Mesothelioma is the most specific malignancy for asbestos but it is much rarer than plaques.",
+   "Diffuse thickening is less common and causes restriction.",
+   "Empyema is infective and is not a typical asbestos manifestation.",
+   "",
+   "This is not characteristic of asbestos disease."
+  ],
+  "source": "October 2026 Recalls — Medicine — 8 Oct Evening",
+  "recallSet": "october-2026",
+  "recallPaper": "Medicine — 8 Oct Evening"
+ },
+ {
+  "systemSlug": "respiratory",
+  "topicSlug": "lung-cancer-neoplasms",
+  "stem": "A 67-year-old former shipyard worker who smoked for decades is exposed to asbestos. Which malignancy is the most common asbestos-related cancer?",
+  "options": [
+   "Malignant pleural mesothelioma",
+   "Bronchogenic carcinoma",
+   "Laryngeal carcinoma",
+   "Oesophageal squamous cell carcinoma",
+   "Hepatocellular carcinoma"
+  ],
+  "correctIndex": 1,
+  "explanation": "Lung cancer is the most common malignancy attributable to asbestos, and its risk is multiplied in smokers. Mesothelioma is rarer, not related to smoking and has long latency. (First Aid — Respiratory: Pathology: Asbestos-related disease)",
+  "optionExplanations": [
+   "Mesothelioma is the most specific tumour for asbestos but is less common than lung cancer.",
+   "",
+   "This is linked to smoking and alcohol; asbestos association is weaker.",
+   "Not the commonest asbestos-related tumour.",
+   "Not related to asbestos exposure."
+  ],
+  "source": "October 2026 Recalls — Medicine — 8 Oct Evening",
+  "recallSet": "october-2026",
+  "recallPaper": "Medicine — 8 Oct Evening"
+ },
+ {
+  "systemSlug": "respiratory",
+  "topicSlug": "lung-cancer-neoplasms",
+  "stem": "A 62-year-old smoker has a central hilar mass. Biopsy shows small round blue cells with scant cytoplasm, nuclear moulding and crush artefact. Which immunohistochemical markers would be positive?",
+  "options": [
+   "CK5/6 and p40",
+   "Mucin positivity with gland formation",
+   "CD45 and CD20",
+   "S-100 and HMB-45",
+   "Chromogranin A and neuron-specific enolase"
+  ],
+  "correctIndex": 4,
+  "explanation": "Small cell carcinoma is a central tumour of neuroendocrine (Kulchitsky) cells, expressing chromogranin, synaptophysin, neuron-specific enolase and bombesin. It is strongly associated with smoking and responds to chemotherapy rather than surgery. (First Aid — Respiratory: Pathology: Small cell carcinoma)",
+  "optionExplanations": [
+   "These are markers of squamous cell carcinoma.",
+   "These features indicate adenocarcinoma.",
+   "These are B-lymphoma markers.",
+   "These are melanoma markers.",
+   ""
+  ],
+  "source": "October 2026 Recalls — Medicine — 8 Oct Evening",
+  "recallSet": "october-2026",
+  "recallPaper": "Medicine — 8 Oct Evening"
+ },
+ {
+  "systemSlug": "respiratory",
+  "topicSlug": "lung-cancer-neoplasms",
+  "stem": "Besides Lambert-Eaton myasthenic syndrome, which pair of paraneoplastic syndromes is classically associated with small cell lung cancer?",
+  "options": [
+   "Hypercalcaemia from PTHrP and hypertrophic osteoarthropathy",
+   "Erythrocytosis and hypertension",
+   "SIADH and ectopic ACTH secretion (Cushing syndrome)",
+   "Migratory thrombophlebitis and marantic endocarditis",
+   "Gynaecomastia and hypercalcaemia"
+  ],
+  "correctIndex": 2,
+  "explanation": "Small cell carcinoma ectopically secretes ADH (SIADH with hyponatraemia) and ACTH (Cushing syndrome), and causes Lambert-Eaton (anti-presynaptic calcium channel antibodies). (First Aid — Respiratory: Pathology: Paraneoplastic syndromes of lung cancer)",
+  "optionExplanations": [
+   "PTHrP is typical of squamous cell carcinoma.",
+   "These occur with renal cell carcinoma and hepatocellular carcinoma.",
+   "",
+   "These occur with pancreatic adenocarcinoma.",
+   "Large cell carcinoma may produce gynaecomastia; hypercalcaemia is typical of squamous cell carcinoma."
+  ],
+  "source": "October 2026 Recalls — Medicine — 8 Oct Evening",
+  "recallSet": "october-2026",
+  "recallPaper": "Medicine — 8 Oct Evening"
+ },
+ {
+  "systemSlug": "hematology-oncology",
+  "topicSlug": "bleeding-clotting-disorders",
+  "stem": "A 48-year-old woman with obstructive jaundice from a gallstone in the common bile duct has a prolonged prothrombin time. What is the most appropriate treatment to correct the coagulopathy?",
+  "options": [
+   "Parenteral vitamin K",
+   "Oral vitamin K without bile salts",
+   "Fresh frozen plasma routinely",
+   "Platelet transfusion",
+   "Tranexamic acid"
+  ],
+  "correctIndex": 0,
+  "explanation": "Cholestasis reduces bile salts and malabsorption of fat-soluble vitamins, including vitamin K, lowering factors II, VII, IX and X. Parenteral vitamin K corrects the PT within 24 hours if the liver synthetic function is intact. (First Aid — Hematology and Oncology: Physiology: Vitamin K)",
+  "optionExplanations": [
+   "",
+   "Without bile, fat-soluble vitamins are poorly absorbed, so parenteral administration is used.",
+   "FFP is reserved for active bleeding or urgent surgery; vitamin K is first.",
+   "Platelet count and function are not the problem.",
+   "This is an antifibrinolytic and does not correct a vitamin K deficiency."
+  ],
+  "source": "October 2026 Recalls — Medicine — 8 Oct Evening",
+  "recallSet": "october-2026",
+  "recallPaper": "Medicine — 8 Oct Evening"
+ },
+ {
+  "systemSlug": "gastrointestinal",
+  "topicSlug": "gi-physiology",
+  "stem": "Gastrin is released from G cells of the gastric antrum. Which action describes its main physiological effect?",
+  "options": [
+   "Stimulates pancreatic bicarbonate secretion and inhibits gastric acid (secretin)",
+   "Causes gallbladder contraction and pancreatic enzyme release (CCK)",
+   "Inhibits acid secretion by acting on G cells and parietal cells (somatostatin)",
+   "Raises parietal H+ secretion directly and via ECL histamine; trophic to mucosa",
+   "Initiates the migrating motor complex during fasting (motilin)"
+  ],
+  "correctIndex": 3,
+  "explanation": "Gastrin is stimulated by peptides and amino acids, gastric distension and vagal GRP; it increases acid secretion mainly via ECL histamine (H2) and has a trophic effect, with a role in increasing gastric motility. Excess in Zollinger-Ellison syndrome gives hypertrophic gastric folds. (First Aid — Gastrointestinal: Physiology: Gastrin)",
+  "optionExplanations": [
+   "This is the action of secretin.",
+   "This is the action of cholecystokinin.",
+   "This is the action of somatostatin.",
+   "",
+   "This is the role of motilin."
+  ],
+  "source": "October 2026 Recalls — Medicine — 8 Oct Evening",
+  "recallSet": "october-2026",
+  "recallPaper": "Medicine — 8 Oct Evening"
+ },
+ {
+  "systemSlug": "reproductive-health",
+  "topicSlug": "reproductive-anatomy-embryology",
+  "stem": "Why do varicoceles occur almost exclusively on the left side?",
+  "options": [
+   "The left testis lies lower and the left vein has no valves",
+   "The left vein enters the left renal vein at a right angle; the right enters the IVC obliquely",
+   "The left testicular artery crosses and compresses the vein",
+   "The right testicular vein drains into the right renal vein",
+   "The left spermatic cord is longer than the right"
+  ],
+  "correctIndex": 1,
+  "explanation": "The left testicular vein is longer and enters the left renal vein at a right angle, so pressure is transmitted more readily; the right vein drains obliquely into the IVC. Varicoceles feel like a 'bag of worms'. (First Aid — Reproductive: Anatomy: Testicular venous drainage)",
+  "optionExplanations": [
+   "Valve incompetence matters, but this does not explain the side predilection.",
+   "",
+   "Arterial compression is not the reason.",
+   "The right testicular vein drains directly into the IVC.",
+   "The left cord is slightly longer but this is not the principal reason."
+  ],
+  "source": "October 2026 Recalls — Medicine — 8 Oct Evening",
+  "recallSet": "october-2026",
+  "recallPaper": "Medicine — 8 Oct Evening"
+ },
+ {
+  "systemSlug": "reproductive-health",
+  "topicSlug": "reproductive-anatomy-embryology",
+  "stem": "A 62-year-old man has a new right-sided varicocele that does not decompress on lying down. What is the most important diagnosis to exclude?",
+  "options": [
+   "Epididymo-orchitis with reactive swelling",
+   "Testicular torsion of the spermatic cord",
+   "Indirect inguinal hernia",
+   "Hydrocele of the tunica vaginalis",
+   "A retroperitoneal mass such as renal cell carcinoma"
+  ],
+  "correctIndex": 4,
+  "explanation": "A sudden varicocele in an older man, especially right-sided or non-reducing when supine, suggests obstruction of venous drainage by a retroperitoneal mass, notably renal cell carcinoma invading the renal vein, or IVC thrombus. (First Aid — Reproductive: Pathology: Varicocele)",
+  "optionExplanations": [
+   "This causes a painful, tender epididymis and testis, not a persistent varicocele.",
+   "This causes acute severe pain in young males.",
+   "A hernia has a cough impulse and does not feel like a bag of worms.",
+   "A hydrocele transilluminates and does not feel like a bag of worms.",
+   ""
+  ],
+  "source": "October 2026 Recalls — Medicine — 8 Oct Evening",
+  "recallSet": "october-2026",
+  "recallPaper": "Medicine — 8 Oct Evening"
+ },
+ {
+  "systemSlug": "musculoskeletal",
+  "topicSlug": "connective-tissue-vasculitis",
+  "stem": "A 40-year-old HBsAg-positive man has hypertension, weight loss, mononeuritis multiplex and testicular pain. ANCA is negative. Angiography shows microaneurysms of renal arteries. Biopsy of the testicular artery would show which finding?",
+  "options": [
+   "Granulomatous inflammation with giant cells in the temporal artery",
+   "Leukocytoclastic vasculitis of small venules with nuclear dust",
+   "Fibrinoid necrosis of medium arteries at differing stages of healing",
+   "Necrotising granulomas of the respiratory tract and glomerulonephritis",
+   "Intimal proliferation of the aortic arch with granulomas"
+  ],
+  "correctIndex": 2,
+  "explanation": "Polyarteritis nodosa is a necrotising vasculitis of medium arteries with fibrinoid necrosis, segmental lesions of differing ages, spared lungs and an association with hepatitis B. It causes renal, GI, skin and nerve involvement. (First Aid — Musculoskeletal, Skin and Connective Tissue: Pathology: Polyarteritis nodosa)",
+  "optionExplanations": [
+   "This is the finding in giant cell arteritis.",
+   "This is hypersensitivity (small-vessel) vasculitis.",
+   "",
+   "This describes granulomatosis with polyangiitis.",
+   "This is Takayasu arteritis."
+  ],
+  "source": "October 2026 Recalls — Medicine — 8 Oct Evening",
+  "recallSet": "october-2026",
+  "recallPaper": "Medicine — 8 Oct Evening"
+ },
+ {
+  "systemSlug": "renal",
+  "topicSlug": "acute-kidney-injury",
+  "stem": "A renal transplant recipient has a rising creatinine 3 weeks after transplantation. Biopsy shows interstitial lymphocytic infiltrate with tubulitis. The graft responds to high-dose corticosteroids. What is the diagnosis?",
+  "options": [
+   "Acute cellular rejection (T-cell mediated)",
+   "Hyperacute antibody-mediated rejection",
+   "Chronic rejection with graft arteriopathy",
+   "Graft-versus-host disease",
+   "Recurrent diabetic nephropathy in the graft"
+  ],
+  "correctIndex": 0,
+  "explanation": "Acute cellular rejection occurs days to weeks (up to months) after transplant, mediated by recipient T cells against donor MHC, with lymphocytic infiltrate and tubulitis; it responds to steroids and calcineurin inhibitors. (First Aid — Immunology: Transplant rejection)",
+  "optionExplanations": [
+   "",
+   "This occurs within minutes to hours due to preformed antibodies and causes thrombosis.",
+   "This occurs over months to years with vascular fibrosis and arteriopathy.",
+   "This is donor T cells attacking the recipient, typical of bone marrow transplant.",
+   "This would not cause tubulitis and typically occurs years after transplant."
+  ],
+  "source": "October 2026 Recalls — Medicine — 8 Oct Evening",
+  "recallSet": "october-2026",
+  "recallPaper": "Medicine — 8 Oct Evening"
+ },
+ {
+  "systemSlug": "endocrine",
+  "topicSlug": "thyroid-disorders",
+  "stem": "A 40-year-old woman has a firm, painless goitre and hypothyroidism. Biopsy shows lymphocytic infiltrate with germinal centres and Hürthle cells, and anti-TPO antibodies are positive. By which hypersensitivity mechanism are thyroid follicular cells chiefly destroyed?",
+  "options": [
+   "Type I (IgE-mediated)",
+   "Type III (immune-complex deposition)",
+   "Direct viral cytopathic injury",
+   "Type IV (T-cell-mediated cytotoxicity)",
+   "Toxic iodine damage"
+  ],
+  "correctIndex": 3,
+  "explanation": "Hashimoto thyroiditis is an autoimmune disease with CD8+ T-cell-mediated destruction (type IV) of thyroid follicles, plus anti-TPO and anti-thyroglobulin antibodies; histology shows germinal centres and Hürthle cells. It predisposes to B-cell lymphoma. (First Aid — Endocrine: Pathology: Hashimoto thyroiditis)",
+  "optionExplanations": [
+   "This is the mechanism of allergy and anaphylaxis.",
+   "This is seen in serum sickness, SLE and PSGN.",
+   "A viral infection causes subacute (de Quervain) thyroiditis with granulomas, not Hashimoto thyroiditis.",
+   "",
+   "This is not the mechanism of destruction in Hashimoto thyroiditis."
+  ],
+  "source": "October 2026 Recalls — Medicine — 8 Oct Evening",
+  "recallSet": "october-2026",
+  "recallPaper": "Medicine — 8 Oct Evening"
+ },
+ {
+  "systemSlug": "microbiology",
+  "topicSlug": "antimicrobial-pharmacology",
+  "stem": "A 50-year-old alcoholic man develops an aspiration lung abscess several weeks after dental extraction, with foul-smelling sputum. Which antibiotic is appropriate against the likely anaerobic organisms?",
+  "options": [
+   "Gentamicin",
+   "Metronidazole",
+   "Ciprofloxacin",
+   "Aztreonam",
+   "Trimethoprim"
+  ],
+  "correctIndex": 1,
+  "explanation": "Anaerobic oral and aspiration infections (Prevotella, Fusobacterium, Peptostreptococcus) are treated with metronidazole, which is activated to toxic radicals only under anaerobic conditions, or clindamycin. Aminoglycosides are ineffective in anaerobes. (First Aid — Microbiology: Antimicrobials: Metronidazole)",
+  "optionExplanations": [
+   "Aminoglycosides need oxygen for uptake and are ineffective against anaerobes.",
+   "",
+   "Ciprofloxacin has poor activity against oral anaerobes.",
+   "Aztreonam covers only aerobic gram-negative rods and has no anaerobic cover.",
+   "Trimethoprim does not reliably cover oral anaerobes."
+  ],
+  "source": "October 2026 Recalls — Medicine — 8 Oct Evening",
+  "recallSet": "october-2026",
+  "recallPaper": "Medicine — 8 Oct Evening"
+ },
+ {
+  "systemSlug": "musculoskeletal",
+  "topicSlug": "bone-joint-infections",
+  "stem": "A 30-year-old woman has an infection of the flexor tendon sheath of the little finger. It spreads proximally through the carpal tunnel and into a deep space in the distal forearm anterior to pronator quadratus. What is this space?",
+  "options": [
+   "Thenar space",
+   "Midpalmar space",
+   "Quadrilateral space",
+   "Carpal tunnel itself",
+   "Space of Parona"
+  ],
+  "correctIndex": 4,
+  "explanation": "Infection of the little-finger sheath continues into the ulnar bursa and can burst into the space of Parona, deep to the flexor tendons and anterior to pronator quadratus. A 'horseshoe abscess' links the ulnar and radial bursae. (First Aid — Musculoskeletal, Skin and Connective Tissue: Anatomy: Hand infections)",
+  "optionExplanations": [
+   "This is a deep palmar space related to the thumb flexors.",
+   "This lies behind the flexor tendons of the middle, ring and little fingers within the palm.",
+   "This is in the posterior shoulder transmitting the axillary nerve.",
+   "The sheath passes through the carpal tunnel and ends in the forearm space.",
+   ""
+  ],
+  "source": "October 2026 Recalls — Medicine — 8 Oct Evening",
+  "recallSet": "october-2026",
+  "recallPaper": "Medicine — 8 Oct Evening"
+ },
+ {
+  "systemSlug": "musculoskeletal",
+  "topicSlug": "msk-pharmacology",
+  "stem": "Which statement correctly distinguishes the xanthine oxidase inhibitors used in gout?",
+  "options": [
+   "Febuxostat is a purine analogue and allopurinol is a non-purine inhibitor",
+   "Both drugs block URAT1 and increase renal urate excretion",
+   "Allopurinol is a purine analogue; febuxostat is non-purine and selective",
+   "Both are the drugs of choice to terminate an acute gout attack",
+   "Febuxostat is a colchicine-like microtubule inhibitor"
+  ],
+  "correctIndex": 2,
+  "explanation": "Allopurinol and its active metabolite oxypurinol inhibit xanthine oxidase and reduce urate production; febuxostat is a non-purine selective inhibitor. Both can precipitate acute flares at the start of therapy. (First Aid — Pharmacology: Musculoskeletal: Gout drugs)",
+  "optionExplanations": [
+   "This reverses the two agents.",
+   "This is the mechanism of uricosurics such as probenecid.",
+   "",
+   "Neither treats an acute attack; they may precipitate flares when started.",
+   "Colchicine inhibits microtubule polymerisation; febuxostat inhibits xanthine oxidase."
+  ],
+  "source": "October 2026 Recalls — Medicine — 8 Oct Evening",
+  "recallSet": "october-2026",
+  "recallPaper": "Medicine — 8 Oct Evening"
+ },
+ {
+  "systemSlug": "cardiovascular",
+  "topicSlug": "cardiac-electrophysiology-ecg",
+  "stem": "Which phase of the ventricular myocyte action potential corresponds to the T wave on the surface ECG?",
+  "options": [
+   "Phase 3 (rapid repolarisation due to potassium efflux)",
+   "Phase 0 (rapid upstroke due to sodium influx)",
+   "Phase 2 (plateau due to calcium influx)",
+   "Phase 4 (resting potential)",
+   "Phase 1 (early partial repolarisation)"
+  ],
+  "correctIndex": 0,
+  "explanation": "The T wave represents ventricular repolarisation (phase 3), when K+ efflux restores the resting potential. Abnormalities include peaked T waves in hyperkalaemia and inversion in ischaemia. (First Aid — Cardiovascular: Physiology: ECG and action potential)",
+  "optionExplanations": [
+   "",
+   "This corresponds to the QRS complex.",
+   "This corresponds to the ST segment.",
+   "This corresponds to the TP segment/isoelectric baseline.",
+   "This occurs within the QRS-ST junction (J point) and has no separate wave."
+  ],
+  "source": "October 2026 Recalls — Medicine — 8 Oct Evening",
+  "recallSet": "october-2026",
+  "recallPaper": "Medicine — 8 Oct Evening"
+ },
+ {
+  "systemSlug": "cardiovascular",
+  "topicSlug": "cardiac-electrophysiology-ecg",
+  "stem": "The ST segment on a surface ECG is normally isoelectric. Which electrical event does this represent?",
+  "options": [
+   "Ventricular repolarisation (phase 3)",
+   "Conduction through the AV node",
+   "Atrial depolarisation by the SA node",
+   "Plateau phase (phase 2) with all myocytes depolarised",
+   "Diastolic resting state of ventricular myocytes"
+  ],
+  "correctIndex": 3,
+  "explanation": "The ST segment is isoelectric because the whole ventricular myocardium is depolarised during the plateau (phase 2), so there is no net current flow. ST elevation or depression therefore indicates injury currents, as in infarction. (First Aid — Cardiovascular: Physiology: ECG)",
+  "optionExplanations": [
+   "This corresponds to the T wave.",
+   "This corresponds to the PR segment.",
+   "This corresponds to the P wave.",
+   "",
+   "This corresponds to the TP interval."
+  ],
+  "source": "October 2026 Recalls — Medicine — 8 Oct Evening",
+  "recallSet": "october-2026",
+  "recallPaper": "Medicine — 8 Oct Evening"
+ },
+ {
+  "systemSlug": "cardiovascular",
+  "topicSlug": "cardiomyopathy-pericardial-disease",
+  "stem": "A 52-year-old woman has fever, weight loss, a tumour 'plop' on auscultation and syncope when changing position. Echocardiography shows a pedunculated left atrial mass attached to the interatrial septum at the fossa ovalis. What is the definitive treatment?",
+  "options": [
+   "Long-term warfarin alone",
+   "Urgent surgical resection",
+   "Radiotherapy",
+   "Combination chemotherapy",
+   "Observation with annual echocardiography"
+  ],
+  "correctIndex": 1,
+  "explanation": "Atrial myxoma is the commonest primary cardiac tumour in adults, usually left atrial, causing obstruction, embolism and constitutional symptoms. Because of the risk of embolisation and sudden death, it is excised surgically. (First Aid — Cardiovascular: Pathology: Cardiac tumours)",
+  "optionExplanations": [
+   "Anticoagulation does not remove the tumour, which can embolise or obstruct the mitral valve.",
+   "",
+   "Myxomas are benign and not treated by radiation.",
+   "Chemotherapy has no role for a benign tumour.",
+   "Risk of embolism and sudden death makes surveillance unsafe."
+  ],
+  "source": "October 2026 Recalls — Medicine — 8 Oct Evening",
+  "recallSet": "october-2026",
+  "recallPaper": "Medicine — 8 Oct Evening"
+ },
+ {
+  "systemSlug": "microbiology",
+  "topicSlug": "virology",
+  "stem": "A nurse sustains a needlestick injury from a hollow-bore needle. Which source status carries the highest risk of transmission after percutaneous exposure?",
+  "options": [
+   "HBsAg-positive and HBeAg-negative (anti-HBe-positive) patient",
+   "Hepatitis C virus RNA-positive patient",
+   "HIV-positive patient",
+   "HBsAg-negative, anti-HBs-positive patient",
+   "HBsAg-positive and HBeAg-positive patient"
+  ],
+  "correctIndex": 4,
+  "explanation": "Hepatitis B is the most transmissible blood-borne virus; with an HBeAg-positive source the risk of clinical hepatitis is roughly 20-30% (higher seroconversion), compared with about 2% for HCV and 0.3% for HIV. Vaccination and HBIG are used for post-exposure prophylaxis. (First Aid — Microbiology: Virology: Hepatitis B virus)",
+  "optionExplanations": [
+   "Transmission risk is much lower when HBeAg is absent because viral load is lower.",
+   "Seroconversion risk after needlestick is about 2%.",
+   "Seroconversion risk is about 0.3%.",
+   "This patient is immune and is not infectious.",
+   ""
+  ],
+  "source": "October 2026 Recalls — Gynae — 8 Oct Evening",
+  "recallSet": "october-2026",
+  "recallPaper": "Gynae — 8 Oct Evening"
+ },
+ {
+  "systemSlug": "nervous-system",
+  "topicSlug": "headache-movement-disorders",
+  "stem": "A 75-year-old woman with progressive memory loss dies. Autopsy shows extracellular plaques that stain with Congo red and show apple-green birefringence. What is the main component of these plaques?",
+  "options": [
+   "Hyperphosphorylated tau protein",
+   "Alpha-synuclein",
+   "Beta-amyloid (A-beta) peptide",
+   "Protease-resistant prion protein",
+   "TDP-43"
+  ],
+  "correctIndex": 2,
+  "explanation": "Alzheimer disease has extracellular beta-amyloid plaques (from sequential cleavage of amyloid precursor protein by beta- and gamma-secretase) and intracellular tau neurofibrillary tangles, with cortical atrophy and loss of cholinergic neurons. (First Aid — Neurology and Special Senses: Pathology: Alzheimer disease)",
+  "optionExplanations": [
+   "Tau forms intracellular neurofibrillary tangles, not extracellular plaques.",
+   "This forms Lewy bodies in Parkinson disease.",
+   "",
+   "This causes spongiform change in Creutzfeldt-Jakob disease.",
+   "This accumulates in frontotemporal dementia and ALS."
+  ],
+  "source": "October 2026 Recalls — Gynae — 8 Oct Evening",
+  "recallSet": "october-2026",
+  "recallPaper": "Gynae — 8 Oct Evening"
+ },
+ {
+  "systemSlug": "nervous-system",
+  "topicSlug": "headache-movement-disorders",
+  "stem": "Patients with Down syndrome develop early-onset Alzheimer disease. The gene for amyloid precursor protein is located on which chromosome?",
+  "options": [
+   "Chromosome 21",
+   "Chromosome 14",
+   "Chromosome 19",
+   "Chromosome 1",
+   "Chromosome 17"
+  ],
+  "correctIndex": 0,
+  "explanation": "The APP gene is on chromosome 21, so trisomy 21 yields extra amyloid precursor protein and early plaque formation. PSEN1 (chromosome 14), PSEN2 (chromosome 1) and APOE e4 (chromosome 19) are other genetic factors. (First Aid — Neurology and Special Senses: Pathology: Alzheimer disease)",
+  "optionExplanations": [
+   "",
+   "Presenilin-1 (PSEN1) lies here and is the commonest cause of familial early-onset Alzheimer disease.",
+   "The APOE e4 allele is located here and is a risk factor.",
+   "Presenilin-2 is located on chromosome 1.",
+   "Tau (MAPT) is located here."
+  ],
+  "source": "October 2026 Recalls — Gynae — 8 Oct Evening",
+  "recallSet": "october-2026",
+  "recallPaper": "Gynae — 8 Oct Evening"
+ },
+ {
+  "systemSlug": "musculoskeletal",
+  "topicSlug": "msk-anatomy-embryology",
+  "stem": "After a fall on an outstretched hand, a scaphoid waist fracture is complicated by avascular necrosis of the proximal pole. Which vessel supplies most of the scaphoid, entering through its dorsal ridge distally?",
+  "options": [
+   "Superficial palmar branch of the radial artery",
+   "Anterior interosseous artery",
+   "Ulnar artery via the deep palmar arch",
+   "Dorsal carpal branch of the radial artery",
+   "Dorsal metacarpal arteries"
+  ],
+  "correctIndex": 3,
+  "explanation": "Most of the scaphoid (including the proximal pole) is supplied by retrograde flow from the dorsal carpal branch of the radial artery entering at the distal part; a fracture through the waist interrupts the supply to the proximal fragment. (First Aid — Musculoskeletal, Skin and Connective Tissue: Anatomy: Scaphoid fracture)",
+  "optionExplanations": [
+   "This supplies only the distal tubercle region.",
+   "This supplies the distal forearm and carpus dorsally via the dorsal arch but not the scaphoid directly.",
+   "This supplies other carpal bones, not the scaphoid.",
+   "",
+   "These supply the metacarpals and digits."
+  ],
+  "source": "October 2026 Recalls — Gynae — 8 Oct Evening",
+  "recallSet": "october-2026",
+  "recallPaper": "Gynae — 8 Oct Evening"
+ },
+ {
+  "systemSlug": "nervous-system",
+  "topicSlug": "neuroanatomy-embryology",
+  "stem": "After a motor vehicle accident, a man is blind in the right eye. When light is shone into the right eye, neither pupil constricts. When light is shone into the left eye, both pupils constrict. Where is the lesion?",
+  "options": [
+   "Right oculomotor nerve",
+   "Right optic nerve (afferent limb)",
+   "Optic chiasm",
+   "Left optic tract",
+   "Edinger-Westphal nucleus bilaterally"
+  ],
+  "correctIndex": 1,
+  "explanation": "A right optic nerve lesion (afferent limb) prevents the right eye from sending the signal, so no pupil constricts when light enters the right eye, but the left eye's light signal produces bilateral constriction (consensual response). This gives a relative afferent pupillary defect. (First Aid — Neurology and Special Senses: Ophthalmology: Pupillary light reflex)",
+  "optionExplanations": [
+   "An oculomotor lesion would leave the right pupil dilated and unreactive to light in either eye.",
+   "",
+   "A chiasmal lesion causes bitemporal hemianopia, not monocular blindness.",
+   "This gives a right homonymous hemianopia with intact pupils to direct light.",
+   "A bilateral efferent lesion would abolish the response of both pupils to light in either eye."
+  ],
+  "source": "October 2026 Recalls — Gynae — 8 Oct Evening",
+  "recallSet": "october-2026",
+  "recallPaper": "Gynae — 8 Oct Evening"
+ },
+ {
+  "systemSlug": "cardiovascular",
+  "topicSlug": "ischemic-heart-disease",
+  "stem": "A doctor advises a patient with fasting hypertriglyceridaemia to follow a low-fat diet. Which lipoprotein particle, assembled by enterocytes from dietary fat, is most directly reduced?",
+  "options": [
+   "Very-low-density lipoprotein",
+   "Low-density lipoprotein",
+   "High-density lipoprotein",
+   "Intermediate-density lipoprotein",
+   "Chylomicrons"
+  ],
+  "correctIndex": 4,
+  "explanation": "Chylomicrons are assembled in intestinal enterocytes from dietary triglycerides and cholesterol (apoB-48) and carry them via lymph to the blood. Lipoprotein lipase hydrolyses their triglyceride, so chylomicron production falls with dietary fat restriction. (First Aid — Biochemistry: Lipid metabolism: Lipoproteins)",
+  "optionExplanations": [
+   "VLDL is made in the liver and mainly carries endogenous triglycerides, influenced by carbohydrate.",
+   "LDL is formed from VLDL remnants in the circulation.",
+   "HDL is made in the liver and intestine and is not primarily reduced by a low-fat diet.",
+   "IDL is a VLDL remnant in the circulation.",
+   ""
+  ],
+  "source": "October 2026 Recalls — Gynae — 8 Oct Evening",
+  "recallSet": "october-2026",
+  "recallPaper": "Gynae — 8 Oct Evening"
+ }
+]

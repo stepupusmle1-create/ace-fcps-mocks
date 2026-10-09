@@ -385,30 +385,6 @@
  },
  {
   "systemSlug": "hematology-oncology",
-  "topicSlug": "transfusion-medicine",
-  "stem": "A 30-year-old man is brought after a road traffic accident with ongoing external bleeding, pulse 130/min and blood pressure 80/50 mmHg. He has received 1 L of warmed crystalloid with only transient response. Haemoglobin is 6.5 g/dL. What is the next best step in management?",
-  "options": [
-   "Platelet transfusion alone",
-   "Albumin 5% infusion",
-   "Transfuse packed red blood cells (with balanced plasma/platelets if bleeding is massive)",
-   "Wait for cross-matched blood before any other intervention, with no further fluid",
-   "A further 2 L of 0.9% saline"
-  ],
-  "correctIndex": 2,
-  "explanation": "A haemorrhaging, hypotensive patient with a haemoglobin of 6.5 g/dL who is a transient responder to crystalloid (class III–IV haemorrhage) needs early transfusion of packed red cells, with balanced plasma and platelets in massive transfusion and control of the bleeding source. Crystalloids are used only briefly. (Standard trauma/anaesthesia teaching; First Aid — Hematology and Oncology: Transfusion products)",
-  "optionExplanations": [
-   "Platelets are not the first priority; red cells and balanced products are given first in a bleeding, hypotensive patient.",
-   "Colloids do not carry oxygen and do not correct the anaemia of haemorrhage.",
-   "",
-   "Delaying treatment risks death; uncrossmatched or type-specific blood is used if needed.",
-   "Large volumes of crystalloid dilute clotting factors, cause acidosis and increase bleeding; the patient needs oxygen-carrying capacity."
-  ],
-  "source": "October 2026 Recalls — Anesthesia — 6 Oct Morning",
-  "recallSet": "october-2026",
-  "recallPaper": "Anesthesia — 6 Oct Morning"
- },
- {
-  "systemSlug": "hematology-oncology",
   "topicSlug": "bleeding-clotting-disorders",
   "stem": "During a major fluid resuscitation, a patient receives large volumes of a synthetic colloid and develops a bleeding diathesis with prolonged aPTT, low factor VIII activity and reduced von Willebrand factor function. Which fluid is most likely responsible?",
   "options": [
@@ -698,30 +674,6 @@
  {
   "systemSlug": "musculoskeletal",
   "topicSlug": "msk-anatomy-embryology",
-  "stem": "A 25-year-old rugby player has an anterior shoulder dislocation. After reduction he cannot abduct the arm beyond about 15 degrees, the deltoid contour is flattened, and there is loss of sensation over the lateral upper arm. Which nerve is injured?",
-  "options": [
-   "Long thoracic nerve",
-   "Axillary nerve",
-   "Radial nerve",
-   "Suprascapular nerve",
-   "Musculocutaneous nerve"
-  ],
-  "correctIndex": 1,
-  "explanation": "The axillary nerve (C5–C6) wraps around the surgical neck of the humerus and is injured in shoulder dislocations and surgical neck fractures. It supplies deltoid (abduction beyond the first 15° that supraspinatus initiates) and teres minor, with sensation over the ‘regimental badge’ area of the lateral upper arm. (First Aid — Musculoskeletal: Upper limb nerve injuries)",
-  "optionExplanations": [
-   "Causes winged scapula by paralysis of serratus anterior.",
-   "",
-   "Causes wrist drop and loss of sensation over the dorsal hand and posterior arm.",
-   "Injury weakens initiation of abduction (supraspinatus) and external rotation, but spares deltoid and sensation to the lateral arm.",
-   "Causes weak elbow flexion and sensory loss over the lateral forearm."
-  ],
-  "source": "October 2026 Recalls — Anesthesia — 6 Oct Morning",
-  "recallSet": "october-2026",
-  "recallPaper": "Anesthesia — 6 Oct Morning"
- },
- {
-  "systemSlug": "musculoskeletal",
-  "topicSlug": "msk-anatomy-embryology",
   "stem": "A 30-year-old man is brought after a high-speed car crash. His right leg is shortened, adducted and internally rotated. After closed reduction of a posterior hip dislocation he has foot drop and numbness of the lateral leg and dorsum of the foot, while knee extension is preserved. Which nerve is injured?",
   "options": [
    "Superior gluteal nerve",
@@ -810,30 +762,6 @@
    "At short lengths, filaments collide and overlap, which reduces tension.",
    "Fewer cross-bridges can form as overlap diminishes.",
    "No cross-bridges can form, so active tension is zero."
-  ],
-  "source": "October 2026 Recalls — Anesthesia — 6 Oct Morning",
-  "recallSet": "october-2026",
-  "recallPaper": "Anesthesia — 6 Oct Morning"
- },
- {
-  "systemSlug": "endocrine",
-  "topicSlug": "diabetes-mellitus",
-  "stem": "A 12-year-old boy is diagnosed with type 1 diabetes mellitus with anti-GAD antibodies. Which hypersensitivity mechanism chiefly causes the destruction of pancreatic beta cells?",
-  "options": [
-   "No immune mechanism: beta-cell loss is due to insulin resistance",
-   "Type III (immune complex) hypersensitivity",
-   "Type I (IgE-mediated) hypersensitivity",
-   "Type II (antibody-mediated cytotoxic) hypersensitivity",
-   "Type IV (cell-mediated, CD8+ T cell) hypersensitivity"
-  ],
-  "correctIndex": 4,
-  "explanation": "Type 1 diabetes is an autoimmune disease in which autoreactive CD8+ cytotoxic T cells (together with CD4+ T cells) destroy pancreatic islet beta cells in genetically susceptible individuals (HLA-DR3 and DR4). Autoantibodies (GAD65, insulin, islet cell) are markers of disease, not the main effector. (First Aid — Endocrine: Diabetes mellitus; Immunology: Hypersensitivity)",
-  "optionExplanations": [
-   "Insulin resistance characterises type 2 diabetes.",
-   "Seen in SLE and serum sickness, not in T1DM.",
-   "Mediates allergy and anaphylaxis through mast cell degranulation.",
-   "Antibody-mediated cell destruction as in autoimmune haemolysis; autoantibodies in T1DM are markers rather than the primary effector.",
-   ""
   ],
   "source": "October 2026 Recalls — Anesthesia — 6 Oct Morning",
   "recallSet": "october-2026",
@@ -1128,102 +1056,6 @@
   "recallPaper": "Anesthesia — 6 Oct Morning"
  },
  {
-  "systemSlug": "microbiology",
-  "topicSlug": "antimicrobial-pharmacology",
-  "stem": "Doxycycline is given to a 25-year-old woman with Chlamydia trachomatis infection. Which is its mechanism of action?",
-  "options": [
-   "Binds the 30S subunit and causes misreading of mRNA",
-   "Binds the 50S subunit and blocks translocation",
-   "Inhibits peptidyl transferase at the 50S subunit",
-   "Binds the 30S ribosomal subunit and blocks attachment of aminoacyl-tRNA to the A site",
-   "Binds the 50S subunit and prevents formation of the initiation complex"
-  ],
-  "correctIndex": 3,
-  "explanation": "Tetracyclines (including doxycycline) bind the 30S ribosomal subunit and prevent attachment of aminoacyl-tRNA to the acceptor (A) site, producing a bacteriostatic effect. They are contraindicated in pregnancy and in children because they deposit in bone and teeth. (First Aid — Pharmacology: Antimicrobials, Protein synthesis inhibitors)",
-  "optionExplanations": [
-   "Is the mechanism of aminoglycosides, which are bactericidal.",
-   "Is the mechanism of macrolides and clindamycin.",
-   "Is the mechanism of chloramphenicol.",
-   "",
-   "Is the mechanism of linezolid."
-  ],
-  "source": "October 2026 Recalls — Anesthesia — 6 Oct Morning",
-  "recallSet": "october-2026",
-  "recallPaper": "Anesthesia — 6 Oct Morning"
- },
- {
-  "systemSlug": "respiratory",
-  "topicSlug": "pleural-upper-airway",
-  "stem": "What type of epithelium lines the true vocal cords?",
-  "options": [
-   "Pseudostratified ciliated columnar epithelium",
-   "Simple columnar epithelium",
-   "Stratified squamous keratinised epithelium",
-   "Stratified squamous non-keratinised epithelium",
-   "Transitional epithelium"
-  ],
-  "correctIndex": 3,
-  "explanation": "The vocal folds are covered by stratified squamous non-keratinised epithelium that tolerates mechanical stress during phonation, while the rest of the laryngeal mucosa is pseudostratified ciliated columnar. Chronic irritation (smoking) predisposes to squamous metaplasia and carcinoma. (First Aid — Respiratory: Larynx histology)",
-  "optionExplanations": [
-   "Lines the rest of the larynx and trachea but not the vocal folds.",
-   "Lines the gastrointestinal tract.",
-   "Lines the skin and is not present on the vocal cords.",
-   "",
-   "Lines the urinary tract."
-  ],
-  "source": "October 2026 Recalls — Anesthesia — 6 Oct Morning",
-  "recallSet": "october-2026",
-  "recallPaper": "Anesthesia — 6 Oct Morning"
- },
- {
-  "systemSlug": "hematology-oncology",
-  "topicSlug": "anemia",
-  "stem": "A peripheral blood smear from a patient after splenectomy shows red cells containing small, round, dark purple inclusions. What do these Howell-Jolly bodies represent?",
-  "options": [
-   "Nuclear (DNA) remnants",
-   "Denatured, precipitated haemoglobin (Heinz bodies)",
-   "Malarial parasites",
-   "Iron granules within mitochondria (ring sideroblasts)",
-   "Aggregated ribosomal RNA (basophilic stippling)"
-  ],
-  "correctIndex": 0,
-  "explanation": "Howell-Jolly bodies are small remnants of nuclear DNA in erythrocytes, normally removed by the spleen, and therefore seen in asplenia or hyposplenism (also in sickle cell disease and severe megaloblastic anaemia). (First Aid — Hematology and Oncology: RBC inclusions)",
-  "optionExplanations": [
-   "",
-   "Require supravital stain and are seen in G6PD deficiency.",
-   "Plasmodium shows ring forms or trophozoites, with different morphology.",
-   "Seen in sideroblastic anaemia with Prussian blue stain.",
-   "Seen in lead poisoning and thalassaemia as multiple fine granules."
-  ],
-  "source": "October 2026 Recalls — Anesthesia — 6 Oct Morning",
-  "recallSet": "october-2026",
-  "recallPaper": "Anesthesia — 6 Oct Morning"
- },
- {
-  "systemSlug": "hematology-oncology",
-  "topicSlug": "hematology-pharmacology",
-  "stem": "A patient on warfarin has an elevated INR. Warfarin inhibits the synthesis of which clotting factors?",
-  "options": [
-   "II, VII, IX, X (and proteins C and S)",
-   "II, V, VII, X",
-   "V, VIII, XI, XII",
-   "I, V, VIII, XIII",
-   "VII, IX, X, XI"
-  ],
-  "correctIndex": 0,
-  "explanation": "Warfarin inhibits vitamin K epoxide reductase, blocking γ-carboxylation of factors II, VII, IX and X and the anticoagulant proteins C and S. It is monitored using the INR (extrinsic pathway) and is teratogenic. Factor VII has the shortest half-life, so protein C falls first, risking skin necrosis. (First Aid — Hematology and Oncology: Anticoagulants)",
-  "optionExplanations": [
-   "",
-   "Factor V is not vitamin K dependent (factor IX is).",
-   "Are not vitamin K dependent.",
-   "Are not vitamin K dependent.",
-   "Factor XI is not vitamin K dependent (factor II is)."
-  ],
-  "source": "October 2026 Recalls — Anesthesia — 6 Oct Morning",
-  "recallSet": "october-2026",
-  "recallPaper": "Anesthesia — 6 Oct Morning"
- },
- {
   "systemSlug": "hematology-oncology",
   "topicSlug": "bleeding-clotting-disorders",
   "stem": "A 22-year-old woman has menorrhagia and easy bruising. aPTT is prolonged with a low factor VIII level, and normal von Willebrand factor antigen and ristocetin cofactor activity, with no inhibitors. Her brother and maternal uncle have severe haemophilia A, and her mother is a carrier. Karyotype is 46,XX. What is the most likely explanation?",
@@ -1248,30 +1080,6 @@
   "recallPaper": "Anesthesia — 6 Oct Morning"
  },
  {
-  "systemSlug": "hematology-oncology",
-  "topicSlug": "anemia",
-  "stem": "A 45-year-old woman with macrocytic anaemia has raised serum homocysteine and normal methylmalonic acid (MMA) levels. What is the most likely deficiency?",
-  "options": [
-   "Vitamin C",
-   "Folate",
-   "Vitamin B12",
-   "Iron",
-   "Vitamin B6"
-  ],
-  "correctIndex": 1,
-  "explanation": "Folate is needed for converting homocysteine to methionine (with B12), so folate deficiency raises homocysteine only. B12 deficiency also impairs conversion of methylmalonyl-CoA to succinyl-CoA and raises MMA, which separates the two. (First Aid — Hematology and Oncology: Megaloblastic anaemias)",
-  "optionExplanations": [
-   "Causes scurvy with impaired collagen synthesis, not macrocytic anaemia.",
-   "",
-   "B12 deficiency raises both homocysteine and methylmalonic acid.",
-   "Gives a microcytic anaemia with normal homocysteine and MMA.",
-   "Causes sideroblastic anaemia and is not marked by this biochemical pattern."
-  ],
-  "source": "October 2026 Recalls — Anesthesia — 6 Oct Morning",
-  "recallSet": "october-2026",
-  "recallPaper": "Anesthesia — 6 Oct Morning"
- },
- {
   "systemSlug": "gastrointestinal",
   "topicSlug": "gi-physiology",
   "stem": "A man consumes a meal of sugarcane juice (sucrose) and milk (lactose). Which monosaccharides appear in his portal blood after digestion and absorption?",
@@ -1290,30 +1098,6 @@
    "Does not account for galactose from lactose.",
    "Glucose is released from both disaccharides.",
    ""
-  ],
-  "source": "October 2026 Recalls — Anesthesia — 6 Oct Morning",
-  "recallSet": "october-2026",
-  "recallPaper": "Anesthesia — 6 Oct Morning"
- },
- {
-  "systemSlug": "nervous-system",
-  "topicSlug": "neuroanatomy-embryology",
-  "stem": "A patient with their eyes closed cannot identify a key placed in the hand, though simple touch and pain sensation are intact. Which pathway is affected?",
-  "options": [
-   "Dorsal column–medial lemniscus pathway",
-   "Lateral spinothalamic tract",
-   "Lateral corticospinal tract",
-   "Anterior spinothalamic tract",
-   "Dorsal spinocerebellar tract"
-  ],
-  "correctIndex": 0,
-  "explanation": "Astereognosis (inability to recognise objects by touch) is due to the loss of fine discriminative touch, vibration and conscious proprioception, carried in the dorsal column–medial lemniscus pathway, or to a parietal cortical lesion. (First Aid — Neurology: Spinal cord tracts and lesions)",
-  "optionExplanations": [
-   "",
-   "Carries pain and temperature.",
-   "Is the motor pathway for voluntary movement.",
-   "Carries crude touch and pressure, which are intact.",
-   "Carries unconscious proprioception to the cerebellum."
   ],
   "source": "October 2026 Recalls — Anesthesia — 6 Oct Morning",
   "recallSet": "october-2026",
@@ -1386,30 +1170,6 @@
    "Causes ipsilateral oculomotor palsy with contralateral hemiparesis.",
    "Causes Wallenberg syndrome with crossed sensory loss and dysphagia, not tongue deviation or hemiparesis.",
    "Causes contralateral hemiparesis with abducens and facial nerve involvement, but not tongue deviation."
-  ],
-  "source": "October 2026 Recalls — Anesthesia — 6 Oct Morning",
-  "recallSet": "october-2026",
-  "recallPaper": "Anesthesia — 6 Oct Morning"
- },
- {
-  "systemSlug": "nervous-system",
-  "topicSlug": "neurophysiology",
-  "stem": "A 4-month-old boy has seizures, hypotonia, hypothermia and sparse, brittle ‘kinky’ hair, and a low serum copper and ceruloplasmin. Which defect is responsible?",
-  "options": [
-   "ATP7A copper-transporting ATPase defect with impaired intestinal copper absorption (Menkes disease)",
-   "Defective collagen type V synthesis",
-   "Cystathionine beta-synthase deficiency",
-   "Fibrillin-1 mutation",
-   "ATP7B copper-transporting ATPase defect with impaired biliary copper excretion"
-  ],
-  "correctIndex": 0,
-  "explanation": "Menkes disease is an X-linked recessive disorder of the copper-transporting ATPase ATP7A, causing impaired intestinal absorption and low copper-dependent enzyme activity (lysyl oxidase, dopamine β-hydroxylase), leading to kinky hair, hypotonia, neurodegeneration and vascular abnormalities. (First Aid — Biochemistry: Metal metabolism; Gastrointestinal: Copper)",
-  "optionExplanations": [
-   "",
-   "Causes classic Ehlers-Danlos syndrome.",
-   "Causes homocystinuria with lens dislocation and thrombosis.",
-   "Causes Marfan syndrome.",
-   "Is Wilson disease (hepatolenticular degeneration), which causes copper accumulation."
   ],
   "source": "October 2026 Recalls — Anesthesia — 6 Oct Morning",
   "recallSet": "october-2026",
@@ -1536,30 +1296,6 @@
   "recallPaper": "Anesthesia — 6 Oct Morning"
  },
  {
-  "systemSlug": "community-medicine-public-health",
-  "topicSlug": "biostatistics",
-  "stem": "A study of a COVID-19 vaccine records for each of 100,000 vaccinees whether or not a thrombotic event occurred (yes/no) and relates the proportion with events to the vaccine dose. What type of dose–response relationship is being described?",
-  "options": [
-   "Potency",
-   "Quantal dose–response (all-or-none response in a population)",
-   "Efficacy",
-   "Therapeutic index",
-   "Graded dose–response"
-  ],
-  "correctIndex": 1,
-  "explanation": "A quantal dose–response curve plots the percentage of a population showing an all-or-none response (event present or absent), and is used to define ED50, TD50 and LD50. Graded curves describe a continuous response in an individual or tissue. (First Aid — Pharmacology: Dose-response curves)",
-  "optionExplanations": [
-   "Describes the dose required to produce a given effect.",
-   "",
-   "Describes the maximal effect achievable with the drug.",
-   "Is the ratio of toxic dose to effective dose.",
-   "Describes the magnitude of response in an individual or tissue, e.g., blood pressure change."
-  ],
-  "source": "October 2026 Recalls — Anesthesia — 6 Oct Morning",
-  "recallSet": "october-2026",
-  "recallPaper": "Anesthesia — 6 Oct Morning"
- },
- {
   "systemSlug": "musculoskeletal",
   "topicSlug": "msk-physiology",
   "stem": "A 6-month-old infant has hypoketotic hypoglycaemia during fasting, hypotonia, cardiomyopathy and a very low plasma carnitine level. Which defect is the likely cause?",
@@ -1602,30 +1338,6 @@
    "Short-acting dihydropyridines may increase mortality in acute MI.",
    "Relieves pain but has no mortality benefit.",
    ""
-  ],
-  "source": "October 2026 Recalls — Anesthesia — 6 Oct Morning",
-  "recallSet": "october-2026",
-  "recallPaper": "Anesthesia — 6 Oct Morning"
- },
- {
-  "systemSlug": "cardiovascular",
-  "topicSlug": "cardiac-electrophysiology-ecg",
-  "stem": "A patient on long-term diuretics has a serum potassium of 2.4 mmol/L. Which ECG finding is characteristic?",
-  "options": [
-   "U waves",
-   "Sine-wave pattern",
-   "Short QT interval",
-   "Peaked T waves",
-   "Osborn (J) waves"
-  ],
-  "correctIndex": 0,
-  "explanation": "Hypokalaemia causes ST depression, T wave flattening, prominent U waves and prolonged QT, with a predisposition to arrhythmias including torsades de pointes. (First Aid — Cardiovascular: ECG changes in electrolyte abnormalities)",
-  "optionExplanations": [
-   "",
-   "Is a pre-arrest rhythm of severe hyperkalaemia.",
-   "Is seen in hypercalcaemia.",
-   "Are characteristic of hyperkalaemia.",
-   "Are seen in hypothermia."
   ],
   "source": "October 2026 Recalls — Anesthesia — 6 Oct Morning",
   "recallSet": "october-2026",
@@ -1841,30 +1553,6 @@
    "Is too high; this would be correct only if diastolic were about 80.",
    "Is too low; it would correspond to a pulse pressure of about 20.",
    "Results from averaging systolic and diastolic pressures, which is inaccurate because diastole occupies about two-thirds of the cardiac cycle.",
-   ""
-  ],
-  "source": "October 2026 Recalls — Anesthesia — 6 Oct Morning",
-  "recallSet": "october-2026",
-  "recallPaper": "Anesthesia — 6 Oct Morning"
- },
- {
-  "systemSlug": "nervous-system",
-  "topicSlug": "neuroanatomy-embryology",
-  "stem": "A patient has a lesion confined to the primary olfactory cortex (periamygdaloid and entorhinal cortex). Which deficit is most expected?",
-  "options": [
-   "Receptive aphasia",
-   "Hemisensory loss",
-   "Loss of taste on the anterior two-thirds of the tongue",
-   "Homonymous hemianopia",
-   "Loss of smell (anosmia)"
-  ],
-  "correctIndex": 4,
-  "explanation": "The primary olfactory cortex includes the piriform, periamygdaloid and entorhinal cortices. Olfaction is the only sense that bypasses the thalamus before reaching the cortex, and its lesions result in impaired smell perception. (First Aid — Neurology: Olfactory pathway; Limbic system)",
-  "optionExplanations": [
-   "Is due to a lesion of the dominant temporal lobe (Wernicke area).",
-   "Is due to thalamic or parietal damage.",
-   "Is carried by the chorda tympani from the facial nerve.",
-   "Is a visual pathway lesion.",
    ""
   ],
   "source": "October 2026 Recalls — Anesthesia — 6 Oct Morning",

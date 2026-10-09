@@ -1,0 +1,259 @@
+{
+ "remove": [
+  {
+   "stem": "A 60-year-old vegetarian has macrocytic anaemia with hypersegmented neutrophils. Serum homocysteine is raised but methylmalonic acid (MMA) is normal. Which deficiency is most likely?",
+   "recallPaper": "Surgery — 8 Oct Evening",
+   "keptStem": "A 52-year-old vegetarian presents with fatigue. His haemoglobin is 8.1 g/dL, MCV"
+  },
+  {
+   "stem": "A 45-year-old woman with macrocytic anaemia has raised serum homocysteine and normal methylmalonic acid (MMA) levels. What is the most likely deficiency?",
+   "recallPaper": "Anesthesia — 6 Oct Morning",
+   "keptStem": "A 52-year-old vegetarian presents with fatigue. His haemoglobin is 8.1 g/dL, MCV"
+  },
+  {
+   "stem": "A 6-year-old has jaundice, splenomegaly and a negative direct Coombs test. Blood film shows spherocytes. Which protein defect is responsible?",
+   "recallPaper": "Medicine — 8 Oct Morning",
+   "keptStem": "A 6-year-old boy has jaundice, splenomegaly and a family history of gallstones. "
+  },
+  {
+   "stem": "Doxycycline is given to a 25-year-old woman with Chlamydia trachomatis infection. Which is its mechanism of action?",
+   "recallPaper": "Anesthesia — 6 Oct Morning",
+   "keptStem": "A 24-year-old woman with moderate acne is started on doxycycline. Which describe"
+  },
+  {
+   "stem": "A 66-year-old man on long-term amiodarone for atrial fibrillation develops progressive dry cough and exertional dyspnoea. Pulmonary function tests show a restrictive pattern with reduced DLCO. Which adverse effect is this?",
+   "recallPaper": "Medicine — 8 Oct Morning",
+   "keptStem": "A 64-year-old man with atrial fibrillation has taken amiodarone for 8 months. He"
+  },
+  {
+   "stem": "A study of a COVID-19 vaccine records for each of 100,000 vaccinees whether or not a thrombotic event occurred (yes/no) and relates the proportion with events to the vaccine dose. What type of dose–response relationship is being described?",
+   "recallPaper": "Anesthesia — 6 Oct Morning",
+   "keptStem": "In a study of a new vaccine, the investigators record whether each participant d"
+  },
+  {
+   "stem": "A pedigree shows that a hypertrophic cardiomyopathy phenotype affects both men and women in successive generations, and an affected father has passed it to his son. What is the mode of inheritance?",
+   "recallPaper": "Medicine & Allied — 6 Oct Evening",
+   "keptStem": "A 19-year-old footballer collapses and dies during a match. Autopsy shows an asy"
+  },
+  {
+   "stem": "Type 1 diabetes mellitus results from destruction of pancreatic beta cells in a genetically susceptible individual. The islet infiltrate is composed mainly of CD8+ cytotoxic T cells. Which hypersensitivity type best describes this destruction?",
+   "recallPaper": "Medicine & Allied — 7 Oct Morning",
+   "keptStem": "A 14-year-old boy presents with polyuria, weight loss, and ketoacidosis. Islet h"
+  },
+  {
+   "stem": "A 12-year-old boy is diagnosed with type 1 diabetes mellitus with anti-GAD antibodies. Which hypersensitivity mechanism chiefly causes the destruction of pancreatic beta cells?",
+   "recallPaper": "Anesthesia — 6 Oct Morning",
+   "keptStem": "A 14-year-old boy presents with polyuria, weight loss, and ketoacidosis. Islet h"
+  },
+  {
+   "stem": "A 24-year-old footballer falls on his outstretched hand and has persistent tenderness in the anatomical snuffbox. Plain films show a fracture through the waist of the scaphoid. Avascular necrosis is most likely to affect which part?",
+   "recallPaper": "Medicine & Allied — 7 Oct Morning",
+   "keptStem": "A 30-year-old man had a fracture through the waist of the scaphoid that was miss"
+  },
+  {
+   "stem": "A 20-year-old man with fever, nausea and vomiting reports that his pain began as a dull ache around the umbilicus and, over 12 hours, moved to the right iliac fossa where he is now tender at McBurney's point with rebound. Acute appendicitis is suspected. What best explains the initial periumbilical pain?",
+   "recallPaper": "Medicine & Allied — 7 Oct Morning",
+   "keptStem": "A 17-year-old boy has vague pain around the umbilicus that later localises to th"
+  },
+  {
+   "stem": "A patient with early acute appendicitis feels vague pain around the umbilicus. At which spinal level is this visceral pain referred?",
+   "recallPaper": "Radiology — 7 Oct Evening",
+   "keptStem": "A 17-year-old boy has vague pain around the umbilicus that later localises to th"
+  },
+  {
+   "stem": "A 58-year-old man with long-standing gastroesophageal reflux has biopsy-proven Barrett esophagus. Which malignancy is he at increased risk of?",
+   "recallPaper": "Surgery — 7 Oct Afternoon",
+   "keptStem": "A 56-year-old obese man with 15 years of GERD undergoes endoscopy, which shows s"
+  },
+  {
+   "stem": "A 50-year-old alcoholic man has diarrhea, a photosensitive dermatitis over the neck and confusion. Which vitamin is deficient?",
+   "recallPaper": "Surgery — 7 Oct Afternoon",
+   "keptStem": "In a rural area, a 45-year-old man whose diet consists almost entirely of maize "
+  },
+  {
+   "stem": "A 30-year-old woman with a diet rich in citrus fruit and vegetables is told her intake of a water-soluble antioxidant vitamin is adequate. Which vitamin acts as a major aqueous-phase antioxidant and regenerates oxidized vitamin E?",
+   "recallPaper": "Surgery — 7 Oct Afternoon",
+   "keptStem": "A 45-year-old smoker is advised to increase intake of a water-soluble vitamin th"
+  },
+  {
+   "stem": "A patient on long-term diuretics has a serum potassium of 2.4 mmol/L. Which ECG finding is characteristic?",
+   "recallPaper": "Anesthesia — 6 Oct Morning",
+   "keptStem": "A 40-year-old woman on furosemide has muscle weakness and palpitations. ECG show"
+  },
+  {
+   "stem": "A 6-year-old boy has periorbital swelling, 4+ proteinuria, serum albumin 1.6 g/dL and normal blood pressure. What is the primary mechanism of his oedema?",
+   "recallPaper": "Medicine — 8 Oct Morning",
+   "keptStem": "A child with nephrotic syndrome has marked periorbital and pedal edema. What is "
+  },
+  {
+   "stem": "A 4-year-old boy has a testicular mass and elevated serum alpha-fetoprotein. Which tumor marker pattern and tumor are most consistent?",
+   "recallPaper": "Radiology — 7 Oct Evening",
+   "keptStem": "A 19-year-old woman has a large solid adnexal mass. Serum alpha-fetoprotein is m"
+  },
+  {
+   "stem": "A peripheral blood smear from a patient after splenectomy shows red cells containing small, round, dark purple inclusions. What do these Howell-Jolly bodies represent?",
+   "recallPaper": "Anesthesia — 6 Oct Morning",
+   "keptStem": "A 22-year-old man has had a splenectomy after a road traffic accident. A periphe"
+  },
+  {
+   "stem": "Neutrophils leave the bloodstream at a site of acute inflammation in sequence: rolling, firm adhesion, and then diapedesis between endothelial cells. Which molecule mediates the final transmigration step?",
+   "recallPaper": "Medicine — 8 Oct Morning",
+   "keptStem": "During leukocyte extravasation, which molecule mediates transmigration (diapedes"
+  },
+  {
+   "stem": "A 32-year-old woman at term delivers a macrosomic baby after a prolonged oxytocin-augmented labour. The uterine fundus is soft and boggy, rising above the umbilicus, with heavy dark bleeding and clots immediately after delivery of the placenta, which is complete. There are no vaginal or cervical tears. What is the most likely cause of her haemorrhage?",
+   "recallPaper": "Medicine & Allied — 7 Oct Morning",
+   "keptStem": "A 30-year-old multiparous woman delivers a macrosomic infant after a prolonged l"
+  },
+  {
+   "stem": "A 32-year-old hypertensive woman at 35 weeks' gestation presents with sudden, continuous, severe lower abdominal pain and dark vaginal bleeding. The uterus is tender and hard, and fetal heart tones show late decelerations. What is the most likely diagnosis?",
+   "recallPaper": "Radiology — 7 Oct Evening",
+   "keptStem": "A 33-year-old woman at 35 weeks gestation presents with sudden severe lower abdo"
+  },
+  {
+   "stem": "A 32-year-old woman at 34 weeks presents with sudden severe constant abdominal pain and dark vaginal bleeding. The uterus is hard and tender, and fetal heart rate decelerations are present. She has chronic hypertension. What is the likely diagnosis?",
+   "recallPaper": "Gynae — 8 Oct Evening",
+   "keptStem": "A 33-year-old woman at 35 weeks gestation presents with sudden severe lower abdo"
+  },
+  {
+   "stem": "A woman has atonic postpartum hemorrhage that continues despite oxytocin, ergometrine, carboprost and balloon tamponade. At laparotomy, which conservative surgical devascularization step is generally performed first?",
+   "recallPaper": "Surgery — 7 Oct Afternoon",
+   "keptStem": "Atonic postpartum haemorrhage continues despite oxytocin, ergometrine, misoprost"
+  },
+  {
+   "stem": "A patient on warfarin has an elevated INR. Warfarin inhibits the synthesis of which clotting factors?",
+   "recallPaper": "Anesthesia — 6 Oct Morning",
+   "keptStem": "A newborn who did not receive prophylaxis at birth presents on day 5 with umbili"
+  },
+  {
+   "stem": "A 22-year-old man is hit on the side of the head with a bat, loses consciousness briefly, recovers, then deteriorates after a lucid interval. CT shows a biconvex hyperdense collection. Which vessel is most likely torn?",
+   "recallPaper": "Radiology — 7 Oct Evening",
+   "keptStem": "A 22-year-old man is struck on the side of the head. He briefly loses consciousn"
+  },
+  {
+   "stem": "Following a fracture of the surgical neck of the humerus, a patient cannot abduct the arm beyond 15 degrees and has numbness over the lateral upper arm. Which nerve is injured?",
+   "recallPaper": "Surgery — 7 Oct Afternoon",
+   "keptStem": "A 70-year-old woman falls on her outstretched arm and sustains a fracture of the"
+  },
+  {
+   "stem": "A 25-year-old rugby player has an anterior shoulder dislocation. After reduction he cannot abduct the arm beyond about 15 degrees, the deltoid contour is flattened, and there is loss of sensation over the lateral upper arm. Which nerve is injured?",
+   "recallPaper": "Anesthesia — 6 Oct Morning",
+   "keptStem": "A 70-year-old woman falls on her outstretched arm and sustains a fracture of the"
+  },
+  {
+   "stem": "A man has severe throat and ear pain on swallowing, loss of the gag reflex on the left and loss of sensation from the left tonsil and posterior one-third of the tongue. Which nerve is involved?",
+   "recallPaper": "Surgery — 7 Oct Afternoon",
+   "keptStem": "A patient has an absent gag reflex on the right with loss of sensation over the "
+  },
+  {
+   "stem": "A patient with their eyes closed cannot identify a key placed in the hand, though simple touch and pain sensation are intact. Which pathway is affected?",
+   "recallPaper": "Anesthesia — 6 Oct Morning",
+   "keptStem": "With his eyes closed, a patient cannot recognise a number traced on his palm (im"
+  },
+  {
+   "stem": "A patient understands speech and follows commands but speaks haltingly with effort, using few words. Repetition is impaired. Where is the lesion?",
+   "recallPaper": "Gynae — 8 Oct Evening",
+   "keptStem": "A 65-year-old right-handed man after a left MCA stroke has slow, effortful, tele"
+  },
+  {
+   "stem": "A 4-month-old boy has seizures, hypotonia, hypothermia and sparse, brittle ‘kinky’ hair, and a low serum copper and ceruloplasmin. Which defect is responsible?",
+   "recallPaper": "Anesthesia — 6 Oct Morning",
+   "keptStem": "A 5-month-old boy has developmental regression, seizures, hypotonia, and sparse,"
+  },
+  {
+   "stem": "A patient has a lesion confined to the primary olfactory cortex (periamygdaloid and entorhinal cortex). Which deficit is most expected?",
+   "recallPaper": "Anesthesia — 6 Oct Morning",
+   "keptStem": "Damage to the piriform cortex and periamygdaloid area, the primary olfactory cor"
+  },
+  {
+   "stem": "In acute pancreatitis, white chalky deposits are found in the peripancreatic fat. What type of necrosis is this?",
+   "recallPaper": "Gynae — 8 Oct Evening",
+   "keptStem": "At laparotomy for acute pancreatitis, the surgeon sees chalky-white, opaque foci"
+  },
+  {
+   "stem": "A patient reports tingling in the thumb, index and middle fingers when the examiner taps over the volar wrist crease (Tinel sign). Which nerve is affected?",
+   "recallPaper": "Medicine — 8 Oct Anatomy",
+   "keptStem": "A 35-year-old typist has nocturnal tingling of the thumb, index and middle finge"
+  },
+  {
+   "stem": "A trauma patient has severe dyspnoea, hypotension, distended neck veins, absent breath sounds on the right and a deviated trachea. What is the next step?",
+   "recallPaper": "Gynae — 8 Oct Evening",
+   "keptStem": "A ventilated trauma patient suddenly becomes hypotensive and hypoxic with disten"
+  },
+  {
+   "stem": "When inserting a chest drain through an intercostal space, where should the needle or tube pass relative to the ribs, and why?",
+   "recallPaper": "Medicine — 8 Oct Anatomy",
+   "keptStem": "A thoracocentesis needle is to be inserted for a large pleural effusion. Where s"
+  },
+  {
+   "stem": "A 27-year-old woman with a positive pregnancy test presents with collapse, severe lower abdominal pain and shoulder-tip pain. Blood pressure is 80/50 mmHg and free fluid is seen in Morison pouch on FAST. What is the next step?",
+   "recallPaper": "Gynae — 8 Oct Evening",
+   "keptStem": "A 26-year-old woman, 7 weeks after her last period, collapses with sudden lower "
+  },
+  {
+   "stem": "A 16-year-old girl with short stature, webbed neck and primary amenorrhea has streak ovaries. Which karyotype is most likely?",
+   "recallPaper": "Surgery — 7 Oct Afternoon",
+   "keptStem": "A 15-year-old girl presents with primary amenorrhoea. She is 135 cm tall, has a "
+  },
+  {
+   "stem": "What type of epithelium lines the true vocal cords?",
+   "recallPaper": "Anesthesia — 6 Oct Morning",
+   "keptStem": "A 60-year-old man has a leukoplakic lesion on the free edge of the true vocal co"
+  },
+  {
+   "stem": "A 35-year-old woman has pelvic congestion syndrome and a duplex scan shows an incompetent left gonadal vein. The left ovarian vein drains directly into which vessel?",
+   "recallPaper": "Gynae — 7 Oct",
+   "keptStem": "A 25-year-old man has a left scrotal 'bag of worms' that is more prominent on st"
+  },
+  {
+   "stem": "A 70-year-old man dies 10 days after a middle cerebral artery territory ischaemic stroke. At autopsy the infarcted brain tissue is soft, with a cystic cavity. What type of necrosis is typical of this lesion?",
+   "recallPaper": "Medicine & Allied — 7 Oct Morning",
+   "keptStem": "A 68-year-old woman with a history of ischaemic stroke dies one week after the e"
+  },
+  {
+   "stem": "Brain tissue that has died after a cerebral infarct is later replaced by a fluid-filled cystic cavity. Which type of necrosis explains this?",
+   "recallPaper": "Medicine — 8 Oct Morning",
+   "keptStem": "A 68-year-old woman with a history of ischaemic stroke dies one week after the e"
+  },
+  {
+   "stem": "After a road traffic accident with cervical hyperextension and vertebral artery dissection, a man is deeply comatose with quadriparesis and pinpoint pupils. Which artery is occluded?",
+   "recallPaper": "Medicine — 8 Oct Anatomy",
+   "keptStem": "A 65-year-old hypertensive man abruptly collapses and is found in deep coma with"
+  },
+  {
+   "stem": "A researcher measures exposure and outcome simultaneously in a sample of 2,000 people at one point in time to estimate the prevalence of hypertension. What is this study design?",
+   "recallPaper": "Surgery — 7 Oct Afternoon",
+   "keptStem": "A school survey measures the proportion of 8-12 year olds with allergic rhinitis"
+  },
+  {
+   "stem": "Researchers visit 2000 adults in a village once, measuring smoking status and presence of chronic cough at the same time. Which study design is this, and what is the main measure obtained?",
+   "recallPaper": "Surgery — 8 Oct Evening",
+   "keptStem": "A school survey measures the proportion of 8-12 year olds with allergic rhinitis"
+  },
+  {
+   "stem": "A patient with obstetric DIC after abruption is bleeding and has a fibrinogen of 0.8 g/L. Which blood product most efficiently replaces the fibrinogen?",
+   "recallPaper": "Surgery — 7 Oct Afternoon",
+   "keptStem": "A woman with severe postpartum haemorrhage has been resuscitated with crystalloi"
+  },
+  {
+   "stem": "A 30-year-old man is brought after a road traffic accident with ongoing external bleeding, pulse 130/min and blood pressure 80/50 mmHg. He has received 1 L of warmed crystalloid with only transient response. Haemoglobin is 6.5 g/dL. What is the next best step in management?",
+   "recallPaper": "Anesthesia — 6 Oct Morning",
+   "keptStem": "A 30-year-old man is brought after a road traffic accident with heart rate 132/m"
+  },
+  {
+   "stem": "A 6-year-old unvaccinated boy has fever and a pruritic rash with 'dewdrops on a rose petal' vesicles on an erythematous base in crops of different stages. Which virus is responsible?",
+   "recallPaper": "Radiology — 7 Oct Evening",
+   "keptStem": "A 6-year-old child has fever and a rash of small vesicles on erythematous bases "
+  },
+  {
+   "stem": "A patient on long-term amiodarone develops fatigue, weight gain and raised TSH. Which mechanism best explains amiodarone-induced hypothyroidism?",
+   "recallPaper": "Medicine — 8 Oct Morning",
+   "keptStem": "A 60-year-old woman on long-term amiodarone is found to have fatigue, weight gai"
+  },
+  {
+   "stem": "Which of the following is a typical acute physiological response to ascent to high altitude?",
+   "recallPaper": "Gynae — 8 Oct Evening",
+   "keptStem": "A 28-year-old climber ascends rapidly to 4500 m. He is breathing rapidly and has"
+  }
+ ]
+}

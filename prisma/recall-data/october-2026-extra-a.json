@@ -1,0 +1,408 @@
+[
+ {
+  "systemSlug": "respiratory",
+  "topicSlug": "respiratory-physiology",
+  "stem": "A heated humidifier is used in the inspiratory limb of an ICU ventilator circuit. The monitor shows gas at the Y-piece at 37 °C with an absolute humidity of 44 mg H2O/L. How should this reading be interpreted?",
+  "options": [
+   "Gas at about 50% relative humidity, which is adequate only for short-term ventilation",
+   "Supersaturated gas that is carrying water droplets and should be cooled to avoid alveolar flooding",
+   "Fully saturated gas (100% relative humidity) at body temperature",
+   "Subphysiological humidity, similar to that provided by a heat-and-moisture exchanger, so the humidifier setting must be raised"
+  ],
+  "correctIndex": 2,
+  "explanation": "Saturated gas at 37 °C holds about 44 mg of water per litre, which equals 100% relative humidity; this is the ideal inspired condition for invasive ventilation because it matches the isothermic saturation boundary a few centimetres below the carina and protects the mucociliary escalator. Delivering gas that is hotter than body temperature adds no benefit and risks airway thermal injury. (First Aid — Respiratory: Physiology)",
+  "optionExplanations": [
+   "44 mg/L is the water content of fully saturated gas at 37 °C, so relative humidity is 100%, not 50%.",
+   "Saturation (100% RH) is the target; droplets form only if gas cools in the circuit (rainout), which this reading does not indicate.",
+   "",
+   "A heat-and-moisture exchanger delivers well below 44 mg/L; this value is already the physiological maximum at 37 °C."
+  ],
+  "source": "October 2026 Recalls — Anesthesia — 6 Oct Morning",
+  "recallSet": "october-2026",
+  "recallPaper": "Anesthesia — 6 Oct Morning"
+ },
+ {
+  "systemSlug": "community-medicine-public-health",
+  "topicSlug": "environmental-occupational-health",
+  "stem": "A 40-year-old man is under general anaesthesia with a laryngeal mask for excision of a facial skin lesion, with an oxygen-enriched gas mixture flowing. After induction the surgeon applies monopolar diathermy near the face and the oxygen-rich space under the surgical drape ignites; the drapes are on fire. The airway device is intact and not burning. Which immediate action at the patient is most appropriate?",
+  "options": [
+   "Stop airway gas flow and remove the drapes and burning material",
+   "Increase the fresh gas flow to blow the flames out",
+   "Remove the laryngeal mask and mask-ventilate with 100% oxygen",
+   "Spray a CO2 extinguisher directly onto the patient's face as the first step",
+   "Smother the flames with dry gauze while continuing the oxygen flow"
+  ],
+  "correctIndex": 0,
+  "explanation": "Fire needs an oxidiser, fuel, and an ignition source. In an operating-theatre fire not involving the airway, the immediate priority is to remove the oxidiser (stop the flow of oxygen/nitrous oxide) and the fuel (remove drapes and any burning material), then extinguish residual flames with saline and assess the patient. Fire extinguishers and evacuation are for fires that persist. (First Aid — Pharmacology: Anesthetics)",
+  "optionExplanations": [
+   "",
+   "A higher flow of oxygen-enriched gas feeds the fire and makes it worse.",
+   "The airway is not on fire; adding more oxygen near the burning field is hazardous and the airway device is not the problem.",
+   "Extinguishers are a second-line measure if the fire persists after removing the fuel and the oxidiser; the first step is to remove them.",
+   "The oxidiser must be cut off; continued oxygen flow sustains combustion beneath the gauze."
+  ],
+  "source": "October 2026 Recalls — Anesthesia — 6 Oct Morning",
+  "recallSet": "october-2026",
+  "recallPaper": "Anesthesia — 6 Oct Morning"
+ },
+ {
+  "systemSlug": "community-medicine-public-health",
+  "topicSlug": "environmental-occupational-health",
+  "stem": "During laser excision of a laryngeal papilloma under general anaesthesia, the surgeon sees a flash in the airway and the PVC tracheal tube is seen to be burning. Ventilation is with an oxygen-enriched mixture. What is the correct first action?",
+  "options": [
+   "Increase the oxygen flow to keep the patient oxygenated through the tube",
+   "Give a bolus of IV muscle relaxant, then proceed to tracheostomy",
+   "Inflate the cuff fully to isolate the fire from the lungs",
+   "Stop all airway gases and remove the tracheal tube immediately",
+   "Pass a bougie through the burning tube and railroad a new tube over it"
+  ],
+  "correctIndex": 3,
+  "explanation": "In an airway fire the sequence is to stop the flow of gases and remove the tracheal tube at once (and any airway sponges), then pour saline into the airway, re-establish the airway and ventilation, and examine the airway by bronchoscopy. Removing the tube takes away both fuel and oxidiser. (First Aid — Pharmacology: Anesthetics)",
+  "optionExplanations": [
+   "Oxygen through the burning tube is the oxidiser feeding an airway fire.",
+   "This delays removal of the burning source; a tracheostomy is not the first step.",
+   "The cuff does not stop an internal flame and a burning tube must come out rather than be sealed in.",
+   "",
+   "Leaving the burning tube in place continues the thermal injury; it must be removed first."
+  ],
+  "source": "October 2026 Recalls — Anesthesia — 6 Oct Morning",
+  "recallSet": "october-2026",
+  "recallPaper": "Anesthesia — 6 Oct Morning"
+ },
+ {
+  "systemSlug": "hematology-oncology",
+  "topicSlug": "hematology-pharmacology",
+  "stem": "A 55-year-old man with a mechanical aortic valve has had a stable INR of 2.8 on a fixed dose of warfarin. Two weeks after starting rifampicin for tuberculosis his INR falls to 1.2. Which mechanism best explains this change?",
+  "options": [
+   "Inhibition of hepatic cytochrome P450 enzymes, reducing warfarin metabolism",
+   "Induction of hepatic CYP450 enzymes, increasing warfarin clearance",
+   "Displacement of warfarin from albumin, increasing the free fraction",
+   "Reduced intestinal absorption of warfarin by rifampicin",
+   "Increased synthesis of vitamin K by gut flora"
+  ],
+  "correctIndex": 1,
+  "explanation": "Rifampicin is a potent inducer of CYP450 enzymes (CYP2C9, CYP3A4); it speeds warfarin metabolism so the INR falls and the dose must be increased, with the reverse happening when rifampicin is stopped. Other classic inducers are phenytoin, carbamazepine, barbiturates, St John's wort and chronic alcohol. (First Aid — Pharmacology: Cytochrome P-450 interactions)",
+  "optionExplanations": [
+   "Inhibition would raise warfarin levels and the INR, the opposite of what happened.",
+   "",
+   "Displacement would increase the anticoagulant effect and raise the INR.",
+   "Warfarin is almost completely absorbed and rifampicin does not meaningfully impair its absorption.",
+   "Rifampicin does not increase gut vitamin K production; the effect is enzymatic induction."
+  ],
+  "source": "October 2026 Recalls — Anesthesia — 6 Oct Morning",
+  "recallSet": "october-2026",
+  "recallPaper": "Anesthesia — 6 Oct Morning"
+ },
+ {
+  "systemSlug": "cardiovascular",
+  "topicSlug": "cardiac-pharmacology",
+  "stem": "A 66-year-old man who takes simvastatin 40 mg nightly is prescribed clarithromycin for community-acquired pneumonia. Five days later he has severe myalgia and dark urine and his CK is markedly raised. What is the most likely mechanism of this interaction?",
+  "options": [
+   "Induction of CYP3A4 by clarithromycin, producing toxic metabolites",
+   "Clarithromycin-induced renal failure reducing simvastatin clearance",
+   "Inhibition of CYP3A4 by clarithromycin, raising simvastatin levels",
+   "Competition with simvastatin for binding to plasma albumin",
+   "Direct additive inhibition of HMG-CoA reductase by the macrolide"
+  ],
+  "correctIndex": 2,
+  "explanation": "Clarithromycin and erythromycin are CYP3A4 inhibitors (like ketoconazole, ritonavir, cimetidine and grapefruit juice). Simvastatin is a CYP3A4 substrate, so its level rises and the risk of myopathy and rhabdomyolysis increases; the statin should be withheld during the course. (First Aid — Pharmacology: Cytochrome P-450 interactions)",
+  "optionExplanations": [
+   "Clarithromycin is an inhibitor, not an inducer; induction would lower statin levels.",
+   "Simvastatin is cleared by hepatic metabolism; the interaction is through CYP3A4, not renal clearance.",
+   "",
+   "Protein-binding displacement is not the mechanism of statin toxicity with macrolides.",
+   "Macrolides do not inhibit HMG-CoA reductase; the problem is raised simvastatin exposure."
+  ],
+  "source": "October 2026 Recalls — Anesthesia — 6 Oct Morning",
+  "recallSet": "october-2026",
+  "recallPaper": "Anesthesia — 6 Oct Morning"
+ },
+ {
+  "systemSlug": "nervous-system",
+  "topicSlug": "neuropharmacology",
+  "stem": "A 45-year-old man had a traumatic above-elbow amputation 6 weeks ago. He now has constant burning and episodic shooting pain felt in the absent hand. The stump is well healed with no tenderness, neuroma or infection. Which drug class is the most appropriate first-line pharmacological treatment?",
+  "options": [
+   "Regular oral ibuprofen taken three times daily",
+   "Oral diazepam at night as a muscle relaxant",
+   "A short course of oral prednisolone",
+   "Gabapentin or pregabalin",
+   "Regular paracetamol on its own"
+  ],
+  "correctIndex": 3,
+  "explanation": "Phantom limb pain is neuropathic pain arising from peripheral nerve and cortical reorganisation after deafferentation. Gabapentinoids (and tricyclic antidepressants) are first-line drugs, usually alongside non-drug measures such as mirror therapy and graded motor imagery. NSAIDs, simple analgesics, benzodiazepines and steroids are not effective. (First Aid — Neurology: Neuropharmacology)",
+  "optionExplanations": [
+   "The pain is neuropathic and deafferentation-related; NSAIDs have little effect.",
+   "Benzodiazepines are not effective for neuropathic pain and cause sedation and dependence.",
+   "Steroids do not treat phantom limb pain.",
+   "",
+   "Simple analgesics are inadequate for neuropathic phantom limb pain."
+  ],
+  "source": "October 2026 Recalls — Anesthesia — 6 Oct Morning",
+  "recallSet": "october-2026",
+  "recallPaper": "Anesthesia — 6 Oct Morning"
+ },
+ {
+  "systemSlug": "nervous-system",
+  "topicSlug": "neuroanatomy-embryology",
+  "stem": "A 62-year-old right-handed man has had a stroke. His speech is fluent with normal articulation, and comprehension and repetition are intact. He cannot perform simple arithmetic, cannot write a sentence, cannot tell right from left, and cannot name the fingers of his own hand. Which lesion best explains this picture?",
+  "options": [
+   "Left inferior frontal gyrus (Broca area)",
+   "Dominant angular gyrus (inferior parietal lobule)",
+   "Left posterior superior temporal gyrus (Wernicke area)",
+   "Right parietal lobe",
+   "Left arcuate fasciculus"
+  ],
+  "correctIndex": 1,
+  "explanation": "The combination of acalculia, agraphia, finger agnosia and left-right disorientation is Gerstmann syndrome, localising to the dominant angular gyrus (inferior parietal lobule). Language fluency, comprehension and repetition are preserved, which excludes Broca, Wernicke and conduction aphasia. (First Aid — Neurology: Neuroanatomy and localising lesions)",
+  "optionExplanations": [
+   "Broca lesions cause non-fluent, effortful speech with impaired repetition, not acalculia and finger agnosia.",
+   "",
+   "Wernicke lesions cause fluent but meaningless speech with impaired comprehension, which is absent here.",
+   "Right parietal lesions cause neglect and constructional apraxia, not the dominant-hemisphere Gerstmann tetrad.",
+   "Arcuate fasciculus lesions cause conduction aphasia with impaired repetition only."
+  ],
+  "source": "October 2026 Recalls — Medicine & Allied — 6 Oct Evening",
+  "recallSet": "october-2026",
+  "recallPaper": "Medicine & Allied — 6 Oct Evening"
+ },
+ {
+  "systemSlug": "microbiology",
+  "topicSlug": "gram-positive-bacteria",
+  "stem": "A 46-year-old man has 8 months of steatorrhoea, weight loss, migratory non-deforming arthralgia, low-grade fever, generalised lymphadenopathy and patchy skin hyperpigmentation. Duodenal biopsy shows blunted villi with a lamina propria packed with foamy macrophages that are PAS-positive and acid-fast negative. Which is the causative organism?",
+  "options": [
+   "Tropheryma whipplei",
+   "Mycobacterium avium-intracellulare",
+   "Giardia lamblia",
+   "Mycobacterium tuberculosis",
+   "Campylobacter jejuni"
+  ],
+  "correctIndex": 0,
+  "explanation": "Whipple disease is caused by Tropheryma whipplei, an actinomycete; chronic diarrhoea and malabsorption with arthralgia, fever, lymphadenopathy and hyperpigmentation are characteristic, and biopsy shows PAS-positive, acid-fast-negative foamy macrophages. Treatment is ceftriaxone followed by prolonged co-trimoxazole. In contrast, coeliac-associated dermatitis herpetiformis produces itchy vesicles and SLE does not cause foamy macrophages in the gut. (First Aid — Microbiology: Gram-positive bacteria)",
+  "optionExplanations": [
+   "",
+   "It also produces PAS-positive macrophages in immunodeficiency, but the organisms are acid-fast positive, unlike here.",
+   "Giardia causes malabsorption with trophozoites on the villous surface and no macrophage infiltration or arthralgia.",
+   "Tuberculosis causes caseating granulomas that are acid-fast positive, not foamy PAS-positive macrophages.",
+   "Campylobacter causes acute, self-limited bloody diarrhoea rather than chronic malabsorption."
+  ],
+  "source": "October 2026 Recalls — Medicine & Allied — 6 Oct Evening",
+  "recallSet": "october-2026",
+  "recallPaper": "Medicine & Allied — 6 Oct Evening"
+ },
+ {
+  "systemSlug": "gastrointestinal",
+  "topicSlug": "gi-pharmacology",
+  "stem": "A 4-year-old girl is brought to the emergency department 90 minutes after swallowing several of her mother's travel-diarrhoea tablets (diphenoxylate with atropine). She is drowsy with a respiratory rate of 6/min, pinpoint pupils and SpO2 of 88% in air. Which is the most appropriate specific treatment after airway support?",
+  "options": [
+   "Intravenous naloxone, repeated or by infusion as required",
+   "Intravenous flumazenil",
+   "Intravenous physostigmine to reverse the atropine component",
+   "Oral activated charcoal alone, with observation",
+   "Intravenous N-acetylcysteine"
+  ],
+  "correctIndex": 0,
+  "explanation": "Diphenoxylate is a meperidine-related opioid; toxic ingestion in a young child causes the opioid toxidrome of coma, miosis and respiratory depression (with some anticholinergic features from atropine). Naloxone reverses the respiratory depression, and because diphenoxylate's metabolite has a longer action than naloxone, repeated doses or an infusion and prolonged observation (at least 24 hours) are needed. (First Aid — Pharmacology: Opioid analgesics and Gastrointestinal drugs)",
+  "optionExplanations": [
+   "",
+   "Flumazenil reverses benzodiazepines, not opioids, and may precipitate seizures.",
+   "The life-threatening effect here is opioid-induced respiratory depression; physostigmine is not the specific treatment.",
+   "Charcoal cannot be given safely to a drowsy child with respiratory depression and does not reverse the toxidrome.",
+   "N-acetylcysteine treats paracetamol toxicity and has no role here."
+  ],
+  "source": "October 2026 Recalls — Medicine & Allied — 6 Oct Evening",
+  "recallSet": "october-2026",
+  "recallPaper": "Medicine & Allied — 6 Oct Evening"
+ },
+ {
+  "systemSlug": "hematology-oncology",
+  "topicSlug": "general-oncology-principles",
+  "stem": "An 8-month-old boy has irritability, weight loss and bone pain. A firm, nodular, fixed abdominal mass is felt that crosses the midline, and he has periorbital ecchymoses. Plain abdominal film shows stippled calcification and urinary homovanillic acid and vanillylmandelic acid are raised. What is the most likely diagnosis?",
+  "options": [
+   "Wilms tumour",
+   "Hepatoblastoma",
+   "Burkitt lymphoma",
+   "Neuroblastoma",
+   "Polycystic kidney disease"
+  ],
+  "correctIndex": 3,
+  "explanation": "Neuroblastoma arises from neural crest cells of the adrenal medulla or sympathetic chain, usually in children under 5 years; it crosses the midline, calcifies, secretes catecholamines (raised HVA/VMA), and can cause periorbital ecchymoses from orbital metastases. N-myc amplification predicts poor prognosis. Wilms tumour typically presents later with a smooth flank mass that does not cross the midline. (First Aid — Hematology and Oncology: Pediatric malignancies)",
+  "optionExplanations": [
+   "Wilms tumour occurs at a median age of about 3 years, as a smooth unilateral flank mass that rarely crosses the midline, and does not raise urinary catecholamines.",
+   "It arises from the liver, raises alpha-fetoprotein, and does not produce catecholamine metabolites.",
+   "It causes rapidly growing abdominal masses in older children with a starry-sky histology, and catecholamines are normal.",
+   "",
+   "It causes bilateral renal enlargement without catecholamine excess, periorbital ecchymoses or calcification."
+  ],
+  "source": "October 2026 Recalls — Medicine & Allied — 6 Oct Evening",
+  "recallSet": "october-2026",
+  "recallPaper": "Medicine & Allied — 6 Oct Evening"
+ },
+ {
+  "systemSlug": "hematology-oncology",
+  "topicSlug": "bleeding-clotting-disorders",
+  "stem": "A farmer in Sindh is brought to hospital 3 hours after being bitten on the foot by a snake that he identifies as a saw-scaled viper. The leg is swollen, he has bleeding gums, and the 20-minute whole-blood clotting test is unclotted. Which venom action best explains his bleeding?",
+  "options": [
+   "Postsynaptic blockade of nicotinic acetylcholine receptors by alpha-neurotoxins",
+   "Presynaptic inhibition of acetylcholine release by phospholipase A2 neurotoxins",
+   "Direct stimulation of heparin release from mast cells",
+   "Procoagulant enzymes that activate factor X and prothrombin",
+   "Cardiotoxin-induced myocardial depolarisation"
+  ],
+  "correctIndex": 3,
+  "explanation": "Viper venoms (Echis, Russell's viper) contain procoagulant enzymes that activate factor X, prothrombin and fibrinogen, causing venom-induced consumptive coagulopathy with incoagulable blood, together with metalloproteinase haemorrhagins damaging vessels. The 20-minute whole-blood clotting test identifies the coagulopathy, and treatment is polyvalent antivenom. (First Aid — Pharmacology: Antidotes and toxicology)",
+  "optionExplanations": [
+   "This causes neuromuscular paralysis (cobra) and not a clotting defect.",
+   "This is the mechanism of krait neurotoxicity and produces paralysis, not unclotting blood.",
+   "Venom does not cause bleeding by releasing heparin; it consumes clotting factors.",
+   "",
+   "Cardiotoxins cause cytolysis and tissue necrosis in some elapids and do not explain the incoagulable blood."
+  ],
+  "source": "October 2026 Recalls — Medicine & Allied — 6 Oct Evening",
+  "recallSet": "october-2026",
+  "recallPaper": "Medicine & Allied — 6 Oct Evening"
+ },
+ {
+  "systemSlug": "nervous-system",
+  "topicSlug": "peripheral-nerve-neuromuscular",
+  "stem": "A man is bitten on the hand by a snake identified as an Indian cobra. Within hours there is local swelling with tissue necrosis, followed by bilateral ptosis, dysarthria and weakness of neck muscles; clotting studies are normal. Which venom component best explains the paralysis?",
+  "options": [
+   "Alpha-neurotoxin blocking postsynaptic nicotinic receptors",
+   "Beta-neurotoxin (phospholipase A2) that prevents presynaptic acetylcholine release",
+   "Metalloproteinase that degrades the neuromuscular junction basement membrane",
+   "Prothrombin activator that causes microvascular thrombosis of the brainstem",
+   "Sarafotoxin-mediated coronary vasoconstriction"
+  ],
+  "correctIndex": 0,
+  "explanation": "Cobra venom contains postsynaptic alpha-neurotoxins that competitively block nicotinic receptors at the neuromuscular junction, causing descending paralysis (ptosis, bulbar palsy, respiratory failure) plus local cytotoxic necrosis. Because the block is postsynaptic, anticholinesterases such as neostigmine (with atropine) can partly reverse it in addition to antivenom and ventilatory support. (First Aid — Pharmacology: Neuromuscular blockers and toxicology)",
+  "optionExplanations": [
+   "",
+   "This presynaptic mechanism is characteristic of krait venom, which usually causes minimal local signs.",
+   "Metalloproteinases cause haemorrhage and local damage in vipers, not paralysis.",
+   "Procoagulants cause a consumptive coagulopathy, which is excluded by the normal clotting studies.",
+   "Sarafotoxins (burrowing asps) are not responsible for cobra paralysis."
+  ],
+  "source": "October 2026 Recalls — Medicine & Allied — 6 Oct Evening",
+  "recallSet": "october-2026",
+  "recallPaper": "Medicine & Allied — 6 Oct Evening"
+ },
+ {
+  "systemSlug": "nervous-system",
+  "topicSlug": "stroke",
+  "stem": "A 24-year-old motorcyclist is brought in after a crash. He briefly lost consciousness at the scene, then talked normally for an hour, and then deteriorated to a GCS of 8 with a dilated right pupil. He has been intubated and ventilated. CT head shows a biconvex hyperdense collection under a right temporal bone fracture with 8 mm of midline shift. What is the most appropriate next step?",
+  "options": [
+   "Mannitol and observation with a repeat CT scan in 24 hours",
+   "Intravenous dexamethasone",
+   "Emergency craniotomy and evacuation of the haematoma",
+   "Lumbar puncture to relieve raised pressure",
+   "Anticonvulsant prophylaxis and ward-level neurological observation"
+  ],
+  "correctIndex": 2,
+  "explanation": "A lucid interval followed by deterioration with a lens-shaped (biconvex) hyperdense collection beneath a temporal fracture indicates an extradural haematoma from middle meningeal artery bleeding. With a decreased GCS, anisocoria and midline shift, urgent surgical evacuation (craniotomy) is life-saving and outcome is excellent if done promptly. (First Aid — Neurology: Intracranial hemorrhage)",
+  "optionExplanations": [
+   "Osmotherapy only temporises; with a large mass lesion and herniation signs, delay risks death.",
+   "Steroids are harmful in traumatic brain injury and do not treat an extradural haematoma.",
+   "",
+   "Lumbar puncture is contraindicated with a mass lesion and midline shift because of the risk of herniation.",
+   "Observation is inadequate for an expanding haematoma with a blown pupil."
+  ],
+  "source": "October 2026 Recalls — Medicine & Allied — 6 Oct Evening",
+  "recallSet": "october-2026",
+  "recallPaper": "Medicine & Allied — 6 Oct Evening"
+ },
+ {
+  "systemSlug": "endocrine",
+  "topicSlug": "thyroid-disorders",
+  "stem": "A 64-year-old woman has a long-standing multinodular goitre. When she raises both arms above her head for one minute she develops facial plethora, dyspnoea and mild stridor, with distended neck veins. Which mechanism explains this sign?",
+  "options": [
+   "Thoracic inlet venous obstruction by a retrosternal goitre",
+   "Bilateral compression of the recurrent laryngeal nerves",
+   "Pericardial constriction from thyroid infiltration",
+   "Compression of the sympathetic chain causing Horner syndrome",
+   "Paraneoplastic thyrotoxic hyperdynamic circulation"
+  ],
+  "correctIndex": 0,
+  "explanation": "Pemberton sign: elevating the arms narrows the thoracic inlet, wedging a retrosternal goitre and obstructing venous return from the head and neck, which produces facial congestion, distended neck veins and sometimes stridor. It indicates thoracic inlet obstruction and is an indication to consider thyroidectomy. (First Aid — Endocrine: Thyroid disorders)",
+  "optionExplanations": [
+   "",
+   "Recurrent laryngeal nerve compression causes hoarseness and cord paralysis, not positional facial plethora and venous distension.",
+   "Constrictive pericarditis does not arise from goitre and produces Kussmaul sign rather than arm-raising plethora.",
+   "Sympathetic compression causes ptosis, miosis and anhidrosis rather than facial congestion.",
+   "A hyperdynamic state does not produce positional venous obstruction."
+  ],
+  "source": "October 2026 Recalls — Medicine — 6 Oct Evening",
+  "recallSet": "october-2026",
+  "recallPaper": "Medicine — 6 Oct Evening"
+ },
+ {
+  "systemSlug": "reproductive-health",
+  "topicSlug": "labor-delivery-complications",
+  "stem": "A 27-year-old woman had an emergency caesarean section 8 days ago after a prolonged first stage of labour. The catheter was removed today and she is unable to void. She has suprapubic discomfort, a palpable bladder, and a bladder scan shows a residual volume of 900 mL; she passes small volumes of urine at intervals and there is no continuous leakage. She is afebrile with no flank pain, and urine dipstick is negative. What is the most likely cause?",
+  "options": [
+   "Vesicovaginal fistula from pressure necrosis of the bladder base",
+   "Ureteric injury during the caesarean section",
+   "Acute pyelonephritis with an obstructed ureter",
+   "Postoperative detrusor atony",
+   "Urethral stricture from prolonged catheterisation"
+  ],
+  "correctIndex": 3,
+  "explanation": "After prolonged labour and caesarean section, pressure and overdistension of the bladder, anaesthesia, pain and the catheter can cause detrusor atony, producing painful retention with a large post-void residual and overflow. Management is to recatheterise for 24-48 hours (or teach clean intermittent self-catheterisation) with a repeat trial; fistula and ureteric injury are differentiated by continuous leakage, flank pain or a urinoma. (First Aid — Reproductive: Postpartum complications)",
+  "optionExplanations": [
+   "A fistula presents with continuous painless leakage of urine and an empty bladder, not retention with a large residual volume.",
+   "This usually presents with flank pain, fever, urinoma or a leak, with the bladder still emptying; it does not cause bladder retention.",
+   "It would produce fever, flank pain and abnormal urinalysis, which are absent.",
+   "",
+   "Stricture is rare after catheterisation within one week and gives a weak stream rather than complete retention with overflow."
+  ],
+  "source": "October 2026 Recalls — Gynae — 7 Oct",
+  "recallSet": "october-2026",
+  "recallPaper": "Gynae — 7 Oct"
+ },
+ {
+  "systemSlug": "reproductive-health",
+  "topicSlug": "pregnancy-antenatal-care",
+  "stem": "A 33-year-old woman at 30 weeks of gestation conceived by in-vitro fertilisation. Transvaginal ultrasound with colour Doppler shows fetal vessels running through the membranes across the internal os, unsupported by placenta or umbilical cord; there is velamentous cord insertion. She is asymptomatic, membranes are intact and the CTG is normal. What is the best management plan?",
+  "options": [
+   "Steroids, then planned caesarean at 34-37 weeks before labour",
+   "Expectant management to 40 weeks with spontaneous labour and continuous CTG",
+   "Immediate caesarean section today",
+   "Induction of labour at 38 weeks with early amniotomy",
+   "Manage as an outpatient to 41 weeks and deliver vaginally if the cervix is closed"
+  ],
+  "correctIndex": 0,
+  "explanation": "Vasa previa is fetal vessels unprotected by cord or placenta lying over the internal os, associated with velamentous cord insertion, succenturiate lobe, low-lying placenta and IVF conception. When diagnosed antenatally, the plan is corticosteroids for lung maturity and an elective caesarean before labour or membrane rupture, usually between 34 and 37 weeks. Vaginal birth is contraindicated. (First Aid — Reproductive: Obstetric complications of placenta)",
+  "optionExplanations": [
+   "",
+   "The unprotected vessels can rupture with membrane rupture or labour, causing fetal exsanguination.",
+   "Delivery at 30 weeks for an asymptomatic woman exposes the baby to unnecessary prematurity; planned delivery is timed at 34-37 weeks.",
+   "Amniotomy and induction risk rupturing the aberrant vessels and are contraindicated.",
+   "Vaginal delivery is contraindicated in vasa previa."
+  ],
+  "source": "October 2026 Recalls — Gynae — 7 Oct",
+  "recallSet": "october-2026",
+  "recallPaper": "Gynae — 7 Oct"
+ },
+ {
+  "systemSlug": "reproductive-health",
+  "topicSlug": "labor-delivery-complications",
+  "stem": "A 31-year-old woman at 38 weeks has spontaneous rupture of membranes followed immediately by painless fresh vaginal bleeding. The uterus is soft and non-tender. The CTG shows a fetal heart rate of 70 beats/min with loss of variability. Which is the best next step?",
+  "options": [
+   "Apt test on the blood to confirm fetal haemoglobin before deciding",
+   "Immediate emergency caesarean section",
+   "Augment labour with oxytocin to expedite vaginal delivery",
+   "Digital vaginal examination to assess the cervix",
+   "Fluid resuscitation and expectant management with repeat CTG in 30 minutes"
+  ],
+  "correctIndex": 1,
+  "explanation": "Painless bleeding at the moment of membrane rupture with fetal bradycardia suggests rupture of a vasa previa vessel, and fetal blood loss is fatal within minutes; the correct response is an immediate category 1 caesarean section and neonatal resuscitation, not confirmatory testing. The maternal condition is typically stable because the blood lost is fetal. (First Aid — Reproductive: Obstetric complications of placenta)",
+  "optionExplanations": [
+   "Waiting for a confirmatory test wastes minutes while the fetus exsanguinates.",
+   "",
+   "Augmentation delays rescue and vaginal delivery risks further vessel rupture.",
+   "Digital examination can rupture vessels and the situation is an obstetric emergency.",
+   "Maternal haemodynamics are stable; the fetus is bleeding and is already compromised."
+  ],
+  "source": "October 2026 Recalls — Gynae — 7 Oct",
+  "recallSet": "october-2026",
+  "recallPaper": "Gynae — 7 Oct"
+ }
+]

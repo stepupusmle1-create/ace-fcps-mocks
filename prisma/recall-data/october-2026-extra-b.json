@@ -1,0 +1,762 @@
+[
+ {
+  "systemSlug": "hematology-oncology",
+  "topicSlug": "hematopoiesis-blood-physiology",
+  "stem": "In-utero haematopoietic stem cell transplantation has been attempted for severe fetal disorders such as alpha-thalassaemia major and some inherited immunodeficiencies. It is performed in early-to-mid gestation rather than after birth mainly because at that stage:",
+  "options": [
+   "Immature fetal lymphoid system cannot reject allogeneic cells, so donor cells engraft and induce tolerance",
+   "Fetal cells do not express HLA antigens until birth, so any donor can be used safely and without matching",
+   "Maternal IgG crossing the placenta shields the donor cells from rejection by the fetal immune system",
+   "The sterile intrauterine environment makes graft-versus-host disease impossible at any gestational age"
+  ],
+  "correctIndex": 0,
+  "explanation": "The window for in-utero transplantation is based on immunological immaturity: before the fetal T-cell repertoire and thymic selection are fully established, allogeneic donor stem cells are not rejected and can induce tolerance, and the fetal marrow niche is receptive without myeloablative conditioning. After birth the recipient immune system rejects mismatched donor cells unless intense conditioning is given. (First Aid — Immunology: Transplant rejection / Hematology: Hematopoiesis)",
+  "optionExplanations": [
+   "",
+   "Fetal tissues do express HLA/MHC antigens early in gestation; tolerance, not absence of HLA, is the basis.",
+   "Maternal IgG does not protect the graft, and maternal T cells and antibodies can in fact threaten it.",
+   "GVHD risk is reduced but not abolished by fetal immaturity, and the sterile environment is not the reason for timing."
+  ],
+  "source": "October 2026 Recalls — Radiology — 7 Oct Evening",
+  "recallSet": "october-2026",
+  "recallPaper": "Radiology — 7 Oct Evening"
+ },
+ {
+  "systemSlug": "musculoskeletal",
+  "topicSlug": "rheumatoid-arthritis-oa",
+  "stem": "A 24-year-old man develops painful swelling of the right knee and heel pain three weeks after an episode of urethritis. He now has bilateral conjunctivitis and a red, painful, photophobic left eye with ciliary flush. He has no inflammatory back pain and sacroiliac radiographs are normal. HLA-B27 is positive. What is the most likely diagnosis?",
+  "options": [
+   "Ankylosing spondylitis",
+   "Reactive arthritis",
+   "Oligoarticular juvenile idiopathic arthritis",
+   "Psoriatic arthritis",
+   "Septic arthritis of the knee"
+  ],
+  "correctIndex": 1,
+  "explanation": "Asymmetric oligoarthritis of the lower limb after a urogenital (e.g. Chlamydia) or enteric infection, with urethritis, conjunctivitis and anterior uveitis in an HLA-B27-positive man, is reactive arthritis ('can't see, can't pee, can't climb a tree'). Ankylosing spondylitis causes insidious axial disease with sacroiliitis, which is absent here. (First Aid — Musculoskeletal: Seronegative spondyloarthritis, reactive arthritis)",
+  "optionExplanations": [
+   "Ankylosing spondylitis is insidious, axial and presents with sacroiliitis; this patient has none and a clear preceding urethritis.",
+   "",
+   "JIA occurs in children (anti-nuclear antibody-associated uveitis in girls) and does not follow urethritis in an adult.",
+   "Psoriatic arthritis requires psoriasis or nail changes and does not typically follow urethritis with conjunctivitis.",
+   "Septic arthritis is a monoarthritis with fever and does not explain urethritis, conjunctivitis and uveitis."
+  ],
+  "source": "October 2026 Recalls — Radiology — 7 Oct Evening",
+  "recallSet": "october-2026",
+  "recallPaper": "Radiology — 7 Oct Evening"
+ },
+ {
+  "systemSlug": "nervous-system",
+  "topicSlug": "neuropharmacology",
+  "stem": "A 30-year-old man has a comminuted tibial shaft fracture. Pain remains 9/10 despite regular paracetamol, ibuprofen and a codeine-paracetamol combination. According to the WHO analgesic ladder, what is the most appropriate next step?",
+  "options": [
+   "Tramadol as a replacement for codeine in the same regimen",
+   "Increasing the codeine dose above the maximum recommended dose",
+   "Titrated morphine, with non-opioids continued",
+   "Adding diazepam to potentiate the analgesic effect",
+   "Adding amitriptyline as the sole additional agent"
+  ],
+  "correctIndex": 2,
+  "explanation": "The WHO ladder moves from non-opioids (step 1) to weak opioids such as codeine or tramadol (step 2) to strong opioids such as morphine, with adjuvants and non-opioids continued at each step (step 3). Severe pain persisting despite step 2 therefore requires a strong opioid, titrated to effect. (First Aid — Pharmacology/Neurology: Opioid analgesics)",
+  "optionExplanations": [
+   "Tramadol is another weak (step 2) opioid, so it does not escalate therapy.",
+   "Exceeding maximum doses of codeine adds toxicity and constipation without a step up in analgesic class.",
+   "",
+   "Benzodiazepines are not analgesics and add respiratory and sedative risk.",
+   "Amitriptyline is an adjuvant for neuropathic pain and cannot be the only addition for severe nociceptive fracture pain."
+  ],
+  "source": "October 2026 Recalls — Radiology — 7 Oct Evening",
+  "recallSet": "october-2026",
+  "recallPaper": "Radiology — 7 Oct Evening"
+ },
+ {
+  "systemSlug": "gastrointestinal",
+  "topicSlug": "liver-disease",
+  "stem": "In hepatic encephalopathy complicating cirrhosis, ammonia is detoxified in astrocytes by glutamine synthetase. Which product accumulates in astrocytes and, through its osmotic effect, produces astrocyte swelling and cerebral oedema?",
+  "options": [
+   "Glutamate",
+   "Urea",
+   "Alpha-ketoglutarate",
+   "Glutamine",
+   "Aspartate"
+  ],
+  "correctIndex": 3,
+  "explanation": "With a failing liver and portosystemic shunting, ammonia reaches the brain and is converted in astrocytes (glutamate + NH3 to glutamine). Glutamine is osmotically active and also impairs mitochondrial function, leading to astrocyte swelling, altered neurotransmission (including increased GABAergic tone) and raised intracranial pressure in acute liver failure. (First Aid — Gastrointestinal: Hepatic encephalopathy)",
+  "optionExplanations": [
+   "Glutamate is consumed in the reaction rather than accumulating as the osmolyte.",
+   "Urea is formed in the periportal hepatocyte urea cycle, which is failing in cirrhosis, and is not synthesised by astrocytes.",
+   "Alpha-ketoglutarate is depleted by ammonia detoxification rather than accumulating.",
+   "",
+   "Aspartate is not the end product of astrocytic ammonia detoxification."
+  ],
+  "source": "October 2026 Recalls — Radiology — 7 Oct Evening",
+  "recallSet": "october-2026",
+  "recallPaper": "Radiology — 7 Oct Evening"
+ },
+ {
+  "systemSlug": "nervous-system",
+  "topicSlug": "stroke",
+  "stem": "A 68-year-old man has a proximal left middle cerebral artery (M1) occlusion, yet the infarct on imaging is smaller than expected from the occluded territory. Which collateral pathway most likely accounts for the preserved cortical tissue?",
+  "options": [
+   "Leptomeningeal (pial) anastomoses from distal branches of the anterior and posterior cerebral arteries",
+   "Anterior communicating artery flow from the contralateral anterior cerebral artery directly into the MCA trunk",
+   "Collateral flow through the lenticulostriate arteries from adjacent striatal vessels",
+   "Anastomoses between the vertebral arteries and the occluded MCA via the basilar artery"
+  ],
+  "correctIndex": 0,
+  "explanation": "Distal cortical branches of the ACA, MCA and PCA are linked across the watershed zones by leptomeningeal (pial) anastomoses, which can retrograde-fill the MCA territory when the proximal MCA is occluded. The circle of Willis does not rescue an M1 occlusion because the MCA is not part of the ring, and the lenticulostriate arteries are end arteries. (First Aid — Neurology: Stroke, cerebral circulation)",
+  "optionExplanations": [
+   "",
+   "The ACoM connects the two ACAs; it cannot supply the MCA trunk beyond an M1 occlusion.",
+   "Lenticulostriate arteries are end arteries with poor collaterals, which is why lacunar and striatocapsular infarcts occur.",
+   "The posterior circulation reaches the MCA territory only through distal pial anastomoses, not a direct basilar-to-MCA channel."
+  ],
+  "source": "October 2026 Recalls — Radiology — 7 Oct Evening",
+  "recallSet": "october-2026",
+  "recallPaper": "Radiology — 7 Oct Evening"
+ },
+ {
+  "systemSlug": "nervous-system",
+  "topicSlug": "headache-movement-disorders",
+  "stem": "A 27-year-old woman experiences shimmering zigzag visual lines that slowly spread across the visual field over 20 minutes and then fade, followed by a unilateral throbbing headache with nausea and photophobia. Which process best explains the aura?",
+  "options": [
+   "Occipital seizure activity with secondary generalisation to the whole cortex",
+   "Cortical spreading depression, a slow wave of depolarisation then neuronal suppression",
+   "Primary vasoconstriction of the posterior cerebral artery causing a small infarct",
+   "Meningeal inflammation due to an aseptic meningitis process",
+   "Compression of the optic chiasm by a slowly growing pituitary adenoma"
+  ],
+  "correctIndex": 1,
+  "explanation": "The aura of migraine is attributed to cortical spreading depression, which spreads at about 2-5 mm/min across the cortex (explaining the slowly marching visual symptoms) and activates the trigeminovascular system to cause headache. Primary vasospasm-induced infarction was the older theory and is not the accepted mechanism. (First Aid — Neurology: Headache, migraine)",
+  "optionExplanations": [
+   "Seizure phenomena are brief, stereotyped and not followed by a migrainous headache; migraine aura spreads slowly over minutes.",
+   "",
+   "Infarction would not be fully reversible, and migraine aura is not caused by arterial occlusion.",
+   "Meningitis would cause fever, neck stiffness and persistent symptoms rather than a transient marching aura.",
+   "A chiasmal lesion gives fixed bitemporal field loss, not a positive, spreading, transient visual phenomenon."
+  ],
+  "source": "October 2026 Recalls — Radiology — 7 Oct Evening",
+  "recallSet": "october-2026",
+  "recallPaper": "Radiology — 7 Oct Evening"
+ },
+ {
+  "systemSlug": "reproductive-health",
+  "topicSlug": "contraception-family-planning",
+  "stem": "A 28-year-old woman who has migraine with visual aura requests reliable contraception. Which method is contraindicated because of the associated increase in ischaemic stroke risk?",
+  "options": [
+   "Levonorgestrel-releasing intrauterine system",
+   "Copper intrauterine device",
+   "Progestogen-only pill",
+   "Combined oral contraceptive pill",
+   "Etonogestrel subdermal implant"
+  ],
+  "correctIndex": 3,
+  "explanation": "Migraine with aura is an independent risk factor for ischaemic stroke, and oestrogen-containing methods (combined pill, patch, ring) further increase this risk, so they are contraindicated (US MEC/UK MEC category 4). Progestogen-only and non-hormonal methods are safe options. (First Aid — Reproductive: Contraception, combined hormonal contraceptives)",
+  "optionExplanations": [
+   "The LNG-IUS contains no oestrogen and is a suitable choice.",
+   "The copper IUD is non-hormonal and carries no stroke risk.",
+   "The progestogen-only pill has no meaningful stroke risk and is permitted.",
+   "",
+   "The implant is progestogen-only and is not contraindicated by migraine with aura."
+  ],
+  "source": "October 2026 Recalls — Radiology — 7 Oct Evening",
+  "recallSet": "october-2026",
+  "recallPaper": "Radiology — 7 Oct Evening"
+ },
+ {
+  "systemSlug": "nervous-system",
+  "topicSlug": "stroke",
+  "stem": "A 66-year-old man had 10 minutes of painless loss of vision in the left eye, 'like a curtain coming down', which resolved completely. He has hypertension and smokes. He has a left carotid bruit, a normal ESR and no jaw claudication. Which is the most likely source of the event?",
+  "options": [
+   "Left atrial appendage thrombus embolising to both hemispheres",
+   "Transient vertebrobasilar insufficiency of the posterior circulation",
+   "Left internal carotid artery plaque with artery-to-artery embolism",
+   "Giant cell arteritis involving the ophthalmic artery",
+   "Raised intracranial pressure with papilloedema"
+  ],
+  "correctIndex": 2,
+  "explanation": "Transient monocular blindness (amaurosis fugax) is a retinal TIA, most often due to an embolus from an ipsilateral internal carotid artery plaque to the ophthalmic/retinal artery. A carotid bruit, vascular risk factors and a normal ESR support this; these patients need urgent antiplatelet therapy, carotid imaging and consideration of endarterectomy for symptomatic severe stenosis. (First Aid — Neurology: Stroke, transient ischemic attack)",
+  "optionExplanations": [
+   "Cardiac emboli usually cause hemispheric or multi-territory deficits rather than isolated monocular loss with an ipsilateral bruit.",
+   "Vertebrobasilar insufficiency causes bilateral visual loss, vertigo, diplopia or ataxia, not monocular blindness.",
+   "",
+   "Giant cell arteritis is suggested by age over 50, high ESR, jaw claudication and headache, which are absent here.",
+   "Raised ICP causes bilateral transient visual obscurations with papilloedema, not a unilateral curtain with a carotid bruit."
+  ],
+  "source": "October 2026 Recalls — Radiology — 7 Oct Evening",
+  "recallSet": "october-2026",
+  "recallPaper": "Radiology — 7 Oct Evening"
+ },
+ {
+  "systemSlug": "gastrointestinal",
+  "topicSlug": "gi-anatomy-embryology",
+  "stem": "Pain of acute pancreatitis is felt in the epigastrium and radiates through to the back. Pancreatic visceral afferents travel with the greater splanchnic nerves, and pain is referred to the dermatomes corresponding to which spinal segments?",
+  "options": [
+   "C3-C5",
+   "T6-T10",
+   "T1-T4",
+   "L1-L2",
+   "S2-S4"
+  ],
+  "correctIndex": 1,
+  "explanation": "Pancreatic (foregut/midgut-derived) visceral afferents travel with sympathetic fibres through the splanchnic nerves to the mid-thoracic cord, so pain is perceived in the T6-T10 dermatomes: epigastrium and back (band-like). C3-C5 pain is referred from the diaphragm to the shoulder tip, and T1-T4 from the heart. (First Aid — Gastrointestinal: Anatomy, visceral pain referral; Pancreatitis)",
+  "optionExplanations": [
+   "C3-C5 corresponds to phrenic-mediated diaphragmatic irritation (shoulder-tip pain).",
+   "",
+   "T1-T4 corresponds to cardiac pain referred to the chest and arm.",
+   "L1-L2 corresponds to pain from the ureter and lower abdominal viscera, such as renal colic radiating to the groin.",
+   "S2-S4 carries pelvic and rectal visceral pain, not upper abdominal pancreatic pain."
+  ],
+  "source": "October 2026 Recalls — Radiology — 7 Oct Evening",
+  "recallSet": "october-2026",
+  "recallPaper": "Radiology — 7 Oct Evening"
+ },
+ {
+  "systemSlug": "gastrointestinal",
+  "topicSlug": "gi-physiology",
+  "stem": "Which statement about the internal anal sphincter is correct?",
+  "options": [
+   "It is skeletal muscle under voluntary control through the pudendal nerve",
+   "It is a striated muscle continuous with puborectalis and levator ani",
+   "It is smooth muscle, tonically contracted, that relaxes reflexly on rectal distension",
+   "It relaxes in response to sympathetic (hypogastric) stimulation",
+   "It is relaxed at rest and contracts when the rectum fills with faeces"
+  ],
+  "correctIndex": 2,
+  "explanation": "The internal anal sphincter is a thickening of the circular smooth muscle of the rectum that provides most of the resting anal tone. Rectal distension triggers the rectoanal inhibitory reflex (enteric inhibitory neurons, nitric oxide), relaxing it, while the voluntary external sphincter (pudendal nerve) is held contracted until defecation is appropriate. (First Aid — Gastrointestinal: Physiology of defecation; Anatomy of the anal canal)",
+  "optionExplanations": [
+   "The skeletal, voluntary, pudendal-supplied sphincter is the external anal sphincter.",
+   "Puborectalis is part of levator ani, a striated muscle, and not the internal sphincter.",
+   "",
+   "Sympathetic input maintains contraction of the internal sphincter; relaxation is by inhibitory enteric and parasympathetic pathways.",
+   "It is tonically contracted at rest, which is the basis of continence."
+  ],
+  "source": "October 2026 Recalls — Radiology — 7 Oct Evening",
+  "recallSet": "october-2026",
+  "recallPaper": "Radiology — 7 Oct Evening"
+ },
+ {
+  "systemSlug": "gastrointestinal",
+  "topicSlug": "gi-bleeding-malignancy",
+  "stem": "A right hemicolectomy specimen for adenocarcinoma shows 2 of 4 regional lymph nodes containing metastatic tumour, with no tumour deposits. What is the pathological N category (AJCC/TNM)?",
+  "options": [
+   "pN0",
+   "pN1a",
+   "pN2a",
+   "pN1b",
+   "pN2b"
+  ],
+  "correctIndex": 3,
+  "explanation": "In colorectal cancer, N1a is 1 positive regional node, N1b is 2-3 positive nodes, N2a is 4-6 and N2b is 7 or more. Two positive nodes is therefore pN1b. Note that only 4 nodes were retrieved, whereas at least 12 are recommended for adequate staging, so understaging is possible. (First Aid — Hematology/Oncology: Cancer staging, TNM; Gastrointestinal: Colorectal cancer)",
+  "optionExplanations": [
+   "Nodal metastasis is present so N0 is excluded.",
+   "N1a requires exactly one positive node.",
+   "N2a requires 4-6 positive nodes.",
+   "",
+   "N2b requires 7 or more positive nodes."
+  ],
+  "source": "October 2026 Recalls — Surgery — 7 Oct Afternoon",
+  "recallSet": "october-2026",
+  "recallPaper": "Surgery — 7 Oct Afternoon"
+ },
+ {
+  "systemSlug": "endocrine",
+  "topicSlug": "pituitary-disorders",
+  "stem": "A 40-year-old woman has palpitations, weight loss and a diffuse goitre without eye signs. Free T4 and free T3 are raised, and TSH is inappropriately normal-to-high at 6 mU/L. TRAb is negative. MRI shows a 1.5 cm pituitary macroadenoma, and the serum alpha-subunit to TSH molar ratio is elevated. What is the diagnosis?",
+  "options": [
+   "TSH-secreting pituitary adenoma (TSHoma)",
+   "Resistance to thyroid hormone (THRB mutation)",
+   "Graves disease",
+   "Toxic multinodular goitre",
+   "Primary hypothyroidism on thyroxine replacement"
+  ],
+  "correctIndex": 0,
+  "explanation": "High thyroid hormones with a non-suppressed TSH indicates central hyperthyroidism: a TSHoma or resistance to thyroid hormone. A visible pituitary macroadenoma with a raised alpha-subunit:TSH ratio and negative TRAb establishes a TSH-secreting adenoma, treated by trans-sphenoidal surgery with somatostatin analogues as an adjunct. (First Aid — Endocrine: Pituitary tumours, hyperthyroidism)",
+  "optionExplanations": [
+   "",
+   "Resistance to thyroid hormone also shows high T4 with non-suppressed TSH, but there is no adenoma and the alpha-subunit ratio is normal.",
+   "Graves disease suppresses TSH and is usually TRAb-positive with eye signs.",
+   "Toxic multinodular goitre suppresses TSH through autonomous hormone production.",
+   "Primary hypothyroidism causes low T4 and does not produce thyrotoxic symptoms."
+  ],
+  "source": "October 2026 Recalls — Surgery — 7 Oct Afternoon",
+  "recallSet": "october-2026",
+  "recallPaper": "Surgery — 7 Oct Afternoon"
+ },
+ {
+  "systemSlug": "reproductive-health",
+  "topicSlug": "gynecological-disorders",
+  "stem": "In polycystic ovary syndrome, hyperandrogenism arises mainly from which cell type and stimulus?",
+  "options": [
+   "Adrenal zona reticularis, driven by ACTH excess",
+   "Ovarian theca cells, driven by LH and insulin",
+   "Ovarian granulosa cells, driven by FSH stimulation",
+   "Anterior pituitary lactotrophs, driven by dopamine",
+   "Hypothalamic GnRH neurons, driven by oestradiol"
+  ],
+  "correctIndex": 1,
+  "explanation": "In PCOS, raised LH pulse frequency and hyperinsulinaemia stimulate ovarian theca cells to over-produce androgens (androstenedione, testosterone), while low FSH leaves granulosa-cell aromatase insufficient to convert them to oestrogen. Insulin resistance also lowers SHBG, increasing free testosterone. (First Aid — Reproductive: Polycystic ovarian syndrome)",
+  "optionExplanations": [
+   "The adrenal cortex contributes modestly (DHEAS) but ACTH is not the driver of PCOS hyperandrogenism.",
+   "",
+   "FSH-driven granulosa cell aromatase converts androgens to oestrogens rather than producing excess androgen.",
+   "Dopamine inhibits prolactin and is not the stimulus of androgen production.",
+   "The disturbed GnRH pulse generator raises LH, but androgens are produced by ovarian theca cells, not hypothalamic neurons."
+  ],
+  "source": "October 2026 Recalls — Surgery — 7 Oct Afternoon",
+  "recallSet": "october-2026",
+  "recallPaper": "Surgery — 7 Oct Afternoon"
+ },
+ {
+  "systemSlug": "cardiovascular",
+  "topicSlug": "congenital-vascular-disease",
+  "stem": "A newborn with hypotonia, upslanting palpebral fissures, a single palmar crease and a flat facial profile has a systolic murmur and a superior (left-axis) QRS axis on ECG. Which congenital cardiac lesion is most likely?",
+  "options": [
+   "Secundum atrial septal defect",
+   "Tetralogy of Fallot",
+   "Atrioventricular septal defect",
+   "Patent ductus arteriosus",
+   "Coarctation of the aorta"
+  ],
+  "correctIndex": 2,
+  "explanation": "Trisomy 21 is classically associated with endocardial cushion defects (complete or partial AV septal defects), and the abnormal position of the AV conduction axis produces a superior or left axis on ECG. Other associations of Down syndrome include duodenal atresia, Hirschsprung disease, ALL and early Alzheimer disease. (First Aid — Cardiovascular: Congenital heart disease; Genetics: Down syndrome)",
+  "optionExplanations": [
+   "Secundum ASD is common in general but is not the characteristic lesion and gives a right axis deviation.",
+   "Tetralogy of Fallot is associated with 22q11 deletion and cyanosis, not typically Down syndrome.",
+   "",
+   "PDA is associated with congenital rubella and prematurity, not specifically Down syndrome.",
+   "Coarctation is associated with Turner syndrome."
+  ],
+  "source": "October 2026 Recalls — Surgery — 7 Oct Afternoon",
+  "recallSet": "october-2026",
+  "recallPaper": "Surgery — 7 Oct Afternoon"
+ },
+ {
+  "systemSlug": "musculoskeletal",
+  "topicSlug": "msk-physiology",
+  "stem": "An elderly bedridden patient has an area of red skin over the sacrum that does not blanch when pressed; the skin surface is intact. This represents which grade of pressure injury?",
+  "options": [
+   "Stage 1: non-blanchable erythema of intact skin",
+   "Stage 2: partial-thickness loss with blister or shallow ulcer",
+   "Stage 3: full-thickness skin loss exposing subcutaneous fat",
+   "Stage 4: full-thickness loss exposing muscle or bone"
+  ],
+  "correctIndex": 0,
+  "explanation": "Prolonged pressure over a bony prominence exceeds capillary perfusion pressure and causes tissue ischaemia; the earliest sign is non-blanchable erythema of intact skin (stage 1). Prevention rests on regular repositioning (conventionally about every 2 hours), pressure-redistributing surfaces and skin care. (First Aid — Pathology: Ischaemic tissue injury; Musculoskeletal and Skin: Pressure ulcers)",
+  "optionExplanations": [
+   "",
+   "Stage 2 has loss of the epidermis or dermis (blister or shallow open ulcer), whereas here the skin is intact.",
+   "Stage 3 involves full-thickness loss with visible fat, which is more advanced.",
+   "Stage 4 exposes muscle, tendon or bone and is the most advanced stage."
+  ],
+  "source": "October 2026 Recalls — Surgery — 7 Oct Afternoon",
+  "recallSet": "october-2026",
+  "recallPaper": "Surgery — 7 Oct Afternoon"
+ },
+ {
+  "systemSlug": "microbiology",
+  "topicSlug": "antimicrobial-pharmacology",
+  "stem": "The minimum inhibitory concentration (MIC) of an antibiotic for a patient's isolate was 0.5 mg/L at admission and is 8 mg/L after two weeks of therapy. Which interpretation is correct?",
+  "options": [
+   "An MIC rise of more than tenfold always indicates resistance regardless of the drug",
+   "This is a two-fold dilution change within normal assay variation, so it is not significant",
+   "The change shows the minimum bactericidal concentration has risen 16-fold",
+   "It is a 16-fold rise (four doublings); resistance is judged against the breakpoint",
+   "A higher MIC means the isolate has become more susceptible to the antibiotic"
+  ],
+  "correctIndex": 3,
+  "explanation": "MICs are measured by serial two-fold dilutions, so 0.5 to 8 mg/L is four doubling steps (2^4 = 16-fold). Normal assay variation is about one dilution either way, so this is a real change; but whether it means 'resistant' depends on the breakpoint set for that drug and organism, not on the fold change itself. (First Aid — Microbiology: Antimicrobial susceptibility testing; Pharmacology: Antibiotics)",
+  "optionExplanations": [
+   "Interpretation requires clinical breakpoints; a fold change alone does not define resistance.",
+   "0.5 to 8 mg/L is four dilution steps, well beyond the usual +/- one-dilution variability.",
+   "MIC and MBC are different measurements; the MBC is not given here.",
+   "",
+   "A higher MIC means more drug is required to inhibit growth, so susceptibility is reduced."
+  ],
+  "source": "October 2026 Recalls — Surgery — 7 Oct Afternoon",
+  "recallSet": "october-2026",
+  "recallPaper": "Surgery — 7 Oct Afternoon"
+ },
+ {
+  "systemSlug": "hematology-oncology",
+  "topicSlug": "general-oncology-principles",
+  "stem": "Cisplatin-induced DNA damage activates p53, which upregulates BAX and causes mitochondrial release of cytochrome c. Cytochrome c and Apaf-1 form the apoptosome that directly activates which caspase?",
+  "options": [
+   "Caspase-8",
+   "Caspase-9",
+   "Caspase-3",
+   "Caspase-1"
+  ],
+  "correctIndex": 1,
+  "explanation": "DNA damage triggers the intrinsic (mitochondrial) pathway: p53 raises pro-apoptotic BAX/PUMA, cytochrome c is released, and with Apaf-1 it activates the initiator caspase-9. Caspase-9 then cleaves executioner caspases such as caspase-3 to complete apoptosis. (First Aid — Pathology: Apoptosis, intrinsic pathway)",
+  "optionExplanations": [
+   "Caspase-8 is the initiator of the extrinsic death-receptor pathway (Fas/FADD).",
+   "",
+   "Caspase-3 is an executioner caspase activated downstream of caspase-9.",
+   "Caspase-1 acts in the inflammasome to process IL-1 and is not part of the apoptosome."
+  ],
+  "source": "October 2026 Recalls — Surgery — 7 Oct Afternoon",
+  "recallSet": "october-2026",
+  "recallPaper": "Surgery — 7 Oct Afternoon"
+ },
+ {
+  "systemSlug": "renal",
+  "topicSlug": "renal-physiology-acid-base",
+  "stem": "A patient with several days of vomiting is volume-depleted, with maximal ADH secretion. At which site along the nephron is the tubular fluid osmolality lowest (most hypotonic)?",
+  "options": [
+   "End of the proximal convoluted tubule",
+   "Tip of the descending limb of the loop of Henle",
+   "Cortical collecting duct (late distal region)",
+   "Early distal convoluted tubule",
+   "End of the medullary collecting duct"
+  ],
+  "correctIndex": 3,
+  "explanation": "The thick ascending limb and early DCT reabsorb NaCl without water (water-impermeable, NKCC2 and NCC), so fluid there is hypotonic whatever the ADH state. With high ADH, water is reabsorbed in the late DCT/collecting duct, making the fluid isotonic in the cortical collecting duct and finally hypertonic in the medulla. (First Aid — Renal: Nephron physiology, thick ascending limb and distal tubule)",
+  "optionExplanations": [
+   "Fluid leaving the proximal tubule is isotonic to plasma.",
+   "The descending limb equilibrates with the hypertonic medullary interstitium and is hyperosmotic at the tip.",
+   "With high ADH the cortical collecting duct equilibrates with plasma and the fluid is isotonic.",
+   "",
+   "The end of the medullary collecting duct is maximally concentrated under ADH."
+  ],
+  "source": "October 2026 Recalls — Surgery — 7 Oct Afternoon",
+  "recallSet": "october-2026",
+  "recallPaper": "Surgery — 7 Oct Afternoon"
+ },
+ {
+  "systemSlug": "hematology-oncology",
+  "topicSlug": "hematology-pharmacology",
+  "stem": "A 55-year-old woman receiving paclitaxel for ovarian cancer develops severe neutropenia and neuropathy after another drug is added. Paclitaxel is metabolised mainly by CYP2C8 (and CYP3A4). Which newly added drug most likely increased her paclitaxel exposure?",
+  "options": [
+   "Rifampicin",
+   "Phenytoin",
+   "Gemfibrozil",
+   "Carbamazepine",
+   "St John's wort"
+  ],
+  "correctIndex": 2,
+  "explanation": "Paclitaxel is cleared hepatically mainly by CYP2C8, with a contribution from CYP3A4. Gemfibrozil (and its glucuronide) is a strong CYP2C8 inhibitor and can raise paclitaxel exposure and toxicity. The other four agents are inducers that lower paclitaxel levels. (First Aid — Pharmacology: Cytochrome P-450 interactions; Antineoplastic agents, taxanes)",
+  "optionExplanations": [
+   "Rifampicin is a potent CYP inducer and would lower paclitaxel levels.",
+   "Phenytoin induces CYP3A4/2C enzymes and lowers paclitaxel exposure.",
+   "",
+   "Carbamazepine is an inducer that lowers paclitaxel exposure.",
+   "St John's wort induces CYP3A4 and P-glycoprotein, reducing paclitaxel levels."
+  ],
+  "source": "October 2026 Recalls — Medicine — 8 Oct Morning",
+  "recallSet": "october-2026",
+  "recallPaper": "Medicine — 8 Oct Morning"
+ },
+ {
+  "systemSlug": "gastrointestinal",
+  "topicSlug": "pancreatic-disease",
+  "stem": "A 25-year-old man has painful bilateral parotid swelling after exposure to a sibling with a similar illness. Serum amylase is three times the upper limit of normal, while serum lipase is normal and abdominal examination is unremarkable. What is the most likely source of the raised amylase?",
+  "options": [
+   "Salivary glands",
+   "Pancreas (P-type isoenzyme)",
+   "Liver (hepatocytes)",
+   "Small intestine mucosa",
+   "Ovary (ectopic production)"
+  ],
+  "correctIndex": 0,
+  "explanation": "Amylase has salivary (S-type) and pancreatic (P-type) isoenzymes, so a raised amylase with normal lipase in parotitis (e.g. mumps) points to a salivary source. Lipase is more specific for pancreatic injury, which is why it is preferred for diagnosing acute pancreatitis. (First Aid — Gastrointestinal: Pancreatic enzymes; Mumps)",
+  "optionExplanations": [
+   "",
+   "P-type amylase from pancreatitis would be accompanied by raised lipase and epigastric pain.",
+   "The liver is not a significant source of serum amylase.",
+   "Small intestinal injury may release some amylase but would not explain parotitis with normal lipase.",
+   "Ovarian tumours are a rare ectopic source and do not explain parotid swelling."
+  ],
+  "source": "October 2026 Recalls — Medicine — 8 Oct Morning",
+  "recallSet": "october-2026",
+  "recallPaper": "Medicine — 8 Oct Morning"
+ },
+ {
+  "systemSlug": "gastrointestinal",
+  "topicSlug": "liver-disease",
+  "stem": "A 22-year-old woman dies of acute liver failure after ingesting a large quantity of paracetamol. At autopsy, which pattern of hepatic necrosis is expected?",
+  "options": [
+   "Periportal (zone 1) necrosis around the portal tracts",
+   "Centrilobular (zone 3) necrosis",
+   "Midzonal necrosis",
+   "Submassive necrosis sparing only the portal tracts",
+   "Bridging necrosis only between portal tracts"
+  ],
+  "correctIndex": 1,
+  "explanation": "Paracetamol is converted by CYP450 enzymes (CYP2E1, richest in zone 3) to the toxic metabolite NAPQI, which causes centrilobular necrosis when glutathione stores are exhausted. Ischaemic injury (hypoxic hepatitis) and alcoholic hepatitis also affect zone 3, which is the area furthest from the oxygenated hepatic artery inflow. (First Aid — Gastrointestinal: Liver zones, hepatotoxicity)",
+  "optionExplanations": [
+   "Periportal necrosis is associated with ingested toxins such as phosphorus and with eclampsia, not paracetamol.",
+   "",
+   "Midzonal necrosis is classically seen in yellow fever.",
+   "Submassive necrosis describes extensive loss of lobules in fulminant viral hepatitis rather than the zonal paracetamol pattern.",
+   "Bridging necrosis links portal tracts with central veins in severe hepatitis; it is not the paracetamol pattern."
+  ],
+  "source": "October 2026 Recalls — Medicine — 8 Oct Morning",
+  "recallSet": "october-2026",
+  "recallPaper": "Medicine — 8 Oct Morning"
+ },
+ {
+  "systemSlug": "gastrointestinal",
+  "topicSlug": "liver-disease",
+  "stem": "A 28-year-old woman at 34 weeks with severe pre-eclampsia develops sudden right upper quadrant pain and dies of hepatic rupture complicating HELLP syndrome. Which pattern of hepatic necrosis is typically found?",
+  "options": [
+   "Centrilobular (zone 3) necrosis from hepatic hypoxia",
+   "Midzonal necrosis with Councilman bodies",
+   "Periportal (zone 1) haemorrhagic necrosis",
+   "Diffuse microvesicular steatosis without necrosis",
+   "Cholestatic necrosis of the small bile ducts"
+  ],
+  "correctIndex": 2,
+  "explanation": "In eclampsia/HELLP, vasospasm and fibrin deposition in periportal sinusoids cause periportal haemorrhage and necrosis, which may produce a subcapsular haematoma. Zone 1 injury also occurs with ingested toxins such as yellow phosphorus. In contrast, ischaemia and paracetamol affect zone 3. (First Aid — Gastrointestinal: Liver zones; Reproductive: Hypertensive disorders of pregnancy)",
+  "optionExplanations": [
+   "Centrilobular necrosis is the pattern of ischaemic hepatitis or paracetamol, not HELLP.",
+   "Midzonal necrosis with Councilman bodies is typical of yellow fever.",
+   "",
+   "Diffuse microvesicular steatosis characterises acute fatty liver of pregnancy and Reye syndrome rather than HELLP.",
+   "HELLP does not primarily involve the bile ducts."
+  ],
+  "source": "October 2026 Recalls — Medicine — 8 Oct Morning",
+  "recallSet": "october-2026",
+  "recallPaper": "Medicine — 8 Oct Morning"
+ },
+ {
+  "systemSlug": "respiratory",
+  "topicSlug": "pleural-upper-airway",
+  "stem": "Thoracentesis in a 40-year-old man reveals a pleural effusion in which 25% of the white cells are eosinophils. Which is the most common cause of an eosinophilic pleural effusion?",
+  "options": [
+   "Congestive cardiac failure with transudate",
+   "Tuberculous pleurisy in an endemic area",
+   "Parapneumonic empyema with pus",
+   "Pneumothorax or haemothorax (air or blood in the pleura)",
+   "Rheumatoid pleural effusion"
+  ],
+  "correctIndex": 3,
+  "explanation": "Pleural fluid eosinophilia (more than 10% eosinophils) is most commonly caused by air or blood in the pleural cavity from pneumothorax, haemothorax or prior pleural instrumentation. Other causes include drugs, asbestos-related benign effusion, parasites, Churg-Strauss syndrome and malignancy. (First Aid — Respiratory: Pleural effusion, pleural fluid analysis)",
+  "optionExplanations": [
+   "Cardiac failure produces a transudate with few cells.",
+   "Tuberculous effusions are lymphocyte-predominant, and eosinophils make TB unlikely.",
+   "Empyema is neutrophil-predominant with low pH and glucose.",
+   "",
+   "Rheumatoid effusions are exudates with very low glucose and low pH, not eosinophil-predominant."
+  ],
+  "source": "October 2026 Recalls — Medicine — 8 Oct Morning",
+  "recallSet": "october-2026",
+  "recallPaper": "Medicine — 8 Oct Morning"
+ },
+ {
+  "systemSlug": "renal",
+  "topicSlug": "renal-physiology-acid-base",
+  "stem": "A 38-year-old man who drank home-distilled liquor 24 hours ago presents with blurred 'snowstorm' vision, weakness and progressive drowsiness, then lapses into coma. Arterial pH is 7.05 with a markedly raised anion gap and osmolar gap. Which toxic metabolite is responsible for the visual loss?",
+  "options": [
+   "Formic acid",
+   "Acetaldehyde",
+   "Oxalic acid",
+   "Glycolic acid",
+   "Lactic acid"
+  ],
+  "correctIndex": 0,
+  "explanation": "Methanol is oxidised by alcohol dehydrogenase to formaldehyde and then formic acid. Formate inhibits cytochrome oxidase, causing optic nerve and retinal toxicity (blindness) and a high anion gap metabolic acidosis. Treatment is fomepizole (alcohol dehydrogenase inhibitor) with bicarbonate, folate and haemodialysis. (First Aid — Pharmacology/Renal: Methanol toxicity, anion gap acidosis)",
+  "optionExplanations": [
+   "",
+   "Acetaldehyde is the toxic intermediate of ethanol metabolism, causing flushing and hangover.",
+   "Oxalic acid is the metabolite of ethylene glycol that produces calcium oxalate crystals and renal failure.",
+   "Glycolic acid is a metabolite of ethylene glycol and contributes to its acidosis, but not to visual loss.",
+   "Lactic acid contributes to acidosis but is not the cause of methanol-induced optic toxicity."
+  ],
+  "source": "October 2026 Recalls — Medicine — 8 Oct Morning",
+  "recallSet": "october-2026",
+  "recallPaper": "Medicine — 8 Oct Morning"
+ },
+ {
+  "systemSlug": "nervous-system",
+  "topicSlug": "neuroanatomy-embryology",
+  "stem": "After a road traffic accident with head injury, a professional pianist has normal strength, sensation, coordination and comprehension in both hands, yet cannot perform learned skilled movements such as playing scales or miming brushing teeth on command, although he uses his hands normally in spontaneous tasks. Which lesion best explains this deficit?",
+  "options": [
+   "Left primary motor cortex hand area (precentral gyrus)",
+   "Left inferior parietal lobule (supramarginal gyrus)",
+   "Cerebellar vermis and paravermal cortex",
+   "Right occipital cortex and calcarine fissure",
+   "Left internal capsule posterior limb"
+  ],
+  "correctIndex": 1,
+  "explanation": "Inability to carry out learned skilled movements on command despite intact power, sensation and comprehension is ideomotor apraxia, caused by lesions of the dominant parietal lobe (supramarginal gyrus) or its connections with premotor cortex via the arcuate fasciculus. A primary motor lesion causes weakness, not apraxia. (First Aid — Neurology: Neuroanatomy, parietal lobe lesions; apraxia)",
+  "optionExplanations": [
+   "A primary motor cortex lesion causes contralateral weakness or paralysis, which is absent here.",
+   "",
+   "Vermis lesions cause truncal ataxia, not selective loss of learned movements.",
+   "Occipital lesions cause visual field defects, not apraxia.",
+   "A posterior limb internal capsule lacune causes contralateral weakness with intact skilled-movement planning."
+  ],
+  "source": "October 2026 Recalls — Medicine — 8 Oct Morning",
+  "recallSet": "october-2026",
+  "recallPaper": "Medicine — 8 Oct Morning"
+ },
+ {
+  "systemSlug": "gastrointestinal",
+  "topicSlug": "liver-disease",
+  "stem": "A 35-year-old man with chronic hepatitis B has taken tenofovir for 3 years. HBV DNA is undetectable and ALT has normalised. Which finding would indicate a functional cure?",
+  "options": [
+   "HBeAg loss with anti-HBe seroconversion",
+   "Persistently undetectable HBV DNA while on therapy",
+   "Sustained loss of HBsAg",
+   "Normalisation of ALT on treatment",
+   "Negative anti-HBc IgM"
+  ],
+  "correctIndex": 2,
+  "explanation": "Functional cure of chronic hepatitis B is defined as sustained HBsAg loss off therapy, with or without anti-HBs; it is uncommon with nucleos(t)ide analogues (about 1% a year) because cccDNA persists. HBeAg seroconversion, viral suppression and ALT normalisation are on-treatment endpoints but are not cure. (First Aid — Gastrointestinal/Microbiology: Hepatitis B serologic markers and treatment)",
+  "optionExplanations": [
+   "HBeAg seroconversion indicates lower replication but HBsAg and cccDNA persist.",
+   "Viral suppression on therapy is the treatment goal, but relapse usually occurs on stopping, so it is not cure.",
+   "",
+   "Normal ALT reflects reduced inflammation and not clearance of infection.",
+   "Anti-HBc IgM is a marker of acute infection and is normally negative in chronic carriers."
+  ],
+  "source": "October 2026 Recalls — Medicine — 8 Oct Morning",
+  "recallSet": "october-2026",
+  "recallPaper": "Medicine — 8 Oct Morning"
+ },
+ {
+  "systemSlug": "endocrine",
+  "topicSlug": "endocrine-pharmacology",
+  "stem": "Which statement describes the primary mechanism of action of pioglitazone?",
+  "options": [
+   "It closes ATP-sensitive potassium channels on pancreatic beta cells",
+   "It is a PPAR-gamma agonist that improves insulin sensitivity",
+   "It inhibits dipeptidyl peptidase-4, prolonging incretin action",
+   "It activates hepatic AMP-activated protein kinase to reduce gluconeogenesis",
+   "It inhibits intestinal alpha-glucosidase enzymes"
+  ],
+  "correctIndex": 1,
+  "explanation": "Thiazolidinediones (pioglitazone, rosiglitazone) are PPAR-gamma agonists; they alter transcription of genes in adipose tissue, raising adiponectin and GLUT4 expression and improving peripheral insulin sensitivity. Adverse effects include weight gain, fluid retention (avoid in heart failure), fractures and, for pioglitazone, a possible bladder cancer signal. (First Aid — Pharmacology: Thiazolidinediones)",
+  "optionExplanations": [
+   "Sulfonylureas and meglitinides close K-ATP channels at SUR1.",
+   "",
+   "DPP-4 inhibitors (gliptins) inhibit incretin breakdown.",
+   "Metformin acts mainly via AMPK activation and reduced hepatic gluconeogenesis.",
+   "Acarbose and miglitol inhibit alpha-glucosidase."
+  ],
+  "source": "October 2026 Recalls — Surgery — 8 Oct Evening",
+  "recallSet": "october-2026",
+  "recallPaper": "Surgery — 8 Oct Evening"
+ },
+ {
+  "systemSlug": "musculoskeletal",
+  "topicSlug": "msk-anatomy-embryology",
+  "stem": "A 3-week-old boy has a firm, non-tender swelling in the right side of the neck. His head is tilted toward the right shoulder and his chin is rotated to the left. Which muscle is shortened?",
+  "options": [
+   "Right sternocleidomastoid",
+   "Left sternocleidomastoid",
+   "Right upper trapezius",
+   "Right scalenus anterior",
+   "Right splenius capitis"
+  ],
+  "correctIndex": 0,
+  "explanation": "Congenital muscular torticollis results from fibrosis of the sternocleidomastoid (fibromatosis colli), often with a palpable 'sternomastoid tumour'. Unilateral contraction tilts the head to the same side (ipsilateral lateral flexion) and rotates the face to the opposite side. The muscle is supplied by the spinal accessory nerve (CN XI) with proprioception from C2-C3. (First Aid — Anatomy: Neck muscles; Musculoskeletal: Congenital torticollis)",
+  "optionExplanations": [
+   "",
+   "Left SCM shortening would tilt the head to the left with the chin turned to the right.",
+   "Trapezius does not produce this head tilt and rotation; it elevates and rotates the scapula.",
+   "Scalenus anterior elevates the first rib and flexes the neck without producing this classic posture.",
+   "Splenius capitis rotates the face to the same side, the opposite of this posture."
+  ],
+  "source": "October 2026 Recalls — Medicine — 8 Oct Anatomy",
+  "recallSet": "october-2026",
+  "recallPaper": "Medicine — 8 Oct Anatomy"
+ },
+ {
+  "systemSlug": "microbiology",
+  "topicSlug": "gram-negative-bacteria",
+  "stem": "A 4-year-old boy develops bloody diarrhoea four days after eating an undercooked hamburger. Five days later he is pale, oliguric and has petechiae. Haemoglobin is 7 g/dL, platelets are 40 x 10^9/L, schistocytes are seen and creatinine is raised. Stool culture on sorbitol-MacConkey agar shows colourless colonies. Which organism is responsible?",
+  "options": [
+   "Shigella sonnei",
+   "Salmonella enterica serotype Typhi",
+   "Escherichia coli O157:H7",
+   "Campylobacter jejuni",
+   "Yersinia enterocolitica"
+  ],
+  "correctIndex": 2,
+  "explanation": "Shiga-toxin-producing E. coli O157:H7 causes haemorrhagic colitis after undercooked beef exposure and can lead to haemolytic uraemic syndrome (microangiopathic haemolytic anaemia, thrombocytopenia, acute kidney injury). It does not ferment sorbitol, producing colourless colonies on sorbitol-MacConkey agar. Antibiotics are avoided because they may increase toxin release. (First Aid — Microbiology: Escherichia coli, EHEC; Renal: HUS)",
+  "optionExplanations": [
+   "Shigella sonnei causes dysentery but does not form the typical sorbitol-negative colonies, and HUS is mainly with S. dysenteriae type 1.",
+   "Salmonella Typhi causes enteric fever with rose spots and constipation or non-bloody diarrhoea, not HUS.",
+   "",
+   "Campylobacter jejuni causes bloody diarrhoea and is linked to Guillain-Barre syndrome, not HUS.",
+   "Yersinia enterocolitica causes pseudo-appendicitis and reactive arthritis, not HUS."
+  ],
+  "source": "October 2026 Recalls — Gynae — 8 Oct Paper 2",
+  "recallSet": "october-2026",
+  "recallPaper": "Gynae — 8 Oct Paper 2"
+ },
+ {
+  "systemSlug": "gastrointestinal",
+  "topicSlug": "gi-physiology",
+  "stem": "Which of the following increases the rate of gastric emptying?",
+  "options": [
+   "Gastric distension by a large isotonic liquid meal",
+   "Fatty chyme entering the duodenum",
+   "Acidic chyme entering the duodenum",
+   "Hyperosmolar chyme entering the duodenum",
+   "Secretin release from the duodenum"
+  ],
+  "correctIndex": 0,
+  "explanation": "Gastric emptying is accelerated by gastric distension (myenteric and vagovagal reflexes), liquid isotonic meals, and gastrin and vagal tone, which increase antral contraction. It is slowed by duodenal feedback: fat (CCK), acid (secretin), hyperosmolarity and amino acids (enterogastric reflex), which protect the duodenum from overload. (First Aid — Gastrointestinal: Gastric motility and emptying, GI hormones)",
+  "optionExplanations": [
+   "",
+   "Fat in the duodenum releases CCK, which delays emptying.",
+   "Duodenal acid acts through secretin and neural feedback to slow emptying.",
+   "Hyperosmolar chyme triggers the enterogastric reflex and slows emptying.",
+   "Secretin reduces gastric motility and acid secretion, slowing emptying."
+  ],
+  "source": "October 2026 Recalls — Gynae — 8 Oct Paper 2",
+  "recallSet": "october-2026",
+  "recallPaper": "Gynae — 8 Oct Paper 2"
+ },
+ {
+  "systemSlug": "gastrointestinal",
+  "topicSlug": "gi-physiology",
+  "stem": "When food is swallowed, the proximal stomach relaxes without a rise in intragastric pressure. This receptive relaxation is mediated by:",
+  "options": [
+   "Gastrin release from antral G cells after the meal",
+   "A vagovagal reflex releasing nitric oxide and VIP",
+   "Sympathetic splanchnic stimulation from T6-T9 segments",
+   "Cholecystokinin acting on the pylorus and fundus",
+   "Motilin release during the fasting state"
+  ],
+  "correctIndex": 1,
+  "explanation": "Swallowing and oesophageal distension trigger a vagovagal reflex to the proximal stomach that releases NO and VIP, relaxing smooth muscle and allowing it to accommodate a meal at low pressure. After vagotomy this is lost, causing early satiety and rapid emptying of liquids. (First Aid — Gastrointestinal: Gastric motility, vagovagal reflex)",
+  "optionExplanations": [
+   "Gastrin stimulates acid secretion and antral motility but does not mediate accommodation.",
+   "",
+   "Sympathetic input inhibits gut motility generally, but accommodation is vagally mediated.",
+   "CCK delays gastric emptying by pyloric constriction and does not mediate receptive relaxation.",
+   "Motilin drives the fasting migrating motor complex, not meal accommodation."
+  ],
+  "source": "October 2026 Recalls — Gynae — 8 Oct Evening",
+  "recallSet": "october-2026",
+  "recallPaper": "Gynae — 8 Oct Evening"
+ },
+ {
+  "systemSlug": "gastrointestinal",
+  "topicSlug": "gi-pharmacology",
+  "stem": "A 22-year-old woman presents 10 hours after taking 30 tablets of paracetamol. Her ALT is still normal. N-acetylcysteine is started. What is its principal mechanism of action?",
+  "options": [
+   "Replenishes glutathione to detoxify NAPQI",
+   "Irreversibly inhibits CYP2E1 enzymes in the liver",
+   "Binds paracetamol in the gut to prevent absorption",
+   "Increases renal excretion of unchanged paracetamol",
+   "Enhances glucuronidation by raising UDP-glucuronic acid"
+  ],
+  "correctIndex": 0,
+  "explanation": "Paracetamol overdose saturates the glucuronidation and sulfation pathways, shunting drug to CYP450 (CYP2E1) metabolism to NAPQI, which is normally detoxified by glutathione. N-acetylcysteine is a cysteine precursor that replenishes glutathione stores and also acts as a direct NAPQI scavenger; it is most effective early, and should be given when overdose time is uncertain or the dose is toxic. (First Aid — Pharmacology: Acetaminophen overdose and antidote)",
+  "optionExplanations": [
+   "",
+   "NAC does not inhibit CYP2E1; the toxicity arises from NAPQI formation downstream.",
+   "Activated charcoal, not NAC, adsorbs paracetamol in the gut within the first hour or so.",
+   "NAC does not alter renal excretion of unchanged paracetamol.",
+   "Glucuronidation is saturated in overdose, but NAC acts through glutathione rather than UDP-glucuronic acid."
+  ],
+  "source": "October 2026 Recalls — Gynae — 8 Oct Evening",
+  "recallSet": "october-2026",
+  "recallPaper": "Gynae — 8 Oct Evening"
+ }
+]
