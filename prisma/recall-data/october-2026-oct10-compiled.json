@@ -1,0 +1,698 @@
+[
+  {
+    "systemSlug": "respiratory",
+    "topicSlug": "respiratory-physiology",
+    "stem": "An anaesthetist checks an oxygen E-cylinder before an inter-hospital transfer. The Bourdon gauge reads 600 psi. A full E-cylinder is at 2000 psi and holds about 660 L of oxygen (at atmospheric pressure). Approximately how much oxygen remains?",
+    "options": [
+      "About 66 L",
+      "About 132 L",
+      "About 198 L",
+      "About 440 L",
+      "About 600 L"
+    ],
+    "correctIndex": 2,
+    "explanation": "Oxygen is stored as a compressed gas well above its critical temperature, so the gauge pressure falls in direct proportion to the volume left (Boyle's law). Remaining volume = 600/2000 x 660 = 198 L. (First Aid — Neurology and Neuroscience: Anesthetics)",
+    "optionExplanations": [
+      "This corresponds to roughly 200 psi (10% of a full cylinder), not 600 psi.",
+      "This corresponds to 400 psi (one-fifth of a full cylinder).",
+      "",
+      "This corresponds to roughly 1,333 psi (two-thirds of a full cylinder).",
+      "This wrongly treats the psi reading as litres."
+    ],
+    "source": "October 2026 Recalls — Anesthesia — Oct 2026",
+    "recallSet": "october-2026",
+    "recallPaper": "Anesthesia — Oct 2026"
+  },
+  {
+    "systemSlug": "respiratory",
+    "topicSlug": "respiratory-physiology",
+    "stem": "During transport a patient is receiving oxygen at 5 L/min from an E-cylinder whose gauge reads 600 psi (full cylinder: 2000 psi = 660 L). For approximately how long will the cylinder last before it is empty?",
+    "options": [
+      "About 40 minutes",
+      "About 13 minutes",
+      "About 26 minutes",
+      "About 66 minutes",
+      "About 132 minutes"
+    ],
+    "correctIndex": 0,
+    "explanation": "Contents = 600/2000 x 660 = 198 L. At 5 L/min this gives 198/5 = about 40 minutes. A full cylinder would last 660/5 = 132 minutes, which is the common trap. (First Aid — Neurology and Neuroscience: Anesthetics)",
+    "optionExplanations": [
+      "",
+      "This would be correct for only about 65 L, i.e. a gauge reading near 200 psi.",
+      "This would be correct for only about 130 L, i.e. a gauge reading near 400 psi.",
+      "This would require about 330 L, i.e. a gauge reading of 1,000 psi.",
+      "This is the duration of a full 660 L cylinder at 5 L/min, not one at 600 psi."
+    ],
+    "source": "October 2026 Recalls — Anesthesia — Oct 2026",
+    "recallSet": "october-2026",
+    "recallPaper": "Anesthesia — Oct 2026"
+  },
+  {
+    "systemSlug": "respiratory",
+    "topicSlug": "respiratory-physiology",
+    "stem": "An oxygen E-cylinder (full: 2000 psi, about 660 L) shows 1500 psi on its gauge. It will supply a ventilator that delivers a fresh oxygen flow of 6 L/min. Approximately how long can the cylinder be used?",
+    "options": [
+      "About 55 minutes",
+      "About 110 minutes",
+      "About 132 minutes",
+      "About 82 minutes",
+      "About 165 minutes"
+    ],
+    "correctIndex": 3,
+    "explanation": "Contents = 1500/2000 x 660 = 495 L. Duration = 495/6 = about 82 minutes. Using the full-cylinder volume gives 110 minutes, which overestimates the time. (First Aid — Neurology and Neuroscience: Anesthetics)",
+    "optionExplanations": [
+      "This is too short; it assumes only about 330 L remains (1,000 psi).",
+      "This is the duration of a full 660 L cylinder at 6 L/min and ignores the pressure drop.",
+      "This ignores both the pressure reading and the flow rate (it is the full-cylinder time at 5 L/min).",
+      "",
+      "This is far too long and has no basis in the cylinder volume."
+    ],
+    "source": "October 2026 Recalls — Anesthesia — Oct 2026",
+    "recallSet": "october-2026",
+    "recallPaper": "Anesthesia — Oct 2026"
+  },
+  {
+    "systemSlug": "respiratory",
+    "topicSlug": "respiratory-physiology",
+    "stem": "During a long case the gauge on a nitrous oxide E-cylinder has stayed at about 745 psi for two hours although N2O has been flowing continuously at 4 L/min. What is the correct interpretation, and how should the remaining contents be assessed?",
+    "options": [
+      "The cylinder is nearly full, so the remaining volume equals gauge pressure divided by full pressure times capacity",
+      "It holds liquid N2O at saturated vapour pressure; contents are judged by weighing the cylinder",
+      "The pressure regulator is faulty and the cylinder and regulator must be replaced before continuing",
+      "The gauge is jammed and the cylinder must be changed immediately",
+      "N2O behaves as a compressed gas, so the stable reading means flow has stopped"
+    ],
+    "correctIndex": 1,
+    "explanation": "N2O is stored partly as a liquid and partly as vapour; the gauge shows the saturated vapour pressure (about 745 psi at room temperature), which stays constant while any liquid remains. The pressure begins to fall only when the liquid is exhausted, so the gauge cannot indicate the quantity left; weighing the cylinder is used instead. (First Aid — Neurology and Neuroscience: Anesthetics)",
+    "optionExplanations": [
+      "This applies to oxygen and air (permanent gases), not to liquefied N2O.",
+      "",
+      "A steady pressure is expected for a liquefied gas and does not indicate regulator failure.",
+      "The stable reading is a physical property of liquid N2O, not a jammed gauge.",
+      "Flow is continuing; vaporisation of liquid replaces the gas used, keeping pressure constant."
+    ],
+    "source": "October 2026 Recalls — Anesthesia — Oct 2026",
+    "recallSet": "october-2026",
+    "recallPaper": "Anesthesia — Oct 2026"
+  },
+  {
+    "systemSlug": "cardiovascular",
+    "topicSlug": "cardiac-hemodynamics",
+    "stem": "A 28-year-old man weighing 70 kg is brought after a road traffic accident with an estimated blood loss of 1.6 L. Heart rate is 128/min, respiratory rate 32/min, supine BP 90/60 mmHg with a narrow pulse pressure, urine output 12 mL/h, and he is anxious and confused. Which classification and initial fluid strategy are most appropriate?",
+    "options": [
+      "Class II haemorrhage (15-30% loss): warmed crystalloid alone is sufficient at this stage",
+      "Class III haemorrhage: large-volume normal saline alone, adding blood only if haemoglobin falls",
+      "Class I haemorrhage (<15% loss): observation with oral fluids",
+      "Class IV haemorrhage (>40% loss): start vasopressors first and give fluids afterwards",
+      "Class III haemorrhage: warmed isotonic crystalloid plus early blood transfusion"
+    ],
+    "correctIndex": 4,
+    "explanation": "Estimated blood volume is about 5 L, so 1.6 L is roughly 32%. Tachycardia, tachypnoea, hypotension, low urine output and confusion are typical of ATLS class III haemorrhage, which requires crystalloid resuscitation together with blood products. Crystalloid alone is inadequate at this level of loss. (First Aid — Cardiovascular: Physiology)",
+    "optionExplanations": [
+      "Class II has normal supine BP and urine output 20-30 mL/h; this patient is hypotensive and oliguric.",
+      "Crystalloid alone dilutes clotting factors and red cells; blood is needed early at this loss.",
+      "Class I produces minimal change in vital signs.",
+      "Vasopressors without volume replacement are not indicated; the loss is below 40% and the priority is volume and haemostasis.",
+      ""
+    ],
+    "source": "October 2026 Recalls — Anesthesia — Oct 2026",
+    "recallSet": "october-2026",
+    "recallPaper": "Anesthesia — Oct 2026"
+  },
+  {
+    "systemSlug": "nervous-system",
+    "topicSlug": "neuropharmacology",
+    "stem": "A 30-year-old man has an abscess drained under local infiltration with lignocaine. Despite an adequate dose, anaesthesia of the infected area is poor. Which is the best explanation?",
+    "options": [
+      "Infected tissue is alkaline, which keeps most of the drug in the ionised form and blocks entry",
+      "Lignocaine is rapidly destroyed by bacterial enzymes present in the pus",
+      "Inflammation increases the number of nerve fibres that have to be blocked in the area",
+      "Tissue acidity raises the ionised fraction of the weak-base drug, limiting nerve entry",
+      "Raised tissue pH decreases the pKa of lignocaine so less base is available"
+    ],
+    "correctIndex": 3,
+    "explanation": "Local anaesthetics are weak bases (pKa about 7.5-9). In acidic inflamed or infected tissue more of the drug is in the charged form, which cannot easily cross the nerve membrane to reach the intracellular site of the Na+ channel, so onset and quality of block are impaired. Hyperaemia and increased washout also contribute. (First Aid — Neurology and Neuroscience: Anesthetics)",
+    "optionExplanations": [
+      "Infected tissue is acidic, not alkaline.",
+      "Bacterial enzymes are not the mechanism; the problem is pH-dependent ionisation.",
+      "Nerve fibre number is unchanged; reduced drug penetration is the issue.",
+      "",
+      "Infected tissue has a lower, not raised, pH, and tissue pH does not change the drug's pKa."
+    ],
+    "source": "October 2026 Recalls — Anesthesia — Oct 2026",
+    "recallSet": "october-2026",
+    "recallPaper": "Anesthesia — Oct 2026"
+  },
+  {
+    "systemSlug": "hematology-oncology",
+    "topicSlug": "hematology-pharmacology",
+    "stem": "A 52-year-old woman with ovarian carcinoma is given paclitaxel after cytoreductive surgery. By which mechanism does the drug arrest dividing tumour cells in M phase?",
+    "options": [
+      "It stabilises microtubules by binding beta-tubulin and blocking depolymerisation",
+      "It binds free tubulin dimers and prevents microtubule polymerisation, as vinca drugs do",
+      "It inhibits topoisomerase II, causing double-strand DNA breaks in S and G2 phases",
+      "It cross-links guanine bases on opposite DNA strands, forming interstrand adducts",
+      "It inhibits thymidylate synthase in S phase"
+    ],
+    "correctIndex": 0,
+    "explanation": "Taxanes (paclitaxel, docetaxel) hyperstabilise microtubules, so the mitotic spindle cannot disassemble and cells are arrested in M phase. Main toxicities are myelosuppression and peripheral neuropathy. (First Aid — Pharmacology: Anticancer drugs)",
+    "optionExplanations": [
+      "",
+      "This is the action of vinca alkaloids (vincristine, vinblastine), the opposite of the taxanes.",
+      "This describes etoposide and the anthracyclines.",
+      "This describes alkylating agents and platinum compounds such as cisplatin.",
+      "This describes 5-fluorouracil, which is an S-phase antimetabolite."
+    ],
+    "source": "October 2026 Recalls — Pharmacology — Oct 2026",
+    "recallSet": "october-2026",
+    "recallPaper": "Pharmacology — Oct 2026"
+  },
+  {
+    "systemSlug": "cardiovascular",
+    "topicSlug": "cardiac-electrophysiology-ecg",
+    "stem": "A drug is chosen for supraventricular tachycardia because its main therapeutic action is to slow conduction through the atrioventricular node (for example verapamil). Which ECG change is expected in sinus rhythm at therapeutic doses?",
+    "options": [
+      "Widened QRS complex",
+      "Longer PR interval",
+      "Shortening of the PR interval",
+      "Shortening of the QT interval",
+      "Widespread ST elevation"
+    ],
+    "correctIndex": 1,
+    "explanation": "AV nodal conduction time is represented by the PR interval, so drugs that slow AV conduction (verapamil, diltiazem, beta-blockers, digoxin, adenosine) lengthen the PR interval. Excess effect causes first-, second- or third-degree AV block. They do not widen the QRS, which depends on His-Purkinje and ventricular conduction. (First Aid — Cardiovascular: Antiarrhythmics)",
+    "optionExplanations": [
+      "This reflects slowed ventricular conduction (class I sodium channel block), not AV nodal slowing.",
+      "",
+      "This would indicate faster AV conduction or pre-excitation, the opposite of the intended effect.",
+      "This is not an effect of AV nodal blockade; QT depends on ventricular repolarisation.",
+      "This suggests pericarditis or infarction and is not a drug effect of AV nodal blockers."
+    ],
+    "source": "October 2026 Recalls — Pharmacology — Oct 2026",
+    "recallSet": "october-2026",
+    "recallPaper": "Pharmacology — Oct 2026"
+  },
+  {
+    "systemSlug": "cardiovascular",
+    "topicSlug": "cardiac-pharmacology",
+    "stem": "A 35-year-old man with a structurally normal heart and recurrent AV re-entrant tachycardia is started on flecainide. Because the drug markedly blocks fast sodium channels in His-Purkinje tissue and ventricular myocardium (more at fast rates), which ECG change is expected?",
+    "options": [
+      "Prolongation of the QT interval with torsades de pointes as the typical hazard",
+      "Shortening of the PR interval",
+      "Widened QRS complex",
+      "ST depression in the lateral leads",
+      "Prominent U waves"
+    ],
+    "correctIndex": 2,
+    "explanation": "Class IC drugs (flecainide, propafenone) strongly block phase 0 Na+ channels with slow dissociation, slowing ventricular depolarisation and widening the QRS (use-dependent, more at rapid rates). They are contraindicated after myocardial infarction or in structural heart disease because of proarrhythmia (CAST trial). (First Aid — Cardiovascular: Antiarrhythmics)",
+    "optionExplanations": [
+      "QT prolongation is typical of class IA and III drugs; IC mainly widens the QRS.",
+      "Class IC drugs do not shorten the PR interval; they may prolong it slightly.",
+      "",
+      "This is not an expected drug effect of sodium channel blockers.",
+      "U waves occur with hypokalaemia and some class III drugs, not with class IC agents."
+    ],
+    "source": "October 2026 Recalls — Pharmacology — Oct 2026",
+    "recallSet": "october-2026",
+    "recallPaper": "Pharmacology — Oct 2026"
+  },
+  {
+    "systemSlug": "cardiovascular",
+    "topicSlug": "cardiac-pharmacology",
+    "stem": "A 58-year-old man with a previous myocardial infarction is started on atorvastatin 80 mg daily. Apart from myopathy, which adverse effect requires baseline and follow-up monitoring?",
+    "options": [
+      "Raised transaminases",
+      "Cholelithiasis from increased biliary cholesterol saturation",
+      "Cutaneous flushing and pruritus after each dose",
+      "Progressive pulmonary fibrosis",
+      "Sensorineural ototoxicity"
+    ],
+    "correctIndex": 0,
+    "explanation": "Statins can cause dose-related elevation of ALT/AST; liver function tests are checked before and during treatment, and the drug is avoided in active liver disease. Myopathy and rhabdomyolysis risk is raised by CYP3A4 inhibitors, fibrates and niacin. (Contrast: gallstones occur with fibrates, flushing with niacin.) (First Aid — Cardiovascular: Lipid-lowering agents)",
+    "optionExplanations": [
+      "",
+      "Gallstones are a characteristic adverse effect of fibrates, not statins.",
+      "This is typical of niacin and is prostaglandin-mediated.",
+      "This is a classic adverse effect of amiodarone, not statins.",
+      "This is associated with loop diuretics, aminoglycosides and cisplatin."
+    ],
+    "source": "October 2026 Recalls — Pharmacology — Oct 2026",
+    "recallSet": "october-2026",
+    "recallPaper": "Pharmacology — Oct 2026"
+  },
+  {
+    "systemSlug": "reproductive-health",
+    "topicSlug": "contraception-family-planning",
+    "stem": "A 26-year-old woman with epilepsy takes carbamazepine and a combined oral contraceptive pill, which she takes correctly. She becomes pregnant. What is the most likely explanation?",
+    "options": [
+      "Carbamazepine inhibited hepatic metabolism, causing ethinylestradiol toxicity",
+      "Carbamazepine competitively blocked oestrogen receptors in the endometrium and ovary",
+      "Carbamazepine chelated ethinylestradiol in the gut lumen and prevented absorption",
+      "Carbamazepine increased sex hormone-binding globulin only, leaving free hormone unchanged",
+      "CYP3A4 induction by carbamazepine, speeding clearance of the hormones"
+    ],
+    "correctIndex": 4,
+    "explanation": "Carbamazepine, phenytoin, phenobarbital, rifampicin and St John's wort are CYP450 inducers that accelerate metabolism of ethinylestradiol and progestogens, causing contraceptive failure. Alternative contraception (e.g. copper IUD or levonorgestrel IUS) is advised. (First Aid — Pharmacology: Cytochrome P-450 interactions)",
+    "optionExplanations": [
+      "Inhibition would raise hormone levels and not cause failure.",
+      "It is not an oestrogen receptor antagonist.",
+      "Chelation is the tetracycline-and-divalent-cation mechanism; carbamazepine does not do this.",
+      "Binding changes do not explain failure; enzyme induction is the established mechanism.",
+      ""
+    ],
+    "source": "October 2026 Recalls — Pharmacology — Oct 2026",
+    "recallSet": "october-2026",
+    "recallPaper": "Pharmacology — Oct 2026"
+  },
+  {
+    "systemSlug": "respiratory",
+    "topicSlug": "respiratory-pharmacology",
+    "stem": "A 50-year-old man with COPD is stable on oral theophylline (plasma level 12 mg/L). Cimetidine is started for dyspepsia. Ten days later he has tremor, palpitations and vomiting, and the theophylline level is 28 mg/L. What is the mechanism?",
+    "options": [
+      "Cimetidine induces CYP450 enzymes, increasing theophylline conversion to a toxic metabolite",
+      "Cimetidine inhibits hepatic CYP450 enzymes, reducing theophylline clearance",
+      "Cimetidine displaces theophylline from plasma albumin, which alone doubles the level",
+      "Cimetidine blocks renal tubular secretion of theophylline",
+      "Cimetidine increases gastric emptying, doubling theophylline absorption"
+    ],
+    "correctIndex": 1,
+    "explanation": "Cimetidine is a non-specific CYP450 inhibitor (CYP1A2, 3A4, 2D6), as are macrolides, azoles, ciprofloxacin and grapefruit juice. Reduced hepatic clearance of theophylline (narrow therapeutic index) leads to toxicity. Famotidine and ranitidine lack this effect. (First Aid — Pharmacology: Cytochrome P-450 interactions)",
+    "optionExplanations": [
+      "Cimetidine inhibits rather than induces CYP450 enzymes.",
+      "",
+      "Protein-binding displacement causes only a transient, minor change and does not explain a persistent rise.",
+      "Theophylline is cleared mainly by hepatic metabolism, not tubular secretion.",
+      "Cimetidine does not enhance absorption; the rise follows reduced clearance."
+    ],
+    "source": "October 2026 Recalls — Pharmacology — Oct 2026",
+    "recallSet": "october-2026",
+    "recallPaper": "Pharmacology — Oct 2026"
+  },
+  {
+    "systemSlug": "endocrine",
+    "topicSlug": "thyroid-disorders",
+    "stem": "A 29-year-old woman with Graves disease, well controlled on methimazole, finds she is 6 weeks pregnant. Which is the most appropriate change in management?",
+    "options": [
+      "Continue methimazole unchanged throughout pregnancy",
+      "Stop all antithyroid drugs until delivery",
+      "Switch to propylthiouracil for the first trimester",
+      "Give radioactive iodine now to ablate the thyroid",
+      "Perform an urgent total thyroidectomy"
+    ],
+    "correctIndex": 2,
+    "explanation": "Methimazole/carbimazole in early pregnancy is associated with congenital anomalies (aplasia cutis, choanal atresia, oesophageal atresia), so propylthiouracil is used during the first trimester when organogenesis occurs. Radioiodine is contraindicated in pregnancy. Therapy is adjusted to keep free T4 in the upper normal range. (First Aid — Endocrine: Thyroid drugs)",
+    "optionExplanations": [
+      "Methimazole is teratogenic in the first trimester, so it is avoided then.",
+      "Untreated maternal hyperthyroidism risks miscarriage, pre-eclampsia, heart failure and fetal complications.",
+      "",
+      "Radioiodine is contraindicated in pregnancy because it destroys the fetal thyroid.",
+      "Surgery is reserved for failure or intolerance of drugs, preferably in the second trimester."
+    ],
+    "source": "October 2026 Recalls — Pharmacology — Oct 2026",
+    "recallSet": "october-2026",
+    "recallPaper": "Pharmacology — Oct 2026"
+  },
+  {
+    "systemSlug": "endocrine",
+    "topicSlug": "endocrine-pharmacology",
+    "stem": "A pregnant woman with Graves disease takes propylthiouracil during the first trimester. In the second trimester her doctor plans to switch her back to methimazole. Which adverse effect of propylthiouracil is the main reason for this switch?",
+    "options": [
+      "Agranulocytosis",
+      "Aplasia cutis in the newborn",
+      "Fetal goitre and hypothyroidism",
+      "Fulminant hepatotoxicity",
+      "Pulmonary fibrosis"
+    ],
+    "correctIndex": 3,
+    "explanation": "PTU carries a boxed warning for liver failure, so it is limited to the first trimester (when methimazole teratogenicity is the greater risk) and then replaced by methimazole/carbimazole. Agranulocytosis occurs with both thionamides, and aplasia cutis and choanal atresia are associated with methimazole, not PTU. (First Aid — Endocrine: Thyroid drugs)",
+    "optionExplanations": [
+      "This occurs with both thionamides and is not the reason to prefer one in the second trimester.",
+      "This anomaly is linked to methimazole, the drug she is being switched to.",
+      "Both thionamides can cause this if doses are too high.",
+      "",
+      "This is a feature of amiodarone, not thionamides."
+    ],
+    "source": "October 2026 Recalls — Pharmacology — Oct 2026",
+    "recallSet": "october-2026",
+    "recallPaper": "Pharmacology — Oct 2026"
+  },
+  {
+    "systemSlug": "psychiatry",
+    "topicSlug": "psychiatric-emergencies",
+    "stem": "A 30-year-old man with known schizophrenia is brought to the emergency department shouting, threatening staff and refusing oral medication. Verbal de-escalation has failed, there is no sign of intoxication, and the ECG is normal. What is the most appropriate immediate pharmacological step?",
+    "options": [
+      "IM haloperidol, with or without lorazepam",
+      "Oral lithium carbonate loading doses",
+      "Intramuscular fluphenazine decanoate depot",
+      "Intravenous phenytoin infusion",
+      "Oral clozapine, started at once"
+    ],
+    "correctIndex": 0,
+    "explanation": "For acute severe agitation or violence in psychosis, rapid tranquillisation with an intramuscular antipsychotic such as haloperidol, often combined with a benzodiazepine to reduce dystonia and add sedation, is standard. ECG and vital signs are monitored for QT prolongation and hypotension. Depot injections and oral lithium act too slowly. (First Aid — Psychiatry: Antipsychotic drugs)",
+    "optionExplanations": [
+      "",
+      "Lithium takes days to act and he refuses oral medication.",
+      "Depot preparations are for maintenance, with onset over days, and are unsuitable for acute control.",
+      "Phenytoin has no role in acute behavioural disturbance and risks arrhythmia.",
+      "Clozapine needs slow titration and cannot be started in an acute emergency."
+    ],
+    "source": "October 2026 Recalls — Pharmacology — Oct 2026",
+    "recallSet": "october-2026",
+    "recallPaper": "Pharmacology — Oct 2026"
+  },
+  {
+    "systemSlug": "cardiovascular",
+    "topicSlug": "heart-failure",
+    "stem": "A 62-year-old man with type 2 diabetes has HFrEF (ejection fraction 30%), NYHA class II, no congestion, sinus rhythm 92/min and BP 130/80 mmHg. He takes ramipril, furosemide and metformin. Which addition is most likely to reduce his mortality?",
+    "options": [
+      "Amlodipine",
+      "Bisoprolol",
+      "Pioglitazone",
+      "Digoxin",
+      "Verapamil"
+    ],
+    "correctIndex": 1,
+    "explanation": "Evidence-based beta-blockers (bisoprolol, carvedilol, metoprolol succinate) added to an ACE inhibitor reduce mortality in HFrEF by blunting sympathetic remodelling and arrhythmic death. Diuretics only relieve congestion. Digoxin reduces hospitalisation but not mortality, and non-dihydropyridine calcium channel blockers and thiazolidinediones are harmful in HFrEF. (First Aid — Cardiovascular: Heart failure)",
+    "optionExplanations": [
+      "It is neutral for survival in heart failure and does not target the neurohormonal axis.",
+      "",
+      "Thiazolidinediones cause fluid retention and worsen heart failure.",
+      "It improves symptoms and reduces admissions but has no mortality benefit.",
+      "Negative inotropic calcium channel blockers increase mortality in HFrEF."
+    ],
+    "source": "October 2026 Recalls — Pharmacology — Oct 2026",
+    "recallSet": "october-2026",
+    "recallPaper": "Pharmacology — Oct 2026"
+  },
+  {
+    "systemSlug": "cardiovascular",
+    "topicSlug": "heart-failure",
+    "stem": "A 60-year-old man with type 2 diabetes (HbA1c 8.2%) and HFrEF (ejection fraction 28%, eGFR 60) takes ramipril, bisoprolol, spironolactone, furosemide and metformin. Which add-on lowers glycaemia and also reduces heart failure hospitalisation and cardiovascular death?",
+    "options": [
+      "Pioglitazone",
+      "Glimepiride",
+      "Saxagliptin",
+      "Acarbose",
+      "Dapagliflozin"
+    ],
+    "correctIndex": 4,
+    "explanation": "SGLT2 inhibitors (dapagliflozin, empagliflozin) reduce cardiovascular death and heart failure hospitalisation in HFrEF, with or without diabetes, in addition to lowering glucose. Their glucose effect is modest when eGFR is low, but the cardiorenal benefit persists. Adverse effects include genital mycotic infections, volume depletion and euglycaemic ketoacidosis. (First Aid — Endocrine: Antidiabetic drugs)",
+    "optionExplanations": [
+      "It causes fluid retention and worsens heart failure.",
+      "A sulfonylurea lowers glucose but has no heart failure benefit and risks hypoglycaemia.",
+      "This DPP-4 inhibitor was associated with more heart failure hospitalisations.",
+      "It reduces postprandial glucose but has no heart failure outcome benefit.",
+      ""
+    ],
+    "source": "October 2026 Recalls — Pharmacology — Oct 2026",
+    "recallSet": "october-2026",
+    "recallPaper": "Pharmacology — Oct 2026"
+  },
+  {
+    "systemSlug": "endocrine",
+    "topicSlug": "endocrine-pharmacology",
+    "stem": "An oral dose of 200 mg of a drug produces an AUC of 60 mg.h/L. An intravenous dose of 100 mg of the same drug produces an AUC of 50 mg.h/L. What is the oral bioavailability?",
+    "options": [
+      "30%",
+      "50%",
+      "60%",
+      "83%",
+      "120%"
+    ],
+    "correctIndex": 2,
+    "explanation": "F = (AUC oral / dose oral) / (AUC IV / dose IV) = (60/200) / (50/100) = 0.3/0.5 = 0.6. The doses differ, so AUCs must be dose-normalised before comparison; a simple AUC ratio (60/50) would give a meaningless value above 100%. (First Aid — Pharmacology: Pharmacokinetics and pharmacodynamics)",
+    "optionExplanations": [
+      "This is only the dose-normalised oral AUC (60/200) and ignores the IV reference.",
+      "This is just the ratio of the doses (100/200), not bioavailability.",
+      "",
+      "This inverts the AUC ratio (50/60) and ignores dose differences.",
+      "This is the uncorrected AUC ratio (60/50); F cannot exceed 100%."
+    ],
+    "source": "October 2026 Recalls — Pharmacology — Oct 2026",
+    "recallSet": "october-2026",
+    "recallPaper": "Pharmacology — Oct 2026"
+  },
+  {
+    "systemSlug": "gastrointestinal",
+    "topicSlug": "gi-pharmacology",
+    "stem": "A drug is completely absorbed from the gut lumen and is not metabolised in the gut wall. It has a hepatic extraction ratio of 0.8 on first pass. What is its approximate oral bioavailability?",
+    "options": [
+      "8%",
+      "40%",
+      "80%",
+      "20%",
+      "100%"
+    ],
+    "correctIndex": 3,
+    "explanation": "Oral bioavailability F = fraction absorbed x (1 - hepatic extraction ratio) = 1 x (1 - 0.8) = 0.2. Drugs with high first-pass extraction (e.g. propranolol, lidocaine, glyceryl trinitrate, morphine) have low oral bioavailability and require higher oral than IV doses. (First Aid — Pharmacology: Pharmacokinetics and pharmacodynamics)",
+    "optionExplanations": [
+      "This incorrectly multiplies 0.8 by 0.1 and has no basis.",
+      "This halves the unextracted fraction without justification.",
+      "This is the extraction ratio itself (the fraction lost), not the fraction that survives.",
+      "",
+      "Complete absorption does not mean complete bioavailability when first-pass metabolism occurs."
+    ],
+    "source": "October 2026 Recalls — Pharmacology — Oct 2026",
+    "recallSet": "october-2026",
+    "recallPaper": "Pharmacology — Oct 2026"
+  },
+  {
+    "systemSlug": "cardiovascular",
+    "topicSlug": "cardiac-pharmacology",
+    "stem": "A man with angina places a glyceryl trinitrate tablet under his tongue and has relief within two minutes. Swallowed GTN has almost no effect despite good absorption. What is the best explanation?",
+    "options": [
+      "Gastric acid destroys swallowed GTN before it can be absorbed from the gut",
+      "Sublingual absorption bypasses hepatic first-pass metabolism",
+      "Swallowed GTN is excreted unchanged in bile",
+      "GTN is highly protein-bound only when swallowed",
+      "Sublingual GTN enters the portal vein and then undergoes enterohepatic recycling"
+    ],
+    "correctIndex": 1,
+    "explanation": "GTN is almost completely extracted by the liver on first pass (oral bioavailability below 10%). Sublingual, buccal, transdermal and rectal (lower) routes reach the systemic circulation without passing through the portal vein, so bioavailability and onset improve. (First Aid — Pharmacology: Pharmacokinetics and pharmacodynamics)",
+    "optionExplanations": [
+      "GTN is absorbed; the loss is hepatic metabolism, not gastric destruction.",
+      "",
+      "Biliary excretion is not the main route; first-pass metabolism is.",
+      "Protein binding does not depend on the route of administration.",
+      "The sublingual route avoids the portal vein; enterohepatic recycling is not involved."
+    ],
+    "source": "October 2026 Recalls — Pharmacology — Oct 2026",
+    "recallSet": "october-2026",
+    "recallPaper": "Pharmacology — Oct 2026"
+  },
+  {
+    "systemSlug": "endocrine",
+    "topicSlug": "endocrine-pharmacology",
+    "stem": "A drug (Vd 40 L, clearance 4 L/h, oral bioavailability 0.8) has a target plasma concentration of 5 mg/L. What oral loading dose is required to reach this concentration immediately?",
+    "options": [
+      "25 mg",
+      "160 mg",
+      "200 mg",
+      "250 mg",
+      "It cannot be calculated without the half-life"
+    ],
+    "correctIndex": 3,
+    "explanation": "Loading dose = (Vd x target concentration) / F = (40 x 5) / 0.8 = 250 mg. Loading dose depends on Vd and F; clearance and half-life are not needed. (First Aid — Pharmacology: Pharmacokinetics and pharmacodynamics)",
+    "optionExplanations": [
+      "This is the maintenance rate calculation (CL x C / F = 25 mg/h), not the loading dose.",
+      "This multiplies by F instead of dividing (40 x 5 x 0.8).",
+      "This is the IV dose (Vd x C) and ignores oral bioavailability.",
+      "",
+      "The loading dose depends on Vd, target concentration and F, not on the half-life."
+    ],
+    "source": "October 2026 Recalls — Pharmacology — Oct 2026",
+    "recallSet": "october-2026",
+    "recallPaper": "Pharmacology — Oct 2026"
+  },
+  {
+    "systemSlug": "endocrine",
+    "topicSlug": "endocrine-pharmacology",
+    "stem": "A drug eliminated mainly by renal excretion is to be given to a patient whose GFR is about 25% of normal. Volume of distribution is expected to be unchanged. How should dosing be modified?",
+    "options": [
+      "Usual loading dose, but a lower maintenance dose or longer interval",
+      "Reduce both the loading dose and the maintenance dose in proportion to GFR",
+      "Increase the loading dose and keep the maintenance dose unchanged",
+      "Reduce the loading dose and keep the maintenance dose unchanged",
+      "Give the usual loading and maintenance doses, adjusting only if toxicity develops later"
+    ],
+    "correctIndex": 0,
+    "explanation": "The loading dose depends on Vd and the target concentration, so it is unchanged if Vd is unchanged. The maintenance dose rate depends on clearance, which is reduced in renal impairment, so it must be lowered (or the interval extended) to avoid accumulation. (First Aid — Pharmacology: Pharmacokinetics and pharmacodynamics)",
+    "optionExplanations": [
+      "",
+      "The loading dose is unaffected by clearance if Vd is unchanged.",
+      "Nothing justifies a larger loading dose, and an unchanged maintenance dose would accumulate.",
+      "This reverses the principle: clearance, not Vd, is what has changed.",
+      "The maintenance dose must be reduced prospectively for a renally cleared drug."
+    ],
+    "source": "October 2026 Recalls — Pharmacology — Oct 2026",
+    "recallSet": "october-2026",
+    "recallPaper": "Pharmacology — Oct 2026"
+  },
+  {
+    "systemSlug": "cardiovascular",
+    "topicSlug": "arrhythmias",
+    "stem": "Amiodarone is used to treat a patient with recurrent ventricular tachycardia. Which is its principal electrophysiological action, and what ECG effect results?",
+    "options": [
+      "Blockade of fast sodium channels, widening the QRS without affecting repolarisation at all",
+      "Blockade of L-type calcium channels, prolonging only the PR interval",
+      "Selective beta-1 blockade causing bradycardia with no change in repolarisation",
+      "Opening of potassium channels, hyperpolarising nodal cells and shortening the QT interval",
+      "K+ channel blockade prolonging repolarisation, with QT prolongation"
+    ],
+    "correctIndex": 4,
+    "explanation": "Amiodarone is a class III antiarrhythmic; K+ channel blockade prolongs repolarisation and the effective refractory period, lengthening the QT interval (torsades is rare). It also has class I, II and IV properties. Toxicity includes pulmonary fibrosis, thyroid dysfunction, hepatotoxicity, corneal deposits and blue-grey skin. (First Aid — Cardiovascular: Antiarrhythmics)",
+    "optionExplanations": [
+      "This describes class I agents such as flecainide.",
+      "This describes class IV agents (verapamil, diltiazem).",
+      "Beta-blockade is only one part of amiodarone's action and does not define its class.",
+      "This is the action of adenosine and acetylcholine, not amiodarone.",
+      ""
+    ],
+    "source": "October 2026 Recalls — Pharmacology — Oct 2026",
+    "recallSet": "october-2026",
+    "recallPaper": "Pharmacology — Oct 2026"
+  },
+  {
+    "systemSlug": "cardiovascular",
+    "topicSlug": "cardiac-pharmacology",
+    "stem": "A 66-year-old man with INR stable at 2.5 on warfarin starts amiodarone for atrial fibrillation. One week later the INR is 5.1 with no change in diet or warfarin dose. What is the mechanism?",
+    "options": [
+      "Amiodarone induces CYP2C9, increasing warfarin clearance",
+      "Amiodarone inhibits vitamin K epoxide reductase",
+      "Amiodarone inhibits CYP2C9, reducing the metabolism of warfarin",
+      "Amiodarone-induced hypothyroidism has increased clotting factor catabolism",
+      "Amiodarone stimulates platelet aggregation"
+    ],
+    "correctIndex": 2,
+    "explanation": "Amiodarone inhibits CYP2C9 (and CYP3A4), decreasing clearance of S-warfarin and raising INR; warfarin doses usually need a 30-50% reduction. It also raises digoxin levels by reducing renal and P-glycoprotein clearance. (First Aid — Pharmacology: Cytochrome P-450 interactions)",
+    "optionExplanations": [
+      "Induction would lower the INR, the opposite of the finding.",
+      "This is the action of warfarin itself, not amiodarone.",
+      "",
+      "Hypothyroidism slows clotting factor catabolism and reduces warfarin sensitivity; hyperthyroidism increases it.",
+      "Increased platelet activity would not raise the INR."
+    ],
+    "source": "October 2026 Recalls — Pharmacology — Oct 2026",
+    "recallSet": "october-2026",
+    "recallPaper": "Pharmacology — Oct 2026"
+  },
+  {
+    "systemSlug": "microbiology",
+    "topicSlug": "antimicrobial-pharmacology",
+    "stem": "A 3-year-old girl is given several days of leftover antibiotic from her mother's prescription. She then develops fever, abdominal cramps and watery diarrhoea that becomes greenish and blood-streaked. Stool testing is positive for Clostridioides difficile toxins A and B. Which of the following antibiotics is the most likely precipitant?",
+    "options": [
+      "Ampicillin",
+      "Oral vancomycin",
+      "Oral metronidazole",
+      "Gentamicin",
+      "Doxycycline"
+    ],
+    "correctIndex": 0,
+    "explanation": "Antibiotic-associated colitis follows loss of normal colonic flora, allowing C. difficile overgrowth and toxin production. Ampicillin/amoxicillin, clindamycin, cephalosporins and fluoroquinolones are the commonest culprits. Oral vancomycin and metronidazole are treatments, not causes, because they are non-absorbed or active against anaerobes. (First Aid — Microbiology: Clostridia)",
+    "optionExplanations": [
+      "",
+      "It is used to treat C. difficile colitis and is not absorbed, so it is not the precipitant.",
+      "It is a treatment for C. difficile and not a typical cause.",
+      "Parenteral aminoglycosides rarely cause C. difficile infection.",
+      "Tetracyclines carry a comparatively low risk compared with ampicillin or clindamycin."
+    ],
+    "source": "October 2026 Recalls — Pharmacology — Oct 2026",
+    "recallSet": "october-2026",
+    "recallPaper": "Pharmacology — Oct 2026"
+  },
+  {
+    "systemSlug": "microbiology",
+    "topicSlug": "antimicrobial-pharmacology",
+    "stem": "A 40-year-old man receiving injectable streptomycin for multidrug regimens develops dizziness, oscillopsia and a staggering gait that worsens in the dark. His hearing is relatively preserved. Which statement best describes the toxicity?",
+    "options": [
+      "Streptomycin predominantly damages the cochlear outer hair cells, causing hearing loss first",
+      "Streptomycin is predominantly vestibulotoxic, damaging vestibular hair cells",
+      "Streptomycin causes optic neuritis with reduced colour vision",
+      "Streptomycin causes a peripheral neuropathy due to pyridoxine depletion",
+      "Streptomycin toxicity is due to eighth-nerve compression by a cerebellopontine angle mass"
+    ],
+    "correctIndex": 1,
+    "explanation": "Streptomycin (and gentamicin) mainly damage the vestibular apparatus, causing vertigo, ataxia and oscillopsia, whereas neomycin, kanamycin and amikacin more often damage the cochlea causing high-frequency sensorineural deafness. Aminoglycosides also cause nephrotoxicity and neuromuscular blockade, and toxicity is worsened by loop diuretics. (First Aid — Microbiology: Aminoglycosides)",
+    "optionExplanations": [
+      "Predominant cochlear toxicity is characteristic of amikacin, kanamycin and neomycin.",
+      "",
+      "Optic neuritis is typical of ethambutol, not aminoglycosides.",
+      "This is the isoniazid toxicity pattern.",
+      "There is no mass lesion; this is direct drug-induced hair cell damage."
+    ],
+    "source": "October 2026 Recalls — Pharmacology — Oct 2026",
+    "recallSet": "october-2026",
+    "recallPaper": "Pharmacology — Oct 2026"
+  },
+  {
+    "systemSlug": "cardiovascular",
+    "topicSlug": "cardiac-hemodynamics",
+    "stem": "A healthy 25-year-old and a 72-year-old man have the same stroke volume, heart rate and mean arterial pressure. The young man's BP is 120/80 mmHg, and the older man's is 170/70 mmHg. Which physiological difference best explains the older man's wide pulse pressure?",
+    "options": [
+      "Higher total peripheral resistance",
+      "Larger stroke volume",
+      "Reduced aortic compliance",
+      "Lower heart rate",
+      "Reduced circulating blood volume (hypovolaemia)"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pulse pressure is approximately stroke volume divided by arterial compliance. A stiff aorta cannot buffer the ejected volume, so systolic pressure rises and diastolic pressure falls (isolated systolic hypertension in ageing), with MAP unchanged. Total peripheral resistance mainly determines MAP and diastolic level, not pulse pressure. (First Aid — Cardiovascular: Physiology)",
+    "optionExplanations": [
+      "Raised resistance would increase MAP and diastolic pressure, but MAP is the same and diastolic is lower.",
+      "The stem states stroke volume is the same.",
+      "",
+      "The stem states heart rate is the same.",
+      "Hypovolaemia would lower stroke volume and narrow the pulse pressure."
+    ],
+    "source": "October 2026 Recalls — Physiology — Oct 2026",
+    "recallSet": "october-2026",
+    "recallPaper": "Physiology — Oct 2026"
+  },
+  {
+    "systemSlug": "cardiovascular",
+    "topicSlug": "cardiac-hemodynamics",
+    "stem": "Increased end-diastolic stretch of ventricular myocytes causes a stronger contraction on the next beat (Frank-Starling mechanism). Which cellular mechanism best explains this?",
+    "options": [
+      "Length-dependent rise in myofilament Ca2+ sensitivity (troponin C affinity)",
+      "Recruitment of additional motor units",
+      "Increased sympathetic stimulation of cardiac beta-1 receptors",
+      "Reflex stretch response from muscle spindles",
+      "Greater Ca2+ entry through a larger number of L-type channels in the sarcolemma"
+    ],
+    "correctIndex": 0,
+    "explanation": "Stretching the sarcomere increases the affinity of troponin C for Ca2+ and the number of strongly bound cross-bridges, without requiring a primary change in the Ca2+ transient. Unlike skeletal muscle, cardiac muscle works on the ascending limb of its length-tension curve because of high passive stiffness, and has no motor-unit recruitment. (First Aid — Cardiovascular: Physiology)",
+    "optionExplanations": [
+      "",
+      "Cardiac muscle has no motor units; all myocytes act as a syncytium.",
+      "This explains positive inotropy independent of preload, not the Frank-Starling mechanism.",
+      "The heart has no muscle spindles.",
+      "Stretch does not raise channel numbers; sensitivity of the myofilaments changes."
+    ],
+    "source": "October 2026 Recalls — Physiology — Oct 2026",
+    "recallSet": "october-2026",
+    "recallPaper": "Physiology — Oct 2026"
+  },
+  {
+    "systemSlug": "cardiovascular",
+    "topicSlug": "cardiac-hemodynamics",
+    "stem": "A healthy subject's heart rate rises from 70 to 120/min during exercise-like pacing, while stroke volume and total peripheral resistance are assumed unchanged. What happens to mean arterial pressure and pulse pressure?",
+    "options": [
+      "Mean arterial pressure and pulse pressure both rise",
+      "Mean arterial pressure rises and pulse pressure falls",
+      "Mean arterial pressure is unchanged and pulse pressure rises",
+      "Mean arterial pressure falls and pulse pressure falls",
+      "Mean arterial pressure rises and pulse pressure is unchanged"
+    ],
+    "correctIndex": 1,
+    "explanation": "Cardiac output rises (CO = SV x HR), and with unchanged TPR mean arterial pressure rises (MAP = CO x TPR). With a shorter diastole there is less time for arterial run-off, so diastolic pressure rises more than systolic pressure and the pulse pressure narrows. (First Aid — Cardiovascular: Physiology)",
+    "optionExplanations": [
+      "Pulse pressure falls because diastole shortens and diastolic pressure rises.",
+      "",
+      "MAP depends on CO, which has increased.",
+      "MAP cannot fall when CO rises and TPR is unchanged.",
+      "Pulse pressure does change as diastolic filling of the arterial tree is reduced."
+    ],
+    "source": "October 2026 Recalls — Physiology — Oct 2026",
+    "recallSet": "october-2026",
+    "recallPaper": "Physiology — Oct 2026"
+  }
+]

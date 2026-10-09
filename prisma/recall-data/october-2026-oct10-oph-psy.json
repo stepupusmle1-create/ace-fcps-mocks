@@ -1,0 +1,912 @@
+[
+ {
+  "systemSlug": "musculoskeletal",
+  "topicSlug": "rheumatoid-arthritis-oa",
+  "stem": "A 45-year-old man presents to the emergency department with a painful, red right eye, photophobia and blurred vision for two days, with a few floaters. He has had chronic inflammatory low back pain with morning stiffness for several years and takes an NSAID daily. Examination shows circumcorneal congestion and a small irregular pupil. Which diagnosis and underlying association is most likely?",
+  "options": [
+   "Acute bacterial keratitis associated with NSAID use",
+   "Scleritis associated with rheumatoid arthritis",
+   "Episcleritis associated with inflammatory bowel disease",
+   "Acute anterior uveitis associated with HLA-B27 spondyloarthropathy",
+   "Acute angle-closure glaucoma associated with a shallow anterior chamber"
+  ],
+  "correctIndex": 3,
+  "explanation": "Inflammatory back pain with morning stiffness suggests axial spondyloarthritis (ankylosing spondylitis), and the commonest extra-articular manifestation is HLA-B27-associated acute anterior uveitis (painful red eye, photophobia, ciliary flush, small irregular pupil from posterior synechiae). (First Aid — Musculoskeletal: Seronegative spondyloarthropathies)",
+  "optionExplanations": [
+   "Keratitis would show a corneal epithelial defect or infiltrate, and NSAID use is not a recognised cause.",
+   "Scleritis gives deep boring pain and violaceous scleral injection and is linked to rheumatoid arthritis or vasculitis, not to a small irregular pupil with photophobia.",
+   "Episcleritis is a mild, usually painless sectoral redness without photophobia or visual blurring.",
+   "",
+   "Angle closure presents with a mid-dilated fixed pupil, hazy cornea and a very hard eye, not a small irregular pupil."
+  ],
+  "source": "October 2026 Recalls — Ophthalmology",
+  "recallSet": "october-2026",
+  "recallPaper": "Ophthalmology — Oct 2026"
+ },
+ {
+  "systemSlug": "nervous-system",
+  "topicSlug": "neurophysiology",
+  "stem": "A 10-year-old boy is brought with frontal headache and eye strain that appear after reading or doing homework for long periods. He sees the blackboard well, but his teacher notes that his near work is poor late in the day. Cycloplegic refraction shows +3.0 D in both eyes with no strabismus. Which refractive error is present?",
+  "options": [
+   "Hypermetropia",
+   "Early-onset presbyopia",
+   "Myopia with accommodative spasm",
+   "Compound myopic astigmatism",
+   "Anisometropia with amblyopia"
+  ],
+  "correctIndex": 0,
+  "explanation": "In hypermetropia (usually a short axial length) light focuses behind the retina at rest, so the child must accommodate constantly, even for distance and especially for near; sustained accommodation causes asthenopia, frontal headache and sometimes accommodative esotropia. A plus (convex) lens corrects it. (Standard ophthalmology teaching; First Aid — Neurology: Special senses/Eye)",
+  "optionExplanations": [
+   "",
+   "Presbyopia is an age-related loss of accommodation after about 40 years and does not occur in a 10-year-old.",
+   "Myopia causes blurred distance vision with good near vision and is corrected with a concave lens, and a cycloplegic refraction would be minus.",
+   "Astigmatism gives distorted vision at all distances from unequal corneal curvature and would show a cylindrical error rather than a pure +3.0 D sphere.",
+   "Anisometropia means a different refractive error in the two eyes, whereas both eyes here have the same error."
+  ],
+  "source": "October 2026 Recalls — Ophthalmology",
+  "recallSet": "october-2026",
+  "recallPaper": "Ophthalmology — Oct 2026"
+ },
+ {
+  "systemSlug": "nervous-system",
+  "topicSlug": "neurophysiology",
+  "stem": "A 22-year-old man cannot read the board from the last row of the classroom, although he reads comfortably at near. Unaided distance acuity is 6/24 and improves to 6/6 with a -1.5 D sphere. Where is the image of a distant object focused in his unaccommodated eye, and which lens corrects it?",
+  "options": [
+   "In front of the retina; convex lens",
+   "Behind the retina; convex lens",
+   "Two separate focal lines; cylindrical lens",
+   "Behind the retina; concave lens",
+   "In front of the retina; concave lens"
+  ],
+  "correctIndex": 4,
+  "explanation": "In myopia the eye is too long (or too powerful), so parallel rays from distant objects focus in front of the retina; a diverging concave (minus) lens moves the focus back onto the retina. Near objects are seen clearly because they are already closer to the eye's far point. (Standard ophthalmology teaching; First Aid — Neurology: Special senses/Eye)",
+  "optionExplanations": [
+   "A focus in front of the retina is correct, but a convex lens would make the rays converge even sooner and worsen the blur.",
+   "A focus behind the retina is hypermetropia, which needs a plus lens and is not helped by a minus lens.",
+   "Two focal lines describe astigmatism, which is not corrected by a pure spherical -1.5 D lens.",
+   "A focus behind the retina with a concave lens is mismatched on both counts; a concave lens would worsen hypermetropia.",
+   ""
+  ],
+  "source": "October 2026 Recalls — Ophthalmology",
+  "recallSet": "october-2026",
+  "recallPaper": "Ophthalmology — Oct 2026"
+ },
+ {
+  "systemSlug": "nervous-system",
+  "topicSlug": "neuroanatomy-embryology",
+  "stem": "A 24-year-old man with atopy and frequent eye rubbing has progressive blurring of vision. Slit-lamp examination shows central corneal thinning with apical protrusion, a Fleischer ring and Vogt striae, and retinoscopy shows a scissoring reflex. Which refractive error does advanced keratoconus produce?",
+  "options": [
+   "Pure hypermetropia from corneal flattening",
+   "Irregular astigmatism with progressive myopia",
+   "Irregular astigmatism with hypermetropia",
+   "Regular against-the-rule astigmatism with hypermetropia",
+   "Regular with-the-rule astigmatism only"
+  ],
+  "correctIndex": 1,
+  "explanation": "Keratoconus is a non-inflammatory ectatic corneal disorder in which central thinning and conical protrusion steepen the cornea, causing progressive myopia and irregular astigmatism that spectacles cannot fully correct (rigid gas-permeable lenses, corneal cross-linking, and keratoplasty for advanced cases). Atopy, eye rubbing and Down syndrome are risk factors. (Standard ophthalmology teaching; First Aid — Neurology: Special senses/Eye)",
+  "optionExplanations": [
+   "Corneal steepening increases refractive power, producing myopia rather than hypermetropia.",
+   "",
+   "The irregularity is correct, but the steepened conical cornea adds plus power in the visual axis, so the associated error is myopic, not hypermetropic.",
+   "Regular astigmatism has orthogonal principal meridians and does not explain the scissoring reflex or the distorted mires of an irregular cornea.",
+   "Regular with-the-rule astigmatism is a stable refractive error that can be corrected with cylinders, which is not the case in keratoconus."
+  ],
+  "source": "October 2026 Recalls — Ophthalmology",
+  "recallSet": "october-2026",
+  "recallPaper": "Ophthalmology — Oct 2026"
+ },
+ {
+  "systemSlug": "microbiology",
+  "topicSlug": "gram-negative-bacteria",
+  "stem": "A 45-year-old man who sleeps in his soft contact lenses develops severe pain, redness and reduced vision in the left eye over 48 hours. There is a rapidly spreading greyish-green corneal ulcer with a ring-shaped infiltrate, mucopurulent greenish discharge and a hypopyon. Which organism is the most likely cause?",
+  "options": [
+   "Herpes simplex virus type 1",
+   "Staphylococcus aureus",
+   "Pseudomonas aeruginosa",
+   "Aspergillus fumigatus",
+   "Acanthamoeba castellanii"
+  ],
+  "correctIndex": 2,
+  "explanation": "Contact-lens wear, especially overnight, predisposes to rapidly progressive, suppurative Pseudomonas keratitis: a greenish discharge, ring infiltrate, stromal melting and hypopyon within 24–72 hours, which is an ophthalmic emergency treated with intensive fortified or fluoroquinolone drops. Pseudomonas is an oxidase-positive gram-negative rod. (First Aid — Microbiology: Gram-negative lab algorithm, Pseudomonas aeruginosa)",
+  "optionExplanations": [
+   "HSV causes dendritic or geographic epithelial ulcers with reduced corneal sensation, not a green ring infiltrate.",
+   "S. aureus usually causes a localised, well-demarcated peripheral ulcer without a greenish, rapidly liquefying course.",
+   "",
+   "Aspergillus causes an indolent ulcer with feathery margins and satellite lesions, typically after vegetative trauma.",
+   "Acanthamoeba gives a subacute ring infiltrate with pain out of proportion to signs after tap-water or swimming exposure, and evolves over weeks rather than 48 hours."
+  ],
+  "source": "October 2026 Recalls — Ophthalmology",
+  "recallSet": "october-2026",
+  "recallPaper": "Ophthalmology — Oct 2026"
+ },
+ {
+  "systemSlug": "microbiology",
+  "topicSlug": "antimicrobial-pharmacology",
+  "stem": "A 30-year-old man has had three previous episodes of a red, watery, photophobic right eye. Fluorescein staining of the cornea now shows a branching linear ulcer with terminal bulbs, and corneal sensation is reduced. Which is the most appropriate treatment?",
+  "options": [
+   "Topical acyclovir (or ganciclovir) antiviral therapy",
+   "Topical corticosteroid drops to reduce corneal inflammation",
+   "Topical natamycin 5% suspension given hourly",
+   "Topical atropine alone for ciliary spasm and pain",
+   "Topical moxifloxacin drops alone, four times daily"
+  ],
+  "correctIndex": 0,
+  "explanation": "A dendritic ulcer with reduced corneal sensation is HSV epithelial keratitis, treated with topical acyclovir 3% ointment or ganciclovir gel (oral acyclovir is an alternative); debridement may be added. Corticosteroids are contraindicated in epithelial disease because they enhance viral replication and can produce geographic ulceration or perforation. (First Aid — Microbiology: Herpesviruses; Antimicrobial pharmacology: Antiviral drugs)",
+  "optionExplanations": [
+   "",
+   "Steroids are used only for stromal or disciform HSV disease under antiviral cover and worsen active epithelial infection.",
+   "Natamycin is an antifungal for filamentous fungal keratitis and does not cover HSV.",
+   "Atropine only relieves ciliary spasm and does not treat the underlying viral infection.",
+   "An antibacterial alone does not treat a viral ulcer, although it may be added to prevent secondary infection."
+  ],
+  "source": "October 2026 Recalls — Ophthalmology",
+  "recallSet": "october-2026",
+  "recallPaper": "Ophthalmology — Oct 2026"
+ },
+ {
+  "systemSlug": "community-medicine-public-health",
+  "topicSlug": "environmental-occupational-health",
+  "stem": "A construction worker is brought in immediately after wet cement (calcium hydroxide) splashed into his right eye. He has severe pain, blepharospasm, a hazy cornea and blanching of the limbus. Which is the most appropriate immediate management?",
+  "options": [
+   "Instil topical antibiotic drops and apply a firm eye pad",
+   "Arrange urgent penetrating keratoplasty to restore corneal clarity",
+   "Perform slit-lamp examination with fluorescein staining before any treatment",
+   "Immediate copious irrigation with water or saline until pH is neutral",
+   "Neutralise the alkali by irrigating with dilute vinegar or weak acid"
+  ],
+  "correctIndex": 3,
+  "explanation": "Chemical injury, especially alkali, is treated first and before any examination with immediate, prolonged irrigation (at least 1–2 litres, with lid retraction) until the conjunctival pH is 7.0–7.5; alkali penetrates quickly and limbal ischaemia predicts a worse outcome. Later care includes cycloplegics, topical antibiotics, steroids, ascorbate and sometimes amniotic membrane. (Standard ophthalmology teaching; First Aid — Community medicine: Occupational and environmental health)",
+  "optionExplanations": [
+   "Antibiotics and padding are secondary measures that should follow irrigation, and padding a chemical injury delays decontamination.",
+   "Keratoplasty is a late reconstructive option for scarring and does not play a role in emergency management.",
+   "Delaying irrigation to examine the eye allows continued penetration of alkali and worsens damage.",
+   "",
+   "Attempting neutralisation with weak acid is not recommended because the reaction generates heat and may add injury; copious irrigation is used."
+  ],
+  "source": "October 2026 Recalls — Ophthalmology",
+  "recallSet": "october-2026",
+  "recallPaper": "Ophthalmology — Oct 2026"
+ },
+ {
+  "systemSlug": "microbiology",
+  "topicSlug": "gram-positive-bacteria",
+  "stem": "A 25-year-old man has a two-day history of redness and a sticky yellow discharge that glues his right eyelids together on waking. He has mild grittiness but no itching, no photophobia and no preauricular lymph node. Visual acuity is 6/6 and the cornea is clear. Which diagnosis is most likely?",
+  "options": [
+   "Adult inclusion (chlamydial) conjunctivitis",
+   "Acute bacterial conjunctivitis",
+   "Allergic conjunctivitis",
+   "Viral (adenoviral) conjunctivitis",
+   "Acute anterior uveitis"
+  ],
+  "correctIndex": 1,
+  "explanation": "Mucopurulent discharge with matted lids, mild grittiness, a clear cornea and normal vision is acute bacterial conjunctivitis, most often due to Staphylococcus aureus, Streptococcus pneumoniae or Haemophilus influenzae. It is usually self-limiting, with a topical broad-spectrum antibiotic hastening recovery. (Standard ophthalmology teaching; First Aid — Microbiology: Gram-positive bacteria)",
+  "optionExplanations": [
+   "Adult inclusion conjunctivitis is a subacute follicular conjunctivitis in a sexually active adult that persists for weeks.",
+   "",
+   "Allergic conjunctivitis is dominated by itching, watery or ropy discharge and chemosis, not purulent discharge.",
+   "Adenoviral conjunctivitis gives a watery discharge, follicles and a tender preauricular node, which are absent here.",
+   "Anterior uveitis causes pain, photophobia, ciliary flush and a small pupil with reduced vision rather than purulent discharge."
+  ],
+  "source": "October 2026 Recalls — Ophthalmology",
+  "recallSet": "october-2026",
+  "recallPaper": "Ophthalmology — Oct 2026"
+ },
+ {
+  "systemSlug": "microbiology",
+  "topicSlug": "microbiology-basics",
+  "stem": "A 10-year-old boy with eczema and allergic rhinitis has had intense itching, photophobia and thick ropy white discharge in both eyes for three weeks, worse every summer. Everting the upper lids shows large flat-topped cobblestone papillae, and there are gelatinous nodules at the limbus with white dots on them (Horner-Trantas dots). Which diagnosis is most likely?",
+  "options": [
+   "Phlyctenular keratoconjunctivitis",
+   "Giant papillary conjunctivitis",
+   "Atopic keratoconjunctivitis",
+   "Trachoma",
+   "Vernal keratoconjunctivitis"
+  ],
+  "correctIndex": 4,
+  "explanation": "Vernal keratoconjunctivitis is a recurrent type I (with type IV component) hypersensitivity of young males, seasonal and bilateral, with intense itching, ropy discharge, giant cobblestone papillae of the upper tarsus and limbal Horner-Trantas dots (eosinophil collections). Treatment is topical mast-cell stabilisers/antihistamines, short courses of steroids, and cyclosporine for severe disease. (First Aid — Immunology: Hypersensitivity reactions; Standard ophthalmology teaching)",
+  "optionExplanations": [
+   "Phlyctenular keratoconjunctivitis causes small raised nodules at the limbus from hypersensitivity to staphylococcal or tuberculous antigens, without cobblestone papillae.",
+   "Giant papillary conjunctivitis occurs with contact lenses or prostheses and lacks limbal Horner-Trantas dots.",
+   "Atopic keratoconjunctivitis affects older patients with year-round symptoms and mainly lower-lid and tarsal fibrosis and is less seasonal.",
+   "Trachoma shows follicles (not giant papillae) with scarring, trichiasis and pannus, and is a disease of poor hygiene and crowding.",
+   ""
+  ],
+  "source": "October 2026 Recalls — Ophthalmology",
+  "recallSet": "october-2026",
+  "recallPaper": "Ophthalmology — Oct 2026"
+ },
+ {
+  "systemSlug": "microbiology",
+  "topicSlug": "mycobacteria-atypical-bacteria",
+  "stem": "During a community survey in a trachoma-endemic district, a 50-year-old farmer complains of foreign-body sensation and watering. Examination shows scarring of the upper tarsal conjunctiva and at least one eyelash rubbing on the globe, with a clear central cornea. According to the WHO simplified grading system, which stage of trachoma does he have?",
+  "options": [
+   "Trachomatous inflammation—intense (TI)",
+   "Corneal opacity (CO)",
+   "Trachomatous trichiasis (TT)",
+   "Trachomatous inflammation—follicular (TF)",
+   "Trachomatous scarring (TS)"
+  ],
+  "correctIndex": 2,
+  "explanation": "The WHO simplified grading is TF, TI, TS, TT and CO. At least one eyelash rubbing on the eyeball (or evidence of epilation) is trachomatous trichiasis (TT), a blinding stage managed with bilamellar tarsal rotation surgery (the 'S' in the SAFE strategy). (Standard ophthalmology teaching; First Aid — Microbiology: Chlamydiae)",
+  "optionExplanations": [
+   "TI is marked inflammatory thickening obscuring more than half of the deep tarsal vessels, an active stage.",
+   "CO is corneal opacity over the pupil that reduces acuity, but his central cornea is clear.",
+   "",
+   "TF denotes at least five follicles of 0.5 mm or more in the upper tarsal conjunctiva, an active inflammatory stage without lash contact.",
+   "TS is visible scarring of the tarsal conjunctiva, which is present here, but the lash-globe contact defines the higher grade TT."
+  ],
+  "source": "October 2026 Recalls — Ophthalmology",
+  "recallSet": "october-2026",
+  "recallPaper": "Ophthalmology — Oct 2026"
+ },
+ {
+  "systemSlug": "nervous-system",
+  "topicSlug": "neuroanatomy-embryology",
+  "stem": "A 28-year-old man has a painless, firm 8-mm nodule within the left upper eyelid that has been present for nine months. It is not red or tender, and there is no discharge. Hot compresses and lid massage over the last two months have failed. Which is the best treatment?",
+  "options": [
+   "Short course of oral prednisolone",
+   "Incision and curettage through the conjunctival surface",
+   "Wide surgical excision with a 5-mm margin",
+   "Continue hot compresses and lid massage for another three months",
+   "Oral flucloxacillin for two weeks and review in clinic"
+  ],
+  "correctIndex": 1,
+  "explanation": "A chalazion is a chronic sterile lipogranulomatous inflammation of a meibomian gland. Small ones may resolve with warm compresses, but a persistent large lesion is treated by incision and curettage through the tarsal conjunctiva (with the lid held in a chalazion clamp). A recurrent chalazion in an older patient needs histology to exclude sebaceous carcinoma. (Standard ophthalmology teaching; First Aid — Neurology: Special senses/Eye)",
+  "optionExplanations": [
+   "Systemic steroids have no role in a localised eyelid granuloma.",
+   "",
+   "Wide excision is for suspected malignancy and is not routine treatment of a benign chalazion.",
+   "Further compresses after months of failure are unlikely to help a mature, fibrotic lesion.",
+   "Antibiotics are used for infected lesions (hordeolum/internal hordeolum), not for a sterile granuloma."
+  ],
+  "source": "October 2026 Recalls — Ophthalmology",
+  "recallSet": "october-2026",
+  "recallPaper": "Ophthalmology — Oct 2026"
+ },
+ {
+  "systemSlug": "microbiology",
+  "topicSlug": "gram-positive-bacteria",
+  "stem": "A 30-year-old woman has a 3-day history of fever (39 °C), a swollen red left eyelid, pain on eye movement and diplopia after a sinus infection. Examination shows proptosis, chemosis and restricted ocular movements, but the right eye is normal. Which diagnosis is the most likely?",
+  "options": [
+   "Orbital (post-septal) cellulitis",
+   "Preseptal (periorbital) cellulitis",
+   "Cavernous sinus thrombosis with septic emboli",
+   "Acute dacryocystitis with lacrimal abscess",
+   "Angioedema of the eyelid"
+  ],
+  "correctIndex": 0,
+  "explanation": "Fever with proptosis, chemosis, painful and restricted eye movements and sometimes reduced acuity indicates post-septal (orbital) cellulitis, usually from ethmoid sinusitis (Staphylococcus, Streptococcus and Haemophilus). It needs urgent contrast CT, IV antibiotics and drainage if an abscess forms. (Standard ophthalmology teaching; First Aid — Microbiology: Gram-positive bacteria)",
+  "optionExplanations": [
+   "",
+   "Preseptal cellulitis is limited to the lid and spares eye movement and the globe, with no proptosis.",
+   "Cavernous sinus thrombosis typically progresses to bilateral involvement with multiple cranial neuropathies and severe toxicity, and this presentation is still unilateral and confined to the orbit.",
+   "Dacryocystitis causes a painful swelling over the lacrimal sac at the medial canthus with epiphora, not proptosis.",
+   "Angioedema is non-tender and afebrile with no restriction of eye movements."
+  ],
+  "source": "October 2026 Recalls — Ophthalmology",
+  "recallSet": "october-2026",
+  "recallPaper": "Ophthalmology — Oct 2026"
+ },
+ {
+  "systemSlug": "nervous-system",
+  "topicSlug": "neuroanatomy-embryology",
+  "stem": "A patient has a painful red eye with photophobia and blurred vision. The redness is deepest around the limbus, fading toward the fornices, and the vessels do not move when the conjunctiva is displaced with a cotton bud. Which type of congestion is this and what does it indicate?",
+  "options": [
+   "Conjunctival congestion; acute conjunctivitis with mucopurulent discharge",
+   "Subconjunctival haemorrhage; trauma or Valsalva strain",
+   "Episcleral congestion; benign self-limiting episcleritis only",
+   "Ciliary (circumcorneal) congestion; keratitis, uveitis or acute glaucoma"
+  ],
+  "correctIndex": 3,
+  "explanation": "Ciliary (circumcorneal) congestion involves the deep anterior ciliary vessels: a violaceous perilimbal flush that does not blanch or move with the conjunctiva. It indicates keratitis, iridocyclitis (uveitis), or acute glaucoma, whereas conjunctival congestion is superficial, brick-red, maximal in the fornices and mobile. (Standard ophthalmology teaching; First Aid — Neurology: Special senses/Eye)",
+  "optionExplanations": [
+   "Conjunctival congestion is superficial, maximal in the fornices and moves with the conjunctiva, and usually lacks photophobia and visual blurring.",
+   "Subconjunctival haemorrhage is a flat, bright-red patch rather than a perilimbal flush and is painless.",
+   "Episcleral vessels lie in a radial pattern, blanch with phenylephrine, and episcleritis produces little pain or photophobia.",
+   ""
+  ],
+  "source": "October 2026 Recalls — Ophthalmology",
+  "recallSet": "october-2026",
+  "recallPaper": "Ophthalmology — Oct 2026"
+ },
+ {
+  "systemSlug": "nervous-system",
+  "topicSlug": "neuropharmacology",
+  "stem": "A 30-year-old woman has had a painful red right eye and blurred vision for five days. Slit-lamp examination shows circumcorneal congestion, fine keratic precipitates, anterior chamber cells and flare, and a small pupil. Intraocular pressure is normal. Which treatment is most appropriate?",
+  "options": [
+   "Intravitreal anti-VEGF injection every month",
+   "Topical broad-spectrum antibiotic drops with an eye pad",
+   "Topical pilocarpine and timolol, then laser iridotomy",
+   "Intravenous mannitol with oral acetazolamide and topical timolol",
+   "Topical steroid plus cycloplegic–mydriatic drops"
+  ],
+  "correctIndex": 4,
+  "explanation": "Acute anterior uveitis is treated with topical corticosteroids to suppress inflammation plus a cycloplegic–mydriatic (e.g., atropine or cyclopentolate) to relieve ciliary spasm pain and prevent posterior synechiae; look for HLA-B27 disease, sarcoidosis, JIA and other causes. (Standard ophthalmology teaching; First Aid — Neurology: Ocular pharmacology/Special senses)",
+  "optionExplanations": [
+   "Anti-VEGF injections treat neovascular macular or retinal disease and not anterior segment inflammation.",
+   "Antibiotics and padding do not treat sterile intraocular inflammation and padding is not recommended.",
+   "Pilocarpine would constrict the pupil further, promoting synechiae, and timolol is not an anti-inflammatory.",
+   "Mannitol and acetazolamide treat acutely raised pressure, which is normal here.",
+   ""
+  ],
+  "source": "October 2026 Recalls — Ophthalmology",
+  "recallSet": "october-2026",
+  "recallPaper": "Ophthalmology — Oct 2026"
+ },
+ {
+  "systemSlug": "nervous-system",
+  "topicSlug": "neurophysiology",
+  "stem": "A 60-year-old hypermetropic woman develops severe right eye pain, headache, nausea and vomiting 6 hours after being in a dimly lit cinema. The eye is red with a hazy cornea, a fixed mid-dilated pupil and a shallow anterior chamber, and the globe feels stony hard. What is the basic mechanism of her attack?",
+  "options": [
+   "Overproduction of aqueous humour by the ciliary processes",
+   "Trabecular meshwork degeneration despite an open angle",
+   "Pupillary block by iris against lens, closing the angle",
+   "Neovascularisation of the iris and angle closing the drainage",
+   "Inflammatory adhesions between iris and lens from prior uveitis"
+  ],
+  "correctIndex": 2,
+  "explanation": "Acute primary angle-closure glaucoma occurs in an eye with a shallow anterior chamber (hypermetropia, large lens with age) when mid-dilation of the pupil causes relative pupillary block; aqueous accumulates behind the iris, bows it forward, and the peripheral iris closes the trabecular meshwork, raising intraocular pressure abruptly. Definitive treatment is laser peripheral iridotomy. (Standard ophthalmology teaching; First Aid — Neurology: Glaucoma)",
+  "optionExplanations": [
+   "Overproduction of aqueous is not the mechanism of primary angle closure; the problem is outflow obstruction.",
+   "Trabecular degeneration with a normal open angle describes primary open-angle glaucoma, which is slow and painless.",
+   "",
+   "Iris neovascularisation causes neovascular (secondary) glaucoma in ischaemic retinal disease such as diabetes or CRVO.",
+   "Inflammatory iris-lens adhesions cause secondary angle-closure in chronic uveitis, but this attack occurs without prior inflammation."
+  ],
+  "source": "October 2026 Recalls — Ophthalmology",
+  "recallSet": "october-2026",
+  "recallPaper": "Ophthalmology — Oct 2026"
+ },
+ {
+  "systemSlug": "renal",
+  "topicSlug": "renal-pharmacology",
+  "stem": "A 62-year-old woman with acute angle-closure glaucoma has an intraocular pressure of 58 mmHg in the affected eye and a stony hard globe; laser iridotomy is not yet possible because the cornea is too oedematous. Which single agent lowers intraocular pressure fastest?",
+  "options": [
+   "Topical timolol 0.5% single drop",
+   "Topical latanoprost 0.005%",
+   "IV 20% mannitol",
+   "Topical pilocarpine 2% every 15 minutes",
+   "Topical atropine 1% single drop"
+  ],
+  "correctIndex": 2,
+  "explanation": "Osmotic agents such as IV mannitol (1–1.5 g/kg) draw water out of the vitreous and rapidly reduce intraocular pressure; acetazolamide (carbonic anhydrase inhibitor) reduces aqueous production and is combined with topical timolol, pilocarpine and steroids before definitive laser iridotomy. Mannitol also lowers pressure when the sphincter is ischaemic and miotics fail. (First Aid — Renal: Pharmacology, osmotic diuretics; Standard ophthalmology teaching)",
+  "optionExplanations": [
+   "Timolol reduces aqueous production but takes longer and is an adjunct, not the fastest agent.",
+   "Latanoprost increases uveoscleral outflow over hours and is ineffective in a closed angle.",
+   "",
+   "Pilocarpine opens the angle only once pressure has fallen, and the ischaemic iris sphincter is unresponsive at very high pressure, so it is not the fastest single agent.",
+   "Atropine dilates the pupil and can precipitate or worsen angle closure, so it is contraindicated."
+  ],
+  "source": "October 2026 Recalls — Ophthalmology",
+  "recallSet": "october-2026",
+  "recallPaper": "Ophthalmology — Oct 2026"
+ },
+ {
+  "systemSlug": "cardiovascular",
+  "topicSlug": "cardiac-pharmacology",
+  "stem": "A 58-year-old woman with moderate persistent asthma is newly diagnosed with primary open-angle glaucoma. Which topical anti-glaucoma agent should be avoided?",
+  "options": [
+   "Timolol",
+   "Latanoprost",
+   "Bimatoprost",
+   "Brimonidine",
+   "Dorzolamide"
+  ],
+  "correctIndex": 0,
+  "explanation": "Non-selective topical beta-blockers such as timolol are absorbed systemically via the nasolacrimal mucosa and can precipitate bronchospasm (and bradycardia or heart block), so they are contraindicated in asthma and COPD. Alternatives include prostaglandin analogues, alpha-2 agonists and topical carbonic anhydrase inhibitors. (First Aid — Autonomic pharmacology: Beta-blockers; Standard ophthalmology teaching)",
+  "optionExplanations": [
+   "",
+   "Latanoprost is a prostaglandin F2-alpha analogue that increases uveoscleral outflow and is safe in asthma.",
+   "Bimatoprost is a prostamide analogue that raises uveoscleral outflow and is not contraindicated in asthma.",
+   "Brimonidine is an alpha-2 agonist that decreases aqueous production and is not contraindicated in asthma, though caution is advised in infants.",
+   "Dorzolamide is a topical carbonic anhydrase inhibitor and is not a bronchoconstrictor."
+  ],
+  "source": "October 2026 Recalls — Ophthalmology",
+  "recallSet": "october-2026",
+  "recallPaper": "Ophthalmology — Oct 2026"
+ },
+ {
+  "systemSlug": "microbiology",
+  "topicSlug": "gram-positive-bacteria",
+  "stem": "A 52-year-old man has severe pain, redness and marked loss of vision in the right eye 4 days after uncomplicated phacoemulsification. Examination shows lid oedema, intense conjunctival congestion, a hazy cornea, a hypopyon and a poor red reflex. Which is the most likely diagnosis?",
+  "options": [
+   "Postoperative anterior uveitis",
+   "Post-operative pressure spike from retained viscoelastic",
+   "Posterior capsule opacification",
+   "Toxic anterior segment syndrome",
+   "Acute postoperative endophthalmitis"
+  ],
+  "correctIndex": 4,
+  "explanation": "Pain, severe visual loss, lid swelling, hypopyon and a poor fundal view appearing 2–7 days after cataract surgery indicates acute bacterial endophthalmitis (commonly coagulase-negative staphylococci); management is an urgent vitreous tap/biopsy with intravitreal vancomycin and ceftazidime. (Standard ophthalmology teaching; First Aid — Microbiology: Gram-positive bacteria)",
+  "optionExplanations": [
+   "Routine postoperative uveitis is mild and responds to topical steroids without severe pain, lid oedema or a hypopyon.",
+   "A pressure spike causes corneal oedema and pain but not a hypopyon or lid swelling and presents within the first day.",
+   "Posterior capsule opacification is a painless gradual loss of vision months to years after surgery.",
+   "TASS is a sterile reaction to toxic substances that appears within 12–48 hours with diffuse limbus-to-limbus corneal oedema and typically little pain.",
+   ""
+  ],
+  "source": "October 2026 Recalls — Ophthalmology",
+  "recallSet": "october-2026",
+  "recallPaper": "Ophthalmology — Oct 2026"
+ },
+ {
+  "systemSlug": "nervous-system",
+  "topicSlug": "neuroanatomy-embryology",
+  "stem": "A 66-year-old man has had gradual painless visual blurring in both eyes for two years. He noticed that he could briefly read newspapers without his glasses a year ago, but now struggles with night driving because of glare and haloes. Examination shows a diminished red reflex and a yellowish-brown, dense central lens. Which type of cataract is most likely?",
+  "options": [
+   "Cortical cataract",
+   "Morgagnian cataract with a liquefied cortex",
+   "Anterior polar cataract",
+   "Nuclear sclerosis cataract",
+   "Posterior subcapsular cataract"
+  ],
+  "correctIndex": 3,
+  "explanation": "Nuclear sclerosis, the commonest age-related cataract, increases the refractive index of the lens nucleus, producing a myopic shift ('second sight' in presbyopes) and a progressively brown (brunescent) nucleus; reduced acuity, glare and poor night vision follow. Treatment is phacoemulsification with intraocular lens implantation. (Standard ophthalmology teaching; First Aid — Neurology: Special senses/Eye)",
+  "optionExplanations": [
+   "Cortical cataract shows peripheral spoke-like or wedge opacities and glare but is not classically linked with a myopic shift or brunescence.",
+   "A Morgagnian cataract is a hypermature stage with milky liquefied cortex and a sinking nucleus in advanced disease.",
+   "Anterior polar cataract is usually congenital and small, and rarely progresses.",
+   "",
+   "Posterior subcapsular cataract affects near vision and bright-light vision more, and is linked to steroids, diabetes and radiation."
+  ],
+  "source": "October 2026 Recalls — Ophthalmology",
+  "recallSet": "october-2026",
+  "recallPaper": "Ophthalmology — Oct 2026"
+ },
+ {
+  "systemSlug": "nervous-system",
+  "topicSlug": "neuropharmacology",
+  "stem": "A 70-year-old man with a 2-month history of central distortion and blurring in his right eye has subretinal fluid, hard exudates and a choroidal neovascular membrane on fundus examination and OCT. Which treatment is most appropriate?",
+  "options": [
+   "AREDS antioxidant vitamin and zinc supplementation only",
+   "Intravitreal anti-VEGF injections",
+   "Topical dorzolamide drops to lower intraocular pressure",
+   "Oral prednisolone for six weeks",
+   "Panretinal photocoagulation of the peripheral retina"
+  ],
+  "correctIndex": 1,
+  "explanation": "Neovascular ('wet') age-related macular degeneration is driven by VEGF-mediated choroidal neovascularisation; regular intravitreal anti-VEGF injections (ranibizumab, aflibercept, bevacizumab) are first-line and preserve or improve vision. AREDS supplements reduce progression only in intermediate dry AMD. (Standard ophthalmology teaching; First Aid — Neurology: Special senses/Eye)",
+  "optionExplanations": [
+   "AREDS supplements slow progression of dry AMD but do not treat active choroidal neovascularisation.",
+   "",
+   "Topical carbonic anhydrase inhibitors lower intraocular pressure and are not a treatment for CNV.",
+   "Oral steroids have no role and may worsen systemic and ocular outcomes.",
+   "Panretinal photocoagulation treats proliferative diabetic retinopathy and ischaemic vein occlusion by ablating peripheral ischaemic retina and would destroy no macular neovascular tissue here."
+  ],
+  "source": "October 2026 Recalls — Ophthalmology",
+  "recallSet": "october-2026",
+  "recallPaper": "Ophthalmology — Oct 2026"
+ },
+ {
+  "systemSlug": "nervous-system",
+  "topicSlug": "neurophysiology",
+  "stem": "A 28-year-old woman has had painful loss of vision in her right eye for two days with pain on eye movements and 'washed-out' colours. Visual acuity is 6/60, there is a right relative afferent pupillary defect, and the optic disc looks normal. Which investigation is most useful to predict her risk of developing multiple sclerosis?",
+  "options": [
+   "MRI brain for demyelinating white-matter lesions",
+   "Temporal artery biopsy for giant cell arteritis",
+   "Visual evoked potentials with P100 latency testing",
+   "Serum angiotensin-converting enzyme and chest imaging",
+   "CT of the orbit with intravenous contrast"
+  ],
+  "correctIndex": 0,
+  "explanation": "This is retrobulbar optic neuritis (normal disc, painful eye movement, dyschromatopsia, RAPD), a common first presentation of multiple sclerosis. Brain MRI showing periventricular T2 lesions is the best predictor of subsequent MS (Optic Neuritis Treatment Trial), and IV methylprednisolone hastens recovery without changing the final visual outcome. (Standard ophthalmology teaching; First Aid — Neurology: Multiple sclerosis)",
+  "optionExplanations": [
+   "",
+   "Temporal artery biopsy diagnoses giant cell arteritis, which affects the elderly and causes painless ischaemic optic neuropathy.",
+   "Visual evoked potentials show delayed P100 latency and confirm optic nerve demyelination but do not predict future MS as well as MRI.",
+   "Raised ACE would support sarcoidosis, an uncommon cause of optic neuropathy that does not predict MS.",
+   "Contrast CT of the orbit is used for orbital infection or mass and has poor sensitivity for demyelination."
+  ],
+  "source": "October 2026 Recalls — Ophthalmology",
+  "recallSet": "october-2026",
+  "recallPaper": "Ophthalmology — Oct 2026"
+ },
+ {
+  "systemSlug": "nervous-system",
+  "topicSlug": "stroke",
+  "stem": "A 62-year-old smoker with hyperlipidaemia has had several attacks of painless, curtain-like loss of vision in the left eye, each lasting 2–3 minutes with full recovery. Fundoscopy shortly after an attack shows a small bright, refractile yellow-orange plaque at a retinal arteriolar bifurcation. What is this finding?",
+  "options": [
+   "Drusen (subretinal deposits)",
+   "Roth spot (haemorrhage with pale centre)",
+   "Hard exudate (lipid deposits)",
+   "Hollenhorst plaque (cholesterol embolus)",
+   "Cotton-wool spot (nerve-fibre layer infarct)"
+  ],
+  "correctIndex": 3,
+  "explanation": "A Hollenhorst plaque is a cholesterol embolus lodged at a retinal arteriolar bifurcation, usually from an ipsilateral carotid atheromatous plaque; it explains amaurosis fugax. Carotid duplex imaging and secondary vascular prevention (antiplatelet, statin) follow. (First Aid — Neurology: Stroke; Cardiovascular: Atherosclerosis)",
+  "optionExplanations": [
+   "Drusen are yellow subretinal deposits beneath the RPE in age-related macular degeneration, not arteriolar emboli.",
+   "Roth spots are retinal haemorrhages with a pale centre seen in infective endocarditis and leukaemia.",
+   "Hard exudates are waxy yellow lipid deposits at the posterior pole in diabetic or hypertensive retinopathy.",
+   "",
+   "Cotton-wool spots are fluffy white retinal nerve-fibre layer infarcts seen in hypertension, diabetes, and HIV."
+  ],
+  "source": "October 2026 Recalls — Ophthalmology",
+  "recallSet": "october-2026",
+  "recallPaper": "Ophthalmology — Oct 2026"
+ },
+ {
+  "systemSlug": "nervous-system",
+  "topicSlug": "stroke",
+  "stem": "A 65-year-old man with hypertension and atrial fibrillation has sudden painless loss of vision in the right eye 6 hours ago; he can only count fingers. Fundoscopy shows a pale, opaque retina with a bright red spot at the macula. Why does the macula look cherry-red?",
+  "options": [
+   "Concentrated xanthophyll pigment at the fovea",
+   "Thin foveola lets the choroid show through the ischaemic retina",
+   "Haemorrhage collecting at the fovea from ruptured retinal vessels",
+   "A choroidal haemangioma lying beneath the fovea",
+   "Neovascularisation at the macula from ischaemia-driven VEGF"
+  ],
+  "correctIndex": 1,
+  "explanation": "In central retinal artery occlusion (here probably cardioembolic from atrial fibrillation) the inner retina becomes ischaemic, swollen and opaque, but the foveola is extremely thin and supplied by the choroid, so the underlying vascular choroid appears as a cherry-red spot against the white retina. It is an ocular emergency with a narrow treatment window, and workup includes an embolic source. (Standard ophthalmology teaching; First Aid — Neurology: Stroke)",
+  "optionExplanations": [
+   "Xanthophyll is yellow macular pigment that is not red and is unchanged in this condition.",
+   "",
+   "Retinal haemorrhage is a feature of vein occlusion, not of arterial occlusion, which is bloodless.",
+   "A choroidal haemangioma is an unrelated tumour and does not occur acutely with a pale retina.",
+   "Neovascularisation develops weeks later in ischaemic retinopathies and is not the cause of an acute red spot."
+  ],
+  "source": "October 2026 Recalls — Ophthalmology",
+  "recallSet": "october-2026",
+  "recallPaper": "Ophthalmology — Oct 2026"
+ },
+ {
+  "systemSlug": "cardiovascular",
+  "topicSlug": "hypertension",
+  "stem": "A 60-year-old hypertensive man had sudden painless loss of vision in the right eye two months ago, with dilated tortuous veins and widespread flame haemorrhages in all four quadrants. Fluorescein angiography showed extensive capillary non-perfusion, and he now has a relative afferent pupillary defect. He returns with pain, a red eye and an intraocular pressure of 45 mmHg. Which complication is most likely?",
+  "options": [
+   "Lens-induced glaucoma",
+   "Primary angle-closure glaucoma",
+   "Neovascular glaucoma",
+   "Optic neuritis",
+   "Acute anterior uveitis"
+  ],
+  "correctIndex": 2,
+  "explanation": "Ischaemic central retinal vein occlusion releases VEGF, causing neovascularisation of the iris (rubeosis) and angle about 2–3 months later ('100-day glaucoma'); the fibrovascular membrane closes the angle and pressure rises sharply. Management includes panretinal photocoagulation and anti-VEGF injections. (First Aid — Cardiovascular: Hypertension complications; Standard ophthalmology teaching)",
+  "optionExplanations": [
+   "Lens-induced glaucoma arises from a hypermature cataract or dislocated lens, which is not present here.",
+   "Primary angle closure occurs in an anatomically narrow-angled hypermetropic eye and does not follow a vein occlusion.",
+   "",
+   "Optic neuritis is a demyelinating process in young adults and does not raise intraocular pressure.",
+   "Uveitis would show cells and flare, but would not cause an intraocular pressure of 45 mmHg with ischaemic retinopathy."
+  ],
+  "source": "October 2026 Recalls — Ophthalmology",
+  "recallSet": "october-2026",
+  "recallPaper": "Ophthalmology — Oct 2026"
+ },
+ {
+  "systemSlug": "nervous-system",
+  "topicSlug": "neuroanatomy-embryology",
+  "stem": "A 50-year-old man reports a sudden shower of floaters and flashes of light in the right eye, followed three days later by a dark curtain moving across the upper visual field. Acuity is reduced, there is a relative afferent pupillary defect, and fundoscopy shows a greyish, undulating elevated retina with a horseshoe-shaped tear and pigment cells in the vitreous. What is the diagnosis?",
+  "options": [
+   "Vitreous haemorrhage",
+   "Central serous chorioretinopathy",
+   "Degenerative retinoschisis",
+   "Posterior vitreous detachment without retinal break",
+   "Rhegmatogenous retinal detachment"
+  ],
+  "correctIndex": 4,
+  "explanation": "A retinal break lets liquefied vitreous pass into the subretinal space, separating the neurosensory retina from the RPE (rhegmatogenous detachment). Flashes, floaters, a curtain-like field defect and pigment cells ('tobacco dust', Shafer sign) are classic, and macula-threatening detachment needs urgent surgery (vitrectomy, scleral buckle or pneumatic retinopexy). (Standard ophthalmology teaching; First Aid — Neurology: Special senses/Eye)",
+  "optionExplanations": [
+   "Vitreous haemorrhage causes sudden floaters or red haze but lacks a flat undulating retinal elevation.",
+   "Central serous chorioretinopathy gives a serous macular detachment with metamorphopsia in stressed young men, with no retinal tear.",
+   "Degenerative retinoschisis is a stable, dome-shaped, immobile splitting of the retina that is usually asymptomatic and lacks a horseshoe tear and pigment in the vitreous.",
+   "PVD alone causes floaters and flashes but no retinal break, field loss, or RAPD.",
+   ""
+  ],
+  "source": "October 2026 Recalls — Ophthalmology",
+  "recallSet": "october-2026",
+  "recallPaper": "Ophthalmology — Oct 2026"
+ },
+ {
+  "systemSlug": "nervous-system",
+  "topicSlug": "neuroanatomy-embryology",
+  "stem": "All of the extra-ocular muscles listed below are supplied by the oculomotor nerve (CN III) EXCEPT:",
+  "options": [
+   "Medial rectus",
+   "Superior rectus",
+   "Lateral rectus",
+   "Inferior rectus",
+   "Inferior oblique"
+  ],
+  "correctIndex": 2,
+  "explanation": "The mnemonic is LR6 SO4 AO3: the lateral rectus is supplied by the abducens nerve (CN VI), the superior oblique by the trochlear nerve (CN IV), and all other extra-ocular muscles (medial, superior and inferior rectus, inferior oblique, and levator palpebrae) by CN III. A complete CN III palsy therefore leaves the eye 'down and out' with ptosis and a dilated pupil. (First Aid — Neurology: Cranial nerves, eye muscles)",
+  "optionExplanations": [
+   "The medial rectus adducts the eye and is supplied by the inferior division of CN III.",
+   "The superior rectus elevates and intorts the eye and is supplied by the superior division of CN III.",
+   "",
+   "The inferior rectus depresses the eye and is supplied by the inferior division of CN III.",
+   "The inferior oblique elevates and extorts the eye and is supplied by the inferior division of CN III."
+  ],
+  "source": "October 2026 Recalls — Ophthalmology",
+  "recallSet": "october-2026",
+  "recallPaper": "Ophthalmology — Oct 2026"
+ },
+ {
+  "systemSlug": "psychiatry",
+  "topicSlug": "anxiety-trauma-disorders",
+  "stem": "A 32-year-old man spends several hours each morning repeatedly checking that all the light switches in his house are off. He recognises the checking is excessive but becomes grossly distressed and anxious if he stops. Which term best describes the checking behaviour?",
+  "options": [
+   "Rumination (repetitive dwelling)",
+   "Magical thinking",
+   "Perseveration",
+   "Compulsion (checking ritual)",
+   "Obsession (intrusive doubt)"
+  ],
+  "correctIndex": 3,
+  "explanation": "A compulsion is a repetitive, ritualised behaviour performed to reduce the anxiety produced by an obsession (here, an intrusive doubt that the switches are on). It is ego-dystonic, recognised as excessive, and resisted with distress; checking and washing are the commonest. First-line treatment is an SSRI plus exposure and response prevention. (First Aid — Psychiatry: Obsessive-compulsive disorder)",
+  "optionExplanations": [
+   "Rumination is repetitive dwelling on distressing thoughts, as in depression, without a ritual behaviour that relieves anxiety.",
+   "Magical thinking is a belief that thoughts or actions can influence unrelated events, seen in children, schizotypal personality and some OCD, but it is not a checking behaviour.",
+   "Perseveration is inappropriate repetition of a word or response regardless of context, seen in frontal lobe or organic disorders.",
+   "",
+   "An obsession is the recurrent intrusive thought, image or impulse (the doubt about the switches), not the behaviour performed in response to it."
+  ],
+  "source": "October 2026 Recalls — Psychiatry",
+  "recallSet": "october-2026",
+  "recallPaper": "Psychiatry — Oct 2026"
+ },
+ {
+  "systemSlug": "psychiatry",
+  "topicSlug": "psychotic-disorders",
+  "stem": "A 35-year-old man insists that his neighbours are poisoning his food through the walls. He cannot be dissuaded by evidence, no one else shares the belief, and it conflicts with his cultural and educational background. Which definition best describes this phenomenon?",
+  "options": [
+   "A fixed, false belief held with conviction, not amenable to reason or explained by culture",
+   "A dominating idea held with strong emotional investment but with less than delusional conviction",
+   "A false sensory perception occurring in the absence of any external stimulus, in any modality",
+   "A recurrent intrusive thought recognised as senseless, which the person tries to resist",
+   "A misinterpretation of a real external stimulus that is corrected on closer attention"
+  ],
+  "correctIndex": 0,
+  "explanation": "A delusion is a fixed, false belief held with unshakeable conviction, not amenable to reason and not explained by the person's culture, religion or education; persecutory content is common in schizophrenia and delusional disorder. It is a disorder of thought content, distinct from disorders of perception (hallucination, illusion). (First Aid — Psychiatry: Psychotic disorders)",
+  "optionExplanations": [
+   "",
+   "That describes an overvalued idea, which is held with less conviction than a delusion and is understandable in context.",
+   "That describes a hallucination, which is a disorder of perception rather than belief.",
+   "That describes an obsession, which is ego-dystonic and recognised as senseless, unlike a delusion.",
+   "That describes an illusion, a distorted perception of a real external stimulus."
+  ],
+  "source": "October 2026 Recalls — Psychiatry",
+  "recallSet": "october-2026",
+  "recallPaper": "Psychiatry — Oct 2026"
+ },
+ {
+  "systemSlug": "psychiatry",
+  "topicSlug": "psychotic-disorders",
+  "stem": "Walking home in poor light in the evening, a man suddenly believes he has seen a snake on the road. As he approaches and looks more carefully, he sees it is only a coiled rope, and his fear subsides. Which psychopathological phenomenon explains his initial experience?",
+  "options": [
+   "Hallucination",
+   "Illusion",
+   "Overvalued idea",
+   "Functional hallucination",
+   "Delusional perception"
+  ],
+  "correctIndex": 1,
+  "explanation": "An illusion is a misperception of a real external stimulus (the rope), commonly occurring with fear, poor lighting or inattention, and it is corrected on closer inspection; it can occur in normal people. A hallucination has no external stimulus at all. (First Aid — Psychiatry: Psychotic disorders)",
+  "optionExplanations": [
+   "A hallucination is a perception without any external stimulus, whereas here a real object (the rope) was misinterpreted.",
+   "",
+   "An overvalued idea is a preoccupying belief and not a perceptual error.",
+   "A functional hallucination is triggered by a real stimulus in the same modality (for example, voices heard only while a tap runs) and is perceived alongside it, which did not happen here.",
+   "Delusional perception is a real perception given a sudden false and idiosyncratic meaning that is held with conviction, whereas he corrected the error immediately."
+  ],
+  "source": "October 2026 Recalls — Psychiatry",
+  "recallSet": "october-2026",
+  "recallPaper": "Psychiatry — Oct 2026"
+ },
+ {
+  "systemSlug": "psychiatry",
+  "topicSlug": "anxiety-trauma-disorders",
+  "stem": "A 30-year-old woman has had eight months of excessive, uncontrollable worry about work, family and health, with restlessness, muscle tension, irritability and poor concentration. She has no panic attacks, and thyroid function tests are normal. Alongside cognitive behavioural therapy, which medication is the most appropriate first-line long-term choice?",
+  "options": [
+   "Amitriptyline",
+   "Propranolol",
+   "Quetiapine",
+   "Alprazolam",
+   "Escitalopram"
+  ],
+  "correctIndex": 4,
+  "explanation": "Generalised anxiety disorder (excessive worry on most days for at least six months, with at least three somatic or cognitive symptoms) is treated first line with CBT and/or an SSRI or SNRI such as escitalopram, sertraline, venlafaxine or duloxetine; buspirone and benzodiazepines are second line or short-term only because of dependence. (First Aid — Psychiatry: Anxiety disorders)",
+  "optionExplanations": [
+   "Amitriptyline is a TCA that is effective but not first line because of anticholinergic effects and cardiac toxicity in overdose.",
+   "Propranolol controls somatic symptoms such as palpitations and tremor in performance anxiety but does not treat generalised worry.",
+   "Quetiapine is an antipsychotic reserved for refractory cases and has metabolic adverse effects.",
+   "Alprazolam is a benzodiazepine, appropriate only for short-term relief because of tolerance, dependence and withdrawal.",
+   ""
+  ],
+  "source": "October 2026 Recalls — Psychiatry",
+  "recallSet": "october-2026",
+  "recallPaper": "Psychiatry — Oct 2026"
+ },
+ {
+  "systemSlug": "psychiatry",
+  "topicSlug": "anxiety-trauma-disorders",
+  "stem": "A 28-year-old man has recurrent nightmares, intrusive flashbacks and severe anxiety since a road traffic accident two months ago in which his friend died. He avoids driving, feels detached from others and is easily startled. Which diagnosis is most likely?",
+  "options": [
+   "Acute stress disorder",
+   "Post-traumatic stress disorder",
+   "Panic disorder with agoraphobia",
+   "Generalised anxiety disorder",
+   "Adjustment disorder with anxiety"
+  ],
+  "correctIndex": 1,
+  "explanation": "PTSD requires exposure to a traumatic event with intrusion (flashbacks, nightmares), avoidance, negative alterations in mood/cognition and hyperarousal lasting more than one month. Treatment is trauma-focused CBT or EMDR, with SSRIs (sertraline, paroxetine) as adjuncts; prazosin may help nightmares. (First Aid — Psychiatry: Posttraumatic stress disorder)",
+  "optionExplanations": [
+   "Acute stress disorder has the same symptoms but lasts from 3 days up to 1 month after the trauma, and his symptoms have lasted two months.",
+   "",
+   "Panic disorder involves recurrent unexpected panic attacks and worry about further attacks, not trauma-linked flashbacks and avoidance.",
+   "GAD is persistent worry over multiple domains without a trauma-specific re-experiencing syndrome.",
+   "Adjustment disorder is a maladaptive response to an identifiable stressor that does not meet criteria for another disorder and lacks the specific re-experiencing and avoidance cluster."
+  ],
+  "source": "October 2026 Recalls — Psychiatry",
+  "recallSet": "october-2026",
+  "recallPaper": "Psychiatry — Oct 2026"
+ },
+ {
+  "systemSlug": "psychiatry",
+  "topicSlug": "mood-disorders",
+  "stem": "A 28-year-old woman has had three months of low mood, loss of interest in activities, fatigue, poor sleep and reduced appetite with weight loss. She has never had elevated mood, and her TSH, haemoglobin and glucose are normal. Which diagnosis is most likely?",
+  "options": [
+   "Persistent depressive disorder (dysthymia)",
+   "Adjustment disorder with depressed mood",
+   "Bipolar II disorder, current depressive episode",
+   "Major depressive disorder",
+   "Hypothyroidism-induced mood disorder"
+  ],
+  "correctIndex": 3,
+  "explanation": "Major depressive disorder requires at least five SIGECAPS symptoms (including depressed mood or anhedonia) for at least two weeks, causing impairment, without any history of mania or hypomania and not attributable to a medical cause. First-line treatment is an SSRI plus psychotherapy. (First Aid — Psychiatry: Depressive disorders)",
+  "optionExplanations": [
+   "Persistent depressive disorder needs depressed mood for at least two years with fewer symptoms per episode.",
+   "Adjustment disorder arises within 3 months of a specific stressor with fewer symptoms and does not meet MDD criteria.",
+   "Bipolar II needs a past hypomanic episode, which she denies.",
+   "",
+   "A mood disorder due to hypothyroidism is excluded by a normal TSH."
+  ],
+  "source": "October 2026 Recalls — Psychiatry",
+  "recallSet": "october-2026",
+  "recallPaper": "Psychiatry — Oct 2026"
+ },
+ {
+  "systemSlug": "psychiatry",
+  "topicSlug": "psychotic-disorders",
+  "stem": "A 40-year-old man has had auditory hallucinations of two voices commenting on his actions, disorganised speech and progressive social withdrawal for the past seven months. Mood has been normal throughout, and urine drug screening is negative. Which diagnosis is most likely?",
+  "options": [
+   "Schizophrenia",
+   "Schizoaffective disorder",
+   "Delusional disorder",
+   "Brief psychotic disorder",
+   "Schizophreniform disorder"
+  ],
+  "correctIndex": 0,
+  "explanation": "Schizophrenia requires at least two characteristic symptoms (delusions, hallucinations, disorganised speech, grossly disorganised/catatonic behaviour, negative symptoms), at least one of the first three, with continuous signs of disturbance for at least six months and social or occupational decline. Treatment is an atypical antipsychotic. (First Aid — Psychiatry: Schizophrenia)",
+  "optionExplanations": [
+   "",
+   "Schizoaffective disorder requires a concurrent major mood episode with psychosis persisting at least two weeks without mood symptoms, and his mood is normal.",
+   "Delusional disorder has non-bizarre delusions of at least one month without prominent hallucinations or disorganised speech.",
+   "Brief psychotic disorder lasts less than one month.",
+   "Schizophreniform disorder has the same symptoms but a duration of 1 to 6 months."
+  ],
+  "source": "October 2026 Recalls — Psychiatry",
+  "recallSet": "october-2026",
+  "recallPaper": "Psychiatry — Oct 2026"
+ },
+ {
+  "systemSlug": "psychiatry",
+  "topicSlug": "personality-disorders",
+  "stem": "A 30-year-old man has a grandiose sense of self-importance, exaggerates his achievements, believes he is special and should associate only with high-status people, and expects constant admiration. He lacks empathy and becomes enraged when criticised, but has no history of conduct problems, deceit or law-breaking. Which personality disorder is most likely?",
+  "options": [
+   "Antisocial (dissocial) personality disorder",
+   "Paranoid personality disorder (cluster A)",
+   "Borderline personality disorder (cluster B)",
+   "Histrionic personality disorder (cluster B)",
+   "Narcissistic personality disorder"
+  ],
+  "correctIndex": 4,
+  "explanation": "Narcissistic personality disorder (cluster B) is a pervasive pattern of grandiosity, need for admiration and lack of empathy, with fragile self-esteem and a sense of entitlement; it often presents with exploitation and rage when criticised. Lack of conduct disorder or law-breaking separates it from antisocial PD. (First Aid — Psychiatry: Personality disorders)",
+  "optionExplanations": [
+   "Antisocial personality disorder involves disregard for others' rights, deceit, impulsivity, and criminal behaviour, with conduct disorder before age 15.",
+   "Paranoid personality disorder is a cluster A pattern of pervasive distrust and suspiciousness.",
+   "Borderline personality disorder involves unstable relationships, identity disturbance, self-harm and fear of abandonment.",
+   "Histrionic personality disorder involves attention-seeking, theatricality, shallow emotions and seductive behaviour, rather than grandiosity.",
+   ""
+  ],
+  "source": "October 2026 Recalls — Psychiatry",
+  "recallSet": "october-2026",
+  "recallPaper": "Psychiatry — Oct 2026"
+ },
+ {
+  "systemSlug": "psychiatry",
+  "topicSlug": "personality-disorders",
+  "stem": "A 26-year-old woman has unstable and intense relationships in which she alternates between idealising and devaluing her partner, a frantic fear of abandonment, chronic emptiness and recurrent self-cutting. Which treatment has the best evidence for long-term benefit in this condition?",
+  "options": [
+   "Exposure and response prevention",
+   "Long-term benzodiazepine therapy",
+   "Dialectical behaviour therapy",
+   "Lithium monotherapy",
+   "Electroconvulsive therapy"
+  ],
+  "correctIndex": 2,
+  "explanation": "This is borderline personality disorder, whose splitting (idealisation/devaluation), fear of abandonment and recurrent self-harm are hallmarks. Psychotherapy is the mainstay, and dialectical behaviour therapy (DBT) has the best evidence for reducing self-harm and suicidality; medications are only adjunctive for specific symptoms. (First Aid — Psychiatry: Personality disorders)",
+  "optionExplanations": [
+   "Exposure and response prevention is the behavioural therapy for obsessive-compulsive disorder.",
+   "Benzodiazepines risk dependence and disinhibition and are not recommended long term in borderline personality disorder.",
+   "",
+   "Lithium is used for bipolar disorder and has no established role as monotherapy in borderline personality disorder.",
+   "ECT is used for severe depression, catatonia and refractory mania, not for personality disorder."
+  ],
+  "source": "October 2026 Recalls — Psychiatry",
+  "recallSet": "october-2026",
+  "recallPaper": "Psychiatry — Oct 2026"
+ },
+ {
+  "systemSlug": "psychiatry",
+  "topicSlug": "psychiatric-emergencies",
+  "stem": "A 35-year-old man started on haloperidol injections two days ago develops a temperature of 40 °C, generalised lead-pipe rigidity, confusion, tachycardia and labile blood pressure with diaphoresis. Serum creatine kinase is markedly raised. Which diagnosis is most likely?",
+  "options": [
+   "Malignant hyperthermia of anaesthesia",
+   "Tardive dyskinesia",
+   "Acute dystonic reaction",
+   "Neuroleptic malignant syndrome",
+   "Serotonin syndrome (serotonin toxicity)"
+  ],
+  "correctIndex": 3,
+  "explanation": "Neuroleptic malignant syndrome is an idiosyncratic reaction to dopamine D2 blockade (high-potency antipsychotics such as haloperidol): fever, lead-pipe rigidity, autonomic instability, altered mentation and raised CK evolving over days. Management is stopping the antipsychotic, supportive care, and dantrolene or bromocriptine. (First Aid — Psychiatry: Neuroleptic malignant syndrome)",
+  "optionExplanations": [
+   "Malignant hyperthermia is triggered by volatile anaesthetics or succinylcholine, not by haloperidol.",
+   "Tardive dyskinesia is a late-onset choreoathetoid movement disorder after months to years of therapy and has no fever or rigidity.",
+   "Acute dystonia causes sudden painful muscle spasms in the first days of antipsychotic therapy without fever or autonomic instability.",
+   "",
+   "Serotonin syndrome follows serotonergic drugs and features hyperreflexia, clonus, diarrhoea and mydriasis with a rapid (hours) onset."
+  ],
+  "source": "October 2026 Recalls — Psychiatry",
+  "recallSet": "october-2026",
+  "recallPaper": "Psychiatry — Oct 2026"
+ },
+ {
+  "systemSlug": "psychiatry",
+  "topicSlug": "psychopharmacology",
+  "stem": "Reduced central activity of which of the following neurotransmitters, a catecholamine synthesised from tyrosine and released from neurons of the locus coeruleus, is implicated in depression?",
+  "options": [
+   "Gamma-aminobutyric acid",
+   "Serotonin",
+   "Noradrenaline",
+   "Acetylcholine",
+   "Histamine"
+  ],
+  "correctIndex": 2,
+  "explanation": "Catecholamines (dopamine, noradrenaline, adrenaline) are synthesised from tyrosine; noradrenaline from the locus coeruleus (with serotonin from the raphe nuclei and dopamine) is deficient in depression, as supported by the effect of SNRIs, TCAs and MAO inhibitors. Serotonin is an indolamine derived from tryptophan, not a catecholamine. (First Aid — Psychiatry: Depressive disorders; Neurotransmitter changes)",
+  "optionExplanations": [
+   "GABA is derived from glutamate and is the main inhibitory transmitter, reduced in anxiety disorders and not a catecholamine.",
+   "Serotonin is an indolamine synthesised from tryptophan and is not a catecholamine, although it is also reduced in depression.",
+   "",
+   "Acetylcholine is derived from choline and acetyl-CoA and is reduced in Alzheimer disease and not a catecholamine.",
+   "Histamine is derived from histidine and is an imidazolamine, not a catecholamine."
+  ],
+  "source": "October 2026 Recalls — Psychiatry",
+  "recallSet": "october-2026",
+  "recallPaper": "Psychiatry — Oct 2026"
+ },
+ {
+  "systemSlug": "nervous-system",
+  "topicSlug": "neuropharmacology",
+  "stem": "A 25-year-old man is undergoing general anaesthesia with halothane and succinylcholine when his end-tidal CO2 rises abruptly, with jaw and generalised muscle rigidity, tachycardia and a rapidly rising temperature of 40 °C. After stopping the volatile agent and hyperventilating with 100% oxygen, which drug is the specific treatment?",
+  "options": [
+   "Atropine",
+   "Dantrolene",
+   "Bromocriptine",
+   "Propranolol",
+   "Cyproheptadine"
+  ],
+  "correctIndex": 1,
+  "explanation": "This is malignant hyperthermia, an autosomal dominant disorder of the ryanodine receptor (RYR1) triggered by volatile anaesthetics and succinylcholine, causing uncontrolled calcium release from the sarcoplasmic reticulum. Dantrolene, which blocks the RyR1 channel, is the specific treatment, along with cooling, correction of hyperkalaemia and acidosis. (First Aid — Neurology: Anesthetics, malignant hyperthermia)",
+  "optionExplanations": [
+   "Atropine blocks muscarinic receptors, and the drug does not address abnormal calcium release in muscle.",
+   "",
+   "Bromocriptine is a dopamine agonist used in neuroleptic malignant syndrome, not in malignant hyperthermia.",
+   "Propranolol may mask tachycardia but does not treat the hypermetabolic crisis and may worsen outcomes.",
+   "Cyproheptadine is a 5-HT2 antagonist used for serotonin syndrome."
+  ],
+  "source": "October 2026 Recalls — Anesthesia",
+  "recallSet": "october-2026",
+  "recallPaper": "Anesthesia — Oct 2026"
+ }
+]

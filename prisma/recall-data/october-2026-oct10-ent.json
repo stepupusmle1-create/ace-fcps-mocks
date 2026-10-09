@@ -1,0 +1,746 @@
+[
+ {
+  "systemSlug": "respiratory",
+  "topicSlug": "pleural-upper-airway",
+  "stem": "A 19-year-old student with perennial allergic rhinitis (sneezing, watery rhinorrhoea, itchy nose) also reports night-time cough and exercise-induced wheeze. According to the 'united airway' concept, which lower or adjacent airway condition is most strongly associated with allergic rhinitis and should be actively screened for?",
+  "options": [
+   "Bronchial asthma",
+   "Chronic bronchitis",
+   "Chronic laryngitis",
+   "Recurrent streptococcal pharyngitis",
+   "Cystic fibrosis"
+  ],
+  "correctIndex": 0,
+  "explanation": "Allergic rhinitis and asthma share the same atopic (type I, IgE/Th2) mucosal inflammation along the whole respiratory tract, and a large proportion of asthmatics have rhinitis. Effective control of the nose improves asthma control. (First Aid — Immunology: Type I hypersensitivity; Respiratory: Asthma)",
+  "optionExplanations": [
+   "",
+   "Chronic bronchitis is a smoking-related COPD phenotype and is not linked to atopic nasal disease.",
+   "Chronic laryngitis is usually due to voice abuse, reflux, or smoking rather than atopy.",
+   "Streptococcal pharyngitis is infective and is not driven by IgE-mediated nasal inflammation.",
+   "Cystic fibrosis causes nasal polyps and sinusitis, but allergic rhinitis does not predispose to it."
+  ],
+  "source": "October 2026 Recalls — ENT — Oct 2026",
+  "recallSet": "october-2026",
+  "recallPaper": "ENT — Oct 2026"
+ },
+ {
+  "systemSlug": "respiratory",
+  "topicSlug": "pleural-upper-airway",
+  "stem": "A 22-year-old man has had sneezing, watery nasal discharge, and nasal itching for 3 months, worse in the morning and on exposure to dust. Examination shows pale, bluish, boggy inferior turbinates. Symptoms are disturbing his sleep and work. Which is the most effective single first-line pharmacotherapy for persistent moderate to severe disease of this type?",
+  "options": [
+   "Oral first-generation antihistamine at night",
+   "Topical oxymetazoline nasal decongestant",
+   "Oral montelukast alone",
+   "Intranasal corticosteroid spray",
+   "Allergen immunotherapy as the initial step"
+  ],
+  "correctIndex": 3,
+  "explanation": "Intranasal corticosteroids are the most effective single agent for persistent allergic rhinitis, controlling sneezing, itch, rhinorrhoea, and congestion with minimal systemic absorption. Allergen avoidance and antihistamines are adjuncts. (Standard ENT teaching; First Aid — Immunology: Type I hypersensitivity)",
+  "optionExplanations": [
+   "Sedating antihistamines relieve itching and sneezing but are less effective for obstruction and cause drowsiness.",
+   "Use beyond about 5 days causes rebound congestion (rhinitis medicamentosa).",
+   "Leukotriene antagonists are less effective than intranasal steroids and are second-line.",
+   "",
+   "Immunotherapy is reserved for patients not controlled by adequate pharmacotherapy and avoidance."
+  ],
+  "source": "October 2026 Recalls — ENT — Oct 2026",
+  "recallSet": "october-2026",
+  "recallPaper": "ENT — Oct 2026"
+ },
+ {
+  "systemSlug": "nervous-system",
+  "topicSlug": "neurophysiology",
+  "stem": "Which of the following is NOT a cause of conductive hearing loss?",
+  "options": [
+   "Impacted cerumen",
+   "Otitis media with effusion",
+   "Tympanosclerosis of the tympanic membrane",
+   "Acute otitis externa with canal oedema",
+   "Vestibular schwannoma (acoustic neuroma)"
+  ],
+  "correctIndex": 4,
+  "explanation": "Vestibular schwannoma compresses cranial nerve VIII and causes a retrocochlear sensorineural loss with poor speech discrimination, tinnitus, and imbalance. All the other options interfere with sound conduction through the external or middle ear. (First Aid — Neurology and Special Senses: Hearing loss)",
+  "optionExplanations": [
+   "Wax blocking the canal reduces sound transmission and gives a conductive loss.",
+   "Fluid in the middle ear impairs ossicular movement and gives a conductive loss.",
+   "Stiffening and calcification of the drum and ossicles causes a conductive loss.",
+   "Obstruction of the external canal by swelling causes a conductive loss.",
+   ""
+  ],
+  "source": "October 2026 Recalls — ENT — Oct 2026",
+  "recallSet": "october-2026",
+  "recallPaper": "ENT — Oct 2026"
+ },
+ {
+  "systemSlug": "nervous-system",
+  "topicSlug": "neurophysiology",
+  "stem": "A 30-year-old man complains of reduced hearing in the left ear. Using a 512 Hz tuning fork, the Rinne test is positive (air conduction better than bone conduction) in both ears, and the Weber test lateralises to the right ear. Which is the most likely finding?",
+  "options": [
+   "Left conductive hearing loss",
+   "Left sensorineural hearing loss",
+   "Right conductive hearing loss",
+   "Right sensorineural hearing loss",
+   "Normal hearing in both ears"
+  ],
+  "correctIndex": 1,
+  "explanation": "A positive Rinne (AC > BC) shows no significant conductive loss. In sensorineural loss the sound in Weber is heard louder in the healthier cochlea, so it lateralises to the right when the left ear is affected. Conductive loss lateralises to the affected ear. (First Aid — Neurology and Special Senses: Weber and Rinne tests)",
+  "optionExplanations": [
+   "A left conductive loss would give a negative Rinne on the left and Weber lateralising to the left.",
+   "",
+   "A right conductive loss would give a negative Rinne on the right and Weber lateralising to the right.",
+   "A right sensorineural loss would send Weber to the better left ear.",
+   "A normal Weber is central, and the patient has a genuine symptom in the left ear."
+  ],
+  "source": "October 2026 Recalls — ENT — Oct 2026",
+  "recallSet": "october-2026",
+  "recallPaper": "ENT — Oct 2026"
+ },
+ {
+  "systemSlug": "nervous-system",
+  "topicSlug": "neurophysiology",
+  "stem": "A 28-year-old man has reduced hearing in the right ear after an episode of ear discharge. With a 512 Hz fork, Rinne is negative on the right and positive on the left, and Weber lateralises to the right. Which is the most likely diagnosis?",
+  "options": [
+   "Left conductive hearing loss",
+   "Right profound sensorineural loss with false-negative Rinne",
+   "Right conductive hearing loss",
+   "Left sensorineural hearing loss",
+   "Normal hearing with a tuning-fork artefact"
+  ],
+  "correctIndex": 2,
+  "explanation": "Negative Rinne on the right shows bone conduction exceeds air conduction there, and Weber going to the affected right ear confirms a conductive loss, likely from a post-suppurative perforation or ossicular damage. A severely sensorineural ear can give a false-negative Rinne but Weber then goes to the opposite ear. (First Aid — Neurology and Special Senses: Weber and Rinne tests)",
+  "optionExplanations": [
+   "Weber would lateralise to the left and the left Rinne would be negative.",
+   "A dead right ear would send Weber to the healthy left ear because sound is perceived in the better cochlea.",
+   "",
+   "This would not explain a negative Rinne on the right, and the history points to the right ear.",
+   "A negative Rinne with lateralised Weber is a consistent abnormal pattern, not an artefact."
+  ],
+  "source": "October 2026 Recalls — ENT — Oct 2026",
+  "recallSet": "october-2026",
+  "recallPaper": "ENT — Oct 2026"
+ },
+ {
+  "systemSlug": "nervous-system",
+  "topicSlug": "neurophysiology",
+  "stem": "A 38-year-old woman with Ménière's disease has recurrent vertigo lasting hours, fluctuating low-frequency sensorineural loss, tinnitus, and aural fullness. MRI of the internal auditory canal is normal. Between attacks, which is the most appropriate first-line long-term measure to reduce the frequency of attacks?",
+  "options": [
+   "Low-sodium diet and betahistine",
+   "Intratympanic gentamicin chemical labyrinthectomy",
+   "Endolymphatic sac decompression",
+   "Long-term prochlorperazine",
+   "Epley manoeuvre"
+  ],
+  "correctIndex": 0,
+  "explanation": "Initial prevention in Ménière's disease is conservative: salt restriction, avoiding caffeine and alcohol, and betahistine or a diuretic to reduce endolymphatic pressure. Intratympanic steroids or gentamicin and surgery follow only if vertigo persists. (Standard ENT teaching; First Aid — Neurology and Special Senses: Vertigo)",
+  "optionExplanations": [
+   "",
+   "This chemical labyrinthectomy is reserved for refractory disease and risks hearing loss.",
+   "Surgery is considered only after medical therapy fails.",
+   "Vestibular sedatives are for the acute attack and do not prevent attacks.",
+   "Canalith repositioning treats BPPV, which causes brief positional vertigo, not Ménière's."
+  ],
+  "source": "October 2026 Recalls — ENT — Oct 2026",
+  "recallSet": "october-2026",
+  "recallPaper": "ENT — Oct 2026"
+ },
+ {
+  "systemSlug": "nervous-system",
+  "topicSlug": "neurophysiology",
+  "stem": "A 45-year-old man has had 2 years of gradual, progressive right-sided hearing loss, tinnitus, and imbalance on walking. Pure-tone audiometry shows asymmetric right sensorineural loss with speech discrimination disproportionately poor for the pure-tone threshold. Which investigation best confirms the suspected diagnosis?",
+  "options": [
+   "High-resolution CT of the temporal bone",
+   "Contrast MRI of the internal auditory canal and CPA",
+   "Brainstem evoked response audiometry as the confirmatory test",
+   "Electrocochleography",
+   "Caloric testing"
+  ],
+  "correctIndex": 1,
+  "explanation": "Asymmetric sensorineural loss with poor discrimination and imbalance suggests a retrocochlear lesion, most often a vestibular schwannoma. Contrast-enhanced MRI is the gold standard and detects even intracanalicular tumours of a few millimetres. (First Aid — Neurology and Special Senses: Hearing loss; Neuro-oncology: Schwannoma)",
+  "optionExplanations": [
+   "CT misses small intracanalicular tumours and shows only bony canal widening.",
+   "",
+   "It is a screening tool with false negatives for small tumours and requires imaging for confirmation.",
+   "It shows an elevated summating-to-action-potential ratio in endolymphatic hydrops, not a CPA tumour.",
+   "It may show canal paresis but does not confirm or localise the lesion."
+  ],
+  "source": "October 2026 Recalls — ENT — Oct 2026",
+  "recallSet": "october-2026",
+  "recallPaper": "ENT — Oct 2026"
+ },
+ {
+  "systemSlug": "nervous-system",
+  "topicSlug": "neurophysiology",
+  "stem": "A 33-year-old woman has bilateral slowly progressive hearing loss with normal tympanic membranes, negative Rinne bilaterally, and low-compliance tympanograms. The diagnosis is established and she wants definitive surgical correction of her hearing. Which is the most appropriate procedure?",
+  "options": [
+   "Myringoplasty",
+   "Ossiculoplasty with a partial ossicular replacement prosthesis",
+   "Stapedotomy with a piston prosthesis",
+   "Cortical mastoidectomy",
+   "Cochlear implantation"
+  ],
+  "correctIndex": 2,
+  "explanation": "Stapes footplate fixation in otosclerosis is treated surgically by stapedotomy, in which a small hole is drilled in the footplate and a piston is placed between the incus and the oval window. Hearing aids are the non-surgical alternative. (Standard ENT teaching; First Aid — Neurology and Special Senses: Conductive hearing loss)",
+  "optionExplanations": [
+   "Repair of the drum does not treat a fixed stapes behind an intact membrane.",
+   "This restores ossicular discontinuity, not stapes footplate fixation.",
+   "",
+   "It treats mastoid infection and does not address stapes fixation.",
+   "It is for severe to profound sensorineural loss, not a conductive loss."
+  ],
+  "source": "October 2026 Recalls — ENT — Oct 2026",
+  "recallSet": "october-2026",
+  "recallPaper": "ENT — Oct 2026"
+ },
+ {
+  "systemSlug": "nervous-system",
+  "topicSlug": "neurophysiology",
+  "stem": "A 5-year-old child has had decreased hearing and a feeling of fullness in both ears for 2 months without pain or discharge. The tympanic membranes are dull and retracted with a visible fluid level. Which tympanometric pattern is expected?",
+  "options": [
+   "Type A: normal peak at atmospheric pressure",
+   "Type As: shallow peak",
+   "Type Ad: very deep peak",
+   "Type B: flat curve with no compliance peak",
+   "Type C: peak at significant negative pressure"
+  ],
+  "correctIndex": 3,
+  "explanation": "Otitis media with effusion (glue ear) produces a conductive loss of about 20-30 dB, and a stiff fluid-filled middle ear gives a flat type B tympanogram. Eustachian tube dysfunction and adenoid hypertrophy are the usual underlying factors. (Standard ENT teaching; First Aid — Neurology and Special Senses: Conductive hearing loss)",
+  "optionExplanations": [
+   "This is a normal middle ear, whereas fluid prevents drum movement.",
+   "A shallow peak is seen in ossicular fixation such as otosclerosis.",
+   "A hypermobile curve occurs in ossicular discontinuity or a flaccid drum.",
+   "",
+   "This indicates eustachian tube dysfunction without effusion or an early, resolving stage."
+  ],
+  "source": "October 2026 Recalls — ENT — Oct 2026",
+  "recallSet": "october-2026",
+  "recallPaper": "ENT — Oct 2026"
+ },
+ {
+  "systemSlug": "nervous-system",
+  "topicSlug": "neurophysiology",
+  "stem": "A 25-year-old man has had intermittent profuse, mucopurulent, non-foul-smelling right ear discharge for 5 years, with reduced hearing. Examination shows a large central perforation, a moist mucosa, no granulations, and no cholesterol debris. After aural toilet and topical antibiotic drops the ear has been dry for 3 months. What is the most appropriate definitive treatment?",
+  "options": [
+   "Myringoplasty",
+   "Modified radical mastoidectomy",
+   "Cortical mastoidectomy with grommet",
+   "Long-term oral antibiotics",
+   "Ossiculoplasty alone"
+  ],
+  "correctIndex": 0,
+  "explanation": "A central perforation with profuse mucoid discharge is tubotympanic ('safe') chronic suppurative otitis media. The discharge is controlled by aural toilet and topical therapy, and a dry ear is then closed by myringoplasty. Attico-antral disease (marginal perforation, foul scanty discharge, cholesteatoma) needs mastoid surgery. (Standard ENT teaching; First Aid — Neurology and Special Senses: Otitis media)",
+  "optionExplanations": [
+   "",
+   "This is indicated for cholesteatoma or unsafe disease, which is absent here.",
+   "This is not needed for a dry central perforation without mastoid disease.",
+   "Antibiotics will not close the perforation and risk resistance.",
+   "Ossicular reconstruction is for a disrupted chain, not an isolated drum perforation."
+  ],
+  "source": "October 2026 Recalls — ENT — Oct 2026",
+  "recallSet": "october-2026",
+  "recallPaper": "ENT — Oct 2026"
+ },
+ {
+  "systemSlug": "nervous-system",
+  "topicSlug": "neurophysiology",
+  "stem": "A 14-year-old boy has had scanty, foul-smelling discharge from the left ear for several years; otoscopy shows an attic retraction with white keratin debris. For the last 2 days he has severe vertigo and vomiting, with spontaneous horizontal nystagmus to the right and new left sensorineural hearing loss. He is afebrile with no neck stiffness and no sixth nerve palsy. Which complication is most likely?",
+  "options": [
+   "Acute petrositis",
+   "Otogenic meningitis",
+   "Lateral sinus thrombosis",
+   "Acute labyrinthitis",
+   "Acute coalescent mastoiditis"
+  ],
+  "correctIndex": 3,
+  "explanation": "Cholesteatoma erodes the bony labyrinth, typically the lateral semicircular canal, causing a labyrinthine fistula and then labyrinthitis with vertigo, vomiting, nystagmus, and sensorineural loss. It is an intratemporal complication. (Standard ENT teaching; First Aid — Neurology and Special Senses: Vertigo)",
+  "optionExplanations": [
+   "Gradenigo syndrome gives deep retro-orbital pain and abducens palsy with discharge, which are absent.",
+   "Meningitis would give fever, headache, and neck stiffness.",
+   "This produces spiking 'picket-fence' fever and mastoid tenderness.",
+   "",
+   "This gives postauricular swelling and a protruding pinna, not vertigo."
+  ],
+  "source": "October 2026 Recalls — ENT — Oct 2026",
+  "recallSet": "october-2026",
+  "recallPaper": "ENT — Oct 2026"
+ },
+ {
+  "systemSlug": "nervous-system",
+  "topicSlug": "neurophysiology",
+  "stem": "A 30-year-old man develops right ear pain and muffled hearing as his flight lands. He had a head cold 2 days earlier. The tympanic membrane is retracted with a small effusion and no perforation, with no vertigo or sensorineural loss. Which is the most likely diagnosis?",
+  "options": [
+   "Acute suppurative otitis media",
+   "Otitic barotrauma",
+   "Chronic otitis media with effusion",
+   "Inner-ear barotrauma with perilymph fistula",
+   "Traumatic tympanic membrane perforation"
+  ],
+  "correctIndex": 1,
+  "explanation": "Failure of the eustachian tube to equalise pressure on descent (worse with a cold) creates negative middle-ear pressure that retracts the drum and draws in serous fluid or blood. Treatment is decongestants and autoinflation (Valsalva), and prevention is to swallow or autoinflate during descent and avoid flying with a cold. (Standard ENT teaching; First Aid — Neurology and Special Senses: Ear)",
+  "optionExplanations": [
+   "This presents with fever, a bulging red drum, and purulent middle-ear fluid.",
+   "",
+   "This is painless and develops over weeks to months, not abruptly with pressure change.",
+   "This would cause vertigo, tinnitus, and sensorineural loss.",
+   "The drum is intact here and there is no discharge or bleeding."
+  ],
+  "source": "October 2026 Recalls — ENT — Oct 2026",
+  "recallSet": "october-2026",
+  "recallPaper": "ENT — Oct 2026"
+ },
+ {
+  "systemSlug": "nervous-system",
+  "topicSlug": "neurophysiology",
+  "stem": "A 25-year-old man is slapped hard on the left ear and has sudden pain, mild hearing loss, and a small amount of bloody discharge. Otoscopy shows a linear perforation with clean edges and no infection. Which is the most important part of management?",
+  "options": [
+   "Prophylactic ototopical antibiotic drops",
+   "Syringing the canal to clear blood",
+   "Keep the ear dry, with no syringing or drops",
+   "Immediate myringoplasty",
+   "Prophylactic oral antibiotics for all patients"
+  ],
+  "correctIndex": 2,
+  "explanation": "Most traumatic perforations close spontaneously. Water precautions prevent infection, and no syringing, ear drops, or packing should be used. Persistent perforations are repaired by myringoplasty after about 3 months. (Standard ENT teaching; First Aid — Neurology and Special Senses: Ear)",
+  "optionExplanations": [
+   "Aminoglycoside drops in a perforated drum risk ototoxicity and are not needed unless infection develops.",
+   "Syringing introduces water and infection and is contraindicated.",
+   "",
+   "Most traumatic perforations heal spontaneously and surgery is considered only if they persist beyond about 3 months.",
+   "Antibiotics are used only if infection develops."
+  ],
+  "source": "October 2026 Recalls — ENT — Oct 2026",
+  "recallSet": "october-2026",
+  "recallPaper": "ENT — Oct 2026"
+ },
+ {
+  "systemSlug": "nervous-system",
+  "topicSlug": "neurophysiology",
+  "stem": "A 22-year-old boxer has a smooth, rounded, fluctuant swelling on the upper part of the right pinna after a blow. The cartilage has separated from its perichondrium. If this is not drained and compressed, which is the most characteristic late deformity?",
+  "options": [
+   "Keloid formation",
+   "Acute perichondritis",
+   "Microtia",
+   "Cauliflower ear",
+   "Stenosis of the external auditory canal"
+  ],
+  "correctIndex": 3,
+  "explanation": "A subperichondrial haematoma separates the cartilage from its blood supply. If left untreated, fibrosis and neocartilage formation give the thickened, irregular 'cauliflower' ear. Treatment is early incision and drainage with a pressure dressing. (Standard ENT teaching; First Aid — Neurology and Special Senses: Ear)",
+  "optionExplanations": [
+   "Keloid occurs after piercing or surgery in predisposed skin, not from a subperichondrial clot.",
+   "This is an acute infective complication, not the typical late deformity.",
+   "This is a congenital anomaly of ear development.",
+   "",
+   "Canal stenosis follows chronic otitis externa or trauma to the canal, not a pinna haematoma."
+  ],
+  "source": "October 2026 Recalls — ENT — Oct 2026",
+  "recallSet": "october-2026",
+  "recallPaper": "ENT — Oct 2026"
+ },
+ {
+  "systemSlug": "nervous-system",
+  "topicSlug": "neurophysiology",
+  "stem": "A 25-year-old swimmer has severe left ear pain, itching, and purulent discharge. The canal is oedematous and tender, the tympanic membrane is intact when visible, and pain is worse on tragal pressure. He has no diabetes. Which is the most appropriate management?",
+  "options": [
+   "Oral amoxicillin–clavulanate for 7 days with analgesics",
+   "Oral fluconazole",
+   "Daily syringing of the canal to remove all debris",
+   "Cortical mastoidectomy",
+   "Aural toilet plus topical antibiotic–steroid drops"
+  ],
+  "correctIndex": 4,
+  "explanation": "Acute otitis externa is treated by gentle debris removal (aural toilet) and topical antibiotic–steroid drops such as ciprofloxacin, which also reduce oedema; a wick helps drug delivery if the canal is closed. Pain on tragal pressure or pinna traction distinguishes it from otitis media. (Standard ENT teaching; First Aid — Microbiology: Pseudomonas aeruginosa)",
+  "optionExplanations": [
+   "Systemic antibiotics are not first-line for uncomplicated otitis externa.",
+   "There is no evidence of fungal otomycosis, and antifungals are given topically if needed.",
+   "Syringing is painful and leaves moisture in an inflamed canal.",
+   "Mastoid surgery is for complicated middle-ear and mastoid disease.",
+   ""
+  ],
+  "source": "October 2026 Recalls — ENT — Oct 2026",
+  "recallSet": "october-2026",
+  "recallPaper": "ENT — Oct 2026"
+ },
+ {
+  "systemSlug": "microbiology",
+  "topicSlug": "gram-negative-bacteria",
+  "stem": "A 15-year-old boy has severe right ear pain and foul-smelling discharge for 3 days. He swam in a pond a week ago. The external auditory canal is oedematous and tender. Which organism is most likely responsible?",
+  "options": [
+   "Staphylococcus aureus",
+   "Pseudomonas aeruginosa",
+   "Aspergillus niger (otomycosis)",
+   "Streptococcus pyogenes",
+   "Candida albicans"
+  ],
+  "correctIndex": 1,
+  "explanation": "Pseudomonas aeruginosa is the dominant pathogen in diffuse acute otitis externa after water exposure, thriving in moist, warm canals. In diabetic or elderly patients it can progress to necrotising (malignant) otitis externa. (First Aid — Microbiology: Pseudomonas aeruginosa)",
+  "optionExplanations": [
+   "It causes localised canal furunculosis with a discrete pimple rather than diffuse oedema and discharge.",
+   "",
+   "Otomycosis gives itching with black or grey fungal debris and less pain.",
+   "It causes erysipelas of the pinna and otitis media but not typical swimmer's ear.",
+   "It is an uncommon cause, usually after prolonged topical antibiotic use."
+  ],
+  "source": "October 2026 Recalls — ENT — Oct 2026",
+  "recallSet": "october-2026",
+  "recallPaper": "ENT — Oct 2026"
+ },
+ {
+  "systemSlug": "microbiology",
+  "topicSlug": "gram-positive-bacteria",
+  "stem": "A 15-year-old with no penicillin allergy has fever, severe sore throat, and painful swallowing for 3 days. Both tonsils are enlarged with yellowish-white exudate, with tender anterior cervical nodes and no cough. A rapid antigen test for group A streptococcus is positive. Which antibiotic regimen is most appropriate?",
+  "options": [
+   "Oral penicillin V for 10 days",
+   "Oral penicillin V for 3 days",
+   "Oral azithromycin for 10 days",
+   "Oral ciprofloxacin for 7 days",
+   "Oral amoxicillin–clavulanate for 5 days"
+  ],
+  "correctIndex": 0,
+  "explanation": "Group A streptococcal tonsillitis is treated with a full 10-day course of penicillin V, which prevents suppurative complications and rheumatic fever. A macrolide is used only for penicillin allergy. (First Aid — Microbiology: Streptococcus pyogenes)",
+  "optionExplanations": [
+   "",
+   "A shortened course does not reliably eradicate the organism and does not prevent rheumatic fever.",
+   "Macrolides are reserved for penicillin allergy because of resistance.",
+   "Fluoroquinolones are unnecessary and have poor streptococcal activity.",
+   "Broad-spectrum cover is unnecessary and short courses are inadequate."
+  ],
+  "source": "October 2026 Recalls — ENT — Oct 2026",
+  "recallSet": "october-2026",
+  "recallPaper": "ENT — Oct 2026"
+ },
+ {
+  "systemSlug": "respiratory",
+  "topicSlug": "pleural-upper-airway",
+  "stem": "A 19-year-old man underwent tonsillectomy. On the 8th postoperative day he develops fever and starts spitting blood. Both tonsillar fossae show blood clots with yellowish slough. Which is the most likely cause of the bleeding?",
+  "options": [
+   "Slippage of a ligature or rise in blood pressure within 24 hours (reactionary haemorrhage)",
+   "Bleeding from a vessel during the operation (primary haemorrhage)",
+   "Infection of the tonsillar bed with slough and clot dislodgement",
+   "Bleeding from a retained tonsillar remnant",
+   "Von Willebrand disease"
+  ],
+  "correctIndex": 2,
+  "explanation": "Secondary haemorrhage occurs 5-10 days after tonsillectomy when infection of the tonsillar bed causes sloughing of the clot and erosion of a vessel. Treatment is antibiotics and, if heavy bleeding, return to theatre. (Standard ENT teaching; First Aid — Hematology and Oncology: Hemostasis)",
+  "optionExplanations": [
+   "Reactionary bleeding occurs in the first 24 hours, not on day 8.",
+   "Primary haemorrhage occurs at surgery and is controlled by the surgeon.",
+   "",
+   "A remnant causes recurrent tonsillitis, not slough with fever on day 8.",
+   "A coagulopathy is possible, but fever and slough point to infection of the fossa."
+  ],
+  "source": "October 2026 Recalls — ENT — Oct 2026",
+  "recallSet": "october-2026",
+  "recallPaper": "ENT — Oct 2026"
+ },
+ {
+  "systemSlug": "respiratory",
+  "topicSlug": "pleural-upper-airway",
+  "stem": "According to commonly used (Paradise/SIGN) criteria, which pattern of well-documented recurrent tonsillitis meets the threshold for tonsillectomy?",
+  "options": [
+   "4 episodes in the preceding year",
+   "5 episodes in a single year only",
+   "3 episodes per year for the last 2 years",
+   "7 or more episodes in one year",
+   "2 episodes per year for the last 3 years"
+  ],
+  "correctIndex": 3,
+  "explanation": "Tonsillectomy is indicated for 7 or more well-documented episodes in 1 year, 5 per year for 2 years, or 3 per year for 3 years, with disabling symptoms. Other indications include peritonsillar abscess recurrence and obstructive sleep apnoea. (Standard ENT teaching; First Aid — Microbiology: Streptococcus pyogenes)",
+  "optionExplanations": [
+   "This is below the threshold of seven in one year.",
+   "Five a year qualifies only if it persists for two consecutive years.",
+   "Three a year qualifies only if sustained for three consecutive years.",
+   "",
+   "This frequency is below the criteria."
+  ],
+  "source": "October 2026 Recalls — ENT — Oct 2026",
+  "recallSet": "october-2026",
+  "recallPaper": "ENT — Oct 2026"
+ },
+ {
+  "systemSlug": "respiratory",
+  "topicSlug": "respiratory-anatomy-embryology",
+  "stem": "During probing of the nasolacrimal duct in a child with persistent epiphora, the probe is seen entering the nose under the inferior turbinate. At which site does the nasolacrimal duct normally open into the nasal cavity?",
+  "options": [
+   "Superior meatus",
+   "Middle meatus",
+   "Sphenoethmoidal recess",
+   "Nasopharynx via the choana",
+   "Inferior meatus"
+  ],
+  "correctIndex": 4,
+  "explanation": "The nasolacrimal duct opens into the anterior part of the inferior meatus beneath the inferior turbinate, guarded by the valve of Hasner, which can be imperforate in congenital obstruction. (Standard ENT teaching; First Aid — Neurology and Special Senses: Eye anatomy; Anatomy of the nose)",
+  "optionExplanations": [
+   "The posterior ethmoidal cells drain here.",
+   "The frontal, maxillary, and anterior ethmoidal sinuses drain here.",
+   "The sphenoid sinus opens here.",
+   "The duct opens in the nasal cavity and not the nasopharynx.",
+   ""
+  ],
+  "source": "October 2026 Recalls — ENT — Oct 2026",
+  "recallSet": "october-2026",
+  "recallPaper": "ENT — Oct 2026"
+ },
+ {
+  "systemSlug": "microbiology",
+  "topicSlug": "gram-positive-bacteria",
+  "stem": "A 30-year-old man develops clear watery nasal discharge that increases on bending forward, with a positive halo sign, 3 days after a road traffic accident. He is counselled about the major risk of this condition. Which organism most commonly causes the associated meningitis?",
+  "options": [
+   "Streptococcus pneumoniae",
+   "Neisseria meningitidis",
+   "Haemophilus influenzae type b",
+   "Staphylococcus aureus",
+   "Listeria monocytogenes"
+  ],
+  "correctIndex": 0,
+  "explanation": "A post-traumatic CSF leak through a skull-base fracture exposes the subarachnoid space to nasal flora, and Streptococcus pneumoniae, which colonises the nasopharynx, is the commonest cause of ascending meningitis. (First Aid — Microbiology: Meningitis causes by age and risk factors)",
+  "optionExplanations": [
+   "",
+   "It causes epidemic meningitis in adolescents and not typically post-traumatic CSF leak meningitis.",
+   "This is mainly a disease of unvaccinated children.",
+   "It is more typical of penetrating trauma or neurosurgical procedures.",
+   "It affects neonates, elderly, and immunocompromised patients."
+  ],
+  "source": "October 2026 Recalls — ENT — Oct 2026",
+  "recallSet": "october-2026",
+  "recallPaper": "ENT — Oct 2026"
+ },
+ {
+  "systemSlug": "respiratory",
+  "topicSlug": "pleural-upper-airway",
+  "stem": "A 7-year-old child has had foul-smelling nasal discharge from one nostril and unilateral nasal obstruction for 3 months. There is no fever and no history of trauma. Which is the most likely diagnosis?",
+  "options": [
+   "Antrochoanal polyp",
+   "Foreign body in the nose",
+   "Unilateral choanal atresia",
+   "Acute bacterial sinusitis",
+   "Nasal myiasis"
+  ],
+  "correctIndex": 1,
+  "explanation": "A unilateral foul purulent discharge in a child is a retained nasal foreign body until proven otherwise, and the object is removed with a hook or forceps. Delayed presentation can lead to rhinolith formation. (Standard ENT teaching; First Aid — Respiratory: Upper airway)",
+  "optionExplanations": [
+   "It gives unilateral obstruction but the discharge is mucoid and not foul.",
+   "",
+   "It gives lifelong unilateral obstruction and mucoid discharge from infancy.",
+   "It presents with fever, facial pain, and a shorter history.",
+   "It is rare, occurs with ozaena in tropical settings, and presents with maggots."
+  ],
+  "source": "October 2026 Recalls — ENT — Oct 2026",
+  "recallSet": "october-2026",
+  "recallPaper": "ENT — Oct 2026"
+ },
+ {
+  "systemSlug": "respiratory",
+  "topicSlug": "pleural-upper-airway",
+  "stem": "A 15-year-old boy has had 6 months of left nasal obstruction. Anterior rhinoscopy shows a pale mass insensitive to touch that moves on probing. Posterior rhinoscopy shows a pale, rounded, glistening mass hanging into the nasopharynx. X-ray of the sinuses shows an opaque left maxillary sinus. Which is the most likely diagnosis?",
+  "options": [
+   "Juvenile nasopharyngeal angiofibroma",
+   "Ethmoidal polyp",
+   "Antrochoanal polyp",
+   "Frontoethmoidal mucocele",
+   "Inverted papilloma"
+  ],
+  "correctIndex": 2,
+  "explanation": "An antrochoanal polyp arises from the maxillary sinus, exits through the accessory ostium to the middle meatus, and enlarges into the choana and nasopharynx. It is a single, unilateral, pale, insensitive mass in young people. (Standard ENT teaching; First Aid — Respiratory: Upper airway)",
+  "optionExplanations": [
+   "It is a pinkish, firm, bleeding mass in the nasopharynx with recurrent epistaxis.",
+   "These are usually multiple and bilateral and arise from the ethmoid region.",
+   "",
+   "It presents with a swelling at the inner canthus and proptosis.",
+   "It is typically unilateral in older adults, with a pinkish warty appearance."
+  ],
+  "source": "October 2026 Recalls — ENT — Oct 2026",
+  "recallSet": "october-2026",
+  "recallPaper": "ENT — Oct 2026"
+ },
+ {
+  "systemSlug": "respiratory",
+  "topicSlug": "pleural-upper-airway",
+  "stem": "A 35-year-old man has bilateral multiple pale, glistening nasal polyps and anosmia. He also has adult-onset asthma and develops bronchospasm after taking ibuprofen. Which diagnosis best unites these findings?",
+  "options": [
+   "Allergic fungal rhinosinusitis",
+   "Eosinophilic granulomatosis with polyangiitis",
+   "Cystic fibrosis",
+   "Samter's triad",
+   "Kartagener syndrome"
+  ],
+  "correctIndex": 3,
+  "explanation": "Samter's triad combines nasal polyposis, asthma, and aspirin or NSAID hypersensitivity caused by COX-1 inhibition shunting arachidonic acid towards leukotrienes. Polyps are pale, glistening, and insensitive. (First Aid — Pharmacology: NSAIDs and aspirin; Respiratory: Asthma)",
+  "optionExplanations": [
+   "It causes thick allergic mucin and unilateral expansile disease, not NSAID-triggered bronchospasm.",
+   "It has asthma and polyps but also vasculitic features such as neuropathy and no NSAID trigger.",
+   "It causes polyps in children and recurrent chest infections, with no NSAID sensitivity.",
+   "",
+   "It has situs inversus, bronchiectasis, and chronic sinusitis, but no NSAID sensitivity."
+  ],
+  "source": "October 2026 Recalls — ENT — Oct 2026",
+  "recallSet": "october-2026",
+  "recallPaper": "ENT — Oct 2026"
+ },
+ {
+  "systemSlug": "respiratory",
+  "topicSlug": "pleural-upper-airway",
+  "stem": "A 25-year-old man has chronic nasal obstruction and headache. Examination shows a septum deviated to the right. His obstructed side, however, is the left. What is the most likely explanation for blockage on the left?",
+  "options": [
+   "Right nasal polyp obstructing the right airway",
+   "Adenoid hypertrophy causing nasopharyngeal obstruction",
+   "Allergic rhinitis causing diffuse mucosal oedema",
+   "Atrophic rhinitis with crusting and a roomy nasal cavity",
+   "Compensatory hypertrophy of the left inferior turbinate"
+  ],
+  "correctIndex": 4,
+  "explanation": "In a deviated septum, the concave (wider) side often develops compensatory inferior turbinate hypertrophy, which can paradoxically produce obstruction on the side opposite the deviation. Septoplasty with or without turbinate reduction corrects it. (Standard ENT teaching; First Aid — Respiratory: Upper airway)",
+  "optionExplanations": [
+   "This would worsen right-sided obstruction.",
+   "It causes bilateral obstruction and does not explain a unilateral complaint.",
+   "It causes bilateral mucosal swelling rather than one-sided blockage.",
+   "It gives a wide, crusted nasal cavity without true obstruction in a young man.",
+   ""
+  ],
+  "source": "October 2026 Recalls — ENT — Oct 2026",
+  "recallSet": "october-2026",
+  "recallPaper": "ENT — Oct 2026"
+ },
+ {
+  "systemSlug": "respiratory",
+  "topicSlug": "pleural-upper-airway",
+  "stem": "A 35-year-old woman has had foul-smelling nasal crusts, nasal obstruction, and loss of smell for 3 years, with a wide, roomy nasal cavity and atrophic turbinates. A mucosal biopsy is taken. Which histological change is characteristic?",
+  "options": [
+   "Squamous metaplasia of the lining with endarteritis obliterans",
+   "Eosinophilic infiltration with goblet cell hyperplasia",
+   "Non-caseating granulomas",
+   "Sporangia and spores within a fibrovascular stroma beneath the epithelium",
+   "Necrotising vasculitis with geographic necrosis"
+  ],
+  "correctIndex": 0,
+  "explanation": "Primary atrophic rhinitis shows loss of ciliated columnar epithelium replaced by squamous epithelium, atrophy of glands and turbinate bone, and endarteritis of small vessels. Patients are anosmic and so unaware of their own foetor. (Standard ENT teaching; First Aid — Respiratory: Upper airway)",
+  "optionExplanations": [
+   "",
+   "This is the picture of allergic rhinitis or polyps.",
+   "These suggest sarcoidosis, not atrophic rhinitis.",
+   "These are seen in rhinosporidiosis.",
+   "This is the picture of granulomatosis with polyangiitis, which causes septal perforation and crusts."
+  ],
+  "source": "October 2026 Recalls — ENT — Oct 2026",
+  "recallSet": "october-2026",
+  "recallPaper": "ENT — Oct 2026"
+ },
+ {
+  "systemSlug": "respiratory",
+  "topicSlug": "pleural-upper-airway",
+  "stem": "A 16-year-old boy with recurrent profuse epistaxis and progressive nasal obstruction has a pinkish lobulated mass in the nasopharynx. CT with contrast shows a vascular mass with anterior bowing of the posterior wall of the maxillary sinus. This radiological sign is called:",
+  "options": [
+   "Thumb sign of epiglottitis",
+   "Holman–Miller sign",
+   "Steeple sign of croup",
+   "Hennebert sign",
+   "Halo sign of CSF leak"
+  ],
+  "correctIndex": 1,
+  "explanation": "Juvenile nasopharyngeal angiofibroma occurs in adolescent males and arises near the sphenopalatine foramen. The Holman–Miller sign of anterior bowing of the posterior maxillary wall is characteristic, and biopsy is avoided because of torrential bleeding. (Standard ENT teaching; First Aid — Respiratory: Upper airway)",
+  "optionExplanations": [
+   "This is the soft-tissue swelling of the epiglottis in epiglottitis.",
+   "",
+   "This is subglottic narrowing in croup.",
+   "This is nystagmus provoked by ear canal pressure in a labyrinthine fistula or syphilitic labyrinthitis.",
+   "This describes CSF-stained blood on a handkerchief or pale nodules on CT, not this finding."
+  ],
+  "source": "October 2026 Recalls — ENT — Oct 2026",
+  "recallSet": "october-2026",
+  "recallPaper": "ENT — Oct 2026"
+ },
+ {
+  "systemSlug": "respiratory",
+  "topicSlug": "pleural-upper-airway",
+  "stem": "Which of the following paranasal air cells does NOT drain into the middle meatus?",
+  "options": [
+   "Maxillary sinus (through its ostium)",
+   "Frontal sinus (frontonasal duct)",
+   "Posterior ethmoidal cells",
+   "Anterior ethmoidal cells",
+   "Middle ethmoidal cells"
+  ],
+  "correctIndex": 2,
+  "explanation": "The frontal, maxillary, anterior and middle ethmoidal sinuses drain through the ostiomeatal complex into the middle meatus. The posterior ethmoidal cells open into the superior meatus, and the sphenoid sinus into the sphenoethmoidal recess. (Standard ENT teaching; First Aid — Respiratory: Upper airway)",
+  "optionExplanations": [
+   "It drains into the middle meatus via the hiatus semilunaris.",
+   "It drains via the frontonasal duct into the middle meatus.",
+   "",
+   "They drain into the middle meatus.",
+   "They open on the ethmoidal bulla in the middle meatus."
+  ],
+  "source": "October 2026 Recalls — ENT — Oct 2026",
+  "recallSet": "october-2026",
+  "recallPaper": "ENT — Oct 2026"
+ },
+ {
+  "systemSlug": "respiratory",
+  "topicSlug": "pleural-upper-airway",
+  "stem": "A 35-year-old man has purulent nasal discharge, facial pain, and nasal obstruction for 12 days without improvement. Pus is seen in the middle meatus. Which is the most likely diagnosis?",
+  "options": [
+   "Viral (common cold) rhinosinusitis",
+   "Chronic rhinosinusitis",
+   "Allergic rhinitis",
+   "Acute bacterial rhinosinusitis",
+   "Odontogenic sinusitis from a dental source"
+  ],
+  "correctIndex": 3,
+  "explanation": "Persistent purulent rhinosinusitis lasting more than 10 days without improvement, or worsening after initial improvement, is regarded as acute bacterial sinusitis, commonly caused by Streptococcus pneumoniae and Haemophilus influenzae. Chronic disease is defined as more than 12 weeks. (Standard ENT teaching; First Aid — Microbiology: Haemophilus influenzae; Streptococcus pneumoniae)",
+  "optionExplanations": [
+   "A viral illness usually peaks by days 3-5 and improves by 7-10 days.",
+   "This requires symptoms for more than 12 weeks.",
+   "It gives clear watery discharge with itch and sneezing, not purulence and facial pain.",
+   "",
+   "There is no dental pain or history to suggest a tooth source."
+  ],
+  "source": "October 2026 Recalls — ENT — Oct 2026",
+  "recallSet": "october-2026",
+  "recallPaper": "ENT — Oct 2026"
+ },
+ {
+  "systemSlug": "respiratory",
+  "topicSlug": "pleural-upper-airway",
+  "stem": "A 40-year-old man has bilateral brawny submandibular swelling and an elevated, protruded tongue 3 days after a lower molar abscess. He is drooling, febrile, and has an early stridor. Ludwig's angina is diagnosed. What is the single most important priority in management?",
+  "options": [
+   "Start broad-spectrum intravenous antibiotics first",
+   "Extract the offending tooth urgently",
+   "Obtain contrast CT of the neck before intervention",
+   "Incise and drain the submandibular spaces first",
+   "Secure the airway"
+  ],
+  "correctIndex": 4,
+  "explanation": "Ludwig's angina is a rapidly spreading bilateral cellulitis of the submandibular, sublingual, and submental spaces from odontogenic infection. Death is from airway obstruction, so airway protection (fibreoptic intubation or tracheostomy) precedes antibiotics and drainage. (Standard ENT teaching; First Aid — Microbiology: Polymicrobial oral flora)",
+  "optionExplanations": [
+   "Antibiotics are essential but airway loss is the immediate threat to life.",
+   "Source control is done only after the airway is secured.",
+   "Imaging should not delay airway control in an unstable airway.",
+   "Drainage follows airway securing, and may not be needed if there is no collection.",
+   ""
+  ],
+  "source": "October 2026 Recalls — ENT — Oct 2026",
+  "recallSet": "october-2026",
+  "recallPaper": "ENT — Oct 2026"
+ },
+ {
+  "systemSlug": "respiratory",
+  "topicSlug": "respiratory-anatomy-embryology",
+  "stem": "A man with a permanent tracheostomy is counselled about activities he will find difficult. Which activity, which depends on closing the glottis to build up intrathoracic pressure, will be most impaired?",
+  "options": [
+   "Lifting heavy weights",
+   "Breathing at rest through the tube",
+   "Sleeping through the night",
+   "Chewing a normal diet",
+   "Smelling food and drink"
+  ],
+  "correctIndex": 0,
+  "explanation": "A tracheostomy bypasses the glottis, so the patient cannot close the larynx to fix the chest and raise intrathoracic or intra-abdominal pressure (Valsalva) for heavy lifting, straining, or an effective cough unless the stoma is occluded. (Standard ENT teaching; First Aid — Respiratory: Physiology)",
+  "optionExplanations": [
+   "",
+   "Breathing is easier because the tube reduces anatomical dead space and airway resistance.",
+   "Sleep is unaffected and may improve in patients with upper airway obstruction.",
+   "Chewing involves the jaw and does not require glottic closure.",
+   "Smell is reduced as air bypasses the nose, but this does not rely on glottic closure."
+  ],
+  "source": "October 2026 Recalls — ENT — Oct 2026",
+  "recallSet": "october-2026",
+  "recallPaper": "ENT — Oct 2026"
+ }
+]
