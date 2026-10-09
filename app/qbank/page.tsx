@@ -15,22 +15,22 @@ export default async function QBankPage() {
       include: {
         topics: {
           orderBy: { order: "asc" },
-          include: { _count: { select: { questions: true } } },
+          include: { _count: { select: { questions: { where: { isRecall: false } } } } },
         },
       },
     }),
-    prisma.question.count(),
+    prisma.question.count({ where: { isRecall: false } }),
   ]);
 
-  const pickerData = systems.map((system) => ({
-    id: system.id,
-    name: system.name,
-    topics: system.topics.map((topic) => ({
-      id: topic.id,
-      name: topic.name,
-      questionCount: topic._count.questions,
-    })),
-  }));
+  const pickerData = systems
+    .map((system) => ({
+      id: system.id,
+      name: system.name,
+      topics: system.topics
+        .filter((topic) => topic._count.questions > 0)
+        .map((topic) => ({ id: topic.id, name: topic.name, questionCount: topic._count.questions })),
+    }))
+    .filter((system) => system.topics.length > 0);
 
   return (
     <div className="mx-auto max-w-4xl px-4 py-10 sm:px-6">

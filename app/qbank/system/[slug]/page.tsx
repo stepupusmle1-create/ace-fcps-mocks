@@ -9,7 +9,7 @@ export default async function QBankSystemPage({ params }: { params: { slug: stri
 
   const system = await prisma.system.findUnique({
     where: { slug: params.slug },
-    include: { topics: { include: { _count: { select: { questions: true } } } } },
+    include: { topics: { include: { _count: { select: { questions: { where: { isRecall: false } } } } } } },
   });
   if (!system) notFound();
 

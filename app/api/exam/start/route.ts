@@ -98,6 +98,8 @@ export async function POST(req: NextRequest) {
     const recallSet = resolveRecallSet(body?.recallSet);
     if (recallSet) where = { ...where, recallSet: recallSet.value };
     if (typeof body?.recallPaper === "string" && body.recallPaper) where = { ...where, recallPaper: body.recallPaper };
+  } else {
+    where = { ...where, isRecall: false };
   }
 
   // Only pull ids over the wire to pick the sample — the full rows (stem, options,

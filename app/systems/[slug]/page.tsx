@@ -14,7 +14,7 @@ export default async function SystemTopicsPage({ params }: { params: { slug: str
     include: {
       topics: {
         orderBy: { order: "asc" },
-        include: { _count: { select: { questions: true } } },
+        include: { _count: { select: { questions: { where: { isRecall: false } } } } },
       },
     },
   });

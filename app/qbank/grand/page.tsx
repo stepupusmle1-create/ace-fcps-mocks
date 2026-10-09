@@ -7,7 +7,7 @@ export default async function QBankGrandPage() {
   const user = await getCurrentUser();
   if (!user) redirect("/login");
 
-  const totalQuestions = await prisma.question.count();
+  const totalQuestions = await prisma.question.count({ where: { isRecall: false } });
 
   return (
     <ExamLauncher

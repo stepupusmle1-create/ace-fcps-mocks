@@ -12,13 +12,13 @@ export default async function MocksPage() {
   const [systems, submittedAttempts, totalQuestions, recallCount] = await Promise.all([
     prisma.system.findMany({
       orderBy: { order: "asc" },
-      include: { topics: { include: { _count: { select: { questions: true } } } } },
+      include: { topics: { include: { _count: { select: { questions: { where: { isRecall: false } } } } } } },
     }),
     prisma.attempt.findMany({
       where: { userId: user.id, status: "SUBMITTED" },
       orderBy: { submittedAt: "desc" },
     }),
-    prisma.question.count(),
+    prisma.question.count({ where: { isRecall: false } }),
     prisma.question.count({ where: { isRecall: true } }),
   ]);
 
@@ -100,7 +100,7 @@ export default async function MocksPage() {
       </div>
 
       <div className="mt-4 grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
-        {systems.map((system) => {
+        {systems.filter((system) => system.topics.some((t) => t._count.questions > 0)).map((system) => {
           const totalSystemQuestions = system.topics.reduce((sum, t) => sum + t._count.questions, 0);
           const systemQuestionCount = Math.min(SYSTEM_MOCK_QUESTION_COUNT, totalSystemQuestions);
           const systemMinutes = Math.round(timeLimitSecFor(systemQuestionCount) / 60);

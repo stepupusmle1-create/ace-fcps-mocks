@@ -10,11 +10,12 @@ async function main() {
   let kept = 0;
   for (const { stem } of remove) {
     const rows = await prisma.question.findMany({
-      where: { stem, isRecall: true, recallSet: "october-2026" },
+      where: { stem, isRecall: true, recallSet: { in: ["october-2026", "october-2026-retired"] } },
       select: { id: true, _count: { select: { attemptAnswers: true } } },
     });
     for (const row of rows) {
       if (row._count.attemptAnswers > 0) {
+        await prisma.question.update({ where: { id: row.id }, data: { recallSet: "october-2026-retired", recallPaper: null } });
         kept++;
         continue;
       }
@@ -22,7 +23,7 @@ async function main() {
       deleted++;
     }
   }
-  console.log(`Removed ${deleted} duplicate October recall(s); left ${kept} that already have attempt history.`);
+  console.log(`Removed ${deleted} duplicate October recall(s); retired ${kept} that already have attempt history (hidden from all lists).`);
 }
 
 main()

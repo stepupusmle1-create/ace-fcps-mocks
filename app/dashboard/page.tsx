@@ -14,7 +14,7 @@ export default async function DashboardPage() {
       where: { userId: user.id, status: "SUBMITTED" },
       orderBy: { submittedAt: "desc" },
     }),
-    prisma.question.count(),
+    prisma.question.count({ where: { isRecall: false } }),
     prisma.system.count(),
   ]);
 

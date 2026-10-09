@@ -9,7 +9,7 @@ export default async function QBankTopicPage({ params }: { params: { slug: strin
 
   const topic = await prisma.topic.findUnique({
     where: { slug: params.slug },
-    include: { system: true, _count: { select: { questions: true } } },
+    include: { system: true, _count: { select: { questions: { where: { isRecall: false } } } } },
   });
   if (!topic) notFound();
 

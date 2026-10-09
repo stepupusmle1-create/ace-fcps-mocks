@@ -8,7 +8,7 @@ export default async function GrandExamPage() {
   const user = await getCurrentUser();
   if (!user) redirect("/login");
 
-  const totalQuestions = await prisma.question.count();
+  const totalQuestions = await prisma.question.count({ where: { isRecall: false } });
   const questionCount = Math.min(GRAND_MOCK_QUESTION_COUNT, totalQuestions);
   const minutes = Math.round(timeLimitSecFor(questionCount) / 60);
 

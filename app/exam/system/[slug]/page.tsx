@@ -10,7 +10,7 @@ export default async function SystemExamPage({ params }: { params: { slug: strin
 
   const system = await prisma.system.findUnique({
     where: { slug: params.slug },
-    include: { topics: { include: { _count: { select: { questions: true } } } } },
+    include: { topics: { include: { _count: { select: { questions: { where: { isRecall: false } } } } } } },
   });
   if (!system) notFound();
 
