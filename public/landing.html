@@ -725,6 +725,22 @@ html,main,footer{overflow-x:clip}
 .tutor-tags span{font-size:.72rem;font-weight:600;color:#1f6b4f;background:#effbf4;border:1px solid #c8ead6;border-radius:999px;padding:3px 10px}
 @media (max-width:960px){.md-grid{grid-template-columns:1fr 1fr}}
 @media (max-width:600px){.md-grid{grid-template-columns:1fr}}
+
+/* ---------- performance: smooth scrolling ---------- */
+*,*::before,*::after{-webkit-backdrop-filter:none!important;backdrop-filter:none!important}
+.grain{display:none!important}
+.sys,.sshot,.vbadge,.mvb,.vframe,.floatc{animation:none!important}
+[data-in]{will-change:auto!important}
+.js [data-in]{opacity:0;translate:0 22px;transition:opacity .45s ease,translate .45s ease}
+.js [data-in="left"]{translate:-22px 0}
+.js [data-in="right"]{translate:22px 0}
+.js [data-in="zoom"]{translate:0 22px;scale:.97;transition:opacity .45s ease,translate .45s ease,scale .45s ease}
+.js [data-in].in{opacity:1;translate:0 0;scale:1}
+.rv{filter:none!important;transition:opacity .45s ease,transform .45s ease!important}
+section{content-visibility:auto;contain-intrinsic-size:auto 900px}
+header.scrolled{background:rgba(255,255,255,.97)!important}
+@media (prefers-reduced-motion:reduce){.js [data-in]{opacity:1;translate:none;scale:1;transition:none}}
+.js .sys .ph:not(.vis),.js .sshot:not(.vis){background-image:none!important}
 </style>
 
 
@@ -1425,30 +1441,11 @@ html,main,footer{overflow-x:clip}
     tag('.fleft','left'); tag('.faq>*',function(el,i){ return i%2 ? 'left' : 'right'; });
     tag('.mv','zoom'); tag('.fcta','up'); tag('.fcols>*',function(el,i){ return ['left','up','right'][i%3]; });
     var items = [].slice.call(document.querySelectorAll('[data-in]'));
-    var narrow = innerWidth < 700;
-    function apply(){
-      var vh = innerHeight, dist = narrow ? 70 : 160;
-      for (var i=0;i<items.length;i++){
-        var el = items[i], r = el.getBoundingClientRect();
-        if (r.bottom < -200 || r.top > vh + 200) { if (r.top > vh) { set(el, 0); } continue; }
-        var p = (vh - r.top) / (vh * 0.42); p = p < 0 ? 0 : p > 1 ? 1 : p;
-        set(el, p);
-      }
-      function set(el, p){
-        var e = 1 - Math.pow(1 - p, 3), k = 1 - e, d = el.getAttribute('data-in');
-        if (el._p === e) return; el._p = e;
-        if (d === 'left'){ el.style.translate = (-dist*k).toFixed(1)+'px 0'; el.style.rotate = 'y '+(14*k).toFixed(2)+'deg'; }
-        else if (d === 'right'){ el.style.translate = (dist*k).toFixed(1)+'px 0'; el.style.rotate = 'y '+(-14*k).toFixed(2)+'deg'; }
-        else if (d === 'zoom'){ el.style.scale = (0.86 + 0.14*e).toFixed(3); el.style.translate = '0 '+(60*k).toFixed(1)+'px'; }
-        else { el.style.translate = '0 '+(70*k).toFixed(1)+'px'; }
-        el.style.opacity = (0.0 + e).toFixed(3);
-      }
-    }
-    var ticking = false;
-    function onScroll(){ if (!ticking){ ticking = true; requestAnimationFrame(function(){ ticking = false; apply(); }); } }
-    addEventListener('scroll', onScroll, {passive:true});
-    addEventListener('resize', function(){ narrow = innerWidth < 700; onScroll(); });
-    apply();
+    if (!('IntersectionObserver' in window)) { items.forEach(function(el){ el.classList.add('in'); }); return; }
+    var io = new IntersectionObserver(function(entries){
+      entries.forEach(function(en){ if (en.isIntersecting){ en.target.classList.add('in'); io.unobserve(en.target); } });
+    }, {rootMargin: '0px 0px -6% 0px', threshold: 0.05});
+    items.forEach(function(el){ io.observe(el); });
   })();
 
   /* ---------- card light + tilt ---------- */
@@ -1757,6 +1754,15 @@ html,main,footer{overflow-x:clip}
     document.getElementById('tutors').hidden=false;
     document.getElementById('navTutors').hidden=false;
   }).catch(function(){});
+})();
+</script>
+<script>
+(function(){
+  var els=[].slice.call(document.querySelectorAll('.sys .ph,.sshot'));
+  if(!('IntersectionObserver' in window)){return;}
+  els.forEach(function(e){e.classList.add('lazybg');});
+  var io=new IntersectionObserver(function(es){es.forEach(function(en){if(en.isIntersecting){en.target.classList.add('vis');io.unobserve(en.target);}});},{rootMargin:'500px 0px'});
+  els.forEach(function(e){io.observe(e);});
 })();
 </script>
 </body></html>
