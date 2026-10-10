@@ -1,3 +1,4 @@
+import { cache } from "react";
 import { cookies } from "next/headers";
 import { SignJWT, jwtVerify } from "jose";
 import { prisma } from "@/lib/prisma";
@@ -38,11 +39,11 @@ export async function getSessionUserId(): Promise<string | null> {
   }
 }
 
-export async function getCurrentUser() {
+export const getCurrentUser = cache(async () => {
   const userId = await getSessionUserId();
   if (!userId) return null;
   return prisma.user.findUnique({ where: { id: userId } });
-}
+});
 
 export async function requireUser() {
   const user = await getCurrentUser();

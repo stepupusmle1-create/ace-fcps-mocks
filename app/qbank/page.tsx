@@ -2,25 +2,15 @@ import Link from "next/link";
 import { redirect } from "next/navigation";
 import { ArrowRight, BookOpen } from "lucide-react";
 import { getCurrentUser } from "@/lib/auth";
-import { prisma } from "@/lib/prisma";
+import { getQuestionTotals, getRegularSystems } from "@/lib/cached";
 import { QBankTopicPicker } from "@/components/qbank-topic-picker";
 
 export default async function QBankPage() {
   const user = await getCurrentUser();
   if (!user) redirect("/login");
 
-  const [systems, totalQuestions] = await Promise.all([
-    prisma.system.findMany({
-      orderBy: { order: "asc" },
-      include: {
-        topics: {
-          orderBy: { order: "asc" },
-          include: { _count: { select: { questions: { where: { isRecall: false } } } } },
-        },
-      },
-    }),
-    prisma.question.count({ where: { isRecall: false } }),
-  ]);
+  const [systems, totals] = await Promise.all([getRegularSystems(), getQuestionTotals()]);
+  const totalQuestions = totals.regular;
 
   const pickerData = systems
     .map((system) => ({

@@ -59,6 +59,7 @@ const REFERENCE_BOOKS = [
   "Snell's Anatomy",
   "Rafi Ullah",
   "AA Gynaecology",
+  "10 Teachers",
   "Latest SK",
 ];
 
@@ -66,7 +67,7 @@ const PROGRAM_STATS = [
   { icon: Calendar, label: "Total duration", value: "~3 months" },
   { icon: BookOpen, label: "Phase 1 — First pass", value: "60 days" },
   { icon: CheckCircle2, label: "Phase 2 — Grand review", value: "25 days" },
-  { icon: Users, label: "Faculty", value: "10 teachers" },
+  { icon: Users, label: "Live classes", value: "Every night" },
   { icon: Clock, label: "Class timing", value: "10:00 PM – 11:30 PM" },
 ];
 
@@ -106,7 +107,7 @@ export default async function HomePage() {
             The complete FCPS Part 1 prep program
           </h1>
           <p className="mx-auto mt-4 max-w-xl text-[15px] leading-relaxed text-slate-500 sm:text-lg">
-            Almost 3 months, live classes with 10 teachers, structured in two phases. Seats are
+            Almost 3 months, nightly live classes, structured in two phases. Seats are
             limited &mdash; register on WhatsApp to enroll.
           </p>
           <div className="mt-8 flex flex-wrap items-center justify-center gap-3">

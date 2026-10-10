@@ -1,1 +1,12 @@
-[]
+[
+ {
+  "name": "Dr Bilal Zakir",
+  "role": "Surgery · FCPS resident",
+  "photo": "/landing/tutors/bilal-zakir.jpg",
+  "achievements": [
+   "FCPS resident surgeon at CMH",
+   "USMLE Step 1 passed",
+   "SLE passed"
+  ]
+ }
+]

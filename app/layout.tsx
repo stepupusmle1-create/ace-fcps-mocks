@@ -4,11 +4,10 @@ import "./globals.css";
 import { SiteHeader } from "@/components/site-header";
 import { AppSidebar } from "@/components/app-sidebar";
 import { getCurrentUser } from "@/lib/auth";
-import { prisma } from "@/lib/prisma";
+import { getQuestionTotals } from "@/lib/cached";
 
 const plusJakarta = Inter({
   subsets: ["latin"],
-  weight: ["400", "500", "600", "700", "800", "900"],
   variable: "--font-sans",
   display: "swap",
 });
@@ -24,7 +23,7 @@ export default async function RootLayout({
   children: React.ReactNode;
 }) {
   const user = await getCurrentUser();
-  const recallCount = user ? await prisma.question.count({ where: { isRecall: true } }) : 0;
+  const recallCount = user ? (await getQuestionTotals()).recall : 0;
 
   return (
     <html lang="en" className={plusJakarta.variable}>

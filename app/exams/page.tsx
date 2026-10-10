@@ -13,7 +13,7 @@ import {
   Trophy,
 } from "lucide-react";
 import { getCurrentUser } from "@/lib/auth";
-import { prisma } from "@/lib/prisma";
+import { getQuestionTotals } from "@/lib/cached";
 import { RegisterSlotBanner } from "@/components/register-slot-banner";
 import { GRAND_MOCK_QUESTION_COUNT, SYSTEM_MOCK_QUESTION_COUNT, timeLimitSecFor } from "@/lib/exam";
 
@@ -67,8 +67,8 @@ export default async function ExamsPage() {
   if (user) redirect(user.isAdmin ? "/admin" : "/dashboard");
 
   const [totalQuestions, systemCount] = await Promise.all([
-    prisma.question.count({ where: { OR: [{ recallSet: null }, { recallSet: { not: "october-2026-retired" } }] } }),
-    prisma.system.count(),
+    getQuestionTotals().then((t) => t.publicTotal),
+    getQuestionTotals().then((t) => t.systems),
   ]);
 
   const grandMinutes = Math.round(timeLimitSecFor(Math.min(GRAND_MOCK_QUESTION_COUNT, totalQuestions)) / 60);

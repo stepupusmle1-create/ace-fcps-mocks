@@ -3,24 +3,23 @@ import { redirect } from "next/navigation";
 import { ArrowRight, GraduationCap, ListChecks, Trophy } from "lucide-react";
 import { getCurrentUser } from "@/lib/auth";
 import { prisma } from "@/lib/prisma";
+import { getQuestionTotals, getRegularSystems } from "@/lib/cached";
 import { GRAND_MOCK_QUESTION_COUNT, PASS_PERCENT, SYSTEM_MOCK_QUESTION_COUNT, timeLimitSecFor } from "@/lib/exam";
 
 export default async function MocksPage() {
   const user = await getCurrentUser();
   if (!user) redirect("/login");
 
-  const [systems, submittedAttempts, totalQuestions, recallCount] = await Promise.all([
-    prisma.system.findMany({
-      orderBy: { order: "asc" },
-      include: { topics: { include: { _count: { select: { questions: { where: { isRecall: false } } } } } } },
-    }),
+  const [systems, submittedAttempts, totals] = await Promise.all([
+    getRegularSystems(),
     prisma.attempt.findMany({
       where: { userId: user.id, status: "SUBMITTED" },
       orderBy: { submittedAt: "desc" },
     }),
-    prisma.question.count({ where: { isRecall: false } }),
-    prisma.question.count({ where: { isRecall: true } }),
+    getQuestionTotals(),
   ]);
+  const totalQuestions = totals.regular;
+  const recallCount = totals.recall;
 
   const bestBySystem = new Map<string, number>();
   let grandBest: number | null = null;

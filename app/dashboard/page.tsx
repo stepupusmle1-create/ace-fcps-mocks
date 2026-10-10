@@ -3,20 +3,22 @@ import { redirect } from "next/navigation";
 import { ArrowRight, BookMarked, History as HistoryIcon, ListChecks, Trophy } from "lucide-react";
 import { getCurrentUser } from "@/lib/auth";
 import { prisma } from "@/lib/prisma";
+import { getQuestionTotals } from "@/lib/cached";
 import { attemptTitle, PASS_PERCENT } from "@/lib/exam";
 
 export default async function DashboardPage() {
   const user = await getCurrentUser();
   if (!user) redirect("/login");
 
-  const [submittedAttempts, totalQuestions, systemCount] = await Promise.all([
+  const [submittedAttempts, totals] = await Promise.all([
     prisma.attempt.findMany({
       where: { userId: user.id, status: "SUBMITTED" },
       orderBy: { submittedAt: "desc" },
     }),
-    prisma.question.count({ where: { isRecall: false } }),
-    prisma.system.count(),
+    getQuestionTotals(),
   ]);
+  const totalQuestions = totals.regular;
+  const systemCount = totals.systems;
 
   let grandBest: number | null = null;
   let mockCount = 0;

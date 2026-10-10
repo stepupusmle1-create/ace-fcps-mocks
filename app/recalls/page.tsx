@@ -2,7 +2,7 @@ import Link from "next/link";
 import { redirect } from "next/navigation";
 import { GraduationCap } from "lucide-react";
 import { getCurrentUser } from "@/lib/auth";
-import { prisma } from "@/lib/prisma";
+import { getRecallOverview } from "@/lib/cached";
 import { RecallTopicPicker } from "@/components/recall-topic-picker";
 import { RECALL_SETS, resolveRecallSet } from "@/lib/recalls";
 
@@ -11,26 +11,7 @@ export default async function RecallsPage({ searchParams }: { searchParams: { se
   if (!user) redirect("/login");
 
   const activeSet = resolveRecallSet(searchParams.set) ?? RECALL_SETS[0];
-  const paperRows = await prisma.question.groupBy({
-    by: ["recallPaper"],
-    where: { isRecall: true, recallSet: activeSet.value, recallPaper: { not: null } },
-    _count: { _all: true },
-    orderBy: { recallPaper: "asc" },
-  });
-  const activePaper = paperRows.find((r) => r.recallPaper === searchParams.paper)?.recallPaper ?? null;
-  const setCounts = await Promise.all(
-    RECALL_SETS.map((s) => prisma.question.count({ where: { isRecall: true, recallSet: s.value } })),
-  );
-
-  const systems = await prisma.system.findMany({
-    orderBy: { order: "asc" },
-    include: {
-      topics: {
-        orderBy: { order: "asc" },
-        include: { _count: { select: { questions: { where: { isRecall: true, recallSet: activeSet.value, ...(activePaper ? { recallPaper: activePaper } : {}) } } } } },
-      },
-    },
-  });
+  const { paperRows, setCounts, activePaper, systems } = await getRecallOverview(activeSet.slug, searchParams.paper ?? null);
 
   const pickerData = systems
     .map((system) => ({
