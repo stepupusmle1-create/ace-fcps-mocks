@@ -860,12 +860,12 @@ html,main,footer{overflow-x:clip}
     <div class="mv">
       <div class="mvframe">
         <video id="mainvid" src="/landing/main-video.mp4" poster="/landing/main-poster.jpg" playsinline preload="none" controls></video>
-        <div class="mvempty" id="mvempty">
+        <div class="mvempty" id="mvempty" hidden>
           <div class="mvicon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="2" y="5" width="15" height="14" rx="2"/><path d="M17 10l5-3v10l-5-3"/></svg></div>
-          <strong>Your main website video goes here</strong>
-          <p>Your video is loading.</p>
+          <strong>Video unavailable</strong>
+          <p>This video could not be loaded right now. Please try again in a moment.</p>
         </div>
-        <button type="button" class="vplay mvplay" id="mvplay" aria-label="Play main video" hidden><svg viewBox="0 0 24 24" fill="currentColor"><path d="M8 5v14l11-7z"/></svg></button>
+        <button type="button" class="vplay mvplay" id="mvplay" aria-label="Play main video"><svg viewBox="0 0 24 24" fill="currentColor"><path d="M8 5v14l11-7z"/></svg></button>
       </div>
       <div class="mvb mvb1"><span>🎯</span><div><strong>85-day plan</strong>Every chapter scheduled</div></div>
       <div class="mvb mvb2"><span>🎓</span><div><strong>2,000+ students</strong>Helped so far</div></div>
