@@ -1,13 +1,14 @@
 import type { Metadata } from "next";
-import { Plus_Jakarta_Sans } from "next/font/google";
+import { Inter } from "next/font/google";
 import "./globals.css";
 import { SiteHeader } from "@/components/site-header";
 import { AppSidebar } from "@/components/app-sidebar";
 import { getCurrentUser } from "@/lib/auth";
 import { prisma } from "@/lib/prisma";
 
-const plusJakarta = Plus_Jakarta_Sans({
+const plusJakarta = Inter({
   subsets: ["latin"],
+  weight: ["400", "500", "600", "700", "800", "900"],
   variable: "--font-sans",
   display: "swap",
 });
@@ -27,7 +28,7 @@ export default async function RootLayout({
 
   return (
     <html lang="en" className={plusJakarta.variable}>
-      <body className="min-h-screen bg-slate-50 font-sans antialiased text-slate-900">
+      <body className="min-h-screen bg-mint-grey font-sans antialiased text-ink">
         {user ? (
           <div className="flex min-h-screen flex-col md:flex-row">
             <AppSidebar
