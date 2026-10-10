@@ -780,6 +780,20 @@ section{content-visibility:auto;contain-intrinsic-size:auto 900px}
 header.scrolled{background:rgba(255,255,255,.97)!important}
 @media (prefers-reduced-motion:reduce){.js [data-in]{opacity:1;translate:none;scale:1;transition:none}}
 .js .sys .ph:not(.vis),.js .sshot:not(.vis){background-image:none!important}
+
+/* ---------- payment popup ---------- */
+.paymodal{position:fixed;inset:0;z-index:200;background:rgba(5,30,22,.62);display:grid;place-items:center;padding:16px;overflow-y:auto}
+.pm-card{position:relative;width:min(520px,100%);max-height:calc(100vh - 32px);overflow-y:auto;border-radius:24px;background:#fff;border:1px solid rgba(6,78,59,.14);box-shadow:0 14px 0 0 #e9b56a,0 40px 80px -30px rgba(0,0,0,.5);padding:26px 24px 22px;display:grid;gap:16px}
+.pm-card h3{font-size:clamp(1.3rem,4vw,1.6rem);color:var(--navy);line-height:1.2}
+.pm-x{position:absolute;top:14px;right:14px;width:36px;height:36px;border-radius:50%;border:0;background:#f0f6f2;color:#064e3b;font-size:1rem;cursor:pointer}
+.pm-step{display:grid;grid-template-columns:32px 1fr;gap:14px;align-items:start;padding:16px;border-radius:16px;background:#f7fbf9;border:1px solid #dcebe2}
+.pm-step>b{width:32px;height:32px;border-radius:50%;display:grid;place-items:center;background:#064e3b;color:#fff;font-size:.9rem}
+.pm-step strong{display:block;color:var(--navy);margin-bottom:8px}
+.pm-step p{font-size:.9rem;color:var(--muted);margin:6px 0 12px;line-height:1.5}
+.pm-bank{display:flex;align-items:center;gap:10px;margin-bottom:6px}
+.pm-bank small{color:var(--muted)}
+.pm-num{font-family:var(--mono);font-size:clamp(1.5rem,6vw,1.9rem);font-weight:500;letter-spacing:.04em;color:#c97a2b}
+.pm-step .btn{width:100%}
 </style>
 
 
@@ -803,7 +817,7 @@ header.scrolled{background:rgba(255,255,255,.97)!important}
       <a href="#faq">FAQ</a>
     </nav>
     <a class="btn btn-outline btn-sm hide-sm" href="/login">Log In</a>
-    <a class="btn btn-orange btn-sm" href="https://wa.me/923063336230" target="_blank" rel="noopener">Enroll Now →</a>
+    <a class="btn btn-orange btn-sm" href="#pay" data-pay>Enroll Now →</a>
   </div>
 </header>
 
@@ -818,7 +832,7 @@ header.scrolled{background:rgba(255,255,255,.97)!important}
       <div class="underline"></div>
       <p class="sub">A complete system for FCPS Part 1. <b>Every chapter scheduled, every night a live class, every topic tested with exam-style mocks.</b></p>
       <div class="row">
-        <a class="btn btn-green" href="https://wa.me/923063336230" target="_blank" rel="noopener">Register Your Slot →</a>
+        <a class="btn btn-green" href="#pay" data-pay>Register Your Slot →</a>
         <a class="btn btn-outline" href="/exams">Try Mocks Free</a>
       </div>
       <div class="stats">
@@ -927,7 +941,7 @@ header.scrolled{background:rgba(255,255,255,.97)!important}
       <div class="mvb mvb3"><span>📝</span><div><strong>Free mocks</strong>200Q Grand Mock</div></div>
     </div>
     <div class="wallcta" style="margin-top:40px"><div class="row" style="justify-content:center">
-      <a class="btn btn-gold" href="https://wa.me/923063336230" target="_blank" rel="noopener">Register Your Slot →</a>
+      <a class="btn btn-gold" href="#pay" data-pay>Register Your Slot →</a>
       <a class="btn btn-ghostw" href="/exams">Try Mocks Free</a>
     </div></div>
   </div>
@@ -1071,7 +1085,7 @@ header.scrolled{background:rgba(255,255,255,.97)!important}
             <li>Private WhatsApp Group</li>
             <li>2,000+ Students Helped</li>
           </ul>
-          <a class="btn btn-orange" href="https://wa.me/923063336230" target="_blank" rel="noopener">Enroll Now — Rs 15,000</a>
+          <a class="btn btn-orange" href="#pay" data-pay>Enroll Now — Rs 15,000</a>
           <a class="btn btn-outline" href="#schedule">See Full Schedule</a>
           <div class="pay" id="pay">
             <div class="payh"><span class="bank">UBL</span><div><strong>Pay by bank transfer</strong><small>United Bank Limited</small></div></div>
@@ -1123,7 +1137,7 @@ header.scrolled{background:rgba(255,255,255,.97)!important}
     <div class="wallcta">
       <h2 style="font-size:clamp(1.6rem,3.4vw,2.4rem)">Ready to start FCPS Part 1?</h2>
       <p class="sub">Join 2,000+ candidates on this path.</p>
-      <a class="btn btn-orange" href="https://wa.me/923063336230" target="_blank" rel="noopener">Enroll in FCPS Part 1 →</a>
+      <a class="btn btn-orange" href="#pay" data-pay>Enroll in FCPS Part 1 →</a>
     </div>
   </div>
 </section>
@@ -1273,7 +1287,7 @@ header.scrolled{background:rgba(255,255,255,.97)!important}
     <div class="wallcta">
       <h2 style="font-size:clamp(1.6rem,3.4vw,2.4rem)">Your name could be on <span class="oi">this wall.</span></h2>
       <div class="row" style="justify-content:center">
-        <a class="btn btn-orange" href="https://wa.me/923063336230" target="_blank" rel="noopener">Start FCPS Part 1 →</a>
+        <a class="btn btn-orange" href="#pay" data-pay>Start FCPS Part 1 →</a>
         <a class="btn btn-outline" href="/exams">Try Mocks Free</a>
       </div>
     </div>
@@ -1321,7 +1335,7 @@ header.scrolled{background:rgba(255,255,255,.97)!important}
     <div class="fcta">
       <div><strong>Ready to start your FCPS journey?</strong><p>Join 2,000+ candidates who study with structure and a real plan.</p></div>
       <div class="row">
-        <a class="btn btn-gold" href="https://wa.me/923063336230" target="_blank" rel="noopener">Enroll in FCPS Part 1 →</a>
+        <a class="btn btn-gold" href="#pay" data-pay>Enroll in FCPS Part 1 →</a>
         <a class="btn btn-ghostw" href="/exams">Try Mocks Free</a>
       </div>
     </div>
@@ -1802,6 +1816,48 @@ header.scrolled{background:rgba(255,255,255,.97)!important}
   els.forEach(function(e){e.classList.add('lazybg');});
   var io=new IntersectionObserver(function(es){es.forEach(function(en){if(en.isIntersecting){en.target.classList.add('vis');io.unobserve(en.target);}});},{rootMargin:'500px 0px'});
   els.forEach(function(e){io.observe(e);});
+})();
+</script>
+<div class="paymodal" id="payModal" hidden role="dialog" aria-modal="true" aria-labelledby="pmTitle">
+  <div class="pm-card">
+    <button type="button" class="pm-x" id="pmClose" aria-label="Close payment details">✕</button>
+    <span class="pill gold">Enroll · FCPS Part 1</span>
+    <h3 id="pmTitle">Pay Rs 15,000 to confirm your slot</h3>
+    <div class="pm-step">
+      <b>1</b>
+      <div>
+        <strong>Transfer to our UBL account</strong>
+        <div class="pm-bank"><span class="bank">UBL</span><small>United Bank Limited</small></div>
+        <div class="payrow iban"><span>IBAN</span><b>PK UNIL 0109 0002 7171 8318</b><button type="button" class="cp" data-copy="PKUNIL0109000271718318">Copy</button></div>
+        <div class="payrow"><span>Amount</span><b>Rs 15,000</b></div>
+      </div>
+    </div>
+    <div class="pm-step">
+      <b>2</b>
+      <div>
+        <strong>Once paid, send the payment screenshot on WhatsApp</strong>
+        <div class="pm-num">0306 3336230</div>
+        <p>Message: <em>"I have paid the fee. Kindly add me to the group to get access."</em></p>
+        <a class="btn btn-wa" href="https://wa.me/923063336230?text=Assalam%20o%20Alaikum%2C%20I%20have%20paid%20the%20fee.%20Kindly%20add%20me%20to%20the%20group%20to%20get%20access.%20(Payment%20screenshot%20attached)" target="_blank" rel="noopener">Send screenshot on WhatsApp</a>
+      </div>
+    </div>
+    <p class="trust">🔒 Access is added after your payment is confirmed.</p>
+  </div>
+</div>
+<script>
+(function(){
+  var m=document.getElementById('payModal');if(!m)return;
+  function open(){m.hidden=false;document.documentElement.style.overflow='hidden';var c=document.getElementById('pmClose');c&&c.focus();}
+  function close(){m.hidden=true;document.documentElement.style.overflow='';}
+  document.querySelectorAll('[data-pay]').forEach(function(a){a.addEventListener('click',function(e){e.preventDefault();open();});});
+  document.getElementById('pmClose').addEventListener('click',close);
+  m.querySelectorAll('.cp').forEach(function(btn){btn.addEventListener('click',function(){
+    var t=btn.dataset.copy;function ok(){btn.textContent='Copied';setTimeout(function(){btn.textContent='Copy'},1500)}
+    function fb(){var ta=document.createElement('textarea');ta.value=t;document.body.appendChild(ta);ta.select();try{document.execCommand('copy');ok()}catch(e){btn.textContent='Select IBAN'}document.body.removeChild(ta)}
+    try{navigator.clipboard.writeText(t).then(ok,fb)}catch(e){fb()}
+  });});
+  m.addEventListener('click',function(e){if(e.target===m)close();});
+  document.addEventListener('keydown',function(e){if(e.key==='Escape'&&!m.hidden)close();});
 })();
 </script>
 </body></html>
