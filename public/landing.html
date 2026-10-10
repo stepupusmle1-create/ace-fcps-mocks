@@ -1063,7 +1063,7 @@ header.scrolled{background:rgba(255,255,255,.97)!important}
       <div class="pcard">
         <div class="ptop">
           <span class="eyebrow">FCPS Part 1 Program · Full access</span>
-          <div class="amount"><strong>Rs 15,000</strong><span>one-time payment</span></div>
+          <div class="amount"><strong>Rs 15,000</strong><span>one-time payment · 3 months</span></div>
           <div class="mini">
             <div><strong>85</strong><span>Days</span></div>
             <div><strong>200Q</strong><span>Grand mock</span></div>
@@ -1085,14 +1085,15 @@ header.scrolled{background:rgba(255,255,255,.97)!important}
             <li>Private WhatsApp Group</li>
             <li>2,000+ Students Helped</li>
           </ul>
-          <a class="btn btn-orange" href="#pay" data-pay>Enroll Now — Rs 15,000</a>
+          <a class="btn btn-orange" href="#pay" data-pay>Enroll Now — Rs 15,000 · 3 months</a>
           <a class="btn btn-outline" href="#schedule">See Full Schedule</a>
           <div class="pay" id="pay">
             <div class="payh"><span class="bank">UBL</span><div><strong>Pay by bank transfer</strong><small>United Bank Limited</small></div></div>
             <div class="payrow iban"><span>IBAN</span><b id="iban">PK UNIL 0109 0002 7171 8318</b><button type="button" class="cp" data-copy="PKUNIL0109000271718318">Copy</button></div>
             <div class="payrow"><span>Amount</span><b>Rs 15,000</b></div>
+            <div class="payrow"><span>Enrolment</span><b>3 months</b></div>
             <ol class="paysteps">
-              <li>Transfer <b>Rs 15,000</b> to the UBL account above.</li>
+              <li>Transfer <b>Rs 15,000</b> (3-month enrolment) to the UBL account above.</li>
               <li>Take a screenshot of the payment confirmation.</li>
               <li>Send it on WhatsApp to <b>0306 3336230</b> with the message: <em>"I have paid the fee. Kindly add me to the group to get access."</em></li>
             </ol>
@@ -1306,12 +1307,12 @@ header.scrolled{background:rgba(255,255,255,.97)!important}
     </div>
     <div class="faq">
       <details><summary><small>01</small>When does the next batch start?</summary><p>Batches start regularly and seats are limited. Message 0306 3336230 on WhatsApp for the next start date. The program runs about 3 months: a 60-day first pass and a 25-day grand review.</p></details>
-      <details><summary><small>02</small>What is included in the program?</summary><p>The 85-day schedule, nightly live classes, system-wise mocks, the 200-question Grand Mock, per-option explanations and score tracking. All for Rs 15,000.</p></details>
+      <details><summary><small>02</small>What is included in the program?</summary><p>The 85-day schedule, nightly live classes, system-wise mocks, the 200-question Grand Mock, per-option explanations and score tracking. All for Rs 15,000, for the 3-month program.</p></details>
       <details><summary><small>03</small>What time are the live classes?</summary><p>Every night from 10:00 to 11:30 PM, so you can attend after duty.</p></details>
       <details><summary><small>04</small>Which books do I need?</summary><p>BRS Physiology, First Aid, Pathoma, Snell's Anatomy, Rafi Ullah, AA Gynaecology, 10 Teachers and Latest SK. The schedule tells you which book to use for each chapter.</p></details>
       <details><summary><small>05</small>Are the mocks really free?</summary><p>Yes. System mocks, the Grand Mock, tutor mode and explanations are free on the platform, whether or not you join the program.</p></details>
-      <details><summary><small>06</small>How do I pay?</summary><p>Transfer Rs 15,000 to our United Bank Limited account, IBAN <b>PKUNIL0109000271718318</b>. Then send the payment screenshot on WhatsApp to 0306 3336230 with the message "I have paid the fee. Kindly add me to the group to get access." We'll add you to the group.</p></details>
-      <details><summary><small>07</small>How do I enroll?</summary><p>Pay Rs 15,000 to the UBL account shown in the pricing section, then send the screenshot to 0306 3336230 on WhatsApp. Once the payment is confirmed, you're added to the group and get access.</p></details>
+      <details><summary><small>06</small>How do I pay?</summary><p>Transfer Rs 15,000 (3-month enrolment) to our United Bank Limited account, IBAN <b>PKUNIL0109000271718318</b>. Then send the payment screenshot on WhatsApp to 0306 3336230 with the message "I have paid the fee. Kindly add me to the group to get access." We'll add you to the group.</p></details>
+      <details><summary><small>07</small>How do I enroll?</summary><p>Pay Rs 15,000 (3-month enrolment) to the UBL account shown in the payment details, then send the screenshot to 0306 3336230 on WhatsApp. Once the payment is confirmed, you're added to the group and get access.</p></details>
     </div>
   </div>
 </section>
@@ -1359,9 +1360,11 @@ header.scrolled{background:rgba(255,255,255,.97)!important}
   })});
   // main video: show placeholder until a real file loads
   var mv=document.getElementById('mainvid'),me=document.getElementById('mvempty'),mp=document.getElementById('mvplay');
-  mv.addEventListener('loadedmetadata',function(){me.hidden=true;mp.hidden=false});
+  mv.addEventListener('loadedmetadata',function(){me.hidden=true;mp.hidden=!mv.paused});
   mv.addEventListener('error',function(){me.hidden=false;mp.hidden=true});
-  mp.addEventListener('click',function(){var p=mv.play();if(p&&p.catch)p.catch(function(){})});
+  mp.addEventListener('click',function(){if(mv.paused){var p=mv.play();if(p&&p.catch)p.catch(function(){})}else{mv.pause()}});
+  mv.addEventListener('playing',function(){mp.hidden=true});
+  mv.addEventListener('ended',function(){mp.hidden=false});
   mv.addEventListener('play',function(){mp.hidden=true});
   mv.addEventListener('pause',function(){mp.hidden=false});
   // mock question demo
@@ -1822,7 +1825,7 @@ header.scrolled{background:rgba(255,255,255,.97)!important}
   <div class="pm-card">
     <button type="button" class="pm-x" id="pmClose" aria-label="Close payment details">✕</button>
     <span class="pill gold">Enroll · FCPS Part 1</span>
-    <h3 id="pmTitle">Pay Rs 15,000 to confirm your slot</h3>
+    <h3 id="pmTitle">Pay Rs 15,000 to enrol for 3 months</h3>
     <div class="pm-step">
       <b>1</b>
       <div>
@@ -1830,6 +1833,7 @@ header.scrolled{background:rgba(255,255,255,.97)!important}
         <div class="pm-bank"><span class="bank">UBL</span><small>United Bank Limited</small></div>
         <div class="payrow iban"><span>IBAN</span><b>PK UNIL 0109 0002 7171 8318</b><button type="button" class="cp" data-copy="PKUNIL0109000271718318">Copy</button></div>
         <div class="payrow"><span>Amount</span><b>Rs 15,000</b></div>
+        <div class="payrow"><span>Enrolment</span><b>3 months</b></div>
       </div>
     </div>
     <div class="pm-step">
@@ -1858,6 +1862,12 @@ header.scrolled{background:rgba(255,255,255,.97)!important}
   });});
   m.addEventListener('click',function(e){if(e.target===m)close();});
   document.addEventListener('keydown',function(e){if(e.key==='Escape'&&!m.hidden)close();});
+})();
+</script>
+<script>
+(function(){
+  var vids=[].slice.call(document.querySelectorAll('video'));
+  vids.forEach(function(v){v.addEventListener('play',function(){vids.forEach(function(o){if(o!==v&&!o.paused)o.pause();});});});
 })();
 </script>
 </body></html>
