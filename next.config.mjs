@@ -19,6 +19,7 @@ const nextConfig = {
       { source: "/explanations/:path*", headers: [{ key: "Cache-Control", value: day }] },
       { source: "/landing/tutors.json", headers: [{ key: "Cache-Control", value: "public, max-age=0, must-revalidate" }] },
       { source: "/landing/img/:path*", headers: [{ key: "Cache-Control", value: forever }] },
+      { source: "/landing/fonts/:path*", headers: [{ key: "Cache-Control", value: forever }] },
       { source: "/recall-img/:path*", headers: [{ key: "Cache-Control", value: forever }] },
     ];
   },
