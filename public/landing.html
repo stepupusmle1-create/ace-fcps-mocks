@@ -794,6 +794,17 @@ header.scrolled{background:rgba(255,255,255,.97)!important}
 .pm-bank small{color:var(--muted)}
 .pm-num{font-family:var(--mono);font-size:clamp(1.5rem,6vw,1.9rem);font-weight:500;letter-spacing:.04em;color:#c97a2b}
 .pm-step .btn{width:100%}
+
+/* ---------- big main button ---------- */
+.cta-main{display:grid;gap:14px;justify-items:start;width:100%;max-width:520px}
+.btn-main{width:100%;justify-content:center;padding:22px 30px;border-radius:18px;font-size:clamp(1.08rem,3.6vw,1.3rem);font-weight:700;letter-spacing:-.01em;color:#fff;background:linear-gradient(180deg,#f0a345,#c97a2b);box-shadow:0 0 0 1px rgba(255,255,255,.3) inset,0 18px 40px -12px rgba(201,122,43,.75),0 0 0 6px rgba(224,138,46,.14)}
+.btn-main span{font-size:1.3em;line-height:1}
+.btn-main:hover{box-shadow:0 0 0 1px rgba(255,255,255,.4) inset,0 24px 50px -12px rgba(201,122,43,.9),0 0 0 8px rgba(224,138,46,.2)}
+.cta-main small{font-size:.86rem;color:var(--muted);font-weight:500}
+
+/* ---------- header fit ---------- */
+.nav a,header .btn{white-space:nowrap}
+@media (max-width:1180px){.nav,.hide-sm{display:none}header .btn-orange{margin-left:auto}}
 </style>
 
 
@@ -831,9 +842,13 @@ header.scrolled{background:rgba(255,255,255,.97)!important}
       <h1>Stop Studying<span class="o">Randomly.</span></h1>
       <div class="underline"></div>
       <p class="sub">A complete system for FCPS Part 1. <b>Every chapter scheduled, every night a live class, every topic tested with exam-style mocks.</b></p>
-      <div class="row">
-        <a class="btn btn-green" href="#pay" data-pay>Register Your Slot →</a>
-        <a class="btn btn-outline" href="/exams">Try Mocks Free</a>
+      <div class="cta-main">
+        <a class="btn btn-main" href="/signup">Register Free — Mocks &amp; Recalls <span aria-hidden="true">→</span></a>
+        <small>No payment · No card · Free mocks and recalls for everyone</small>
+        <div class="row">
+          <a class="btn btn-green" href="#pay" data-pay>Enroll in the Program →</a>
+          <a class="btn btn-outline" href="/login">Log in</a>
+        </div>
       </div>
       <div class="stats">
         <div><strong>85</strong><span>Day plan</span></div>
@@ -942,7 +957,7 @@ header.scrolled{background:rgba(255,255,255,.97)!important}
     </div>
     <div class="wallcta" style="margin-top:40px"><div class="row" style="justify-content:center">
       <a class="btn btn-gold" href="#pay" data-pay>Register Your Slot →</a>
-      <a class="btn btn-ghostw" href="/exams">Try Mocks Free</a>
+      <a class="btn btn-ghostw" href="/signup">Register Free — Mocks &amp; Recalls</a>
     </div></div>
   </div>
 </section>
@@ -1289,7 +1304,7 @@ header.scrolled{background:rgba(255,255,255,.97)!important}
       <h2 style="font-size:clamp(1.6rem,3.4vw,2.4rem)">Your name could be on <span class="oi">this wall.</span></h2>
       <div class="row" style="justify-content:center">
         <a class="btn btn-orange" href="#pay" data-pay>Start FCPS Part 1 →</a>
-        <a class="btn btn-outline" href="/exams">Try Mocks Free</a>
+        <a class="btn btn-outline" href="/signup">Register Free — Mocks &amp; Recalls</a>
       </div>
     </div>
   </div>
@@ -1337,7 +1352,7 @@ header.scrolled{background:rgba(255,255,255,.97)!important}
       <div><strong>Ready to start your FCPS journey?</strong><p>Join 2,000+ candidates who study with structure and a real plan.</p></div>
       <div class="row">
         <a class="btn btn-gold" href="#pay" data-pay>Enroll in FCPS Part 1 →</a>
-        <a class="btn btn-ghostw" href="/exams">Try Mocks Free</a>
+        <a class="btn btn-ghostw" href="/signup">Register Free — Mocks &amp; Recalls</a>
       </div>
     </div>
     <div class="fbot"><span>© 2026 ACE FCPS by Dr Bilal. All rights reserved.</span><span>Built for FCPS candidates across Pakistan · Photos: Unsplash</span></div>
