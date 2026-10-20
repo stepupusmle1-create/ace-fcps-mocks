@@ -1,7 +1,7 @@
 [
  {
-  "systemSlug": "renal",
-  "topicSlug": "renal-physiology-acid-base",
+  "systemSlug": "cell-physiology",
+  "topicSlug": "cell-membrane-transport",
   "stem": "A lipid-soluble molecule crosses the plasma membrane primarily by:",
   "options": [
    "Carrier-mediated facilitated diffusion",
@@ -11,7 +11,7 @@
    "Secondary active transport"
   ],
   "correctIndex": 2,
-  "explanation": "A lipid-soluble molecule dissolves in the lipid bilayer and moves down its concentration gradient by simple diffusion; the rate rises with lipid solubility and the gradient, and the process is non-saturable and needs neither carrier nor energy (e.g., steroids, O2, CO2, ethanol). (First Aid — Renal: Transport and Physiology)",
+  "explanation": "A lipid-soluble molecule dissolves in the lipid bilayer and moves down its concentration gradient by simple diffusion; the rate rises with lipid solubility and the gradient, and the process is non-saturable and needs neither carrier nor energy (e.g., steroids, O2, CO2, ethanol). (First Aid — Biochemistry: Cell Biology & Membrane Physiology)",
   "optionExplanations": [
    "Carriers are needed only for polar or charged molecules that cannot dissolve in the bilayer.",
    "Endocytosis moves large particles or ligand-bound receptors (e.g., LDL, transferrin), not small lipophilic molecules.",
@@ -23,8 +23,8 @@
   "isRecall": false
  },
  {
-  "systemSlug": "renal",
-  "topicSlug": "renal-physiology-acid-base",
+  "systemSlug": "cell-physiology",
+  "topicSlug": "cell-membrane-transport",
   "stem": "Which membrane component contributes most to membrane fluidity at physiologic temperature?",
   "options": [
    "Glycolipids",
@@ -34,7 +34,7 @@
    "Actin"
   ],
   "correctIndex": 1,
-  "explanation": "Cholesterol sits between phospholipid tails and is the main modulator of fluidity: it restrains phospholipid movement at body temperature (making the membrane less fluid) and prevents tight packing and solidification at lower temperatures, so it is the key fluidity regulator. (First Aid — Renal: Transport and Physiology)",
+  "explanation": "Cholesterol sits between phospholipid tails and is the main modulator of fluidity: it restrains phospholipid movement at body temperature (making the membrane less fluid) and prevents tight packing and solidification at lower temperatures, so it is the key fluidity regulator. (First Aid — Biochemistry: Cell Biology & Membrane Physiology)",
   "optionExplanations": [
    "Glycolipids sit in the outer leaflet and are involved in cell recognition and blood-group antigens, not fluidity.",
    "",
@@ -46,8 +46,8 @@
   "isRecall": false
  },
  {
-  "systemSlug": "renal",
-  "topicSlug": "renal-physiology-acid-base",
+  "systemSlug": "cell-physiology",
+  "topicSlug": "cell-membrane-transport",
   "stem": "A transporter exhibits saturation kinetics and competition between structurally similar molecules. This transport is best described as:",
   "options": [
    "Osmosis",
@@ -57,7 +57,7 @@
    "Bulk flow"
   ],
   "correctIndex": 2,
-  "explanation": "Saturation (a maximum transport rate, Vmax) and competition between structurally related substrates are the hallmarks of carrier-mediated transport; if no ATP or ion gradient is used and movement is down the gradient, it is facilitated diffusion (e.g., GLUT1, GLUT4). (First Aid — Renal: Transport and Physiology)",
+  "explanation": "Saturation (a maximum transport rate, Vmax) and competition between structurally related substrates are the hallmarks of carrier-mediated transport; if no ATP or ion gradient is used and movement is down the gradient, it is facilitated diffusion (e.g., GLUT1, GLUT4). (First Aid — Biochemistry: Cell Biology & Membrane Physiology)",
   "optionExplanations": [
    "Osmosis is passive water movement across a semipermeable membrane and shows no substrate saturation.",
    "Simple diffusion is linear with the gradient; it never saturates and shows no competition.",
@@ -69,8 +69,8 @@
   "isRecall": false
  },
  {
-  "systemSlug": "renal",
-  "topicSlug": "renal-physiology-acid-base",
+  "systemSlug": "cell-physiology",
+  "topicSlug": "cell-membrane-transport",
   "stem": "Which statement best distinguishes facilitated diffusion from primary active transport?",
   "options": [
    "Facilitated diffusion requires ATP.",
@@ -80,7 +80,7 @@
    "Facilitated diffusion occurs only in epithelial cells."
   ],
   "correctIndex": 2,
-  "explanation": "Facilitated diffusion uses a carrier protein but follows the electrochemical gradient with no ATP, so it is saturable and passive. Primary active transport uses ATP directly and can move solute against its gradient. (First Aid — Renal: Transport and Physiology)",
+  "explanation": "Facilitated diffusion uses a carrier protein but follows the electrochemical gradient with no ATP, so it is saturable and passive. Primary active transport uses ATP directly and can move solute against its gradient. (First Aid — Biochemistry: Cell Biology & Membrane Physiology)",
   "optionExplanations": [
    "ATP use defines primary active transport, not facilitated diffusion.",
    "Movement against a gradient is active transport; facilitated diffusion moves solute only downhill.",
@@ -92,8 +92,8 @@
   "isRecall": false
  },
  {
-  "systemSlug": "renal",
-  "topicSlug": "renal-physiology-acid-base",
+  "systemSlug": "cell-physiology",
+  "topicSlug": "cell-membrane-transport",
   "stem": "The Na+/K+-ATPase transports:",
   "options": [
    "2 Na+ into cell, 3 K+ out",
@@ -103,7 +103,7 @@
    "Na+ only"
   ],
   "correctIndex": 2,
-  "explanation": "The Na+/K+-ATPase pumps 3 Na+ out and 2 K+ in for every ATP. It is therefore electrogenic (net loss of one positive charge per cycle, adding a few millivolts to the negative resting potential) and keeps intracellular Na+ low and K+ high. It is the target of digoxin and ouabain. (First Aid — Renal: Transport and Physiology)",
+  "explanation": "The Na+/K+-ATPase pumps 3 Na+ out and 2 K+ in for every ATP. It is therefore electrogenic (net loss of one positive charge per cycle, adding a few millivolts to the negative resting potential) and keeps intracellular Na+ low and K+ high. It is the target of digoxin and ouabain. (First Aid — Biochemistry: Cell Biology & Membrane Physiology)",
   "optionExplanations": [
    "The directions are reversed; Na+ leaves the cell and K+ enters.",
    "Na+ moves out, not in, and the ratio is 3:2.",
@@ -115,8 +115,8 @@
   "isRecall": false
  },
  {
-  "systemSlug": "renal",
-  "topicSlug": "renal-physiology-acid-base",
+  "systemSlug": "cell-physiology",
+  "topicSlug": "cell-membrane-transport",
   "stem": "Inhibition of Na+/K+-ATPase immediately decreases:",
   "options": [
    "Intracellular sodium",
@@ -126,7 +126,7 @@
    "Cell surface area"
   ],
   "correctIndex": 2,
-  "explanation": "The pump is what maintains the sodium gradient. When it is inhibited (digoxin, ouabain, ischemia) the Na+ gradient gradually dissipates because Na+ leaks in and K+ leaks out, which also removes the driving force for secondary active transporters (Na+/Ca2+ exchanger, SGLT, NKCC). (First Aid — Renal: Transport and Physiology)",
+  "explanation": "The pump is what maintains the sodium gradient. When it is inhibited (digoxin, ouabain, ischemia) the Na+ gradient gradually dissipates because Na+ leaks in and K+ leaks out, which also removes the driving force for secondary active transporters (Na+/Ca2+ exchanger, SGLT, NKCC). (First Aid — Biochemistry: Cell Biology & Membrane Physiology)",
   "optionExplanations": [
    "Intracellular Na+ rises, it does not fall, when the pump is blocked.",
    "Capacitance depends on the lipid bilayer's thickness and area; it is not changed by pump inhibition.",
@@ -161,8 +161,8 @@
   "isRecall": false
  },
  {
-  "systemSlug": "renal",
-  "topicSlug": "renal-physiology-acid-base",
+  "systemSlug": "cell-physiology",
+  "topicSlug": "cell-membrane-transport",
   "stem": "Which transporter is an example of secondary active transport?",
   "options": [
    "Ca2+ ATPase",
@@ -172,7 +172,7 @@
    "Aquaporin"
   ],
   "correctIndex": 3,
-  "explanation": "The Na+/Ca2+ exchanger moves 3 Na+ into the cell while extruding 1 Ca2+, using the energy stored in the Na+ gradient, so it is secondary active transport (this is also why digoxin raises intracellular Ca2+ in cardiac muscle). (First Aid — Renal: Transport and Physiology)",
+  "explanation": "The Na+/Ca2+ exchanger moves 3 Na+ into the cell while extruding 1 Ca2+, using the energy stored in the Na+ gradient, so it is secondary active transport (this is also why digoxin raises intracellular Ca2+ in cardiac muscle). (First Aid — Biochemistry: Cell Biology & Membrane Physiology)",
   "optionExplanations": [
    "The Ca2+-ATPase uses ATP directly: primary active transport.",
    "The H+-ATPase (proton pump) is also primary active transport.",
@@ -184,8 +184,8 @@
   "isRecall": false
  },
  {
-  "systemSlug": "renal",
-  "topicSlug": "renal-physiology-acid-base",
+  "systemSlug": "cell-physiology",
+  "topicSlug": "cell-membrane-transport",
   "stem": "Which process is least likely to exhibit saturation kinetics?",
   "options": [
    "Facilitated diffusion",
@@ -195,7 +195,7 @@
    "Simple diffusion"
   ],
   "correctIndex": 4,
-  "explanation": "Simple diffusion depends on the gradient and lipid solubility and has no carrier, so it can never saturate; the other processes involve a finite number of carriers or receptors and show Vmax. (First Aid — Renal: Transport and Physiology)",
+  "explanation": "Simple diffusion depends on the gradient and lipid solubility and has no carrier, so it can never saturate; the other processes involve a finite number of carriers or receptors and show Vmax. (First Aid — Biochemistry: Cell Biology & Membrane Physiology)",
   "optionExplanations": [
    "Carriers saturate when all binding sites are occupied.",
    "A fixed number of pump molecules gives a maximum rate.",
@@ -207,8 +207,8 @@
   "isRecall": false
  },
  {
-  "systemSlug": "renal",
-  "topicSlug": "renal-physiology-acid-base",
+  "systemSlug": "cell-physiology",
+  "topicSlug": "cell-osmosis-tonicity",
   "stem": "Water movement across a membrane is determined primarily by:",
   "options": [
    "Electrical gradient",
@@ -218,7 +218,7 @@
    "Protein concentration inside the cell"
   ],
   "correctIndex": 1,
-  "explanation": "Across cell membranes, water moves passively through the lipid bilayer and aquaporins along the osmotic gradient (from lower to higher solute concentration), and movement continues until the osmotic gradient is dissipated. (First Aid — Renal: Transport and Physiology)",
+  "explanation": "Across cell membranes, water moves passively through the lipid bilayer and aquaporins along the osmotic gradient (from lower to higher solute concentration), and movement continues until the osmotic gradient is dissipated. (First Aid — Biochemistry: Cell Biology & Membrane Physiology)",
   "optionExplanations": [
    "Water is uncharged, so an electrical gradient does not drive it.",
    "",
@@ -230,8 +230,8 @@
   "isRecall": false
  },
  {
-  "systemSlug": "renal",
-  "topicSlug": "electrolyte-disorders",
+  "systemSlug": "cell-physiology",
+  "topicSlug": "cell-osmosis-tonicity",
   "stem": "A red blood cell placed in a hypotonic solution will:",
   "options": [
    "Shrink",
@@ -241,7 +241,7 @@
    "Become crenated"
   ],
   "correctIndex": 2,
-  "explanation": "In a hypotonic solution the extracellular osmolality is lower than inside, so water enters by osmosis. The red cell swells and may lyse (as in water intoxication or hypotonic hemolysis). (First Aid — Renal: Electrolytes and Tonicity)",
+  "explanation": "In a hypotonic solution the extracellular osmolality is lower than inside, so water enters by osmosis. The red cell swells and may lyse (as in water intoxication or hypotonic hemolysis). (First Aid — Biochemistry: Cell Biology & Membrane Physiology)",
   "optionExplanations": [
    "Cells shrink in a hypertonic solution.",
    "Constant volume is expected in an isotonic solution (e.g., 0.9% saline).",
@@ -253,8 +253,8 @@
   "isRecall": false
  },
  {
-  "systemSlug": "renal",
-  "topicSlug": "renal-physiology-acid-base",
+  "systemSlug": "cell-physiology",
+  "topicSlug": "cell-osmosis-tonicity",
   "stem": "Reflection coefficient (σ) equals 1 when:",
   "options": [
    "Solute crosses membrane freely",
@@ -264,7 +264,7 @@
    "Diffusion coefficient is maximal"
   ],
   "correctIndex": 2,
-  "explanation": "The reflection coefficient (σ) measures how well a membrane holds back a solute. At σ = 1 the solute cannot cross, so it exerts its full osmotic effect (effective osmole, e.g., albumin, mannitol, Na+ in cells), whereas σ = 0 means the solute crosses freely and exerts no osmotic effect (e.g., urea in most cells). (First Aid — Renal: Transport and Physiology)",
+  "explanation": "The reflection coefficient (σ) measures how well a membrane holds back a solute. At σ = 1 the solute cannot cross, so it exerts its full osmotic effect (effective osmole, e.g., albumin, mannitol, Na+ in cells), whereas σ = 0 means the solute crosses freely and exerts no osmotic effect (e.g., urea in most cells). (First Aid — Biochemistry: Cell Biology & Membrane Physiology)",
   "optionExplanations": [
    "A freely permeable solute has σ close to 0.",
    "σ describes a solute's permeability, not water's.",
@@ -276,8 +276,8 @@
   "isRecall": false
  },
  {
-  "systemSlug": "renal",
-  "topicSlug": "electrolyte-disorders",
+  "systemSlug": "cell-physiology",
+  "topicSlug": "cell-osmosis-tonicity",
   "stem": "Which solution is iso-osmotic but hypotonic?",
   "options": [
    "Normal saline",
@@ -287,7 +287,7 @@
    "Albumin solution"
   ],
   "correctIndex": 1,
-  "explanation": "5% dextrose in water is iso-osmolar (about 278 mOsm/L) but glucose is rapidly taken up and metabolized, leaving free water. It behaves as a hypotonic fluid in vivo (it is used to correct hypernatremia and can precipitate hyponatremia and cerebral edema if overused). (First Aid — Renal: Electrolytes and Tonicity)",
+  "explanation": "5% dextrose in water is iso-osmolar (about 278 mOsm/L) but glucose is rapidly taken up and metabolized, leaving free water. It behaves as a hypotonic fluid in vivo (it is used to correct hypernatremia and can precipitate hyponatremia and cerebral edema if overused). (First Aid — Biochemistry: Cell Biology & Membrane Physiology)",
   "optionExplanations": [
    "0.9% saline is both iso-osmotic and isotonic; it stays in the ECF.",
    "",
@@ -322,8 +322,8 @@
   "isRecall": false
  },
  {
-  "systemSlug": "renal",
-  "topicSlug": "electrolyte-disorders",
+  "systemSlug": "cell-physiology",
+  "topicSlug": "cell-membrane-potential",
   "stem": "The major intracellular cation is:",
   "options": [
    "Sodium",
@@ -333,7 +333,7 @@
    "Chloride"
   ],
   "correctIndex": 1,
-  "explanation": "Potassium (about 140 mEq/L) is the major intracellular cation, kept inside by the Na+/K+-ATPase, whereas sodium is the major extracellular cation. (First Aid — Renal: Electrolytes and Tonicity)",
+  "explanation": "Potassium (about 140 mEq/L) is the major intracellular cation, kept inside by the Na+/K+-ATPase, whereas sodium is the major extracellular cation. (First Aid — Biochemistry: Cell Biology & Membrane Physiology)",
   "optionExplanations": [
    "Sodium is the principal ECF cation (about 140 mEq/L outside, around 10–15 inside).",
    "",
@@ -345,8 +345,8 @@
   "isRecall": false
  },
  {
-  "systemSlug": "nervous-system",
-  "topicSlug": "neurophysiology",
+  "systemSlug": "cell-physiology",
+  "topicSlug": "cell-membrane-potential",
   "stem": "Resting membrane potential depends most directly on:",
   "options": [
    "Calcium permeability",
@@ -356,7 +356,7 @@
    "Bicarbonate permeability"
   ],
   "correctIndex": 1,
-  "explanation": "The resting membrane potential (about −70 to −90 mV) is set mainly by K+ leak channels: K+ permeability is highest at rest, so the resting potential lies close to the potassium equilibrium potential. (First Aid — Neurology: Neurophysiology)",
+  "explanation": "The resting membrane potential (about −70 to −90 mV) is set mainly by K+ leak channels: K+ permeability is highest at rest, so the resting potential lies close to the potassium equilibrium potential. (First Aid — Biochemistry: Cell Biology & Membrane Physiology)",
   "optionExplanations": [
    "Ca2+ permeability is very low at rest.",
    "",
@@ -368,8 +368,8 @@
   "isRecall": false
  },
  {
-  "systemSlug": "renal",
-  "topicSlug": "electrolyte-disorders",
+  "systemSlug": "cell-physiology",
+  "topicSlug": "cell-membrane-potential",
   "stem": "Increasing extracellular potassium causes resting membrane potential to become:",
   "options": [
    "More negative",
@@ -379,7 +379,7 @@
    "Zero"
   ],
   "correctIndex": 1,
-  "explanation": "Raising extracellular K+ shrinks the K+ concentration gradient, which makes EK less negative and so makes the resting potential less negative (depolarization). This is why hyperkalemia produces peaked T waves and may lead to cardiac arrest. (First Aid — Renal: Electrolytes and Tonicity)",
+  "explanation": "Raising extracellular K+ shrinks the K+ concentration gradient, which makes EK less negative and so makes the resting potential less negative (depolarization). This is why hyperkalemia produces peaked T waves and may lead to cardiac arrest. (First Aid — Biochemistry: Cell Biology & Membrane Physiology)",
   "optionExplanations": [
    "More negative would follow a drop in extracellular K+ (hypokalemia).",
    "",
@@ -391,8 +391,8 @@
   "isRecall": false
  },
  {
-  "systemSlug": "nervous-system",
-  "topicSlug": "neurophysiology",
+  "systemSlug": "cell-physiology",
+  "topicSlug": "cell-membrane-potential",
   "stem": "The equilibrium potential for an ion depends primarily upon:",
   "options": [
    "ATP concentration",
@@ -402,7 +402,7 @@
    "Membrane capacitance"
   ],
   "correctIndex": 1,
-  "explanation": "The Nernst equation, E = (61/z) log([ion]out/[ion]in) at 37 °C, shows that the equilibrium potential for an ion is set by its concentration gradient and charge. (First Aid — Neurology: Neurophysiology)",
+  "explanation": "The Nernst equation, E = (61/z) log([ion]out/[ion]in) at 37 °C, shows that the equilibrium potential for an ion is set by its concentration gradient and charge. (First Aid — Biochemistry: Cell Biology & Membrane Physiology)",
   "optionExplanations": [
    "ATP does not enter the Nernst equation, though the pump helps maintain the gradients.",
    "",
@@ -414,8 +414,8 @@
   "isRecall": false
  },
  {
-  "systemSlug": "nervous-system",
-  "topicSlug": "neurophysiology",
+  "systemSlug": "cell-physiology",
+  "topicSlug": "cell-membrane-potential",
   "stem": "Which ion has the greatest influence on resting membrane potential?",
   "options": [
    "Calcium",
@@ -425,7 +425,7 @@
    "Magnesium"
   ],
   "correctIndex": 3,
-  "explanation": "K+ has the greatest influence because the resting membrane is far more permeable to K+ than to other ions, so Vm lies near EK (as the GHK equation predicts). (First Aid — Neurology: Neurophysiology)",
+  "explanation": "K+ has the greatest influence because the resting membrane is far more permeable to K+ than to other ions, so Vm lies near EK (as the GHK equation predicts). (First Aid — Biochemistry: Cell Biology & Membrane Physiology)",
   "optionExplanations": [
    "Ca2+ is effectively impermeant at rest.",
    "Na+ has a large electrochemical gradient, but at rest its permeability is small, so it contributes slightly.",
@@ -437,8 +437,8 @@
   "isRecall": false
  },
  {
-  "systemSlug": "nervous-system",
-  "topicSlug": "neurophysiology",
+  "systemSlug": "cell-physiology",
+  "topicSlug": "cell-action-potential",
   "stem": "During rapid depolarization of an action potential:",
   "options": [
    "Voltage-gated potassium channels open first",
@@ -448,7 +448,7 @@
    "Sodium pump becomes faster"
   ],
   "correctIndex": 1,
-  "explanation": "The upstroke of the action potential is due to the rapid opening of voltage-gated Na+ channels, a dramatic rise in Na+ permeability (positive feedback), and Na+ influx that drives the potential toward ENa (about +60 mV). (First Aid — Neurology: Neurophysiology)",
+  "explanation": "The upstroke of the action potential is due to the rapid opening of voltage-gated Na+ channels, a dramatic rise in Na+ permeability (positive feedback), and Na+ influx that drives the potential toward ENa (about +60 mV). (First Aid — Biochemistry: Cell Biology & Membrane Physiology)",
   "optionExplanations": [
    "Voltage-gated K+ channels open later (slow, delayed) and cause repolarization.",
    "",
@@ -460,8 +460,8 @@
   "isRecall": false
  },
  {
-  "systemSlug": "nervous-system",
-  "topicSlug": "neurophysiology",
+  "systemSlug": "cell-physiology",
+  "topicSlug": "cell-action-potential",
   "stem": "The absolute refractory period is caused primarily by:",
   "options": [
    "Potassium channel closure",
@@ -471,7 +471,7 @@
    "Na+/K+ ATPase activation"
   ],
   "correctIndex": 1,
-  "explanation": "Absolute refractory period reflects Na+ channel inactivation (the h-gate closes after depolarization). No stimulus, however strong, can open the inactivated channels until the membrane repolarizes. It limits the maximum firing frequency and ensures one-way propagation. (First Aid — Neurology: Neurophysiology)",
+  "explanation": "Absolute refractory period reflects Na+ channel inactivation (the h-gate closes after depolarization). No stimulus, however strong, can open the inactivated channels until the membrane repolarizes. It limits the maximum firing frequency and ensures one-way propagation. (First Aid — Biochemistry: Cell Biology & Membrane Physiology)",
   "optionExplanations": [
    "K+ channels opening (not closing) cause repolarization and relative refractoriness.",
    "",
@@ -483,8 +483,8 @@
   "isRecall": false
  },
  {
-  "systemSlug": "renal",
-  "topicSlug": "electrolyte-disorders",
+  "systemSlug": "cell-physiology",
+  "topicSlug": "cell-membrane-potential",
   "stem": "Hyperkalemia is most likely to:",
   "options": [
    "Increase action potential amplitude indefinitely",
@@ -494,7 +494,7 @@
    "Increase intracellular calcium directly"
   ],
   "correctIndex": 1,
-  "explanation": "Hyperkalemia raises extracellular K+, reducing the K+ gradient so the resting potential is depolarized. Prolonged depolarization inactivates Na+ channels, impairing excitability (ECG changes, muscle weakness, arrhythmia). (First Aid — Renal: Electrolytes and Tonicity)",
+  "explanation": "Hyperkalemia raises extracellular K+, reducing the K+ gradient so the resting potential is depolarized. Prolonged depolarization inactivates Na+ channels, impairing excitability (ECG changes, muscle weakness, arrhythmia). (First Aid — Biochemistry: Cell Biology & Membrane Physiology)",
   "optionExplanations": [
    "Amplitude of the action potential falls as Na+ channels inactivate.",
    "",
@@ -506,8 +506,8 @@
   "isRecall": false
  },
  {
-  "systemSlug": "nervous-system",
-  "topicSlug": "neurophysiology",
+  "systemSlug": "cell-physiology",
+  "topicSlug": "cell-action-potential",
   "stem": "Which event occurs during repolarization?",
   "options": [
    "Opening of ligand-gated sodium channels",
@@ -517,7 +517,7 @@
    "ATP depletion"
   ],
   "correctIndex": 2,
-  "explanation": "During repolarization, voltage-gated K+ channels open (K+ conductance rises) and K+ flows out of the cell, while Na+ channels inactivate, returning the potential toward the resting level. (First Aid — Neurology: Neurophysiology)",
+  "explanation": "During repolarization, voltage-gated K+ channels open (K+ conductance rises) and K+ flows out of the cell, while Na+ channels inactivate, returning the potential toward the resting level. (First Aid — Biochemistry: Cell Biology & Membrane Physiology)",
   "optionExplanations": [
    "Ligand-gated Na+ channels belong to the neuromuscular junction and are not part of the axonal action potential.",
    "K+ channels open, not close, during repolarization.",
@@ -575,8 +575,8 @@
   "isRecall": false
  },
  {
-  "systemSlug": "renal",
-  "topicSlug": "electrolyte-disorders",
+  "systemSlug": "cell-physiology",
+  "topicSlug": "cell-membrane-potential",
   "stem": "A decrease in extracellular potassium concentration produces which immediate effect on skeletal muscle?",
   "options": [
    "Depolarization of the membrane",
@@ -586,7 +586,7 @@
    "Increased resting potassium conductance"
   ],
   "correctIndex": 1,
-  "explanation": "Lowering extracellular K+ steepens the K+ gradient, making EK more negative, so the membrane hyperpolarizes. Hypokalemia therefore causes muscle weakness, cramps and, in severe cases, paralysis because it is harder to reach threshold. (First Aid — Renal: Electrolytes and Tonicity)",
+  "explanation": "Lowering extracellular K+ steepens the K+ gradient, making EK more negative, so the membrane hyperpolarizes. Hypokalemia therefore causes muscle weakness, cramps and, in severe cases, paralysis because it is harder to reach threshold. (First Aid — Biochemistry: Cell Biology & Membrane Physiology)",
   "optionExplanations": [
    "Depolarization occurs when extracellular K+ rises.",
    "",
@@ -598,8 +598,8 @@
   "isRecall": false
  },
  {
-  "systemSlug": "nervous-system",
-  "topicSlug": "neurophysiology",
+  "systemSlug": "cell-physiology",
+  "topicSlug": "cell-membrane-potential",
   "stem": "Which ion contributes least to the resting membrane potential under normal physiologic conditions?",
   "options": [
    "K+",
@@ -609,7 +609,7 @@
    "HCO3−"
   ],
   "correctIndex": 3,
-  "explanation": "Under normal conditions the membrane is almost impermeant to Ca2+ and Ca2+ has a tiny intracellular concentration, so it contributes least to the resting potential; K+ contributes most, then Na+ and Cl-. (First Aid — Neurology: Neurophysiology)",
+  "explanation": "Under normal conditions the membrane is almost impermeant to Ca2+ and Ca2+ has a tiny intracellular concentration, so it contributes least to the resting potential; K+ contributes most, then Na+ and Cl-. (First Aid — Biochemistry: Cell Biology & Membrane Physiology)",
   "optionExplanations": [
    "K+ contributes the most (high resting permeability).",
    "Na+ makes a small contribution through leak channels.",
@@ -621,8 +621,8 @@
   "isRecall": false
  },
  {
-  "systemSlug": "nervous-system",
-  "topicSlug": "neurophysiology",
+  "systemSlug": "cell-physiology",
+  "topicSlug": "cell-membrane-potential",
   "stem": "The Goldman-Hodgkin-Katz equation differs from the Nernst equation because it:",
   "options": [
    "Applies only to potassium",
@@ -632,7 +632,7 @@
    "Applies only during action potentials"
   ],
   "correctIndex": 1,
-  "explanation": "The Nernst equation gives the equilibrium potential of a single ion, whereas the Goldman-Hodgkin-Katz (GHK) equation calculates the membrane potential when several ions (Na+, K+, Cl-) are permeable, weighting each by its permeability. (First Aid — Neurology: Neurophysiology)",
+  "explanation": "The Nernst equation gives the equilibrium potential of a single ion, whereas the Goldman-Hodgkin-Katz (GHK) equation calculates the membrane potential when several ions (Na+, K+, Cl-) are permeable, weighting each by its permeability. (First Aid — Biochemistry: Cell Biology & Membrane Physiology)",
   "optionExplanations": [
    "GHK is not limited to K+.",
    "",
@@ -644,8 +644,8 @@
   "isRecall": false
  },
  {
-  "systemSlug": "renal",
-  "topicSlug": "electrolyte-disorders",
+  "systemSlug": "cell-physiology",
+  "topicSlug": "cell-membrane-potential",
   "stem": "The equilibrium potential for potassium becomes more negative when:",
   "options": [
    "Extracellular K+ increases",
@@ -655,7 +655,7 @@
    "Calcium permeability increases"
   ],
   "correctIndex": 2,
-  "explanation": "EK = 61 log([K]o/[K]i); lowering extracellular K+ makes the ratio smaller and EK more negative. (First Aid — Renal: Electrolytes and Tonicity)",
+  "explanation": "EK = 61 log([K]o/[K]i); lowering extracellular K+ makes the ratio smaller and EK more negative. (First Aid — Biochemistry: Cell Biology & Membrane Physiology)",
   "optionExplanations": [
    "Raising extracellular K+ makes EK less negative.",
    "Lowering intracellular K+ also makes EK less negative.",
@@ -667,8 +667,8 @@
   "isRecall": false
  },
  {
-  "systemSlug": "nervous-system",
-  "topicSlug": "neurophysiology",
+  "systemSlug": "cell-physiology",
+  "topicSlug": "cell-membrane-potential",
   "stem": "If membrane permeability to sodium suddenly equals permeability to potassium, membrane potential will:",
   "options": [
    "Approach sodium equilibrium potential",
@@ -678,7 +678,7 @@
    "Equal chloride equilibrium potential"
   ],
   "correctIndex": 0,
-  "explanation": "When PNa equals PK, GHK weights both ions equally: the potential moves away from EK (about −90 mV) toward ENa (about +60 mV) and settles near the middle (close to 0 mV). Of the options offered, the potential moves toward ENa (depolarizes massively). This is the same principle as the action-potential upstroke, when PNa greatly exceeds PK and Vm approaches ENa. (First Aid — Neurology: Neurophysiology)",
+  "explanation": "When PNa equals PK, GHK weights both ions equally: the potential moves away from EK (about −90 mV) toward ENa (about +60 mV) and settles near the middle (close to 0 mV). Of the options offered, the potential moves toward ENa (depolarizes massively). This is the same principle as the action-potential upstroke, when PNa greatly exceeds PK and Vm approaches ENa. (First Aid — Biochemistry: Cell Biology & Membrane Physiology)",
   "optionExplanations": [
    "",
    "More negative than EK is impossible; Vm can never be more negative than the most negative equilibrium potential.",
@@ -713,8 +713,8 @@
   "isRecall": false
  },
  {
-  "systemSlug": "nervous-system",
-  "topicSlug": "neurophysiology",
+  "systemSlug": "cell-physiology",
+  "topicSlug": "cell-action-potential",
   "stem": "During the relative refractory period:",
   "options": [
    "No action potential can occur",
@@ -724,7 +724,7 @@
    "Resting membrane potential is unchanged"
   ],
   "correctIndex": 2,
-  "explanation": "During the relative refractory period, some Na+ channels have recovered but K+ channels are still open (after-hyperpolarization), so the cell is further from threshold and needs a stronger-than-normal stimulus to fire. (First Aid — Neurology: Neurophysiology)",
+  "explanation": "During the relative refractory period, some Na+ channels have recovered but K+ channels are still open (after-hyperpolarization), so the cell is further from threshold and needs a stronger-than-normal stimulus to fire. (First Aid — Biochemistry: Cell Biology & Membrane Physiology)",
   "optionExplanations": [
    "This describes the absolute refractory period.",
    "Most Na+ channels have recovered from inactivation by now.",
@@ -1725,8 +1725,8 @@
   "isRecall": false
  },
  {
-  "systemSlug": "nervous-system",
-  "topicSlug": "neurophysiology",
+  "systemSlug": "cell-physiology",
+  "topicSlug": "cell-action-potential",
   "stem": "A mutation causes voltage-gated Na+ channels to remain in the inactivated state longer than normal. Which effect is expected?",
   "options": [
    "Faster conduction velocity",
@@ -1736,7 +1736,7 @@
    "Increased neurotransmitter release"
   ],
   "correctIndex": 2,
-  "explanation": "If Na+ channels stay inactivated longer, they take longer to recover, so the absolute refractory period is prolonged. The neuron fires at a lower maximum frequency and may fail to propagate impulses (as seen in some channelopathies and with drugs such as phenytoin, carbamazepine and lamotrigine that prolong inactivation). (First Aid — Neurology: Neurophysiology)",
+  "explanation": "If Na+ channels stay inactivated longer, they take longer to recover, so the absolute refractory period is prolonged. The neuron fires at a lower maximum frequency and may fail to propagate impulses (as seen in some channelopathies and with drugs such as phenytoin, carbamazepine and lamotrigine that prolong inactivation). (First Aid — Biochemistry: Cell Biology & Membrane Physiology)",
   "optionExplanations": [
    "Conduction velocity would be slower, not faster, because fewer Na+ channels are available.",
    "A longer inactivation lengthens the refractory period.",
@@ -1771,8 +1771,8 @@
   "isRecall": false
  },
  {
-  "systemSlug": "renal",
-  "topicSlug": "renal-physiology-acid-base",
+  "systemSlug": "cell-physiology",
+  "topicSlug": "cell-membrane-transport",
   "stem": "Inhibition of the Na+/K+-ATPase ultimately increases intracellular:",
   "options": [
    "K+",
@@ -1782,7 +1782,7 @@
    "HCO3−"
   ],
   "correctIndex": 1,
-  "explanation": "Blocking the Na+/K+-ATPase leaves Na+ unpumped, so intracellular Na+ rises (K+ falls); this reduces the Na+ gradient, causes cell swelling, and in cardiac muscle raises intracellular Ca2+ through the Na+/Ca2+ exchanger. (First Aid — Renal: Transport and Physiology)",
+  "explanation": "Blocking the Na+/K+-ATPase leaves Na+ unpumped, so intracellular Na+ rises (K+ falls); this reduces the Na+ gradient, causes cell swelling, and in cardiac muscle raises intracellular Ca2+ through the Na+/Ca2+ exchanger. (First Aid — Biochemistry: Cell Biology & Membrane Physiology)",
   "optionExplanations": [
    "Intracellular K+ falls when the pump is inhibited.",
    "",
@@ -1794,8 +1794,8 @@
   "isRecall": false
  },
  {
-  "systemSlug": "gastrointestinal",
-  "topicSlug": "gi-physiology",
+  "systemSlug": "cell-physiology",
+  "topicSlug": "cell-membrane-transport",
   "stem": "Which transport mechanism is capable of moving glucose against its concentration gradient?",
   "options": [
    "Simple diffusion",
@@ -1805,7 +1805,7 @@
    "Osmosis"
   ],
   "correctIndex": 2,
-  "explanation": "Na+-glucose cotransport (SGLT1 in the intestine, SGLT2 in the proximal tubule) uses the energy of the Na+ gradient to move glucose against its own gradient: secondary active transport. SGLT2 inhibitors (empagliflozin, dapagliflozin) act on this transporter. (First Aid — Gastrointestinal: Physiology)",
+  "explanation": "Na+-glucose cotransport (SGLT1 in the intestine, SGLT2 in the proximal tubule) uses the energy of the Na+ gradient to move glucose against its own gradient: secondary active transport. SGLT2 inhibitors (empagliflozin, dapagliflozin) act on this transporter. (First Aid — Biochemistry: Cell Biology & Membrane Physiology)",
   "optionExplanations": [
    "Simple diffusion can only move glucose down its gradient.",
    "GLUT4 is facilitated diffusion, so only downhill.",
@@ -1817,8 +1817,8 @@
   "isRecall": false
  },
  {
-  "systemSlug": "renal",
-  "topicSlug": "electrolyte-disorders",
+  "systemSlug": "cell-physiology",
+  "topicSlug": "cell-osmosis-tonicity",
   "stem": "If extracellular osmolarity suddenly doubles due to addition of impermeant solute, cells initially:",
   "options": [
    "Swell",
@@ -1828,7 +1828,7 @@
    "Depolarize immediately"
   ],
   "correctIndex": 1,
-  "explanation": "If the extracellular fluid becomes hyperosmotic through impermeant solute, water moves out of the cell by osmosis and the cell initially shrinks (crenation). (First Aid — Renal: Electrolytes and Tonicity)",
+  "explanation": "If the extracellular fluid becomes hyperosmotic through impermeant solute, water moves out of the cell by osmosis and the cell initially shrinks (crenation). (First Aid — Biochemistry: Cell Biology & Membrane Physiology)",
   "optionExplanations": [
    "Swelling occurs in hypotonic fluid.",
    "",
@@ -1840,8 +1840,8 @@
   "isRecall": false
  },
  {
-  "systemSlug": "renal",
-  "topicSlug": "renal-physiology-acid-base",
+  "systemSlug": "cell-physiology",
+  "topicSlug": "cell-membrane-transport",
   "stem": "Which variable has the greatest effect on diffusion rate across a membrane?",
   "options": [
    "Concentration gradient",
@@ -1851,7 +1851,7 @@
    "Cell volume"
   ],
   "correctIndex": 0,
-  "explanation": "Fick's law (J = −D · A · ΔC/Δx) shows that flux is proportional to the concentration gradient, the surface area and the diffusion coefficient, and inversely proportional to thickness. Of the listed variables, the concentration gradient is the direct driving force for diffusion. (First Aid — Renal: Transport and Physiology)",
+  "explanation": "Fick's law (J = −D · A · ΔC/Δx) shows that flux is proportional to the concentration gradient, the surface area and the diffusion coefficient, and inversely proportional to thickness. Of the listed variables, the concentration gradient is the direct driving force for diffusion. (First Aid — Biochemistry: Cell Biology & Membrane Physiology)",
   "optionExplanations": [
    "",
    "ATP does not govern passive diffusion.",
@@ -1863,8 +1863,8 @@
   "isRecall": false
  },
  {
-  "systemSlug": "renal",
-  "topicSlug": "renal-physiology-acid-base",
+  "systemSlug": "cell-physiology",
+  "topicSlug": "cell-membrane-transport",
   "stem": "Increasing membrane thickness decreases diffusion because:",
   "options": [
    "Resistance to diffusion increases",
@@ -1874,7 +1874,7 @@
    "Membrane potential disappears"
   ],
   "correctIndex": 0,
-  "explanation": "By Fick's law, diffusion rate is inversely proportional to the diffusion distance (membrane thickness): a thicker barrier raises resistance, as in pulmonary fibrosis or pulmonary edema, which lower the diffusing capacity for CO. (First Aid — Renal: Transport and Physiology)",
+  "explanation": "By Fick's law, diffusion rate is inversely proportional to the diffusion distance (membrane thickness): a thicker barrier raises resistance, as in pulmonary fibrosis or pulmonary edema, which lower the diffusing capacity for CO. (First Aid — Biochemistry: Cell Biology & Membrane Physiology)",
   "optionExplanations": [
    "",
    "Thickening does not increase surface area; a larger surface area would increase diffusion.",
@@ -1886,8 +1886,8 @@
   "isRecall": false
  },
  {
-  "systemSlug": "renal",
-  "topicSlug": "renal-physiology-acid-base",
+  "systemSlug": "cell-physiology",
+  "topicSlug": "cell-membrane-transport",
   "stem": "Which factor most increases passive diffusion?",
   "options": [
    "Increased molecular size",
@@ -1897,7 +1897,7 @@
    "ATP hydrolysis"
   ],
   "correctIndex": 1,
-  "explanation": "Passive diffusion through the bilayer increases with lipid solubility (a higher oil/water partition coefficient) and decreases with molecular size, polarity or charge (Overton's rule). (First Aid — Renal: Transport and Physiology)",
+  "explanation": "Passive diffusion through the bilayer increases with lipid solubility (a higher oil/water partition coefficient) and decreases with molecular size, polarity or charge (Overton's rule). (First Aid — Biochemistry: Cell Biology & Membrane Physiology)",
   "optionExplanations": [
    "Larger molecules diffuse more slowly.",
    "",
@@ -1909,8 +1909,8 @@
   "isRecall": false
  },
  {
-  "systemSlug": "renal",
-  "topicSlug": "renal-physiology-acid-base",
+  "systemSlug": "cell-physiology",
+  "topicSlug": "cell-membrane-transport",
   "stem": "The driving force for secondary active transport is:",
   "options": [
    "ATP hydrolysis by transporter",
@@ -1920,7 +1920,7 @@
    "Hydrostatic pressure"
   ],
   "correctIndex": 1,
-  "explanation": "Secondary active transport uses the electrochemical gradient (usually Na+) that the primary active transporter (Na+/K+-ATPase) established; ATP is used indirectly to create that gradient. (First Aid — Renal: Transport and Physiology)",
+  "explanation": "Secondary active transport uses the electrochemical gradient (usually Na+) that the primary active transporter (Na+/K+-ATPase) established; ATP is used indirectly to create that gradient. (First Aid — Biochemistry: Cell Biology & Membrane Physiology)",
   "optionExplanations": [
    "ATP hydrolysis by the transporter itself defines primary active transport.",
    "",
@@ -1932,8 +1932,8 @@
   "isRecall": false
  },
  {
-  "systemSlug": "nervous-system",
-  "topicSlug": "neurophysiology",
+  "systemSlug": "cell-physiology",
+  "topicSlug": "cell-action-potential",
   "stem": "During depolarization, membrane conductance for:",
   "options": [
    "Potassium increases first",
@@ -1943,7 +1943,7 @@
    "Potassium decreases permanently"
   ],
   "correctIndex": 1,
-  "explanation": "During depolarization, voltage-gated Na+ channels open, increasing Na+ conductance rapidly (regenerative positive feedback). K+ conductance rises later, causing repolarization. (First Aid — Neurology: Neurophysiology)",
+  "explanation": "During depolarization, voltage-gated Na+ channels open, increasing Na+ conductance rapidly (regenerative positive feedback). K+ conductance rises later, causing repolarization. (First Aid — Biochemistry: Cell Biology & Membrane Physiology)",
   "optionExplanations": [
    "K+ channels open later and more slowly.",
    "",
@@ -1955,8 +1955,8 @@
   "isRecall": false
  },
  {
-  "systemSlug": "nervous-system",
-  "topicSlug": "neurophysiology",
+  "systemSlug": "cell-physiology",
+  "topicSlug": "cell-action-potential",
   "stem": "Which ion is primarily responsible for repolarization?",
   "options": [
    "Na+",
@@ -1966,7 +1966,7 @@
    "Mg2+"
   ],
   "correctIndex": 2,
-  "explanation": "Repolarization is mainly due to K+ efflux through delayed-rectifier voltage-gated K+ channels, together with inactivation of Na+ channels. (First Aid — Neurology: Neurophysiology)",
+  "explanation": "Repolarization is mainly due to K+ efflux through delayed-rectifier voltage-gated K+ channels, together with inactivation of Na+ channels. (First Aid — Biochemistry: Cell Biology & Membrane Physiology)",
   "optionExplanations": [
    "Na+ entry causes depolarization.",
    "Ca2+ entry causes the plateau in cardiac myocytes.",
@@ -1978,8 +1978,8 @@
   "isRecall": false
  },
  {
-  "systemSlug": "nervous-system",
-  "topicSlug": "neurophysiology",
+  "systemSlug": "cell-physiology",
+  "topicSlug": "cell-action-potential",
   "stem": "Hyperpolarization occurs because:",
   "options": [
    "Sodium channels reopen",
@@ -1989,7 +1989,7 @@
    "Na+/K+ pump stops"
   ],
   "correctIndex": 1,
-  "explanation": "After-hyperpolarization (undershoot) occurs because voltage-gated K+ channels are slow to close, so K+ conductance stays high for a short time after repolarization and the membrane potential approaches EK. (First Aid — Neurology: Neurophysiology)",
+  "explanation": "After-hyperpolarization (undershoot) occurs because voltage-gated K+ channels are slow to close, so K+ conductance stays high for a short time after repolarization and the membrane potential approaches EK. (First Aid — Biochemistry: Cell Biology & Membrane Physiology)",
   "optionExplanations": [
    "Na+ channels reopen only after the membrane has recovered from inactivation.",
    "",

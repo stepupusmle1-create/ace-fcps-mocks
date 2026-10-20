@@ -16138,6 +16138,18 @@ const systems: SeedSystem[] = [
     ],
   },
   {
+    slug: "cell-physiology",
+    name: "Cell Physiology",
+    description: "Membrane transport, osmosis, resting potential, and the action potential.",
+    order: 13,
+    topics: [
+      { slug: "cell-membrane-transport", name: "Membrane Transport & Diffusion", description: "Passive and active transport, carriers, pumps, and diffusion.", order: 1, questions: [] },
+      { slug: "cell-osmosis-tonicity", name: "Osmosis & Tonicity", description: "Water movement, osmolarity, and tonicity of solutions.", order: 2, questions: [] },
+      { slug: "cell-membrane-potential", name: "Resting Membrane Potential", description: "Ion gradients, Nernst and GHK equations, and the resting potential.", order: 3, questions: [] },
+      { slug: "cell-action-potential", name: "Action Potential & Excitability", description: "Phases of the action potential, channels, and refractory periods.", order: 4, questions: [] },
+    ],
+  },
+  {
     slug: "reproductive-health",
     name: "Gynecology & Obstetrics",
     description: "Reproductive anatomy and physiology, pregnancy, labor, and gynecological disease.",
