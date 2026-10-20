@@ -17,6 +17,7 @@ type IngestQuestion = {
   imageAttribution?: string;
   recallSet?: string;
   recallPaper?: string;
+  isRecall?: boolean;
 };
 
 function shuffleOptions(q: IngestQuestion): { options: string[]; correctIndex: number; optionExplanations?: string[] } {
@@ -73,13 +74,13 @@ async function main() {
         optionExplanationsJson: optionExplanations ? JSON.stringify(optionExplanations) : null,
         reference: q.source ?? null,
         explanationImagesJson: q.explanationImages && q.explanationImages.length > 0 ? JSON.stringify(q.explanationImages) : null,
-        isRecall: true,
+        isRecall: q.isRecall ?? true,
         recallSet: q.recallSet ?? null,
         recallPaper: q.recallPaper ?? null,
       };
 
       const existing = await prisma.question.findFirst({
-        where: { topicId: topic.id, stem: q.stem, isRecall: true, recallSet: q.recallSet ?? null },
+        where: { topicId: topic.id, stem: q.stem, isRecall: q.isRecall ?? true, recallSet: q.recallSet ?? null },
       });
       if (existing) {
         await prisma.question.update({ where: { id: existing.id }, data });

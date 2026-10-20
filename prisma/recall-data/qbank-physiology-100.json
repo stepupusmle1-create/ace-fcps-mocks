@@ -1,0 +1,2302 @@
+[
+ {
+  "systemSlug": "renal",
+  "topicSlug": "renal-physiology-acid-base",
+  "stem": "A lipid-soluble molecule crosses the plasma membrane primarily by:",
+  "options": [
+   "Carrier-mediated facilitated diffusion",
+   "Receptor-mediated endocytosis",
+   "Simple diffusion through the lipid bilayer",
+   "ATP-dependent active transport",
+   "Secondary active transport"
+  ],
+  "correctIndex": 2,
+  "explanation": "A lipid-soluble molecule dissolves in the lipid bilayer and moves down its concentration gradient by simple diffusion; the rate rises with lipid solubility and the gradient, and the process is non-saturable and needs neither carrier nor energy (e.g., steroids, O2, CO2, ethanol). (First Aid — Renal: Transport and Physiology)",
+  "optionExplanations": [
+   "Carriers are needed only for polar or charged molecules that cannot dissolve in the bilayer.",
+   "Endocytosis moves large particles or ligand-bound receptors (e.g., LDL, transferrin), not small lipophilic molecules.",
+   "",
+   "Lipophilic molecules move passively down the gradient; ATP-dependent transport would work against it and is unnecessary.",
+   "Secondary active transport (e.g., SGLT) is for polar solutes that cannot cross the bilayer."
+  ],
+  "source": "Physiology Practice MCQs — Set 1",
+  "isRecall": false
+ },
+ {
+  "systemSlug": "renal",
+  "topicSlug": "renal-physiology-acid-base",
+  "stem": "Which membrane component contributes most to membrane fluidity at physiologic temperature?",
+  "options": [
+   "Glycolipids",
+   "Cholesterol",
+   "Integrins",
+   "Spectrin",
+   "Actin"
+  ],
+  "correctIndex": 1,
+  "explanation": "Cholesterol sits between phospholipid tails and is the main modulator of fluidity: it restrains phospholipid movement at body temperature (making the membrane less fluid) and prevents tight packing and solidification at lower temperatures, so it is the key fluidity regulator. (First Aid — Renal: Transport and Physiology)",
+  "optionExplanations": [
+   "Glycolipids sit in the outer leaflet and are involved in cell recognition and blood-group antigens, not fluidity.",
+   "",
+   "Integrins are transmembrane adhesion proteins that link the cytoskeleton to the extracellular matrix.",
+   "Spectrin is a cytoskeletal protein under the red-cell membrane that maintains shape (defective in hereditary spherocytosis).",
+   "Actin is a cytoskeletal filament; it does not modulate bilayer fluidity."
+  ],
+  "source": "Physiology Practice MCQs — Set 1",
+  "isRecall": false
+ },
+ {
+  "systemSlug": "renal",
+  "topicSlug": "renal-physiology-acid-base",
+  "stem": "A transporter exhibits saturation kinetics and competition between structurally similar molecules. This transport is best described as:",
+  "options": [
+   "Osmosis",
+   "Simple diffusion",
+   "Facilitated diffusion",
+   "Filtration",
+   "Bulk flow"
+  ],
+  "correctIndex": 2,
+  "explanation": "Saturation (a maximum transport rate, Vmax) and competition between structurally related substrates are the hallmarks of carrier-mediated transport; if no ATP or ion gradient is used and movement is down the gradient, it is facilitated diffusion (e.g., GLUT1, GLUT4). (First Aid — Renal: Transport and Physiology)",
+  "optionExplanations": [
+   "Osmosis is passive water movement across a semipermeable membrane and shows no substrate saturation.",
+   "Simple diffusion is linear with the gradient; it never saturates and shows no competition.",
+   "",
+   "Filtration is bulk fluid movement driven by hydrostatic pressure across a barrier.",
+   "Bulk flow is a pressure-driven movement of fluid (e.g., blood in vessels) and has no carriers."
+  ],
+  "source": "Physiology Practice MCQs — Set 1",
+  "isRecall": false
+ },
+ {
+  "systemSlug": "renal",
+  "topicSlug": "renal-physiology-acid-base",
+  "stem": "Which statement best distinguishes facilitated diffusion from primary active transport?",
+  "options": [
+   "Facilitated diffusion requires ATP.",
+   "Facilitated diffusion moves substances against concentration gradients.",
+   "Facilitated diffusion requires carrier proteins but not ATP.",
+   "Facilitated diffusion is not saturable.",
+   "Facilitated diffusion occurs only in epithelial cells."
+  ],
+  "correctIndex": 2,
+  "explanation": "Facilitated diffusion uses a carrier protein but follows the electrochemical gradient with no ATP, so it is saturable and passive. Primary active transport uses ATP directly and can move solute against its gradient. (First Aid — Renal: Transport and Physiology)",
+  "optionExplanations": [
+   "ATP use defines primary active transport, not facilitated diffusion.",
+   "Movement against a gradient is active transport; facilitated diffusion moves solute only downhill.",
+   "",
+   "Because carriers are limited in number, facilitated diffusion is saturable.",
+   "It occurs in every tissue (GLUT4 in muscle and fat, GLUT1 in red cells), not only epithelia."
+  ],
+  "source": "Physiology Practice MCQs — Set 1",
+  "isRecall": false
+ },
+ {
+  "systemSlug": "renal",
+  "topicSlug": "renal-physiology-acid-base",
+  "stem": "The Na+/K+-ATPase transports:",
+  "options": [
+   "2 Na+ into cell, 3 K+ out",
+   "3 Na+ into cell, 2 K+ out",
+   "3 Na+ out, 2 K+ into cell",
+   "Equal amounts of Na+ and K+",
+   "Na+ only"
+  ],
+  "correctIndex": 2,
+  "explanation": "The Na+/K+-ATPase pumps 3 Na+ out and 2 K+ in for every ATP. It is therefore electrogenic (net loss of one positive charge per cycle, adding a few millivolts to the negative resting potential) and keeps intracellular Na+ low and K+ high. It is the target of digoxin and ouabain. (First Aid — Renal: Transport and Physiology)",
+  "optionExplanations": [
+   "The directions are reversed; Na+ leaves the cell and K+ enters.",
+   "Na+ moves out, not in, and the ratio is 3:2.",
+   "",
+   "The stoichiometry is unequal (3:2), which is why the pump is electrogenic.",
+   "The pump exchanges both ions."
+  ],
+  "source": "Physiology Practice MCQs — Set 1",
+  "isRecall": false
+ },
+ {
+  "systemSlug": "renal",
+  "topicSlug": "renal-physiology-acid-base",
+  "stem": "Inhibition of Na+/K+-ATPase immediately decreases:",
+  "options": [
+   "Intracellular sodium",
+   "Membrane capacitance",
+   "Sodium gradient across the membrane",
+   "Potassium conductance",
+   "Cell surface area"
+  ],
+  "correctIndex": 2,
+  "explanation": "The pump is what maintains the sodium gradient. When it is inhibited (digoxin, ouabain, ischemia) the Na+ gradient gradually dissipates because Na+ leaks in and K+ leaks out, which also removes the driving force for secondary active transporters (Na+/Ca2+ exchanger, SGLT, NKCC). (First Aid — Renal: Transport and Physiology)",
+  "optionExplanations": [
+   "Intracellular Na+ rises, it does not fall, when the pump is blocked.",
+   "Capacitance depends on the lipid bilayer's thickness and area; it is not changed by pump inhibition.",
+   "",
+   "K+ conductance depends on K+ channels, not on the pump.",
+   "Cell surface area is not directly affected (the cell eventually swells because of Na+ and water gain)."
+  ],
+  "source": "Physiology Practice MCQs — Set 1",
+  "isRecall": false
+ },
+ {
+  "systemSlug": "gastrointestinal",
+  "topicSlug": "gi-physiology",
+  "stem": "Which transport mechanism is responsible for intestinal glucose absorption?",
+  "options": [
+   "GLUT2",
+   "GLUT4",
+   "Na+-glucose cotransporter",
+   "Simple diffusion",
+   "Na+/K+ ATPase"
+  ],
+  "correctIndex": 2,
+  "explanation": "Dietary glucose is absorbed across the enterocyte brush border by SGLT1, a Na+-glucose cotransporter (secondary active transport driven by the Na+ gradient the basolateral Na+/K+ pump creates). Glucose then leaves the cell at the basolateral surface through GLUT2. Defective SGLT1 causes glucose-galactose malabsorption. (First Aid — Gastrointestinal: Physiology)",
+  "optionExplanations": [
+   "GLUT2 is the basolateral exit route and also works in the liver and pancreatic beta cells; it is not responsible for luminal uptake.",
+   "GLUT4 is insulin-dependent and is found in skeletal muscle and adipose tissue.",
+   "",
+   "Glucose is polar and large; it cannot diffuse across the bilayer.",
+   "The pump creates the Na+ gradient but does not itself carry glucose."
+  ],
+  "source": "Physiology Practice MCQs — Set 1",
+  "isRecall": false
+ },
+ {
+  "systemSlug": "renal",
+  "topicSlug": "renal-physiology-acid-base",
+  "stem": "Which transporter is an example of secondary active transport?",
+  "options": [
+   "Ca2+ ATPase",
+   "H+ ATPase",
+   "GLUT1",
+   "Na+/Ca2+ exchanger",
+   "Aquaporin"
+  ],
+  "correctIndex": 3,
+  "explanation": "The Na+/Ca2+ exchanger moves 3 Na+ into the cell while extruding 1 Ca2+, using the energy stored in the Na+ gradient, so it is secondary active transport (this is also why digoxin raises intracellular Ca2+ in cardiac muscle). (First Aid — Renal: Transport and Physiology)",
+  "optionExplanations": [
+   "The Ca2+-ATPase uses ATP directly: primary active transport.",
+   "The H+-ATPase (proton pump) is also primary active transport.",
+   "GLUT1 is facilitated diffusion down the glucose gradient.",
+   "",
+   "Aquaporins are water channels with passive flow."
+  ],
+  "source": "Physiology Practice MCQs — Set 1",
+  "isRecall": false
+ },
+ {
+  "systemSlug": "renal",
+  "topicSlug": "renal-physiology-acid-base",
+  "stem": "Which process is least likely to exhibit saturation kinetics?",
+  "options": [
+   "Facilitated diffusion",
+   "Primary active transport",
+   "Receptor-mediated endocytosis",
+   "Secondary active transport",
+   "Simple diffusion"
+  ],
+  "correctIndex": 4,
+  "explanation": "Simple diffusion depends on the gradient and lipid solubility and has no carrier, so it can never saturate; the other processes involve a finite number of carriers or receptors and show Vmax. (First Aid — Renal: Transport and Physiology)",
+  "optionExplanations": [
+   "Carriers saturate when all binding sites are occupied.",
+   "A fixed number of pump molecules gives a maximum rate.",
+   "Receptor numbers (and vesicle formation) limit the rate.",
+   "Cotransporters saturate like other carriers.",
+   ""
+  ],
+  "source": "Physiology Practice MCQs — Set 1",
+  "isRecall": false
+ },
+ {
+  "systemSlug": "renal",
+  "topicSlug": "renal-physiology-acid-base",
+  "stem": "Water movement across a membrane is determined primarily by:",
+  "options": [
+   "Electrical gradient",
+   "Osmotic gradient",
+   "Hydrostatic pressure only",
+   "Temperature only",
+   "Protein concentration inside the cell"
+  ],
+  "correctIndex": 1,
+  "explanation": "Across cell membranes, water moves passively through the lipid bilayer and aquaporins along the osmotic gradient (from lower to higher solute concentration), and movement continues until the osmotic gradient is dissipated. (First Aid — Renal: Transport and Physiology)",
+  "optionExplanations": [
+   "Water is uncharged, so an electrical gradient does not drive it.",
+   "",
+   "Hydrostatic pressure matters in capillaries and glomeruli, but the question asks about the primary determinant; 'only' makes this wrong.",
+   "Temperature affects the rate but not the direction or main determinant.",
+   "Intracellular protein is only one contributor to osmolality; the determinant is the total osmotic gradient."
+  ],
+  "source": "Physiology Practice MCQs — Set 1",
+  "isRecall": false
+ },
+ {
+  "systemSlug": "renal",
+  "topicSlug": "electrolyte-disorders",
+  "stem": "A red blood cell placed in a hypotonic solution will:",
+  "options": [
+   "Shrink",
+   "Maintain constant volume",
+   "Swell",
+   "Lose intracellular potassium only",
+   "Become crenated"
+  ],
+  "correctIndex": 2,
+  "explanation": "In a hypotonic solution the extracellular osmolality is lower than inside, so water enters by osmosis. The red cell swells and may lyse (as in water intoxication or hypotonic hemolysis). (First Aid — Renal: Electrolytes and Tonicity)",
+  "optionExplanations": [
+   "Cells shrink in a hypertonic solution.",
+   "Constant volume is expected in an isotonic solution (e.g., 0.9% saline).",
+   "",
+   "Cells gain water; no selective potassium loss alone is expected.",
+   "Crenation (spiculated, shrunken cells) occurs in hypertonic media."
+  ],
+  "source": "Physiology Practice MCQs — Set 1",
+  "isRecall": false
+ },
+ {
+  "systemSlug": "renal",
+  "topicSlug": "renal-physiology-acid-base",
+  "stem": "Reflection coefficient (σ) equals 1 when:",
+  "options": [
+   "Solute crosses membrane freely",
+   "Water cannot cross membrane",
+   "Solute cannot cross membrane",
+   "Osmotic pressure equals hydrostatic pressure",
+   "Diffusion coefficient is maximal"
+  ],
+  "correctIndex": 2,
+  "explanation": "The reflection coefficient (σ) measures how well a membrane holds back a solute. At σ = 1 the solute cannot cross, so it exerts its full osmotic effect (effective osmole, e.g., albumin, mannitol, Na+ in cells), whereas σ = 0 means the solute crosses freely and exerts no osmotic effect (e.g., urea in most cells). (First Aid — Renal: Transport and Physiology)",
+  "optionExplanations": [
+   "A freely permeable solute has σ close to 0.",
+   "σ describes a solute's permeability, not water's.",
+   "",
+   "σ is a ratio of effective to theoretical osmotic pressure; it is not the balance of forces.",
+   "The diffusion coefficient is a separate variable describing how easily solutes diffuse."
+  ],
+  "source": "Physiology Practice MCQs — Set 1",
+  "isRecall": false
+ },
+ {
+  "systemSlug": "renal",
+  "topicSlug": "electrolyte-disorders",
+  "stem": "Which solution is iso-osmotic but hypotonic?",
+  "options": [
+   "Normal saline",
+   "5% glucose before metabolism",
+   "Mannitol",
+   "Hypertonic saline",
+   "Albumin solution"
+  ],
+  "correctIndex": 1,
+  "explanation": "5% dextrose in water is iso-osmolar (about 278 mOsm/L) but glucose is rapidly taken up and metabolized, leaving free water. It behaves as a hypotonic fluid in vivo (it is used to correct hypernatremia and can precipitate hyponatremia and cerebral edema if overused). (First Aid — Renal: Electrolytes and Tonicity)",
+  "optionExplanations": [
+   "0.9% saline is both iso-osmotic and isotonic; it stays in the ECF.",
+   "",
+   "Mannitol is an impermeant solute with σ close to 1 and is used as a hypertonic osmotic diuretic.",
+   "3% saline is hypertonic and hyperosmolar.",
+   "Albumin solutions are isotonic or hyperoncotic, and albumin does not leave the vascular space; they do not become hypotonic."
+  ],
+  "source": "Physiology Practice MCQs — Set 1",
+  "isRecall": false
+ },
+ {
+  "systemSlug": "cardiovascular",
+  "topicSlug": "cardiac-hemodynamics",
+  "stem": "Which force opposes filtration across capillaries?",
+  "options": [
+   "Capillary hydrostatic pressure",
+   "Plasma oncotic pressure",
+   "Interstitial hydrostatic pressure",
+   "Gravity",
+   "Diffusion pressure"
+  ],
+  "correctIndex": 1,
+  "explanation": "According to Starling's law, filtration is driven by capillary hydrostatic pressure and interstitial oncotic pressure. It is opposed mainly by plasma (capillary) oncotic pressure, produced by albumin, which pulls fluid back into the vessel. Interstitial hydrostatic pressure also opposes filtration but is close to zero, so plasma oncotic pressure is the main opposing force. Reduced oncotic pressure (nephrotic syndrome, cirrhosis) causes edema. (First Aid — Cardiovascular: Physiology)",
+  "optionExplanations": [
+   "Capillary hydrostatic pressure pushes fluid out; it favors filtration.",
+   "",
+   "Interstitial hydrostatic pressure technically opposes filtration but is near 0 mmHg (slightly negative in many tissues), so it is a minor force.",
+   "Gravity raises capillary hydrostatic pressure in dependent tissue (favoring filtration); it is not a Starling force on its own.",
+   "'Diffusion pressure' is not a Starling force."
+  ],
+  "source": "Physiology Practice MCQs — Set 1",
+  "isRecall": false
+ },
+ {
+  "systemSlug": "renal",
+  "topicSlug": "electrolyte-disorders",
+  "stem": "The major intracellular cation is:",
+  "options": [
+   "Sodium",
+   "Potassium",
+   "Calcium",
+   "Magnesium",
+   "Chloride"
+  ],
+  "correctIndex": 1,
+  "explanation": "Potassium (about 140 mEq/L) is the major intracellular cation, kept inside by the Na+/K+-ATPase, whereas sodium is the major extracellular cation. (First Aid — Renal: Electrolytes and Tonicity)",
+  "optionExplanations": [
+   "Sodium is the principal ECF cation (about 140 mEq/L outside, around 10–15 inside).",
+   "",
+   "Intracellular free Ca2+ is extremely low (around 100 nM) at rest.",
+   "Magnesium is a major intracellular divalent cation but is present at far lower concentrations than K+.",
+   "Chloride is an anion, and mainly extracellular."
+  ],
+  "source": "Physiology Practice MCQs — Set 1",
+  "isRecall": false
+ },
+ {
+  "systemSlug": "nervous-system",
+  "topicSlug": "neurophysiology",
+  "stem": "Resting membrane potential depends most directly on:",
+  "options": [
+   "Calcium permeability",
+   "Potassium permeability",
+   "Sodium permeability",
+   "Chloride permeability",
+   "Bicarbonate permeability"
+  ],
+  "correctIndex": 1,
+  "explanation": "The resting membrane potential (about −70 to −90 mV) is set mainly by K+ leak channels: K+ permeability is highest at rest, so the resting potential lies close to the potassium equilibrium potential. (First Aid — Neurology: Neurophysiology)",
+  "optionExplanations": [
+   "Ca2+ permeability is very low at rest.",
+   "",
+   "Na+ permeability is low at rest (it is what rises during depolarization), pulling the potential only slightly above EK.",
+   "Cl- contributes a little in some cells but is not the main determinant.",
+   "Bicarbonate has negligible effect on the resting potential."
+  ],
+  "source": "Physiology Practice MCQs — Set 1",
+  "isRecall": false
+ },
+ {
+  "systemSlug": "renal",
+  "topicSlug": "electrolyte-disorders",
+  "stem": "Increasing extracellular potassium causes resting membrane potential to become:",
+  "options": [
+   "More negative",
+   "Less negative",
+   "Unchanged",
+   "Positive immediately",
+   "Zero"
+  ],
+  "correctIndex": 1,
+  "explanation": "Raising extracellular K+ shrinks the K+ concentration gradient, which makes EK less negative and so makes the resting potential less negative (depolarization). This is why hyperkalemia produces peaked T waves and may lead to cardiac arrest. (First Aid — Renal: Electrolytes and Tonicity)",
+  "optionExplanations": [
+   "More negative would follow a drop in extracellular K+ (hypokalemia).",
+   "",
+   "The resting potential follows EK, so it changes with extracellular K+.",
+   "It becomes less negative, not positive; resting potential stays below zero.",
+   "The membrane does not depolarize to zero with a modest rise in K+."
+  ],
+  "source": "Physiology Practice MCQs — Set 1",
+  "isRecall": false
+ },
+ {
+  "systemSlug": "nervous-system",
+  "topicSlug": "neurophysiology",
+  "stem": "The equilibrium potential for an ion depends primarily upon:",
+  "options": [
+   "ATP concentration",
+   "Ion concentration gradient",
+   "Membrane thickness",
+   "Temperature only",
+   "Membrane capacitance"
+  ],
+  "correctIndex": 1,
+  "explanation": "The Nernst equation, E = (61/z) log([ion]out/[ion]in) at 37 °C, shows that the equilibrium potential for an ion is set by its concentration gradient and charge. (First Aid — Neurology: Neurophysiology)",
+  "optionExplanations": [
+   "ATP does not enter the Nernst equation, though the pump helps maintain the gradients.",
+   "",
+   "Thickness of the membrane affects capacitance, not equilibrium potential.",
+   "Temperature is part of the constant but it is not the primary determinant, and 'only' is wrong.",
+   "Capacitance determines how fast voltage changes, not the equilibrium potential."
+  ],
+  "source": "Physiology Practice MCQs — Set 1",
+  "isRecall": false
+ },
+ {
+  "systemSlug": "nervous-system",
+  "topicSlug": "neurophysiology",
+  "stem": "Which ion has the greatest influence on resting membrane potential?",
+  "options": [
+   "Calcium",
+   "Sodium",
+   "Chloride",
+   "Potassium",
+   "Magnesium"
+  ],
+  "correctIndex": 3,
+  "explanation": "K+ has the greatest influence because the resting membrane is far more permeable to K+ than to other ions, so Vm lies near EK (as the GHK equation predicts). (First Aid — Neurology: Neurophysiology)",
+  "optionExplanations": [
+   "Ca2+ is effectively impermeant at rest.",
+   "Na+ has a large electrochemical gradient, but at rest its permeability is small, so it contributes slightly.",
+   "Cl- is usually close to equilibrium and passively follows the potential.",
+   "",
+   "Mg2+ has no significant permeability at rest."
+  ],
+  "source": "Physiology Practice MCQs — Set 1",
+  "isRecall": false
+ },
+ {
+  "systemSlug": "nervous-system",
+  "topicSlug": "neurophysiology",
+  "stem": "During rapid depolarization of an action potential:",
+  "options": [
+   "Voltage-gated potassium channels open first",
+   "Sodium permeability increases dramatically",
+   "Chloride permeability increases",
+   "Calcium channels dominate",
+   "Sodium pump becomes faster"
+  ],
+  "correctIndex": 1,
+  "explanation": "The upstroke of the action potential is due to the rapid opening of voltage-gated Na+ channels, a dramatic rise in Na+ permeability (positive feedback), and Na+ influx that drives the potential toward ENa (about +60 mV). (First Aid — Neurology: Neurophysiology)",
+  "optionExplanations": [
+   "Voltage-gated K+ channels open later (slow, delayed) and cause repolarization.",
+   "",
+   "Chloride permeability is not increased during the upstroke.",
+   "Ca2+ channels are important in cardiac pacemaker and smooth muscle cells, not in the neuronal upstroke.",
+   "The pump works slowly and does not shape the action potential."
+  ],
+  "source": "Physiology Practice MCQs — Set 1",
+  "isRecall": false
+ },
+ {
+  "systemSlug": "nervous-system",
+  "topicSlug": "neurophysiology",
+  "stem": "The absolute refractory period is caused primarily by:",
+  "options": [
+   "Potassium channel closure",
+   "Sodium channel inactivation",
+   "Calcium influx",
+   "Increased chloride conductance",
+   "Na+/K+ ATPase activation"
+  ],
+  "correctIndex": 1,
+  "explanation": "Absolute refractory period reflects Na+ channel inactivation (the h-gate closes after depolarization). No stimulus, however strong, can open the inactivated channels until the membrane repolarizes. It limits the maximum firing frequency and ensures one-way propagation. (First Aid — Neurology: Neurophysiology)",
+  "optionExplanations": [
+   "K+ channels opening (not closing) cause repolarization and relative refractoriness.",
+   "",
+   "Ca2+ influx is not the cause of neuronal refractoriness.",
+   "Chloride conductance is not increased during the refractory period.",
+   "The pump restores ion gradients over a longer time and is not the cause."
+  ],
+  "source": "Physiology Practice MCQs — Set 1",
+  "isRecall": false
+ },
+ {
+  "systemSlug": "renal",
+  "topicSlug": "electrolyte-disorders",
+  "stem": "Hyperkalemia is most likely to:",
+  "options": [
+   "Increase action potential amplitude indefinitely",
+   "Depolarize resting membrane potential",
+   "Hyperpolarize resting membrane potential",
+   "Prevent sodium entry",
+   "Increase intracellular calcium directly"
+  ],
+  "correctIndex": 1,
+  "explanation": "Hyperkalemia raises extracellular K+, reducing the K+ gradient so the resting potential is depolarized. Prolonged depolarization inactivates Na+ channels, impairing excitability (ECG changes, muscle weakness, arrhythmia). (First Aid — Renal: Electrolytes and Tonicity)",
+  "optionExplanations": [
+   "Amplitude of the action potential falls as Na+ channels inactivate.",
+   "",
+   "Hyperpolarization occurs in hypokalemia.",
+   "Na+ entry is reduced only secondarily (via inactivation), after the depolarization, so this is not the primary effect.",
+   "Intracellular Ca2+ is not directly raised by high K+."
+  ],
+  "source": "Physiology Practice MCQs — Set 1",
+  "isRecall": false
+ },
+ {
+  "systemSlug": "nervous-system",
+  "topicSlug": "neurophysiology",
+  "stem": "Which event occurs during repolarization?",
+  "options": [
+   "Opening of ligand-gated sodium channels",
+   "Closure of potassium channels",
+   "Increased potassium conductance",
+   "Opening of chloride pumps",
+   "ATP depletion"
+  ],
+  "correctIndex": 2,
+  "explanation": "During repolarization, voltage-gated K+ channels open (K+ conductance rises) and K+ flows out of the cell, while Na+ channels inactivate, returning the potential toward the resting level. (First Aid — Neurology: Neurophysiology)",
+  "optionExplanations": [
+   "Ligand-gated Na+ channels belong to the neuromuscular junction and are not part of the axonal action potential.",
+   "K+ channels open, not close, during repolarization.",
+   "",
+   "Chloride 'pumps' are not involved in repolarization.",
+   "ATP depletion would cause failure of the pump, not repolarization."
+  ],
+  "source": "Physiology Practice MCQs — Set 1",
+  "isRecall": false
+ },
+ {
+  "systemSlug": "nervous-system",
+  "topicSlug": "neurophysiology",
+  "stem": "Saltatory conduction increases conduction velocity because:",
+  "options": [
+   "Action potentials occur only at nodes of Ranvier.",
+   "Sodium channels are uniformly distributed.",
+   "Potassium conductance decreases everywhere.",
+   "Axonal resistance decreases.",
+   "Membrane capacitance increases."
+  ],
+  "correctIndex": 0,
+  "explanation": "In myelinated axons, myelin insulates the internodes, so the action potential is regenerated only at the nodes of Ranvier (dense Na+ channels) and the current jumps from node to node (saltatory conduction), which greatly increases speed and saves energy. (First Aid — Neurology: Neurophysiology)",
+  "optionExplanations": [
+   "",
+   "Na+ channels are concentrated at nodes, not uniformly distributed.",
+   "Potassium conductance is not decreased everywhere; K+ channels sit mostly in paranodal regions.",
+   "Myelination does not reduce axial (cytoplasmic) resistance; it raises membrane resistance and lowers capacitance.",
+   "Myelin decreases membrane capacitance."
+  ],
+  "source": "Physiology Practice MCQs — Set 1",
+  "isRecall": false
+ },
+ {
+  "systemSlug": "nervous-system",
+  "topicSlug": "neurophysiology",
+  "stem": "Which factor most increases conduction velocity in a peripheral nerve?",
+  "options": [
+   "Smaller diameter",
+   "Increased extracellular sodium",
+   "Larger diameter with myelination",
+   "Increased membrane capacitance",
+   "Higher intracellular chloride"
+  ],
+  "correctIndex": 2,
+  "explanation": "Conduction velocity rises with axon diameter (lower axial resistance) and with myelination (higher membrane resistance, lower capacitance). The fastest fibers are large myelinated A-alpha fibers. (First Aid — Neurology: Neurophysiology)",
+  "optionExplanations": [
+   "A smaller diameter increases axial resistance and slows conduction.",
+   "Extracellular Na+ mainly affects the amplitude of the action potential, not velocity significantly.",
+   "",
+   "Higher capacitance slows depolarization of the next segment.",
+   "Intracellular chloride does not influence conduction velocity."
+  ],
+  "source": "Physiology Practice MCQs — Set 1",
+  "isRecall": false
+ },
+ {
+  "systemSlug": "renal",
+  "topicSlug": "electrolyte-disorders",
+  "stem": "A decrease in extracellular potassium concentration produces which immediate effect on skeletal muscle?",
+  "options": [
+   "Depolarization of the membrane",
+   "Hyperpolarization of the membrane",
+   "Increased sodium permeability",
+   "Increased calcium conductance",
+   "Increased resting potassium conductance"
+  ],
+  "correctIndex": 1,
+  "explanation": "Lowering extracellular K+ steepens the K+ gradient, making EK more negative, so the membrane hyperpolarizes. Hypokalemia therefore causes muscle weakness, cramps and, in severe cases, paralysis because it is harder to reach threshold. (First Aid — Renal: Electrolytes and Tonicity)",
+  "optionExplanations": [
+   "Depolarization occurs when extracellular K+ rises.",
+   "",
+   "Na+ permeability is not the immediate effect.",
+   "Ca2+ conductance is not changed directly.",
+   "Resting K+ conductance is not the immediate effect; the gradient, not the conductance, changes."
+  ],
+  "source": "Physiology Practice MCQs — Set 1",
+  "isRecall": false
+ },
+ {
+  "systemSlug": "nervous-system",
+  "topicSlug": "neurophysiology",
+  "stem": "Which ion contributes least to the resting membrane potential under normal physiologic conditions?",
+  "options": [
+   "K+",
+   "Na+",
+   "Cl−",
+   "Ca2+",
+   "HCO3−"
+  ],
+  "correctIndex": 3,
+  "explanation": "Under normal conditions the membrane is almost impermeant to Ca2+ and Ca2+ has a tiny intracellular concentration, so it contributes least to the resting potential; K+ contributes most, then Na+ and Cl-. (First Aid — Neurology: Neurophysiology)",
+  "optionExplanations": [
+   "K+ contributes the most (high resting permeability).",
+   "Na+ makes a small contribution through leak channels.",
+   "Cl- contributes modestly in many cells.",
+   "",
+   "HCO3- has a small permeability and contributes a little; Ca2+ is effectively impermeant at rest, so it contributes least."
+  ],
+  "source": "Physiology Practice MCQs — Set 1",
+  "isRecall": false
+ },
+ {
+  "systemSlug": "nervous-system",
+  "topicSlug": "neurophysiology",
+  "stem": "The Goldman-Hodgkin-Katz equation differs from the Nernst equation because it:",
+  "options": [
+   "Applies only to potassium",
+   "Includes permeability of multiple ions",
+   "Ignores membrane permeability",
+   "Calculates osmolarity",
+   "Applies only during action potentials"
+  ],
+  "correctIndex": 1,
+  "explanation": "The Nernst equation gives the equilibrium potential of a single ion, whereas the Goldman-Hodgkin-Katz (GHK) equation calculates the membrane potential when several ions (Na+, K+, Cl-) are permeable, weighting each by its permeability. (First Aid — Neurology: Neurophysiology)",
+  "optionExplanations": [
+   "GHK is not limited to K+.",
+   "",
+   "GHK explicitly uses permeability.",
+   "Osmolarity is not calculated by either equation.",
+   "GHK applies at rest as well as during an action potential."
+  ],
+  "source": "Physiology Practice MCQs — Set 1",
+  "isRecall": false
+ },
+ {
+  "systemSlug": "renal",
+  "topicSlug": "electrolyte-disorders",
+  "stem": "The equilibrium potential for potassium becomes more negative when:",
+  "options": [
+   "Extracellular K+ increases",
+   "Intracellular K+ decreases",
+   "Extracellular K+ decreases",
+   "Sodium permeability increases",
+   "Calcium permeability increases"
+  ],
+  "correctIndex": 2,
+  "explanation": "EK = 61 log([K]o/[K]i); lowering extracellular K+ makes the ratio smaller and EK more negative. (First Aid — Renal: Electrolytes and Tonicity)",
+  "optionExplanations": [
+   "Raising extracellular K+ makes EK less negative.",
+   "Lowering intracellular K+ also makes EK less negative.",
+   "",
+   "Na+ permeability does not change EK, which depends only on the K+ gradient.",
+   "Ca2+ permeability does not change EK."
+  ],
+  "source": "Physiology Practice MCQs — Set 1",
+  "isRecall": false
+ },
+ {
+  "systemSlug": "nervous-system",
+  "topicSlug": "neurophysiology",
+  "stem": "If membrane permeability to sodium suddenly equals permeability to potassium, membrane potential will:",
+  "options": [
+   "Approach sodium equilibrium potential",
+   "Become more negative than potassium equilibrium potential",
+   "Remain unchanged",
+   "Become zero",
+   "Equal chloride equilibrium potential"
+  ],
+  "correctIndex": 0,
+  "explanation": "When PNa equals PK, GHK weights both ions equally: the potential moves away from EK (about −90 mV) toward ENa (about +60 mV) and settles near the middle (close to 0 mV). Of the options offered, the potential moves toward ENa (depolarizes massively). This is the same principle as the action-potential upstroke, when PNa greatly exceeds PK and Vm approaches ENa. (First Aid — Neurology: Neurophysiology)",
+  "optionExplanations": [
+   "",
+   "More negative than EK is impossible; Vm can never be more negative than the most negative equilibrium potential.",
+   "Potential would change because the relative permeabilities have changed.",
+   "It would be only approximately zero, as it is a weighted average, so 'zero' is less accurate than 'approaches ENa'.",
+   "The membrane potential would lie between EK and ENa; ECl is about −70 to −90 mV and is not the result."
+  ],
+  "source": "Physiology Practice MCQs — Set 1",
+  "isRecall": false
+ },
+ {
+  "systemSlug": "nervous-system",
+  "topicSlug": "neuropharmacology",
+  "stem": "Tetrodotoxin blocks:",
+  "options": [
+   "Voltage-gated potassium channels",
+   "Ligand-gated sodium channels",
+   "Voltage-gated sodium channels",
+   "Calcium ATPase",
+   "Na+/K+ pump"
+  ],
+  "correctIndex": 2,
+  "explanation": "Tetrodotoxin (pufferfish, fugu) binds the outer pore of voltage-gated Na+ channels and blocks action potentials, causing paralysis and respiratory failure. Saxitoxin (shellfish) has the same mechanism. (First Aid — Pharmacology: Autonomic and Neuromuscular Drugs)",
+  "optionExplanations": [
+   "Voltage-gated K+ channels are blocked by tetraethylammonium (TEA) and 4-aminopyridine.",
+   "Ligand-gated Na+ channels (nicotinic receptors) are blocked by curare.",
+   "",
+   "Ca2+-ATPase is not the target of TTX.",
+   "The Na+/K+ pump is inhibited by digoxin and ouabain."
+  ],
+  "source": "Physiology Practice MCQs — Set 1",
+  "isRecall": false
+ },
+ {
+  "systemSlug": "nervous-system",
+  "topicSlug": "neurophysiology",
+  "stem": "During the relative refractory period:",
+  "options": [
+   "No action potential can occur",
+   "Sodium channels remain completely inactivated",
+   "A stronger-than-normal stimulus is required",
+   "Potassium channels are closed",
+   "Resting membrane potential is unchanged"
+  ],
+  "correctIndex": 2,
+  "explanation": "During the relative refractory period, some Na+ channels have recovered but K+ channels are still open (after-hyperpolarization), so the cell is further from threshold and needs a stronger-than-normal stimulus to fire. (First Aid — Neurology: Neurophysiology)",
+  "optionExplanations": [
+   "This describes the absolute refractory period.",
+   "Most Na+ channels have recovered from inactivation by now.",
+   "",
+   "K+ channels are still open (that is why the membrane is hyperpolarized).",
+   "The membrane potential is more negative than at rest during this phase."
+  ],
+  "source": "Physiology Practice MCQs — Set 1",
+  "isRecall": false
+ },
+ {
+  "systemSlug": "nervous-system",
+  "topicSlug": "neurophysiology",
+  "stem": "Myelination increases conduction velocity primarily by:",
+  "options": [
+   "Increasing membrane capacitance",
+   "Decreasing membrane resistance",
+   "Increasing membrane resistance and decreasing capacitance",
+   "Increasing potassium permeability",
+   "Increasing sodium leak"
+  ],
+  "correctIndex": 2,
+  "explanation": "Myelin increases membrane resistance (less current leaks out) and decreases membrane capacitance (less charge needed to depolarize the next segment), so the local current spreads farther and faster. (First Aid — Neurology: Neurophysiology)",
+  "optionExplanations": [
+   "Myelin decreases capacitance.",
+   "Myelin increases resistance.",
+   "",
+   "K+ permeability changes are not the mechanism.",
+   "Na+ leak would lower the safety of conduction, not increase velocity."
+  ],
+  "source": "Physiology Practice MCQs — Set 1",
+  "isRecall": false
+ },
+ {
+  "systemSlug": "nervous-system",
+  "topicSlug": "neurophysiology",
+  "stem": "Which factor decreases nerve conduction velocity?",
+  "options": [
+   "Increased axon diameter",
+   "Myelination",
+   "Demyelination",
+   "Increased internodal distance (within physiologic range)",
+   "Increased membrane resistance"
+  ],
+  "correctIndex": 2,
+  "explanation": "Demyelination (e.g., multiple sclerosis, Guillain-Barré syndrome) lowers membrane resistance and increases capacitance, so current leaks and conduction slows or fails. (First Aid — Neurology: Neurophysiology)",
+  "optionExplanations": [
+   "Larger diameter increases velocity.",
+   "Myelination increases velocity.",
+   "",
+   "A longer internodal distance (within the physiologic range) increases velocity.",
+   "Higher membrane resistance increases velocity."
+  ],
+  "source": "Physiology Practice MCQs — Set 1",
+  "isRecall": false
+ },
+ {
+  "systemSlug": "nervous-system",
+  "topicSlug": "neuropharmacology",
+  "stem": "Local anesthetics prevent action potential propagation by:",
+  "options": [
+   "Blocking voltage-gated calcium channels",
+   "Blocking voltage-gated sodium channels",
+   "Opening potassium channels",
+   "Activating Na+/K+ ATPase",
+   "Blocking acetylcholine receptors"
+  ],
+  "correctIndex": 1,
+  "explanation": "Local anesthetics (lidocaine, bupivacaine) block voltage-gated Na+ channels from inside the cell, preferentially in their open or inactivated state (use-dependent), so action potentials cannot be generated or propagated. Small, rapidly firing pain fibers are affected first. (First Aid — Pharmacology: Autonomic and Neuromuscular Drugs)",
+  "optionExplanations": [
+   "Ca2+ channel blockers are used for hypertension and arrhythmias.",
+   "",
+   "Opening K+ channels is the mechanism of minoxidil and nicorandil, not local anesthetics.",
+   "They do not activate the pump.",
+   "Blocking ACh receptors is the mechanism of neuromuscular blockers."
+  ],
+  "source": "Physiology Practice MCQs — Set 1",
+  "isRecall": false
+ },
+ {
+  "systemSlug": "nervous-system",
+  "topicSlug": "peripheral-nerve-neuromuscular",
+  "stem": "At the neuromuscular junction, acetylcholine binds to:",
+  "options": [
+   "Muscarinic receptors",
+   "Nicotinic ligand-gated ion channels",
+   "Voltage-gated sodium channels",
+   "Ryanodine receptors",
+   "Dihydropyridine receptors"
+  ],
+  "correctIndex": 1,
+  "explanation": "At the motor end plate, ACh binds nicotinic (Nm) receptors, which are ligand-gated cation channels that let Na+ in (and K+ out), producing an end-plate potential. (First Aid — Neurology: Neuromuscular Junction)",
+  "optionExplanations": [
+   "Muscarinic receptors are G-protein coupled and are found in parasympathetic target organs, not at the skeletal NMJ.",
+   "",
+   "Voltage-gated Na+ channels open after the end-plate potential reaches threshold in the adjacent muscle membrane.",
+   "Ryanodine receptors are on the sarcoplasmic reticulum.",
+   "Dihydropyridine receptors are voltage sensors in the T-tubule."
+  ],
+  "source": "Physiology Practice MCQs — Set 1",
+  "isRecall": false
+ },
+ {
+  "systemSlug": "nervous-system",
+  "topicSlug": "peripheral-nerve-neuromuscular",
+  "stem": "Which ion triggers synaptic vesicle fusion?",
+  "options": [
+   "Na+",
+   "K+",
+   "Cl−",
+   "Ca2+",
+   "Mg2+"
+  ],
+  "correctIndex": 3,
+  "explanation": "Depolarization of the nerve terminal opens voltage-gated Ca2+ channels, and Ca2+ influx triggers fusion of synaptic vesicles (SNARE proteins, synaptotagmin) with the membrane to release ACh. (First Aid — Neurology: Neuromuscular Junction)",
+  "optionExplanations": [
+   "Na+ depolarizes the terminal but does not trigger vesicle fusion.",
+   "K+ is responsible for repolarization.",
+   "Cl- is not involved in vesicle fusion.",
+   "",
+   "Mg2+ blocks Ca2+ entry and reduces transmitter release (as in magnesium sulfate therapy)."
+  ],
+  "source": "Physiology Practice MCQs — Set 1",
+  "isRecall": false
+ },
+ {
+  "systemSlug": "nervous-system",
+  "topicSlug": "neuropharmacology",
+  "stem": "Acetylcholinesterase inhibition causes:",
+  "options": [
+   "Reduced end-plate potential",
+   "Increased duration of end-plate depolarization",
+   "Complete blockade of neurotransmission",
+   "Decreased acetylcholine release",
+   "Decreased calcium influx"
+  ],
+  "correctIndex": 1,
+  "explanation": "Acetylcholinesterase inhibitors (neostigmine, pyridostigmine, edrophonium, organophosphates) prevent breakdown of ACh, so ACh persists and the end-plate depolarization lasts longer, which is the basis of treatment of myasthenia gravis. Excess causes depolarizing block and cholinergic crisis. (First Aid — Pharmacology: Autonomic and Neuromuscular Drugs)",
+  "optionExplanations": [
+   "More ACh at the receptor increases, not reduces, the end-plate potential.",
+   "",
+   "Complete blockade occurs only with large organophosphate doses (depolarizing block), not as the typical effect.",
+   "Release of ACh is not decreased; botulinum toxin does that.",
+   "Ca2+ influx into the terminal is unchanged."
+  ],
+  "source": "Physiology Practice MCQs — Set 1",
+  "isRecall": false
+ },
+ {
+  "systemSlug": "nervous-system",
+  "topicSlug": "neuropharmacology",
+  "stem": "Curare causes paralysis by:",
+  "options": [
+   "Blocking acetylcholinesterase",
+   "Blocking nicotinic acetylcholine receptors",
+   "Preventing calcium release from SR",
+   "Blocking voltage-gated sodium channels",
+   "Activating muscarinic receptors"
+  ],
+  "correctIndex": 1,
+  "explanation": "Curare (tubocurarine) and other non-depolarizing blockers (rocuronium, vecuronium) are competitive antagonists at nicotinic receptors, which prevent the end-plate potential and cause flaccid paralysis; the effect is reversed by neostigmine. (First Aid — Pharmacology: Autonomic and Neuromuscular Drugs)",
+  "optionExplanations": [
+   "Blocking acetylcholinesterase would increase ACh and not cause paralysis (initially).",
+   "",
+   "Preventing Ca2+ release from the SR is the action of dantrolene.",
+   "Blocking voltage-gated Na+ channels is the action of tetrodotoxin and local anesthetics.",
+   "Curare blocks nicotinic, not muscarinic, receptors."
+  ],
+  "source": "Physiology Practice MCQs — Set 1",
+  "isRecall": false
+ },
+ {
+  "systemSlug": "nervous-system",
+  "topicSlug": "peripheral-nerve-neuromuscular",
+  "stem": "Botulinum toxin causes muscle weakness by:",
+  "options": [
+   "Blocking acetylcholine receptors",
+   "Preventing acetylcholine release",
+   "Blocking sodium channels",
+   "Inhibiting acetylcholinesterase",
+   "Blocking calcium entry into muscle fibers"
+  ],
+  "correctIndex": 1,
+  "explanation": "Botulinum toxin (Clostridium botulinum) cleaves SNARE proteins (e.g., SNAP-25, synaptobrevin) so ACh vesicles cannot fuse, preventing ACh release and causing flaccid paralysis (descending, with diplopia and ptosis). (First Aid — Neurology: Neuromuscular Junction)",
+  "optionExplanations": [
+   "Receptor blockade is how curare works.",
+   "",
+   "Sodium channel blockade is the effect of tetrodotoxin and local anesthetics.",
+   "Cholinesterase inhibition raises ACh levels.",
+   "Blocking Ca2+ entry into the muscle fibre is not the mechanism; the toxin acts on the nerve terminal's vesicle fusion."
+  ],
+  "source": "Physiology Practice MCQs — Set 1",
+  "isRecall": false
+ },
+ {
+  "systemSlug": "nervous-system",
+  "topicSlug": "peripheral-nerve-neuromuscular",
+  "stem": "Miniature end-plate potentials result from:",
+  "options": [
+   "Spontaneous release of a single synaptic vesicle",
+   "Opening of voltage-gated sodium channels",
+   "Calcium release from sarcoplasmic reticulum",
+   "Muscle action potentials",
+   "Potassium efflux"
+  ],
+  "correctIndex": 0,
+  "explanation": "Miniature end-plate potentials (MEPPs, about 0.4 mV) are caused by spontaneous release of the contents of a single ACh vesicle (a quantum) at rest, producing a small depolarization that stays below threshold. (First Aid — Neurology: Neuromuscular Junction)",
+  "optionExplanations": [
+   "",
+   "Voltage-gated Na+ channels open when the end-plate potential reaches threshold.",
+   "SR Ca2+ release is part of excitation-contraction coupling.",
+   "Muscle action potentials are much larger and need threshold.",
+   "K+ efflux does not generate the MEPP."
+  ],
+  "source": "Physiology Practice MCQs — Set 1",
+  "isRecall": false
+ },
+ {
+  "systemSlug": "nervous-system",
+  "topicSlug": "peripheral-nerve-neuromuscular",
+  "stem": "Which event immediately follows acetylcholine binding at the motor end plate?",
+  "options": [
+   "Calcium release from SR",
+   "Opening of ligand-gated cation channels",
+   "Sodium channel inactivation",
+   "Potassium channel closure",
+   "ATP hydrolysis"
+  ],
+  "correctIndex": 1,
+  "explanation": "Binding of ACh to the nicotinic receptor opens the ligand-gated non-selective cation channel (Na+ in, K+ out), producing the end-plate potential; only afterward do voltage-gated Na+ channels fire the muscle action potential. (First Aid — Neurology: Neuromuscular Junction)",
+  "optionExplanations": [
+   "SR Ca2+ release occurs later in excitation-contraction coupling.",
+   "",
+   "Na+ channel inactivation occurs after the depolarization.",
+   "K+ channel closure is not the next event.",
+   "ATP hydrolysis is required for contraction but does not follow ACh binding directly."
+  ],
+  "source": "Physiology Practice MCQs — Set 1",
+  "isRecall": false
+ },
+ {
+  "systemSlug": "nervous-system",
+  "topicSlug": "peripheral-nerve-neuromuscular",
+  "stem": "The safety factor at the neuromuscular junction refers to:",
+  "options": [
+   "Excess acetylcholine released sufficient to ensure muscle action potential generation",
+   "Calcium storage in SR",
+   "ATP availability",
+   "Membrane capacitance",
+   "Chloride conductance"
+  ],
+  "correctIndex": 0,
+  "explanation": "The safety factor of the NMJ is the large excess of ACh released per impulse (and receptors present), so the end-plate potential easily exceeds threshold and each nerve impulse reliably triggers a muscle action potential. In myasthenia gravis (fewer receptors) and Lambert-Eaton (less release) this margin is lost. (First Aid — Neurology: Neuromuscular Junction)",
+  "optionExplanations": [
+   "",
+   "SR Ca2+ storage is unrelated to the NMJ safety factor.",
+   "ATP availability does not define the safety factor.",
+   "Capacitance does not define the safety factor.",
+   "Chloride conductance does not define the safety factor."
+  ],
+  "source": "Physiology Practice MCQs — Set 1",
+  "isRecall": false
+ },
+ {
+  "systemSlug": "nervous-system",
+  "topicSlug": "peripheral-nerve-neuromuscular",
+  "stem": "Lambert-Eaton syndrome is characterized by antibodies against:",
+  "options": [
+   "Nicotinic receptors",
+   "Voltage-gated presynaptic calcium channels",
+   "Sodium channels",
+   "Acetylcholinesterase",
+   "Ryanodine receptors"
+  ],
+  "correctIndex": 1,
+  "explanation": "Lambert-Eaton myasthenic syndrome (LEMS) is caused by autoantibodies against presynaptic voltage-gated Ca2+ channels, reducing ACh release; it is classically paraneoplastic (small cell lung cancer). (First Aid — Neurology: Neuromuscular Junction)",
+  "optionExplanations": [
+   "Antibodies to nicotinic ACh receptors cause myasthenia gravis.",
+   "",
+   "Na+ channel antibodies are not characteristic of LEMS.",
+   "Acetylcholinesterase is inhibited by drugs/toxins, not typically by antibodies in LEMS.",
+   "Ryanodine receptor defects are seen in malignant hyperthermia."
+  ],
+  "source": "Physiology Practice MCQs — Set 1",
+  "isRecall": false
+ },
+ {
+  "systemSlug": "nervous-system",
+  "topicSlug": "peripheral-nerve-neuromuscular",
+  "stem": "Myasthenia gravis primarily affects:",
+  "options": [
+   "Acetylcholine synthesis",
+   "Presynaptic calcium channels",
+   "Postsynaptic nicotinic receptors",
+   "Sodium channels",
+   "Potassium channels"
+  ],
+  "correctIndex": 2,
+  "explanation": "Myasthenia gravis is an autoimmune disease with antibodies against postsynaptic nicotinic ACh receptors, so there are fewer receptors and the end-plate potential falls below threshold (fatigable weakness, ptosis, diplopia; associated with thymoma). (First Aid — Neurology: Neuromuscular Junction)",
+  "optionExplanations": [
+   "ACh synthesis is not the problem.",
+   "Presynaptic Ca2+ channels are the target in LEMS.",
+   "",
+   "Na+ channels are not the target.",
+   "K+ channels are not the target (VGKC antibodies cause neuromyotonia)."
+  ],
+  "source": "Physiology Practice MCQs — Set 1",
+  "isRecall": false
+ },
+ {
+  "systemSlug": "nervous-system",
+  "topicSlug": "peripheral-nerve-neuromuscular",
+  "stem": "In myasthenia gravis, repetitive stimulation typically produces:",
+  "options": [
+   "Increased muscle force",
+   "Progressive muscle weakness",
+   "Increased calcium release",
+   "Increased acetylcholine release",
+   "Hyperpolarization of motor neurons"
+  ],
+  "correctIndex": 1,
+  "explanation": "In myasthenia gravis, repetitive nerve stimulation depletes the readily releasable ACh and the already-reduced receptor pool cannot respond, causing a decremental response and progressive weakness (fatigability). (First Aid — Neurology: Neuromuscular Junction)",
+  "optionExplanations": [
+   "Force does not rise; it falls with repetitive activity.",
+   "",
+   "Ca2+ release does not increase.",
+   "More ACh release on repeated stimulation (facilitation) is typical of LEMS.",
+   "Hyperpolarization of the motor neuron is not part of the pathophysiology."
+  ],
+  "source": "Physiology Practice MCQs — Set 1",
+  "isRecall": false
+ },
+ {
+  "systemSlug": "nervous-system",
+  "topicSlug": "peripheral-nerve-neuromuscular",
+  "stem": "Which condition improves strength temporarily with repetitive activity?",
+  "options": [
+   "Myasthenia gravis",
+   "Lambert-Eaton syndrome",
+   "Curare poisoning",
+   "Botulism",
+   "Hyperkalemia"
+  ],
+  "correctIndex": 1,
+  "explanation": "In Lambert-Eaton syndrome, repetitive activity causes build-up of presynaptic Ca2+, so more ACh is released and strength (and reflexes) transiently improve, with an incremental response on high-frequency stimulation. (First Aid — Neurology: Neuromuscular Junction)",
+  "optionExplanations": [
+   "Myasthenia gravis worsens with repetitive use.",
+   "",
+   "Curare poisoning blocks receptors and does not improve with activity.",
+   "Botulism blocks ACh release and does not improve with use (an incremental response may appear at high rates, but it is not typical clinical improvement).",
+   "Hyperkalemia causes weakness through depolarization block."
+  ],
+  "source": "Physiology Practice MCQs — Set 1",
+  "isRecall": false
+ },
+ {
+  "systemSlug": "musculoskeletal",
+  "topicSlug": "msk-physiology",
+  "stem": "Which protein directly senses depolarization in skeletal muscle T-tubules?",
+  "options": [
+   "Troponin C",
+   "Ryanodine receptor",
+   "Dihydropyridine receptor",
+   "Calsequestrin",
+   "SERCA"
+  ],
+  "correctIndex": 2,
+  "explanation": "The dihydropyridine receptor (DHPR, an L-type Ca2+ channel) in the T-tubule membrane is the voltage sensor. In skeletal muscle, a change in its conformation mechanically opens the ryanodine receptor of the SR without needing Ca2+ entry. (First Aid — Musculoskeletal: Muscle Physiology)",
+  "optionExplanations": [
+   "Troponin C binds the Ca2+ released into the cytosol, not depolarization.",
+   "The ryanodine receptor is the SR Ca2+ release channel, activated by the DHPR.",
+   "",
+   "Calsequestrin stores Ca2+ inside the SR.",
+   "SERCA pumps Ca2+ back into the SR."
+  ],
+  "source": "Physiology Practice MCQs — Set 1",
+  "isRecall": false
+ },
+ {
+  "systemSlug": "musculoskeletal",
+  "topicSlug": "msk-physiology",
+  "stem": "Calcium release from the sarcoplasmic reticulum occurs through:",
+  "options": [
+   "SERCA pumps",
+   "Dihydropyridine receptors",
+   "Ryanodine receptors",
+   "Sodium channels",
+   "Aquaporins"
+  ],
+  "correctIndex": 2,
+  "explanation": "Ca2+ is released from the SR through the ryanodine receptor (RyR1 in skeletal muscle), which is mechanically coupled to the DHPR. Mutations in RyR1 cause malignant hyperthermia, which is treated with dantrolene. (First Aid — Musculoskeletal: Muscle Physiology)",
+  "optionExplanations": [
+   "SERCA pumps Ca2+ into the SR.",
+   "DHPR is the voltage sensor in the T-tubule membrane.",
+   "",
+   "Na+ channels produce the action potential and do not release SR Ca2+.",
+   "Aquaporins carry water."
+  ],
+  "source": "Physiology Practice MCQs — Set 1",
+  "isRecall": false
+ },
+ {
+  "systemSlug": "musculoskeletal",
+  "topicSlug": "msk-physiology",
+  "stem": "Which event terminates skeletal muscle contraction?",
+  "options": [
+   "Acetylcholine release",
+   "Sodium influx",
+   "Calcium reuptake into sarcoplasmic reticulum",
+   "Opening of nicotinic receptors",
+   "Potassium influx"
+  ],
+  "correctIndex": 2,
+  "explanation": "Contraction ends when SERCA pumps Ca2+ back into the sarcoplasmic reticulum (using ATP) and cytosolic Ca2+ falls, so Ca2+ dissociates from troponin C and tropomyosin again blocks the myosin-binding sites. (First Aid — Musculoskeletal: Muscle Physiology)",
+  "optionExplanations": [
+   "ACh release starts the sequence.",
+   "Na+ influx produces depolarization, which starts contraction.",
+   "",
+   "Opening nicotinic receptors initiates the end-plate potential.",
+   "K+ influx is not the termination event."
+  ],
+  "source": "Physiology Practice MCQs — Set 1",
+  "isRecall": false
+ },
+ {
+  "systemSlug": "musculoskeletal",
+  "topicSlug": "msk-physiology",
+  "stem": "Which protein binds calcium to initiate skeletal muscle contraction?",
+  "options": [
+   "Tropomyosin",
+   "Troponin C",
+   "Troponin I",
+   "Myosin",
+   "Actin"
+  ],
+  "correctIndex": 1,
+  "explanation": "In skeletal muscle, Ca2+ binds troponin C, which shifts tropomyosin off the myosin-binding sites on actin so cross-bridges can form. (Smooth muscle has no troponin and uses Ca2+-calmodulin instead.) (First Aid — Musculoskeletal: Muscle Physiology)",
+  "optionExplanations": [
+   "Tropomyosin blocks actin's binding sites at rest; it does not bind Ca2+.",
+   "",
+   "Troponin I binds actin and inhibits the interaction with myosin.",
+   "Myosin binds ATP and actin, not Ca2+, in skeletal muscle regulation.",
+   "Actin is the thin-filament backbone that myosin pulls on."
+  ],
+  "source": "Physiology Practice MCQs — Set 1",
+  "isRecall": false
+ },
+ {
+  "systemSlug": "musculoskeletal",
+  "topicSlug": "msk-physiology",
+  "stem": "ATP is required during skeletal muscle contraction for:",
+  "options": [
+   "Binding calcium to troponin",
+   "Cross-bridge detachment from actin",
+   "Tropomyosin movement",
+   "Sodium influx",
+   "Acetylcholine release"
+  ],
+  "correctIndex": 1,
+  "explanation": "ATP binding to the myosin head is what detaches it from actin (hence rigor mortis in its absence); ATP hydrolysis then 're-cocks' the head. ATP is also used by SERCA and the Na+/K+ pump. (First Aid — Musculoskeletal: Muscle Physiology)",
+  "optionExplanations": [
+   "Ca2+ binding to troponin C needs no ATP.",
+   "",
+   "Tropomyosin moves in response to Ca2+ binding, not ATP.",
+   "Na+ influx is passive through channels.",
+   "ACh release is triggered by Ca2+ entry (exocytosis), not directly by ATP in this step."
+  ],
+  "source": "Physiology Practice MCQs — Set 1",
+  "isRecall": false
+ },
+ {
+  "systemSlug": "musculoskeletal",
+  "topicSlug": "msk-physiology",
+  "stem": "During the power stroke:",
+  "options": [
+   "ATP binds myosin",
+   "Myosin releases ADP and Pi while pulling actin",
+   "Calcium returns to SR",
+   "Tropomyosin covers actin",
+   "Myosin detaches from actin"
+  ],
+  "correctIndex": 1,
+  "explanation": "During the power stroke, the myosin head releases Pi and then ADP while it pivots, pulling the thin filament toward the center of the sarcomere. ATP then binds and detaches the head. (First Aid — Musculoskeletal: Muscle Physiology)",
+  "optionExplanations": [
+   "ATP binding detaches the head from actin; it is not the power stroke.",
+   "",
+   "Ca2+ returns to the SR during relaxation.",
+   "Tropomyosin covers actin when Ca2+ is low (relaxation).",
+   "Detachment follows ATP binding, after the power stroke."
+  ],
+  "source": "Physiology Practice MCQs — Set 1",
+  "isRecall": false
+ },
+ {
+  "systemSlug": "musculoskeletal",
+  "topicSlug": "msk-physiology",
+  "stem": "Rigor mortis occurs because:",
+  "options": [
+   "ATP is depleted",
+   "Calcium cannot bind troponin",
+   "Acetylcholine is absent",
+   "Myosin heads are destroyed",
+   "Sodium channels remain open"
+  ],
+  "correctIndex": 0,
+  "explanation": "Rigor mortis occurs because ATP is depleted after death, so myosin heads cannot detach from actin and the muscles stay stiff until proteolysis begins. (First Aid — Musculoskeletal: Muscle Physiology)",
+  "optionExplanations": [
+   "",
+   "Ca2+ still binds troponin C; in fact, Ca2+ leaks from the SR after death, helping to create the rigid state.",
+   "Lack of ACh is not the reason.",
+   "Myosin heads are intact; they are locked onto actin.",
+   "Na+ channels do not remain open."
+  ],
+  "source": "Physiology Practice MCQs — Set 1",
+  "isRecall": false
+ },
+ {
+  "systemSlug": "musculoskeletal",
+  "topicSlug": "msk-physiology",
+  "stem": "During contraction, which band shortens?",
+  "options": [
+   "A band",
+   "H zone",
+   "Thick filament",
+   "Myosin filament",
+   "Z line"
+  ],
+  "correctIndex": 1,
+  "explanation": "During contraction, the H zone (thick filaments only) and I band shorten as the thin filaments slide inward; the A band (thick filament length) remains constant, as does filament length itself. (First Aid — Musculoskeletal: Muscle Physiology)",
+  "optionExplanations": [
+   "The A band equals the thick filament length and is constant.",
+   "",
+   "Filaments themselves do not shorten (sliding-filament model).",
+   "Myosin filament length is constant.",
+   "The Z lines come closer together, but the Z line itself does not shorten."
+  ],
+  "source": "Physiology Practice MCQs — Set 1",
+  "isRecall": false
+ },
+ {
+  "systemSlug": "musculoskeletal",
+  "topicSlug": "msk-physiology",
+  "stem": "The A band represents:",
+  "options": [
+   "Thin filaments only",
+   "Thick filaments",
+   "Z lines",
+   "I bands",
+   "Sarcoplasmic reticulum"
+  ],
+  "correctIndex": 1,
+  "explanation": "The A band (anisotropic) is the full length of the thick (myosin) filaments, including the region where they overlap thin filaments; its width stays constant during contraction. (First Aid — Musculoskeletal: Muscle Physiology)",
+  "optionExplanations": [
+   "Thin filaments are the I band plus overlap regions, but the A band is defined by thick filaments.",
+   "",
+   "Z lines mark the borders of the sarcomere.",
+   "The I band is the region with thin filaments only.",
+   "SR is a membranous organelle, not a band."
+  ],
+  "source": "Physiology Practice MCQs — Set 1",
+  "isRecall": false
+ },
+ {
+  "systemSlug": "musculoskeletal",
+  "topicSlug": "msk-physiology",
+  "stem": "The I band contains:",
+  "options": [
+   "Thick filaments only",
+   "Thin filaments only",
+   "Both thick and thin filaments",
+   "M line only",
+   "Sarcoplasmic reticulum"
+  ],
+  "correctIndex": 1,
+  "explanation": "The I band (isotropic) contains thin filaments only (actin, tropomyosin, troponin), spanning the Z line, and it shortens during contraction. (First Aid — Musculoskeletal: Muscle Physiology)",
+  "optionExplanations": [
+   "Thick filaments only are present in the H zone.",
+   "",
+   "Both are present in the A band where they overlap.",
+   "The M line is at the center of the sarcomere.",
+   "SR is not a band."
+  ],
+  "source": "Physiology Practice MCQs — Set 1",
+  "isRecall": false
+ },
+ {
+  "systemSlug": "musculoskeletal",
+  "topicSlug": "msk-physiology",
+  "stem": "Which protein anchors thick filaments to the M line?",
+  "options": [
+   "Dystrophin",
+   "Titin",
+   "Nebulin",
+   "Desmin",
+   "Troponin"
+  ],
+  "correctIndex": 1,
+  "explanation": "Titin is a giant elastic protein that connects the thick filament (M line region) to the Z disc and keeps the myosin filament centered within the sarcomere; it is responsible for passive tension. (First Aid — Musculoskeletal: Muscle Physiology)",
+  "optionExplanations": [
+   "Dystrophin links actin to the sarcolemma and the extracellular matrix (mutated in Duchenne dystrophy).",
+   "",
+   "Nebulin is a template for thin filament length.",
+   "Desmin links Z discs and holds myofibrils together.",
+   "Troponin is a regulatory protein on the thin filaments."
+  ],
+  "source": "Physiology Practice MCQs — Set 1",
+  "isRecall": false
+ },
+ {
+  "systemSlug": "musculoskeletal",
+  "topicSlug": "msk-physiology",
+  "stem": "Titin primarily functions to:",
+  "options": [
+   "Bind calcium",
+   "Provide elastic recoil",
+   "Pump calcium",
+   "Form cross-bridges",
+   "Degrade ATP"
+  ],
+  "correctIndex": 1,
+  "explanation": "Titin acts like a spring: it provides elastic recoil and passive tension, helps keep thick filaments centered and restores sarcomere length after stretch. (First Aid — Musculoskeletal: Muscle Physiology)",
+  "optionExplanations": [
+   "Ca2+ binding is by troponin C.",
+   "",
+   "Ca2+ pumping is done by SERCA.",
+   "Cross-bridges are formed by myosin heads.",
+   "ATP is hydrolyzed by the myosin ATPase."
+  ],
+  "source": "Physiology Practice MCQs — Set 1",
+  "isRecall": false
+ },
+ {
+  "systemSlug": "musculoskeletal",
+  "topicSlug": "msk-physiology",
+  "stem": "SERCA pumps transport:",
+  "options": [
+   "Na+ out of SR",
+   "K+ into SR",
+   "Ca2+ into SR",
+   "Cl− into SR",
+   "Mg2+ into SR"
+  ],
+  "correctIndex": 2,
+  "explanation": "SERCA (sarco/endoplasmic reticulum Ca2+-ATPase) pumps Ca2+ from the cytosol into the sarcoplasmic reticulum using ATP; this ends contraction and refills the Ca2+ stores. (First Aid — Musculoskeletal: Muscle Physiology)",
+  "optionExplanations": [
+   "SERCA moves Ca2+, not Na+.",
+   "It does not transport K+.",
+   "",
+   "It does not transport Cl-.",
+   "It does not transport Mg2+."
+  ],
+  "source": "Physiology Practice MCQs — Set 1",
+  "isRecall": false
+ },
+ {
+  "systemSlug": "musculoskeletal",
+  "topicSlug": "msk-physiology",
+  "stem": "Which event directly terminates contraction?",
+  "options": [
+   "Acetylcholine release",
+   "ATP hydrolysis",
+   "Calcium reuptake into SR",
+   "Sodium influx",
+   "Potassium efflux"
+  ],
+  "correctIndex": 2,
+  "explanation": "Reuptake of Ca2+ into the SR (via SERCA) lowers cytosolic Ca2+, releasing troponin C and letting tropomyosin block actin; this is the direct event that terminates contraction. (First Aid — Musculoskeletal: Muscle Physiology)",
+  "optionExplanations": [
+   "ACh release starts the cycle.",
+   "ATP hydrolysis powers cross-bridge cycling; stopping it would cause rigor.",
+   "",
+   "Na+ influx depolarizes the cell.",
+   "K+ efflux repolarizes the cell, not the contractile apparatus."
+  ],
+  "source": "Physiology Practice MCQs — Set 1",
+  "isRecall": false
+ },
+ {
+  "systemSlug": "musculoskeletal",
+  "topicSlug": "msk-physiology",
+  "stem": "Maximum skeletal muscle tension occurs when:",
+  "options": [
+   "No overlap exists",
+   "Thick filaments completely overlap",
+   "Optimal overlap between actin and myosin exists",
+   "Sarcomere is maximally stretched",
+   "Calcium concentration is minimal"
+  ],
+  "correctIndex": 2,
+  "explanation": "In the length-tension relationship, maximum active tension occurs at the optimal sarcomere length (about 2.0–2.2 µm), when there is optimal overlap of actin and myosin and the maximum number of cross-bridges can form. (First Aid — Musculoskeletal: Muscle Physiology)",
+  "optionExplanations": [
+   "With no overlap, no cross-bridges form and active tension is zero.",
+   "Excessive overlap (shortened sarcomere) lowers tension as thin filaments collide.",
+   "",
+   "Over-stretching reduces overlap and active tension.",
+   "Minimal Ca2+ gives minimal tension."
+  ],
+  "source": "Physiology Practice MCQs — Set 1",
+  "isRecall": false
+ },
+ {
+  "systemSlug": "musculoskeletal",
+  "topicSlug": "msk-physiology",
+  "stem": "Isometric contraction is characterized by:",
+  "options": [
+   "Muscle shortens",
+   "Constant tension",
+   "Constant length with increased tension",
+   "Decreased ATP use",
+   "No cross-bridge cycling"
+  ],
+  "correctIndex": 2,
+  "explanation": "In an isometric contraction the muscle length stays constant while tension rises (e.g., pushing against a wall, gripping a fixed object). (First Aid — Musculoskeletal: Muscle Physiology)",
+  "optionExplanations": [
+   "Shortening describes isotonic contraction.",
+   "Tension rises (it is not constant); load is constant in isotonic contraction.",
+   "",
+   "ATP use is not decreased; cross-bridges still cycle.",
+   "Cross-bridge cycling continues."
+  ],
+  "source": "Physiology Practice MCQs — Set 1",
+  "isRecall": false
+ },
+ {
+  "systemSlug": "musculoskeletal",
+  "topicSlug": "msk-physiology",
+  "stem": "Isotonic contraction is characterized by:",
+  "options": [
+   "Constant muscle length",
+   "Constant load while muscle shortens",
+   "No ATP consumption",
+   "No tension development",
+   "No calcium release"
+  ],
+  "correctIndex": 1,
+  "explanation": "In an isotonic contraction, the muscle shortens against a constant load (tension stays constant during shortening), as in lifting a weight. (First Aid — Musculoskeletal: Muscle Physiology)",
+  "optionExplanations": [
+   "Constant length describes isometric contraction.",
+   "",
+   "ATP is consumed in every contraction.",
+   "Tension equals the load being lifted.",
+   "Ca2+ release still occurs."
+  ],
+  "source": "Physiology Practice MCQs — Set 1",
+  "isRecall": false
+ },
+ {
+  "systemSlug": "musculoskeletal",
+  "topicSlug": "msk-physiology",
+  "stem": "Which muscle fiber has the greatest mitochondrial density?",
+  "options": [
+   "Type IIb",
+   "Type IIx",
+   "Type I",
+   "Fast glycolytic",
+   "White fibers"
+  ],
+  "correctIndex": 2,
+  "explanation": "Type I (slow-twitch, red) fibers are rich in mitochondria and myoglobin and rely on oxidative phosphorylation; they are fatigue-resistant and suited to endurance and postural tone. (First Aid — Musculoskeletal: Muscle Physiology)",
+  "optionExplanations": [
+   "Type IIb (human IIx) fibers are glycolytic, with few mitochondria.",
+   "Type IIx are fast and glycolytic, with low mitochondrial density.",
+   "",
+   "Fast glycolytic fibers have few mitochondria.",
+   "White fibers are the fast glycolytic ones."
+  ],
+  "source": "Physiology Practice MCQs — Set 1",
+  "isRecall": false
+ },
+ {
+  "systemSlug": "musculoskeletal",
+  "topicSlug": "msk-physiology",
+  "stem": "Type IIb fibers primarily rely on:",
+  "options": [
+   "Oxidative phosphorylation",
+   "Aerobic metabolism",
+   "Glycolysis",
+   "Fatty acid oxidation",
+   "Ketone metabolism"
+  ],
+  "correctIndex": 2,
+  "explanation": "Type IIb (fast glycolytic, white) fibers produce ATP mainly by anaerobic glycolysis, so they generate high force quickly but fatigue rapidly (sprinting, weightlifting). (First Aid — Musculoskeletal: Muscle Physiology)",
+  "optionExplanations": [
+   "Oxidative phosphorylation is the main route in type I fibers.",
+   "Aerobic metabolism is typical of type I (and IIa) fibers.",
+   "",
+   "Fatty acid oxidation is a feature of oxidative fibers.",
+   "Ketones are used mainly during fasting by oxidative tissues."
+  ],
+  "source": "Physiology Practice MCQs — Set 1",
+  "isRecall": false
+ },
+ {
+  "systemSlug": "musculoskeletal",
+  "topicSlug": "msk-physiology",
+  "stem": "Fatigue during intense exercise is most closely associated with accumulation of:",
+  "options": [
+   "ATP",
+   "ADP and inorganic phosphate",
+   "Calcium",
+   "Sodium",
+   "Oxygen"
+  ],
+  "correctIndex": 1,
+  "explanation": "Fatigue in intense exercise is closely linked to accumulation of ADP and inorganic phosphate (Pi), which slows cross-bridge cycling and reduces Ca2+ release and myofilament sensitivity, along with H+ from lactic acid. (First Aid — Musculoskeletal: Muscle Physiology)",
+  "optionExplanations": [
+   "ATP falls only slightly; high ATP does not cause fatigue.",
+   "",
+   "Cytosolic Ca2+ is not the cause of fatigue.",
+   "Na+ is not the primary factor.",
+   "Oxygen accumulation does not cause fatigue."
+  ],
+  "source": "Physiology Practice MCQs — Set 1",
+  "isRecall": false
+ },
+ {
+  "systemSlug": "musculoskeletal",
+  "topicSlug": "msk-physiology",
+  "stem": "Which characteristic is unique to smooth muscle?",
+  "options": [
+   "Troponin-mediated contraction",
+   "Sarcomeres",
+   "Dense bodies",
+   "T tubules",
+   "Multinucleated fibers"
+  ],
+  "correctIndex": 2,
+  "explanation": "Smooth muscle lacks sarcomeres and T tubules; actin is anchored to dense bodies, which are analogous to Z discs, and a contraction is regulated by Ca2+-calmodulin instead of troponin. (First Aid — Musculoskeletal: Muscle Physiology)",
+  "optionExplanations": [
+   "Troponin regulation is a feature of skeletal and cardiac muscle.",
+   "Sarcomeres are present in striated muscles, not smooth muscle.",
+   "",
+   "T tubules are present in skeletal and cardiac muscle.",
+   "Smooth muscle cells are uninucleate; skeletal muscle fibers are multinucleate."
+  ],
+  "source": "Physiology Practice MCQs — Set 1",
+  "isRecall": false
+ },
+ {
+  "systemSlug": "musculoskeletal",
+  "topicSlug": "msk-physiology",
+  "stem": "Smooth muscle contraction is initiated by:",
+  "options": [
+   "Troponin activation",
+   "Calmodulin activation",
+   "Titin activation",
+   "Tropomyosin phosphorylation",
+   "Acetylcholine esterase"
+  ],
+  "correctIndex": 1,
+  "explanation": "In smooth muscle, Ca2+ binds calmodulin; the Ca2+-calmodulin complex activates myosin light-chain kinase (MLCK), which phosphorylates the myosin light chain and starts cross-bridge cycling. (First Aid — Musculoskeletal: Muscle Physiology)",
+  "optionExplanations": [
+   "Smooth muscle has no troponin.",
+   "",
+   "Titin activation is not part of the mechanism.",
+   "Tropomyosin is not phosphorylated to start contraction.",
+   "Acetylcholinesterase breaks down ACh and is not an initiator."
+  ],
+  "source": "Physiology Practice MCQs — Set 1",
+  "isRecall": false
+ },
+ {
+  "systemSlug": "musculoskeletal",
+  "topicSlug": "msk-physiology",
+  "stem": "Myosin light-chain kinase (MLCK) is activated by:",
+  "options": [
+   "ATP alone",
+   "Calcium-calmodulin complex",
+   "Troponin C",
+   "cAMP",
+   "Sodium influx"
+  ],
+  "correctIndex": 1,
+  "explanation": "MLCK is activated by the Ca2+-calmodulin complex, which phosphorylates the regulatory light chain of myosin and enables its interaction with actin. (First Aid — Musculoskeletal: Muscle Physiology)",
+  "optionExplanations": [
+   "ATP alone does not activate MLCK.",
+   "",
+   "Troponin C is in striated muscle.",
+   "cAMP inhibits MLCK through PKA and promotes relaxation.",
+   "Na+ influx depolarizes the cell but does not activate MLCK directly."
+  ],
+  "source": "Physiology Practice MCQs — Set 1",
+  "isRecall": false
+ },
+ {
+  "systemSlug": "musculoskeletal",
+  "topicSlug": "msk-physiology",
+  "stem": "Increased intracellular cAMP in smooth muscle generally causes:",
+  "options": [
+   "Increased contraction",
+   "MLCK activation",
+   "Relaxation",
+   "Increased calcium influx",
+   "Increased actin polymerization"
+  ],
+  "correctIndex": 2,
+  "explanation": "Increased cAMP (e.g., via β2 agonists like salbutamol) activates PKA, which phosphorylates and inhibits MLCK and lowers Ca2+, so smooth muscle relaxes (bronchodilation, vasodilation). (First Aid — Musculoskeletal: Muscle Physiology)",
+  "optionExplanations": [
+   "cAMP reduces contraction, not increases it.",
+   "MLCK is inhibited, not activated.",
+   "",
+   "cAMP/PKA decreases Ca2+ availability.",
+   "Actin polymerization is not the mechanism."
+  ],
+  "source": "Physiology Practice MCQs — Set 1",
+  "isRecall": false
+ },
+ {
+  "systemSlug": "musculoskeletal",
+  "topicSlug": "msk-physiology",
+  "stem": "Which statement correctly compares skeletal and smooth muscle?",
+  "options": [
+   "Both require troponin",
+   "Smooth muscle lacks myosin",
+   "Smooth muscle lacks troponin",
+   "Skeletal muscle lacks actin",
+   "Skeletal muscle uses calmodulin"
+  ],
+  "correctIndex": 2,
+  "explanation": "Smooth muscle lacks troponin (and sarcomeres); it uses Ca2+-calmodulin and MLCK to regulate contraction, while skeletal muscle uses troponin C. (First Aid — Musculoskeletal: Muscle Physiology)",
+  "optionExplanations": [
+   "Only striated muscles need troponin.",
+   "Both types have myosin.",
+   "",
+   "Skeletal muscle contains actin.",
+   "Skeletal muscle uses troponin, whereas smooth muscle uses calmodulin."
+  ],
+  "source": "Physiology Practice MCQs — Set 1",
+  "isRecall": false
+ },
+ {
+  "systemSlug": "musculoskeletal",
+  "topicSlug": "msk-physiology",
+  "stem": "Latch state in smooth muscle results in:",
+  "options": [
+   "Increased ATP consumption",
+   "Sustained contraction with low ATP use",
+   "Complete relaxation",
+   "Calcium depletion",
+   "Rapid fatigue"
+  ],
+  "correctIndex": 1,
+  "explanation": "The latch state in smooth muscle is sustained contraction at low Ca2+, low MLCK activity and very low ATP use (dephosphorylated myosin remains attached to actin and detaches slowly), allowing prolonged tone without fatigue. (First Aid — Musculoskeletal: Muscle Physiology)",
+  "optionExplanations": [
+   "ATP consumption is low, not high.",
+   "",
+   "The muscle stays contracted.",
+   "Ca2+ is low but not depleted.",
+   "Smooth muscle is fatigue-resistant, which is the point of the latch state."
+  ],
+  "source": "Physiology Practice MCQs — Set 1",
+  "isRecall": false
+ },
+ {
+  "systemSlug": "musculoskeletal",
+  "topicSlug": "msk-physiology",
+  "stem": "Which muscle type contains gap junctions in its single-unit form?",
+  "options": [
+   "Skeletal muscle",
+   "Cardiac Purkinje fibers only",
+   "Smooth muscle",
+   "Fast skeletal fibers",
+   "Neuromuscular junction"
+  ],
+  "correctIndex": 2,
+  "explanation": "Single-unit (visceral) smooth muscle (gut, uterus, ureter, bladder) is connected by gap junctions, so cells contract as a syncytium; multi-unit smooth muscle (iris, vas deferens) is not. (First Aid — Musculoskeletal: Muscle Physiology)",
+  "optionExplanations": [
+   "Skeletal fibers are not electrically coupled by gap junctions.",
+   "Cardiac muscle has gap junctions in intercalated discs; the option incorrectly limits them to Purkinje fibers and does not describe smooth muscle.",
+   "",
+   "Fast skeletal fibers are not coupled by gap junctions.",
+   "The NMJ is a chemical synapse."
+  ],
+  "source": "Physiology Practice MCQs — Set 1",
+  "isRecall": false
+ },
+ {
+  "systemSlug": "musculoskeletal",
+  "topicSlug": "msk-physiology",
+  "stem": "Which feature best distinguishes skeletal from smooth muscle?",
+  "options": [
+   "Presence of actin",
+   "Presence of myosin",
+   "Requirement for extracellular calcium",
+   "Sarcomeric organization",
+   "ATP dependence"
+  ],
+  "correctIndex": 3,
+  "explanation": "Skeletal muscle has sarcomeric (striated) organization of thick and thin filaments, whereas smooth muscle has actin and myosin arranged without sarcomeres. (First Aid — Musculoskeletal: Muscle Physiology)",
+  "optionExplanations": [
+   "Both have actin.",
+   "Both have myosin.",
+   "Both depend on Ca2+; skeletal muscle relies on SR stores, smooth muscle on both.",
+   "",
+   "Both depend on ATP."
+  ],
+  "source": "Physiology Practice MCQs — Set 1",
+  "isRecall": false
+ },
+ {
+  "systemSlug": "nervous-system",
+  "topicSlug": "neurophysiology",
+  "stem": "A mutation causes voltage-gated Na+ channels to remain in the inactivated state longer than normal. Which effect is expected?",
+  "options": [
+   "Faster conduction velocity",
+   "Shortened refractory period",
+   "Prolonged absolute refractory period",
+   "Increased resting membrane potential",
+   "Increased neurotransmitter release"
+  ],
+  "correctIndex": 2,
+  "explanation": "If Na+ channels stay inactivated longer, they take longer to recover, so the absolute refractory period is prolonged. The neuron fires at a lower maximum frequency and may fail to propagate impulses (as seen in some channelopathies and with drugs such as phenytoin, carbamazepine and lamotrigine that prolong inactivation). (First Aid — Neurology: Neurophysiology)",
+  "optionExplanations": [
+   "Conduction velocity would be slower, not faster, because fewer Na+ channels are available.",
+   "A longer inactivation lengthens the refractory period.",
+   "",
+   "The resting potential depends mainly on K+ permeability and is not altered by Na+ channel inactivation.",
+   "Fewer action potentials reach the terminal, so transmitter release would decrease."
+  ],
+  "source": "Physiology Practice MCQs — Set 1",
+  "isRecall": false
+ },
+ {
+  "systemSlug": "cardiovascular",
+  "topicSlug": "cardiac-pharmacology",
+  "stem": "A patient receives digitalis. Which transporter is inhibited directly?",
+  "options": [
+   "Na+/Ca2+ exchanger",
+   "Na+/K+-ATPase",
+   "Ca2+-ATPase",
+   "Na+/H+ exchanger",
+   "GLUT4"
+  ],
+  "correctIndex": 1,
+  "explanation": "Digitalis (digoxin) directly inhibits the Na+/K+-ATPase. Intracellular Na+ rises, the Na+/Ca2+ exchanger extrudes less Ca2+, and intracellular Ca2+ increases, which raises the force of contraction (positive inotropy). It also stimulates vagal tone and slows AV conduction; toxicity is worsened by hypokalemia. (First Aid — Pharmacology: Cardiovascular Drugs)",
+  "optionExplanations": [
+   "The Na+/Ca2+ exchanger is affected indirectly, because the Na+ gradient is reduced.",
+   "",
+   "Ca2+-ATPase is not the target of digoxin.",
+   "The Na+/H+ exchanger is not the target.",
+   "GLUT4 is the insulin-regulated glucose transporter and has no relation to digoxin."
+  ],
+  "source": "Physiology Practice MCQs — Set 1",
+  "isRecall": false
+ },
+ {
+  "systemSlug": "renal",
+  "topicSlug": "renal-physiology-acid-base",
+  "stem": "Inhibition of the Na+/K+-ATPase ultimately increases intracellular:",
+  "options": [
+   "K+",
+   "Na+",
+   "Cl−",
+   "Mg2+",
+   "HCO3−"
+  ],
+  "correctIndex": 1,
+  "explanation": "Blocking the Na+/K+-ATPase leaves Na+ unpumped, so intracellular Na+ rises (K+ falls); this reduces the Na+ gradient, causes cell swelling, and in cardiac muscle raises intracellular Ca2+ through the Na+/Ca2+ exchanger. (First Aid — Renal: Transport and Physiology)",
+  "optionExplanations": [
+   "Intracellular K+ falls when the pump is inhibited.",
+   "",
+   "Cl- is not directly changed by pump inhibition.",
+   "Mg2+ is not directly pumped by this ATPase.",
+   "HCO3- is not directly changed."
+  ],
+  "source": "Physiology Practice MCQs — Set 1",
+  "isRecall": false
+ },
+ {
+  "systemSlug": "gastrointestinal",
+  "topicSlug": "gi-physiology",
+  "stem": "Which transport mechanism is capable of moving glucose against its concentration gradient?",
+  "options": [
+   "Simple diffusion",
+   "GLUT4",
+   "Na+-glucose cotransport",
+   "Facilitated diffusion",
+   "Osmosis"
+  ],
+  "correctIndex": 2,
+  "explanation": "Na+-glucose cotransport (SGLT1 in the intestine, SGLT2 in the proximal tubule) uses the energy of the Na+ gradient to move glucose against its own gradient: secondary active transport. SGLT2 inhibitors (empagliflozin, dapagliflozin) act on this transporter. (First Aid — Gastrointestinal: Physiology)",
+  "optionExplanations": [
+   "Simple diffusion can only move glucose down its gradient.",
+   "GLUT4 is facilitated diffusion, so only downhill.",
+   "",
+   "Facilitated diffusion cannot move solute against a gradient.",
+   "Osmosis refers to water movement."
+  ],
+  "source": "Physiology Practice MCQs — Set 1",
+  "isRecall": false
+ },
+ {
+  "systemSlug": "renal",
+  "topicSlug": "electrolyte-disorders",
+  "stem": "If extracellular osmolarity suddenly doubles due to addition of impermeant solute, cells initially:",
+  "options": [
+   "Swell",
+   "Shrink",
+   "Remain unchanged",
+   "Lyse",
+   "Depolarize immediately"
+  ],
+  "correctIndex": 1,
+  "explanation": "If the extracellular fluid becomes hyperosmotic through impermeant solute, water moves out of the cell by osmosis and the cell initially shrinks (crenation). (First Aid — Renal: Electrolytes and Tonicity)",
+  "optionExplanations": [
+   "Swelling occurs in hypotonic fluid.",
+   "",
+   "The cell cannot remain unchanged because an osmotic gradient has been created.",
+   "Lysis occurs in extreme hypotonic conditions.",
+   "Depolarization is not the immediate effect."
+  ],
+  "source": "Physiology Practice MCQs — Set 1",
+  "isRecall": false
+ },
+ {
+  "systemSlug": "renal",
+  "topicSlug": "renal-physiology-acid-base",
+  "stem": "Which variable has the greatest effect on diffusion rate across a membrane?",
+  "options": [
+   "Concentration gradient",
+   "ATP concentration",
+   "Sodium pump activity",
+   "Membrane capacitance",
+   "Cell volume"
+  ],
+  "correctIndex": 0,
+  "explanation": "Fick's law (J = −D · A · ΔC/Δx) shows that flux is proportional to the concentration gradient, the surface area and the diffusion coefficient, and inversely proportional to thickness. Of the listed variables, the concentration gradient is the direct driving force for diffusion. (First Aid — Renal: Transport and Physiology)",
+  "optionExplanations": [
+   "",
+   "ATP does not govern passive diffusion.",
+   "Pump activity matters for active transport, not diffusion rate.",
+   "Capacitance is an electrical property and is not part of Fick's law.",
+   "Cell volume is not a direct variable in the equation."
+  ],
+  "source": "Physiology Practice MCQs — Set 1",
+  "isRecall": false
+ },
+ {
+  "systemSlug": "renal",
+  "topicSlug": "renal-physiology-acid-base",
+  "stem": "Increasing membrane thickness decreases diffusion because:",
+  "options": [
+   "Resistance to diffusion increases",
+   "Surface area increases",
+   "ATP decreases",
+   "Carrier proteins are destroyed",
+   "Membrane potential disappears"
+  ],
+  "correctIndex": 0,
+  "explanation": "By Fick's law, diffusion rate is inversely proportional to the diffusion distance (membrane thickness): a thicker barrier raises resistance, as in pulmonary fibrosis or pulmonary edema, which lower the diffusing capacity for CO. (First Aid — Renal: Transport and Physiology)",
+  "optionExplanations": [
+   "",
+   "Thickening does not increase surface area; a larger surface area would increase diffusion.",
+   "ATP is not involved in passive diffusion.",
+   "Carrier proteins are not destroyed by thickening.",
+   "The membrane potential does not disappear."
+  ],
+  "source": "Physiology Practice MCQs — Set 1",
+  "isRecall": false
+ },
+ {
+  "systemSlug": "renal",
+  "topicSlug": "renal-physiology-acid-base",
+  "stem": "Which factor most increases passive diffusion?",
+  "options": [
+   "Increased molecular size",
+   "Increased lipid solubility",
+   "Increased polarity",
+   "Protein binding",
+   "ATP hydrolysis"
+  ],
+  "correctIndex": 1,
+  "explanation": "Passive diffusion through the bilayer increases with lipid solubility (a higher oil/water partition coefficient) and decreases with molecular size, polarity or charge (Overton's rule). (First Aid — Renal: Transport and Physiology)",
+  "optionExplanations": [
+   "Larger molecules diffuse more slowly.",
+   "",
+   "Polar and charged molecules cross poorly.",
+   "Protein binding lowers the free, diffusible fraction.",
+   "ATP hydrolysis belongs to active transport."
+  ],
+  "source": "Physiology Practice MCQs — Set 1",
+  "isRecall": false
+ },
+ {
+  "systemSlug": "renal",
+  "topicSlug": "renal-physiology-acid-base",
+  "stem": "The driving force for secondary active transport is:",
+  "options": [
+   "ATP hydrolysis by transporter",
+   "Electrochemical gradient established by primary active transport",
+   "Membrane cholesterol",
+   "Osmotic pressure",
+   "Hydrostatic pressure"
+  ],
+  "correctIndex": 1,
+  "explanation": "Secondary active transport uses the electrochemical gradient (usually Na+) that the primary active transporter (Na+/K+-ATPase) established; ATP is used indirectly to create that gradient. (First Aid — Renal: Transport and Physiology)",
+  "optionExplanations": [
+   "ATP hydrolysis by the transporter itself defines primary active transport.",
+   "",
+   "Cholesterol affects membrane fluidity, not transport energy.",
+   "Osmotic pressure drives water movement.",
+   "Hydrostatic pressure drives filtration."
+  ],
+  "source": "Physiology Practice MCQs — Set 1",
+  "isRecall": false
+ },
+ {
+  "systemSlug": "nervous-system",
+  "topicSlug": "neurophysiology",
+  "stem": "During depolarization, membrane conductance for:",
+  "options": [
+   "Potassium increases first",
+   "Sodium increases rapidly",
+   "Chloride increases",
+   "Calcium decreases",
+   "Potassium decreases permanently"
+  ],
+  "correctIndex": 1,
+  "explanation": "During depolarization, voltage-gated Na+ channels open, increasing Na+ conductance rapidly (regenerative positive feedback). K+ conductance rises later, causing repolarization. (First Aid — Neurology: Neurophysiology)",
+  "optionExplanations": [
+   "K+ channels open later and more slowly.",
+   "",
+   "Chloride conductance does not rise significantly.",
+   "Ca2+ conductance does not decrease in a way that defines depolarization.",
+   "K+ conductance increases during repolarization; it is not decreased permanently."
+  ],
+  "source": "Physiology Practice MCQs — Set 1",
+  "isRecall": false
+ },
+ {
+  "systemSlug": "nervous-system",
+  "topicSlug": "neurophysiology",
+  "stem": "Which ion is primarily responsible for repolarization?",
+  "options": [
+   "Na+",
+   "Ca2+",
+   "K+",
+   "Cl−",
+   "Mg2+"
+  ],
+  "correctIndex": 2,
+  "explanation": "Repolarization is mainly due to K+ efflux through delayed-rectifier voltage-gated K+ channels, together with inactivation of Na+ channels. (First Aid — Neurology: Neurophysiology)",
+  "optionExplanations": [
+   "Na+ entry causes depolarization.",
+   "Ca2+ entry causes the plateau in cardiac myocytes.",
+   "",
+   "Cl- is not the main repolarizing ion in neurons.",
+   "Mg2+ is not involved."
+  ],
+  "source": "Physiology Practice MCQs — Set 1",
+  "isRecall": false
+ },
+ {
+  "systemSlug": "nervous-system",
+  "topicSlug": "neurophysiology",
+  "stem": "Hyperpolarization occurs because:",
+  "options": [
+   "Sodium channels reopen",
+   "Potassium channels remain open briefly after repolarization",
+   "Calcium channels open",
+   "Chloride channels close",
+   "Na+/K+ pump stops"
+  ],
+  "correctIndex": 1,
+  "explanation": "After-hyperpolarization (undershoot) occurs because voltage-gated K+ channels are slow to close, so K+ conductance stays high for a short time after repolarization and the membrane potential approaches EK. (First Aid — Neurology: Neurophysiology)",
+  "optionExplanations": [
+   "Na+ channels reopen only after the membrane has recovered from inactivation.",
+   "",
+   "Ca2+ channels opening would depolarize the cell.",
+   "Chloride channel closure would not hyperpolarize the cell.",
+   "Pump failure would cause depolarization over time."
+  ],
+  "source": "Physiology Practice MCQs — Set 1",
+  "isRecall": false
+ },
+ {
+  "systemSlug": "nervous-system",
+  "topicSlug": "neurophysiology",
+  "stem": "Saltatory conduction requires:",
+  "options": [
+   "Continuous sodium channels along axon",
+   "Nodes of Ranvier rich in voltage-gated sodium channels",
+   "Absence of myelin",
+   "Large dendrites",
+   "Ligand-gated sodium channels"
+  ],
+  "correctIndex": 1,
+  "explanation": "Saltatory conduction needs myelin-insulated internodes and nodes of Ranvier densely packed with voltage-gated Na+ channels where the action potential is regenerated. (First Aid — Neurology: Neurophysiology)",
+  "optionExplanations": [
+   "Continuous Na+ channel distribution is typical of unmyelinated axons (continuous conduction).",
+   "",
+   "Myelin is required.",
+   "Dendrite size is not the factor.",
+   "Ligand-gated Na+ channels are found at synapses, not nodes."
+  ],
+  "source": "Physiology Practice MCQs — Set 1",
+  "isRecall": false
+ },
+ {
+  "systemSlug": "nervous-system",
+  "topicSlug": "neurophysiology",
+  "stem": "Multiple sclerosis slows nerve conduction primarily because:",
+  "options": [
+   "Sodium channels disappear from nodes",
+   "Demyelination increases current leakage",
+   "Potassium equilibrium potential changes",
+   "Resting membrane potential becomes zero",
+   "Calcium channels are blocked"
+  ],
+  "correctIndex": 1,
+  "explanation": "In multiple sclerosis, demyelination lowers membrane resistance and raises capacitance, so current leaks out of the axon and the local circuit current is too weak to depolarize the next node, slowing or blocking conduction (optic neuritis, INO, spasticity). Heat worsens the block (Uhthoff phenomenon). (First Aid — Neurology: Neurophysiology)",
+  "optionExplanations": [
+   "Na+ channels are present at nodes; the issue is current leakage, not loss of channels.",
+   "",
+   "EK is unchanged by demyelination.",
+   "The resting potential is not zero.",
+   "Calcium channels are not blocked."
+  ],
+  "source": "Physiology Practice MCQs — Set 1",
+  "isRecall": false
+ },
+ {
+  "systemSlug": "nervous-system",
+  "topicSlug": "peripheral-nerve-neuromuscular",
+  "stem": "Which event occurs first after arrival of an action potential at the motor nerve terminal?",
+  "options": [
+   "Acetylcholine binds receptor",
+   "Calcium enters presynaptic terminal",
+   "Sodium enters muscle",
+   "Calcium binds troponin",
+   "Muscle action potential begins"
+  ],
+  "correctIndex": 1,
+  "explanation": "When an action potential reaches the motor nerve terminal, voltage-gated Ca2+ channels open and Ca2+ enters the presynaptic terminal, which triggers ACh vesicle exocytosis. This is the first step after arrival of the impulse. (First Aid — Neurology: Neuromuscular Junction)",
+  "optionExplanations": [
+   "ACh binding follows vesicle release.",
+   "",
+   "Na+ entry into the muscle occurs after ACh binds the receptor.",
+   "Ca2+ binding to troponin occurs at the end of excitation-contraction coupling.",
+   "The muscle action potential begins after the end-plate potential reaches threshold."
+  ],
+  "source": "Physiology Practice MCQs — Set 1",
+  "isRecall": false
+ },
+ {
+  "systemSlug": "nervous-system",
+  "topicSlug": "peripheral-nerve-neuromuscular",
+  "stem": "Which protein hydrolyzes acetylcholine in the synaptic cleft?",
+  "options": [
+   "Acetyl-CoA synthetase",
+   "Choline acetyltransferase",
+   "Acetylcholinesterase",
+   "SERCA",
+   "MLCK"
+  ],
+  "correctIndex": 2,
+  "explanation": "Acetylcholinesterase, located in the synaptic cleft (basal lamina), hydrolyzes ACh into acetate and choline; choline is taken back up into the nerve terminal for resynthesis by choline acetyltransferase. (First Aid — Neurology: Neuromuscular Junction)",
+  "optionExplanations": [
+   "Acetyl-CoA synthetase is involved in acetyl-CoA production.",
+   "Choline acetyltransferase synthesizes ACh; it does not break it down.",
+   "",
+   "SERCA is the SR Ca2+ pump.",
+   "MLCK phosphorylates myosin in smooth muscle."
+  ],
+  "source": "Physiology Practice MCQs — Set 1",
+  "isRecall": false
+ },
+ {
+  "systemSlug": "musculoskeletal",
+  "topicSlug": "msk-pharmacology",
+  "stem": "Dantrolene reduces skeletal muscle contraction by:",
+  "options": [
+   "Blocking nicotinic receptors",
+   "Blocking voltage-gated sodium channels",
+   "Inhibiting ryanodine receptors",
+   "Activating SERCA",
+   "Inhibiting MLCK"
+  ],
+  "correctIndex": 2,
+  "explanation": "Dantrolene inhibits the ryanodine receptor (RyR1) on the sarcoplasmic reticulum, blocking Ca2+ release and relaxing skeletal muscle. It is the treatment for malignant hyperthermia (e.g., after halothane or succinylcholine) and neuroleptic malignant syndrome. (First Aid — Pharmacology: Muscle Relaxants)",
+  "optionExplanations": [
+   "Blocking nicotinic receptors is the mechanism of non-depolarizing neuromuscular blockers.",
+   "Na+ channel blockers are local anesthetics and class I antiarrhythmics.",
+   "",
+   "Activating SERCA is not the mechanism of dantrolene.",
+   "MLCK is relevant to smooth muscle."
+  ],
+  "source": "Physiology Practice MCQs — Set 1",
+  "isRecall": false
+ },
+ {
+  "systemSlug": "musculoskeletal",
+  "topicSlug": "msk-physiology",
+  "stem": "Which statement about smooth muscle is TRUE?",
+  "options": [
+   "Troponin regulates contraction.",
+   "Thick and thin filaments form sarcomeres.",
+   "MLCK phosphorylates myosin light chains.",
+   "T tubules are abundant.",
+   "Contraction is independent of calcium."
+  ],
+  "correctIndex": 2,
+  "explanation": "In smooth muscle, Ca2+-calmodulin activates MLCK, which phosphorylates the myosin light chains and enables cross-bridge cycling. (First Aid — Musculoskeletal: Muscle Physiology)",
+  "optionExplanations": [
+   "Troponin is absent in smooth muscle.",
+   "Sarcomeres are absent in smooth muscle.",
+   "",
+   "T tubules are poorly developed or absent in smooth muscle; caveolae substitute.",
+   "Contraction depends on Ca2+."
+  ],
+  "source": "Physiology Practice MCQs — Set 1",
+  "isRecall": false
+ },
+ {
+  "systemSlug": "musculoskeletal",
+  "topicSlug": "msk-physiology",
+  "stem": "Relaxation of smooth muscle occurs when:",
+  "options": [
+   "MLCK activity increases",
+   "Myosin light-chain phosphatase removes phosphate",
+   "Calcium concentration increases",
+   "Calmodulin binds more calcium",
+   "ATP production ceases"
+  ],
+  "correctIndex": 1,
+  "explanation": "Relaxation occurs when cytosolic Ca2+ falls and myosin light-chain phosphatase dephosphorylates the myosin light chain, so the cross-bridges detach. NO/cGMP promotes this by activating phosphatase. (First Aid — Musculoskeletal: Muscle Physiology)",
+  "optionExplanations": [
+   "Increased MLCK activity promotes contraction.",
+   "",
+   "Higher Ca2+ promotes contraction.",
+   "More Ca2+-calmodulin binding activates MLCK.",
+   "ATP cessation would cause rigor-like contracture, not relaxation."
+  ],
+  "source": "Physiology Practice MCQs — Set 1",
+  "isRecall": false
+ },
+ {
+  "systemSlug": "musculoskeletal",
+  "topicSlug": "msk-physiology",
+  "stem": "Compared with skeletal muscle, smooth muscle:",
+  "options": [
+   "Contracts more rapidly",
+   "Fatigues more easily",
+   "Requires less ATP for prolonged contraction",
+   "Contains troponin",
+   "Has extensive T tubules"
+  ],
+  "correctIndex": 2,
+  "explanation": "Smooth muscle cross-bridges cycle slowly and can stay in the latch state, so it maintains tone with much less ATP than skeletal muscle. (First Aid — Musculoskeletal: Muscle Physiology)",
+  "optionExplanations": [
+   "Smooth muscle contracts more slowly.",
+   "Smooth muscle is resistant to fatigue.",
+   "",
+   "Troponin is absent in smooth muscle.",
+   "T tubules are absent or poorly developed."
+  ],
+  "source": "Physiology Practice MCQs — Set 1",
+  "isRecall": false
+ },
+ {
+  "systemSlug": "musculoskeletal",
+  "topicSlug": "msk-physiology",
+  "stem": "Which muscle type depends most on extracellular calcium for contraction?",
+  "options": [
+   "Skeletal muscle",
+   "Cardiac muscle",
+   "Smooth muscle",
+   "Both cardiac and smooth muscle",
+   "None"
+  ],
+  "correctIndex": 3,
+  "explanation": "Skeletal muscle uses mechanical DHPR-RyR coupling and does not depend on extracellular Ca2+. Cardiac muscle needs Ca2+ entry through L-type channels to trigger Ca2+-induced Ca2+ release, and smooth muscle depends heavily on Ca2+ entry (as well as SR release), which is why Ca2+ channel blockers act on the heart and vessels. (First Aid — Musculoskeletal: Muscle Physiology)",
+  "optionExplanations": [
+   "Skeletal muscle contracts even when extracellular Ca2+ is removed for a short time.",
+   "Cardiac muscle depends on extracellular Ca2+, but so does smooth muscle, so the answer is incomplete.",
+   "Smooth muscle depends on it, but so does cardiac muscle, so the answer is incomplete.",
+   "",
+   "Both cardiac and smooth muscle depend on extracellular Ca2+."
+  ],
+  "source": "Physiology Practice MCQs — Set 1",
+  "isRecall": false
+ },
+ {
+  "systemSlug": "endocrine",
+  "topicSlug": "calcium-bone-metabolism",
+  "stem": "A patient develops hypocalcemia. Neuromuscular excitability increases primarily because:",
+  "options": [
+   "Resting membrane potential becomes more positive",
+   "Voltage-gated sodium channels open more easily",
+   "Potassium permeability increases",
+   "Acetylcholine release decreases",
+   "Troponin affinity decreases"
+  ],
+  "correctIndex": 1,
+  "explanation": "Low extracellular Ca2+ reduces the screening of negative charge on the outer membrane surface, so voltage-gated Na+ channels open at a less depolarized potential (the threshold moves closer to rest). The result is hyperexcitability: tetany, perioral paresthesias, Chvostek and Trousseau signs, and prolonged QT. (First Aid — Endocrine: Calcium Homeostasis)",
+  "optionExplanations": [
+   "The resting potential does not become more positive; it is the threshold that shifts.",
+   "",
+   "K+ permeability is not the primary change.",
+   "Hypocalcemia does reduce ACh release, but that would weaken, not excite, the muscle.",
+   "Troponin affinity is not the mechanism of tetany."
+  ],
+  "source": "Physiology Practice MCQs — Set 1",
+  "isRecall": false
+ },
+ {
+  "systemSlug": "musculoskeletal",
+  "topicSlug": "msk-physiology",
+  "stem": "Which combination correctly matches muscle type and regulatory protein?",
+  "options": [
+   "Skeletal—Calmodulin",
+   "Smooth—Troponin C",
+   "Skeletal—Troponin C; Smooth—Calmodulin",
+   "Cardiac—Calmodulin only",
+   "Smooth—Nebulin"
+  ],
+  "correctIndex": 2,
+  "explanation": "Skeletal (and cardiac) muscle uses troponin C as the Ca2+ sensor, whereas smooth muscle lacks troponin and uses calmodulin. (First Aid — Musculoskeletal: Muscle Physiology)",
+  "optionExplanations": [
+   "Skeletal muscle uses troponin C, not calmodulin.",
+   "Smooth muscle lacks troponin.",
+   "",
+   "Cardiac muscle uses troponin C, as skeletal muscle does.",
+   "Nebulin is a thin-filament protein in skeletal muscle, not a smooth-muscle regulator."
+  ],
+  "source": "Physiology Practice MCQs — Set 1",
+  "isRecall": false
+ },
+ {
+  "systemSlug": "cardiovascular",
+  "topicSlug": "cardiac-hemodynamics",
+  "stem": "During vigorous exercise, skeletal muscle blood flow increases primarily because of:",
+  "options": [
+   "Sympathetic vasoconstriction",
+   "Local metabolic vasodilation",
+   "Increased plasma oncotic pressure",
+   "Reduced capillary recruitment",
+   "Increased blood viscosity"
+  ],
+  "correctIndex": 1,
+  "explanation": "During exercise, working muscle releases metabolites (adenosine, K+, H+, lactate, CO2, low O2) that cause local vasodilation (active hyperemia), and capillaries are recruited, so blood flow can increase up to about 20-fold. (First Aid — Cardiovascular: Physiology)",
+  "optionExplanations": [
+   "Sympathetic vasoconstriction is overridden in active muscle by local metabolites.",
+   "",
+   "Plasma oncotic pressure does not rise to increase blood flow.",
+   "Capillary recruitment increases, not decreases.",
+   "Viscosity does not increase to raise blood flow; higher viscosity would increase resistance."
+  ],
+  "source": "Physiology Practice MCQs — Set 1",
+  "isRecall": false
+ },
+ {
+  "systemSlug": "musculoskeletal",
+  "topicSlug": "msk-physiology",
+  "stem": "Which statement best summarizes excitation–contraction coupling in skeletal muscle?",
+  "options": [
+   "Extracellular calcium directly activates troponin.",
+   "Depolarization activates dihydropyridine receptors, which mechanically open ryanodine receptors.",
+   "Ryanodine receptors activate acetylcholine receptors.",
+   "Troponin phosphorylates myosin.",
+   "MLCK initiates contraction."
+  ],
+  "correctIndex": 1,
+  "explanation": "In skeletal muscle, depolarization of the T-tubule activates the voltage-sensing dihydropyridine receptor, which is physically coupled to the ryanodine receptor on the SR and opens it (mechanical coupling), releasing Ca2+ into the cytosol where it binds troponin C. (First Aid — Musculoskeletal: Muscle Physiology)",
+  "optionExplanations": [
+   "Ca2+ released from the SR (not extracellular Ca2+) binds troponin C.",
+   "",
+   "Ryanodine receptors release Ca2+ and do not activate ACh receptors.",
+   "Troponin binds Ca2+, it does not phosphorylate myosin; phosphorylation occurs in smooth muscle by MLCK.",
+   "MLCK is part of smooth muscle, not skeletal muscle, contraction."
+  ],
+  "source": "Physiology Practice MCQs — Set 1",
+  "isRecall": false
+ }
+]
