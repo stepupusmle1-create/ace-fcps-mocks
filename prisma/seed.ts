@@ -16138,6 +16138,23 @@ const systems: SeedSystem[] = [
     ],
   },
   {
+    slug: "immunology",
+    name: "Immunology",
+    description: "Innate and adaptive immunity, hypersensitivity, immunodeficiency, transplantation, and immunopharmacology.",
+    order: 14,
+    topics: [
+      { slug: "immune-organs-innate-adaptive", name: "Immune Organs & Innate vs Adaptive", description: "Immune Organs & Innate vs Adaptive", order: 1, questions: [] },
+      { slug: "mhc-hla-nk-cells", name: "MHC, HLA & NK Cells", description: "MHC, HLA & NK Cells", order: 2, questions: [] },
+      { slug: "t-cell-b-cell-biology", name: "T-Cell & B-Cell Biology", description: "T-Cell & B-Cell Biology", order: 3, questions: [] },
+      { slug: "antibodies-vaccination", name: "Antibodies & Vaccination", description: "Antibodies & Vaccination", order: 4, questions: [] },
+      { slug: "complement-cytokines-phagocytes", name: "Complement, Cytokines & Phagocytes", description: "Complement, Cytokines & Phagocytes", order: 5, questions: [] },
+      { slug: "hypersensitivity-transfusion", name: "Hypersensitivity & Transfusion Reactions", description: "Hypersensitivity & Transfusion Reactions", order: 6, questions: [] },
+      { slug: "immunodeficiency-disorders", name: "Immunodeficiency Disorders", description: "Immunodeficiency Disorders", order: 7, questions: [] },
+      { slug: "transplant-autoimmunity", name: "Transplant & Autoimmunity", description: "Transplant & Autoimmunity", order: 8, questions: [] },
+      { slug: "immunopharmacology", name: "Immunopharmacology", description: "Immunopharmacology", order: 9, questions: [] },
+    ],
+  },
+  {
     slug: "cell-physiology",
     name: "Cell Physiology",
     description: "Membrane transport, osmosis, resting potential, and the action potential.",

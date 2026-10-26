@@ -1,0 +1,2476 @@
+{
+ "topics": [
+  {
+   "slug": "immune-organs-innate-adaptive",
+   "name": "Immune Organs & Innate vs Adaptive",
+   "order": 1
+  },
+  {
+   "slug": "mhc-hla-nk-cells",
+   "name": "MHC, HLA & NK Cells",
+   "order": 2
+  },
+  {
+   "slug": "t-cell-b-cell-biology",
+   "name": "T-Cell & B-Cell Biology",
+   "order": 3
+  },
+  {
+   "slug": "antibodies-vaccination",
+   "name": "Antibodies & Vaccination",
+   "order": 4
+  },
+  {
+   "slug": "complement-cytokines-phagocytes",
+   "name": "Complement, Cytokines & Phagocytes",
+   "order": 5
+  },
+  {
+   "slug": "hypersensitivity-transfusion",
+   "name": "Hypersensitivity & Transfusion Reactions",
+   "order": 6
+  },
+  {
+   "slug": "immunodeficiency-disorders",
+   "name": "Immunodeficiency Disorders",
+   "order": 7
+  },
+  {
+   "slug": "transplant-autoimmunity",
+   "name": "Transplant & Autoimmunity",
+   "order": 8
+  },
+  {
+   "slug": "immunopharmacology",
+   "name": "Immunopharmacology",
+   "order": 9
+  }
+ ],
+ "questions": [
+  {
+   "topicSlug": "immune-organs-innate-adaptive",
+   "stem": "A newborn has hypocalcemic seizures, a conotruncal cardiac defect, and absent thymic shadow on chest radiograph. A lymph node biopsy would be expected to show depletion of which region?",
+   "options": [
+    "Paracortex",
+    "Primary follicle (outer cortex)",
+    "Medullary cords",
+    "Subcapsular sinus",
+    "Medullary sinus"
+   ],
+   "correctIndex": 0,
+   "explanation": "This is DiGeorge (22q11.2 deletion) syndrome: failed development of the 3rd and 4th pharyngeal pouches leaves no thymus, so T cells are missing. The T-cell zone of a lymph node is the paracortex (with high endothelial venules); it is underdeveloped in T-cell deficiency, whereas the B-cell follicles are preserved. (First Aid — Immunology: Immune Organs & Innate vs Adaptive)",
+   "optionExplanations": [
+    "",
+    "Follicles hold B cells and are preserved when T cells are absent.",
+    "Medullary cords contain plasma cells and B cells, which develop normally here.",
+    "The sinus carries afferent lymph and macrophages; it is not a lymphocyte compartment.",
+    "The medullary sinus drains lymph to the efferent vessel and is not the T-cell zone."
+   ],
+   "images": [
+    "/recall-img/imm-lymph-647da525bf.jpg"
+   ],
+   "attribution": "Picture: “Illu lymph node structure” by SEER, Public domain (Wikimedia Commons)."
+  },
+  {
+   "topicSlug": "immune-organs-innate-adaptive",
+   "stem": "A 24-year-old man undergoes splenectomy after a motorcycle accident. Which peripheral blood smear finding is expected afterward?",
+   "options": [
+    "Howell-Jolly bodies",
+    "Schistocytes",
+    "Basophilic stippling",
+    "Auer rods",
+    "Smudge cells"
+   ],
+   "correctIndex": 0,
+   "explanation": "The spleen removes nuclear remnants (Howell-Jolly bodies) from red cells; after splenectomy they appear, together with target cells, thrombocytosis and leukocytosis. Patients also need vaccines against encapsulated organisms (S. pneumoniae, H. influenzae type b, N. meningitidis) because the marginal zone cannot clear opsonized bacteria. (First Aid — Immunology: Spleen)",
+   "optionExplanations": [
+    "",
+    "Fragmented cells indicate microangiopathic hemolysis, not asplenia.",
+    "Seen in lead poisoning and thalassemia from retained ribosomal RNA.",
+    "Pathognomonic of acute myeloid leukemia.",
+    "Fragile lymphocytes in chronic lymphocytic leukemia."
+   ],
+   "images": [
+    "/recall-img/imm-hj-e1969ebc01.jpg"
+   ],
+   "attribution": "Picture: “Howell-Jolly smear 2010-11-17” by P. H. O. Mourao, CC BY-SA 3.0 (Wikimedia Commons)."
+  },
+  {
+   "topicSlug": "immune-organs-innate-adaptive",
+   "stem": "A 12-year-old girl has chronic mucocutaneous candidiasis, hypoparathyroidism and adrenal insufficiency. Her disease is caused by a mutation in AIRE. Which process is defective?",
+   "options": [
+    "Negative selection of self-reactive T cells in the thymic medulla",
+    "Positive selection of T cells in the thymic cortex",
+    "Class-switch recombination in germinal centers",
+    "TCR gene rearrangement in the bone marrow",
+    "Clonal anergy in lymph nodes"
+   ],
+   "correctIndex": 0,
+   "explanation": "AIRE (autoimmune regulator) makes thymic medullary epithelial cells express tissue-specific self-antigens so that autoreactive T cells are deleted (negative selection). Failure produces autoimmune polyglandular syndrome type 1. Positive selection (MHC recognition) takes place earlier in the thymic cortex. (First Aid — Immunology: Immune Organs & Innate vs Adaptive)",
+   "optionExplanations": [
+    "",
+    "Cortical epithelial cells test MHC recognition; AIRE acts in the medulla.",
+    "A B-cell process requiring CD40L, not related to AIRE.",
+    "TCR genes are rearranged in the thymus, not in bone marrow.",
+    "Peripheral tolerance mechanism and not the AIRE defect."
+   ],
+   "images": [
+    "/recall-img/imm-thymus-209a5c8d02.jpg"
+   ],
+   "attribution": "Picture: “Intrathymic T Cell Differentiation” by Wilson Savino, CC BY 2.5 (Wikimedia Commons)."
+  },
+  {
+   "topicSlug": "immune-organs-innate-adaptive",
+   "stem": "A patient with corneal opacity receives a corneal graft from an HLA-unmatched donor and rejection is rare. Which feature best explains this?",
+   "options": [
+    "Immune privilege from avascularity, low MHC expression and Fas ligand-mediated T-cell apoptosis",
+    "Donor cornea contains many dendritic cells that induce tolerance",
+    "Complement is abundant in the corneal stroma and clears antibodies",
+    "Recipient is lymphopenic after the procedure",
+    "Corneal cells express high MHC II to anergize recipient T cells"
+   ],
+   "correctIndex": 0,
+   "explanation": "Cornea, testes, brain, anterior chamber and placenta are immune-privileged: poor lymphatic drainage, low MHC class I/II, local TGF-β and Fas ligand that kills infiltrating T cells. Therefore, grafts are tolerated without matching. (First Aid — Immunology: Immune privilege)",
+   "optionExplanations": [
+    "",
+    "The cornea has few antigen-presenting cells, not many.",
+    "Complement is not the explanation of privilege.",
+    "Recipients are not generally immunosuppressed systemically.",
+    "MHC expression is low in immune-privileged sites."
+   ],
+   "images": [
+    "/recall-img/imm-cornea-e0e2c5cc14.jpg"
+   ],
+   "attribution": "Picture: “Cornea Transplant” by Megor1, CC BY 3.0 (Wikimedia Commons)."
+  },
+  {
+   "topicSlug": "immune-organs-innate-adaptive",
+   "stem": "Which characteristic distinguishes the innate from the adaptive immune response?",
+   "options": [
+    "Pattern-recognition receptors that are germline-encoded and respond within minutes without memory",
+    "Receptors generated by somatic V(D)J recombination",
+    "Clonal expansion of antigen-specific lymphocytes",
+    "Immunologic memory with a faster secondary response",
+    "Class-switching of antibody isotypes"
+   ],
+   "correctIndex": 0,
+   "explanation": "Innate immunity (neutrophils, macrophages, NK cells, complement) recognizes conserved pathogen-associated patterns (e.g., via TLRs) with germline-encoded receptors; it acts at once and has no memory. Adaptive responses use receptors created by somatic gene rearrangement and generate memory. (First Aid — Immunology: Immune Organs & Innate vs Adaptive)",
+   "optionExplanations": [
+    "",
+    "This is a feature of B- and T-cell receptors (adaptive).",
+    "Adaptive immunity.",
+    "Adaptive immunity.",
+    "A B-cell/adaptive function."
+   ],
+   "images": [
+    "/recall-img/imm-tlr-065dbf8d58.jpg"
+   ],
+   "attribution": "Picture: “Toll-Like Receptors (TLRs)” by Varun Punnam, CC BY-SA 4.0 (Wikimedia Commons)."
+  },
+  {
+   "topicSlug": "immune-organs-innate-adaptive",
+   "stem": "A patient develops septic shock from Escherichia coli bacteremia. Lipopolysaccharide activates macrophages primarily through which receptor?",
+   "options": [
+    "Toll-like receptor 4 with CD14",
+    "TLR2",
+    "TLR3",
+    "TLR5",
+    "TLR9"
+   ],
+   "correctIndex": 0,
+   "explanation": "LPS (endotoxin) of gram-negative bacteria binds LPS-binding protein, then CD14/TLR4 on macrophages, triggering NF-κB and release of TNF-α, IL-1 and IL-6, which cause fever, vasodilation and shock. (First Aid — Immunology: Immune Organs & Innate vs Adaptive)",
+   "optionExplanations": [
+    "",
+    "Recognizes gram-positive peptidoglycan and lipoteichoic acid.",
+    "Recognizes double-stranded RNA from viruses.",
+    "Recognizes bacterial flagellin.",
+    "Recognizes unmethylated CpG bacterial DNA in endosomes."
+   ],
+   "images": [
+    "/recall-img/imm-tlr-065dbf8d58.jpg"
+   ],
+   "attribution": "Picture: “Toll-Like Receptors (TLRs)” by Varun Punnam, CC BY-SA 4.0 (Wikimedia Commons)."
+  },
+  {
+   "topicSlug": "immune-organs-innate-adaptive",
+   "stem": "In the spleen, which compartment houses most of the T lymphocytes?",
+   "options": [
+    "Periarteriolar lymphatic sheath of the white pulp",
+    "Red pulp cords of Billroth",
+    "Follicle of the white pulp",
+    "Venous sinusoids",
+    "Splenic capsule"
+   ],
+   "correctIndex": 0,
+   "explanation": "White pulp has the periarteriolar lymphatic sheath (PALS, T cells) around the central artery, lymphoid follicles (B cells), and the marginal zone (macrophages, marginal zone B cells that handle polysaccharide antigens). Red pulp (cords and sinusoids) filters old red cells. (First Aid — Immunology: Immune Organs & Innate vs Adaptive)",
+   "optionExplanations": [
+    "",
+    "Contain macrophages and plasma cells that remove old red cells.",
+    "Where B cells reside.",
+    "Vascular channels for red cell passage.",
+    "Connective tissue without lymphocyte function."
+   ],
+   "images": [
+    "/recall-img/imm-spleenpulp-41e3e363af.jpg"
+   ],
+   "attribution": "Picture: “Red Pulp and White Pulp of the Spleen” by Senioritisisreal, CC BY-SA 4.0 (Wikimedia Commons)."
+  },
+  {
+   "topicSlug": "immune-organs-innate-adaptive",
+   "stem": "A 58-year-old man has a testicular seminoma. Which lymph nodes are the first to receive metastatic drainage?",
+   "options": [
+    "Para-aortic nodes",
+    "Superficial inguinal nodes",
+    "Deep inguinal nodes",
+    "External iliac nodes",
+    "Internal iliac nodes"
+   ],
+   "correctIndex": 0,
+   "explanation": "Testes develop near the kidneys and keep their lymphatic drainage to the para-aortic (lumbar) nodes, whereas scrotal skin drains to the superficial inguinal nodes. Remembering this prevents the common error of examining only the inguinal region. (First Aid — Immunology: Lymphatic drainage)",
+   "optionExplanations": [
+    "",
+    "Drain the scrotum, skin of the penis and perineum.",
+    "Drain the glans penis and clitoris.",
+    "Receive drainage from the inguinal nodes and pelvic viscera, not directly the testis.",
+    "Drain pelvic organs such as the bladder and prostate."
+   ],
+   "images": [
+    "/recall-img/imm-lymphatic-c1c3ce6465.jpg"
+   ],
+   "attribution": "Picture: “Blausen 0623 LymphaticSystem Female” by BruceBlaus, CC BY 3.0 (Wikimedia Commons)."
+  },
+  {
+   "topicSlug": "immune-organs-innate-adaptive",
+   "stem": "Which cell is the most efficient at activating naive T cells?",
+   "options": [
+    "Dendritic cell",
+    "Macrophage",
+    "Neutrophil",
+    "Mast cell",
+    "Plasma cell"
+   ],
+   "correctIndex": 0,
+   "explanation": "Dendritic cells express high levels of MHC II and B7 costimulatory molecules and migrate to lymph nodes, so they prime naive T cells. Macrophages and B cells activate previously primed or memory cells. (First Aid — Immunology: Immune Organs & Innate vs Adaptive)",
+   "optionExplanations": [
+    "",
+    "Presents to effector/memory T cells but is a weaker activator of naive cells.",
+    "Phagocyte; not an effective antigen-presenting cell.",
+    "Effector cell in IgE-mediated responses.",
+    "Secretes antibody and does not present antigen."
+   ],
+   "images": [
+    "/recall-img/imm-antpres-de266fcc83.jpg"
+   ],
+   "attribution": "Picture: “Antigen presentation” by user:Sjef, CC BY-SA 3.0 (Wikimedia Commons)."
+  },
+  {
+   "topicSlug": "immune-organs-innate-adaptive",
+   "stem": "Isotype switching and somatic hypermutation of immunoglobulin genes take place in which location?",
+   "options": [
+    "Germinal center of a secondary lymphoid follicle",
+    "Lymph node paracortex",
+    "Medullary cord",
+    "Thymic cortex",
+    "Bone marrow"
+   ],
+   "correctIndex": 0,
+   "explanation": "After antigen and T-cell help (CD40-CD40L), activated B cells enter the germinal center, where AID drives somatic hypermutation (affinity maturation) and class switching, and then become plasma or memory cells. (First Aid — Immunology: Immune Organs & Innate vs Adaptive)",
+   "optionExplanations": [
+    "",
+    "T-cell zone.",
+    "Plasma cells secrete antibody here, after maturation.",
+    "T-cell development; B cells do not mature there.",
+    "V(D)J recombination of the heavy chain happens in marrow, not hypermutation."
+   ],
+   "images": [
+    "/recall-img/imm-gc-aafdf3fc09.jpg"
+   ],
+   "attribution": "Picture: “Germinal center” by Billy10drs, CC BY-SA 3.0 (Wikimedia Commons)."
+  },
+  {
+   "topicSlug": "immune-organs-innate-adaptive",
+   "stem": "Which skin cell contains Birbeck granules and presents antigen to T cells?",
+   "options": [
+    "Langerhans cell",
+    "Merkel cell",
+    "Melanocyte",
+    "Keratinocyte",
+    "Mast cell"
+   ],
+   "correctIndex": 0,
+   "explanation": "Langerhans cells are epidermal dendritic cells (CD1a+, S100+) with tennis-racket-shaped Birbeck granules; they migrate to regional nodes. Langerhans cell histiocytosis is a neoplastic proliferation of these cells. (First Aid — Immunology: Immune Organs & Innate vs Adaptive)",
+   "optionExplanations": [
+    "",
+    "Touch receptor cell; neuroendocrine.",
+    "Produces melanin.",
+    "Forms the epidermal barrier.",
+    "Contains granules with histamine, not Birbeck granules."
+   ],
+   "images": [
+    "/recall-img/imm-dendritic-fddb7f1389.jpg"
+   ],
+   "attribution": "Picture: “Dendritic cells” by Haymanj, Public domain (Wikimedia Commons)."
+  },
+  {
+   "topicSlug": "mhc-hla-nk-cells",
+   "stem": "Which of the following cells normally lacks MHC class I molecules?",
+   "options": [
+    "Mature erythrocyte",
+    "Neutrophil",
+    "Platelet",
+    "B lymphocyte",
+    "Hepatocyte"
+   ],
+   "correctIndex": 0,
+   "explanation": "All nucleated cells and platelets express MHC I; mature red cells are anucleate and do not, which is a reason why red cell transfusion rarely causes HLA-related reactions. MHC II appears only on antigen-presenting cells (dendritic, macrophage, B cell, activated T). (First Aid — Immunology: MHC, HLA & NK Cells)",
+   "optionExplanations": [
+    "",
+    "Nucleated; expresses MHC I.",
+    "Platelets bear MHC I (a cause of refractoriness to platelet transfusion).",
+    "Expresses both MHC I and II.",
+    "Nucleated; expresses MHC I."
+   ],
+   "images": [
+    "/recall-img/imm-mhcexp-31ecd2ec0f.jpg"
+   ],
+   "attribution": "Picture: “MHC classe 1 i 2” by BQmUB2011048, CC BY-SA 3.0 (Wikimedia Commons)."
+  },
+  {
+   "topicSlug": "mhc-hla-nk-cells",
+   "stem": "CD8 on cytotoxic T cells stabilizes antigen recognition by binding which structure?",
+   "options": [
+    "The α3 domain of MHC class I",
+    "β2-microglobulin",
+    "The β2 domain of MHC II",
+    "B7 on the antigen-presenting cell",
+    "The peptide-binding groove"
+   ],
+   "correctIndex": 0,
+   "explanation": "CD8 binds the α3 domain of MHC I (the heavy chain), whereas CD4 binds the β2 domain of MHC II. Both are co-receptors that enhance TCR signaling; the TCR itself contacts the peptide-binding groove. (First Aid — Immunology: MHC I and II)",
+   "optionExplanations": [
+    "",
+    "Non-covalently stabilizes the MHC I heavy chain; it is not the CD8 binding site.",
+    "CD4 binding site.",
+    "Binds CD28 for costimulation.",
+    "Contacted by the TCR."
+   ],
+   "images": [
+    "/recall-img/imm-mhcexp-31ecd2ec0f.jpg"
+   ],
+   "attribution": "Picture: “MHC classe 1 i 2” by BQmUB2011048, CC BY-SA 3.0 (Wikimedia Commons)."
+  },
+  {
+   "topicSlug": "mhc-hla-nk-cells",
+   "stem": "A 26-year-old man has chronic low back pain and morning stiffness that improves with exercise. Radiographs show sacroiliitis. Which HLA type is most strongly associated?",
+   "options": [
+    "HLA-B27",
+    "HLA-DR4",
+    "HLA-DQ2/DQ8",
+    "HLA-DR3",
+    "HLA-A3"
+   ],
+   "correctIndex": 0,
+   "explanation": "Ankylosing spondylitis (seronegative spondyloarthropathy) is linked to HLA-B27 (also psoriatic arthritis, reactive arthritis and IBD-associated arthropathy). Findings: bamboo spine, uveitis, aortic regurgitation. (First Aid — Immunology: HLA subtypes)",
+   "optionExplanations": [
+    "",
+    "Rheumatoid arthritis and type 1 diabetes.",
+    "Celiac disease.",
+    "Type 1 diabetes, Graves disease, SLE and Addison disease.",
+    "Hemochromatosis."
+   ],
+   "images": [
+    "/recall-img/imm-mhcbind-85de4674e7.jpg"
+   ],
+   "attribution": "Picture: “MHC Binding Diagram” by Connor Sampson, CC BY-SA 4.0 (Wikimedia Commons)."
+  },
+  {
+   "topicSlug": "mhc-hla-nk-cells",
+   "stem": "Before starting abacavir for HIV infection, a patient should be screened for which allele to prevent a severe hypersensitivity reaction?",
+   "options": [
+    "HLA-B*57:01",
+    "HLA-B*15:02",
+    "HLA-B*58:01",
+    "HLA-B27",
+    "HLA-DR2"
+   ],
+   "correctIndex": 0,
+   "explanation": "Abacavir hypersensitivity (fever, rash, GI and respiratory symptoms) is strongly linked to HLA-B*57:01; screening before treatment has eliminated most cases. (First Aid — Immunology: HLA subtypes)",
+   "optionExplanations": [
+    "",
+    "Carbamazepine-induced Stevens-Johnson syndrome in Southeast Asians.",
+    "Allopurinol hypersensitivity.",
+    "Ankylosing spondylitis.",
+    "Narcolepsy, multiple sclerosis and Goodpasture disease."
+   ],
+   "images": [
+    "/recall-img/imm-mhcbind-85de4674e7.jpg"
+   ],
+   "attribution": "Picture: “MHC Binding Diagram” by Connor Sampson, CC BY-SA 4.0 (Wikimedia Commons)."
+  },
+  {
+   "topicSlug": "mhc-hla-nk-cells",
+   "stem": "A Han Chinese patient with epilepsy is about to start carbamazepine. Testing for which allele can help to prevent Stevens-Johnson syndrome?",
+   "options": [
+    "HLA-B*15:02",
+    "HLA-B*57:01",
+    "HLA-B*58:01",
+    "HLA-DQ2",
+    "HLA-A3"
+   ],
+   "correctIndex": 0,
+   "explanation": "HLA-B*15:02 is associated with carbamazepine-induced SJS/TEN in patients of Asian ancestry, and testing is recommended before starting the drug. (First Aid — Immunology: MHC, HLA & NK Cells)",
+   "optionExplanations": [
+    "",
+    "Abacavir.",
+    "Allopurinol.",
+    "Celiac disease.",
+    "Hemochromatosis."
+   ],
+   "images": [
+    "/recall-img/imm-mhcbind-85de4674e7.jpg"
+   ],
+   "attribution": "Picture: “MHC Binding Diagram” by Connor Sampson, CC BY-SA 4.0 (Wikimedia Commons)."
+  },
+  {
+   "topicSlug": "mhc-hla-nk-cells",
+   "stem": "A 45-year-old man has bronze skin, diabetes and cirrhosis, and HFE testing is positive. Which HLA type is also associated?",
+   "options": [
+    "HLA-A3",
+    "HLA-B27",
+    "HLA-DR3",
+    "HLA-DR4",
+    "HLA-DQ8"
+   ],
+   "correctIndex": 0,
+   "explanation": "Hereditary hemochromatosis (HFE C282Y) is associated with HLA-A3: iron overload causes hepatomegaly, cardiomyopathy, diabetes (\"bronze diabetes\"), hypogonadism and arthropathy. (First Aid — Immunology: HLA subtypes)",
+   "optionExplanations": [
+    "",
+    "Seronegative spondyloarthropathies.",
+    "Autoimmune endocrine diseases.",
+    "Rheumatoid arthritis.",
+    "Celiac disease and type 1 diabetes."
+   ],
+   "images": [
+    "/recall-img/imm-mhcexp-31ecd2ec0f.jpg"
+   ],
+   "attribution": "Picture: “MHC classe 1 i 2” by BQmUB2011048, CC BY-SA 3.0 (Wikimedia Commons)."
+  },
+  {
+   "topicSlug": "mhc-hla-nk-cells",
+   "stem": "A tumor cell has lost expression of MHC class I molecules and escapes cytotoxic CD8+ T cells. Which cell is best able to kill it?",
+   "options": [
+    "Natural killer cell",
+    "Cytotoxic CD8+ T cell",
+    "Helper CD4+ T cell",
+    "Plasma cell",
+    "Regulatory T cell"
+   ],
+   "correctIndex": 0,
+   "explanation": "NK cells use the \"missing self\" mechanism: inhibitory receptors (KIRs) detect MHC I, and when it is absent, activating signals prevail and the NK cell releases perforin and granzymes. IL-12, IFN-α/β and IL-2 enhance their activity. (First Aid — Immunology: MHC, HLA & NK Cells)",
+   "optionExplanations": [
+    "",
+    "Requires peptide presented on MHC I.",
+    "Recognizes MHC II and does not kill directly.",
+    "Secretes antibody only.",
+    "Suppresses responses via IL-10 and TGF-β."
+   ],
+   "images": [
+    "/recall-img/imm-missingself-3d1822cc97.jpg"
+   ],
+   "attribution": "Picture: “Missing self” by Cacofonie, CC BY-SA 3.0 (Wikimedia Commons)."
+  },
+  {
+   "topicSlug": "mhc-hla-nk-cells",
+   "stem": "Which NK-cell surface molecule binds the Fc portion of IgG on antibody-coated target cells?",
+   "options": [
+    "CD16",
+    "CD3",
+    "CD8",
+    "CD40",
+    "CD21"
+   ],
+   "correctIndex": 0,
+   "explanation": "CD16 (FcγRIII) mediates antibody-dependent cell-mediated cytotoxicity (ADCC); NK cells are identified by CD56 and CD16. Rituximab-coated B cells are killed by this route. (First Aid — Immunology: MHC, HLA & NK Cells)",
+   "optionExplanations": [
+    "",
+    "Part of the T-cell receptor complex.",
+    "Cytotoxic T-cell co-receptor binding MHC I.",
+    "Receptor on B cells and APCs for CD40L.",
+    "Complement receptor 2 on B cells (also the EBV receptor)."
+   ],
+   "images": [
+    "/recall-img/imm-adcc-fb8b1e8e24.jpg"
+   ],
+   "attribution": "Picture: “Antibody-dependent Cellular Cytotoxicity” by Satchmo2000, CC BY-SA 3.0 (Wikimedia Commons)."
+  },
+  {
+   "topicSlug": "mhc-hla-nk-cells",
+   "stem": "Antigenic peptides are loaded onto MHC class II molecules in which compartment?",
+   "options": [
+    "Acidified endosome after the invariant chain is degraded to CLIP and exchanged by HLA-DM",
+    "Rough endoplasmic reticulum after TAP transport",
+    "Cytosol by the proteasome",
+    "Trans-Golgi network after cleavage of β2-microglobulin",
+    "Nucleus"
+   ],
+   "correctIndex": 0,
+   "explanation": "Exogenous antigens are processed in phagolysosomes; MHC II is synthesized in the ER with the invariant chain, which blocks the groove until the chain is cleaved to CLIP in the acidified endosome and HLA-DM exchanges CLIP for peptide. MHC I, in contrast, is loaded in the ER from cytosolic proteins via TAP. (First Aid — Immunology: MHC, HLA & NK Cells)",
+   "optionExplanations": [
+    "",
+    "That is the MHC I pathway.",
+    "Proteasomes generate peptides for MHC I.",
+    "β2-microglobulin belongs to MHC I and is not cleaved.",
+    "No antigen loading takes place there."
+   ],
+   "images": [
+    "/recall-img/imm-antpres-de266fcc83.jpg"
+   ],
+   "attribution": "Picture: “Antigen presentation” by user:Sjef, CC BY-SA 3.0 (Wikimedia Commons)."
+  },
+  {
+   "topicSlug": "mhc-hla-nk-cells",
+   "stem": "A 5-year-old has recurrent sinopulmonary infections and a low number of CD8+ T cells. His MHC class I expression is reduced because of a defective TAP transporter. Which step is impaired?",
+   "options": [
+    "Transport of cytosolic peptides into the endoplasmic reticulum for loading onto MHC I",
+    "Cleavage of the invariant chain",
+    "Costimulation through CD28–B7",
+    "Class switching by AID",
+    "Complement activation"
+   ],
+   "correctIndex": 0,
+   "explanation": "TAP1/TAP2 pump proteasome-generated peptides into the ER, where they are loaded onto MHC I with the help of tapasin; without peptide, MHC I is unstable and few reach the surface (type I bare lymphocyte syndrome). Some viruses (HSV, CMV) inhibit TAP to evade CD8 cells. (First Aid — Immunology: MHC, HLA & NK Cells)",
+   "optionExplanations": [
+    "",
+    "MHC II pathway.",
+    "Does not affect MHC I surface expression.",
+    "A B-cell process.",
+    "Unrelated to TAP."
+   ],
+   "images": [
+    "/recall-img/imm-mhci-8ee5c35ba1.jpg"
+   ],
+   "attribution": "Picture: “MHC Class I processing” by Scray, CC BY-SA 3.0 (Wikimedia Commons)."
+  },
+  {
+   "topicSlug": "t-cell-b-cell-biology",
+   "stem": "Which cytokine, produced by macrophages and dendritic cells, drives naive CD4+ T cells to differentiate into Th1 cells?",
+   "options": [
+    "IL-12",
+    "IL-4",
+    "IL-10",
+    "IL-5",
+    "IL-17"
+   ],
+   "correctIndex": 0,
+   "explanation": "IL-12 activates STAT4/T-bet to produce Th1 cells, which secrete IFN-γ to activate macrophages and promote IgG production; IL-12 receptor or IFN-γ receptor defects cause susceptibility to mycobacteria. (First Aid — Immunology: T-Cell & B-Cell Biology)",
+   "optionExplanations": [
+    "",
+    "Drives Th2 differentiation.",
+    "Anti-inflammatory; made by Th2 and Tregs.",
+    "Produced by Th2 cells for eosinophils and IgA.",
+    "Product of Th17 cells."
+   ],
+   "images": [
+    "/recall-img/imm-tbact-748a719eb0.jpg"
+   ],
+   "attribution": "Picture: “Activation of T and B cells” by Immcarle105, CC BY-SA 4.0 (Wikimedia Commons)."
+  },
+  {
+   "topicSlug": "t-cell-b-cell-biology",
+   "stem": "A 6-month-old boy has watery diarrhea, type 1 diabetes and eczema. A mutation in FOXP3 is found. Which cell is deficient?",
+   "options": [
+    "Regulatory T cell",
+    "Cytotoxic T cell",
+    "Natural killer cell",
+    "Memory B cell",
+    "Th17 cell"
+   ],
+   "correctIndex": 0,
+   "explanation": "IPEX (immune dysregulation, polyendocrinopathy, enteropathy, X-linked) results from FOXP3 mutation: no CD4+CD25+ Tregs, so autoimmunity develops. Tregs suppress responses through IL-10, TGF-β and CTLA-4. (First Aid — Immunology: Regulatory T cells)",
+   "optionExplanations": [
+    "",
+    "Not controlled by FOXP3.",
+    "FOXP3 is not involved.",
+    "Unrelated to FOXP3.",
+    "Function intact; the problem is lack of suppression."
+   ],
+   "images": [
+    "/recall-img/imm-treg-04c74348f5.jpg"
+   ],
+   "attribution": "Picture: “Mechanisms of suppression by regulatory T cells” by Gwilz, CC BY-SA 4.0 (Wikimedia Commons)."
+  },
+  {
+   "topicSlug": "t-cell-b-cell-biology",
+   "stem": "Abatacept, used in rheumatoid arthritis, blocks T-cell activation by binding to which molecule?",
+   "options": [
+    "B7 (CD80/86) on antigen-presenting cells",
+    "CD28 on the T cell",
+    "The CD3 complex",
+    "MHC class II",
+    "CD40 ligand"
+   ],
+   "correctIndex": 0,
+   "explanation": "Full T-cell activation needs signal 1 (TCR–MHC/peptide) and signal 2 (CD28 on the T cell binding B7 on the APC). Abatacept is CTLA-4-Ig and occupies B7, so signal 2 is lost and the T cell becomes anergic. (First Aid — Immunology: T-Cell & B-Cell Biology)",
+   "optionExplanations": [
+    "",
+    "The ligand for B7; abatacept binds B7, not CD28.",
+    "Targeted by muromonab and teplizumab.",
+    "The TCR ligand, not abatacept's target.",
+    "Provides T-cell help to B cells; not blocked by abatacept."
+   ],
+   "images": [
+    "/recall-img/imm-tbact-748a719eb0.jpg"
+   ],
+   "attribution": "Picture: “Activation of T and B cells” by Immcarle105, CC BY-SA 4.0 (Wikimedia Commons)."
+  },
+  {
+   "topicSlug": "t-cell-b-cell-biology",
+   "stem": "A naive CD4+ T cell recognizes its antigen on a non-professional antigen-presenting cell that does not express B7. What is the most likely outcome?",
+   "options": [
+    "Anergy",
+    "Activation and clonal proliferation",
+    "Immediate class switching",
+    "Differentiation into memory cells",
+    "Production of IgE"
+   ],
+   "correctIndex": 0,
+   "explanation": "Signal 1 (TCR–MHC II) without signal 2 (CD28–B7 costimulation) renders the T cell unresponsive (anergic) rather than activated, a peripheral tolerance mechanism that prevents responses to self-antigens on non-professional cells. (First Aid — Immunology: Anergy)",
+   "optionExplanations": [
+    "",
+    "Needs the second costimulatory signal.",
+    "T cells do not undergo class switching.",
+    "Requires prior full activation.",
+    "T cells do not make antibodies."
+   ],
+   "images": [
+    "/recall-img/imm-tbact-748a719eb0.jpg"
+   ],
+   "attribution": "Picture: “Activation of T and B cells” by Immcarle105, CC BY-SA 4.0 (Wikimedia Commons)."
+  },
+  {
+   "topicSlug": "t-cell-b-cell-biology",
+   "stem": "How do cytotoxic CD8+ T cells kill virus-infected cells?",
+   "options": [
+    "Perforin forms pores through which granzymes enter and activate caspases to induce apoptosis",
+    "Assembly of the membrane attack complex of complement",
+    "Release of histamine and leukotrienes",
+    "Production of IL-1 and TNF-α for pyrogenic effect",
+    "Opsonization with IgG for phagocytosis"
+   ],
+   "correctIndex": 0,
+   "explanation": "CD8+ T cells release perforin and granzymes (and also use Fas ligand binding Fas on the target) to induce apoptosis; they recognize viral peptide on MHC I via the TCR with CD8 as co-receptor. (First Aid — Immunology: T-Cell & B-Cell Biology)",
+   "optionExplanations": [
+    "",
+    "Complement mechanism, not CD8-mediated.",
+    "Mast-cell mediators.",
+    "Macrophage cytokines that do not kill the target.",
+    "Antibody/phagocyte mechanism."
+   ],
+   "images": [
+    "/recall-img/imm-killer-ce0290f131.jpg"
+   ],
+   "attribution": "Picture: “Killer T cells surround a cancer cell” by NIH, Public domain (Wikimedia Commons)."
+  },
+  {
+   "topicSlug": "t-cell-b-cell-biology",
+   "stem": "Which T-helper subset secretes IL-4, IL-5 and IL-13, promoting IgE class switching and eosinophil activation?",
+   "options": [
+    "Th2 cell",
+    "Th1 cell",
+    "Th17 cell",
+    "Regulatory T cell",
+    "Cytotoxic T cell"
+   ],
+   "correctIndex": 0,
+   "explanation": "Th2 cells (GATA3, driven by IL-4) mediate allergic and anti-helminth immunity: IL-4/IL-13 switch B cells to IgE, IL-5 recruits and activates eosinophils and promotes IgA. (First Aid — Immunology: T-Cell & B-Cell Biology)",
+   "optionExplanations": [
+    "",
+    "Secretes IFN-γ and IL-2, activating macrophages.",
+    "Secretes IL-17, IL-21 and IL-22, recruiting neutrophils.",
+    "Secretes IL-10 and TGF-β to suppress responses.",
+    "Kills infected cells through perforin/granzyme."
+   ],
+   "images": [
+    "/recall-img/imm-lymphact-68377aa0a4.jpg"
+   ],
+   "attribution": "Picture: “Lymphocyte activation” by Mikael Häggström, Public domain (Wikimedia Commons)."
+  },
+  {
+   "topicSlug": "t-cell-b-cell-biology",
+   "stem": "Which combination of cytokines drives naive CD4+ T cells toward the Th17 phenotype?",
+   "options": [
+    "TGF-β and IL-6 (with IL-23 maintaining the subset)",
+    "IL-12 and IFN-γ",
+    "IL-4 alone",
+    "TGF-β alone",
+    "IL-2 alone"
+   ],
+   "correctIndex": 0,
+   "explanation": "Th17 cells (RORγt) produce IL-17, which recruits neutrophils and protects against extracellular bacteria and fungi; defective Th17 function (STAT3 mutation) explains staphylococcal abscesses and candidiasis in hyper-IgE syndrome. (First Aid — Immunology: T-Cell & B-Cell Biology)",
+   "optionExplanations": [
+    "",
+    "Th1 differentiation.",
+    "Drives Th2 cells.",
+    "With IL-2, induces regulatory T cells.",
+    "T-cell growth factor, not a lineage-defining cytokine."
+   ],
+   "images": [
+    "/recall-img/imm-lymphact-68377aa0a4.jpg"
+   ],
+   "attribution": "Picture: “Lymphocyte activation” by Mikael Häggström, Public domain (Wikimedia Commons)."
+  },
+  {
+   "topicSlug": "t-cell-b-cell-biology",
+   "stem": "Which cytokine secreted by Th1 cells inhibits differentiation of Th2 cells?",
+   "options": [
+    "IFN-γ",
+    "IL-4",
+    "IL-5",
+    "IL-13",
+    "IL-10"
+   ],
+   "correctIndex": 0,
+   "explanation": "Th1 and Th2 responses are mutually inhibitory: IFN-γ (Th1) inhibits Th2, while IL-4 and IL-10 (Th2) inhibit Th1 differentiation. IFN-γ also activates macrophages and promotes IgG production. (First Aid — Immunology: T-Cell & B-Cell Biology)",
+   "optionExplanations": [
+    "",
+    "Is produced by Th2 cells.",
+    "Th2 cytokine for eosinophils.",
+    "Th2 cytokine promoting IgE.",
+    "Is produced by Th2 and Tregs, and inhibits Th1."
+   ],
+   "images": [
+    "/recall-img/imm-lymphact-68377aa0a4.jpg"
+   ],
+   "attribution": "Picture: “Lymphocyte activation” by Mikael Häggström, Public domain (Wikimedia Commons)."
+  },
+  {
+   "topicSlug": "t-cell-b-cell-biology",
+   "stem": "A 4-year-old boy has recurrent pyogenic infections and very low IgG, IgA and IgE but high IgM. Which interaction is defective in this class-switching disorder?",
+   "options": [
+    "CD40 on B cells with CD40 ligand on helper T cells",
+    "CD19–CD21 co-receptor complex",
+    "Fas–Fas ligand",
+    "CD3–TCR",
+    "CD16–IgG"
+   ],
+   "correctIndex": 0,
+   "explanation": "CD40–CD40L interaction provides the signal for isotype switching and germinal center formation. Its loss (hyper-IgM syndrome, X-linked CD40L mutation) leads to high IgM with low other isotypes and opportunistic infections such as Pneumocystis. (First Aid — Immunology: T-Cell & B-Cell Biology)",
+   "optionExplanations": [
+    "",
+    "Lowers the activation threshold of B cells, not class switching.",
+    "Triggers apoptosis.",
+    "T-cell signal transduction.",
+    "NK-cell ADCC pathway."
+   ],
+   "images": [
+    "/recall-img/imm-tdep-68ea71cd7f.jpg"
+   ],
+   "attribution": "Picture: “T-dependent B cell activation” by Altaileopard, Public domain (Wikimedia Commons)."
+  },
+  {
+   "topicSlug": "t-cell-b-cell-biology",
+   "stem": "Which surface marker is used to identify hematopoietic stem cells in a bone marrow graft?",
+   "options": [
+    "CD34",
+    "CD3",
+    "CD19",
+    "CD56",
+    "CD14"
+   ],
+   "correctIndex": 0,
+   "explanation": "CD34 marks hematopoietic stem and progenitor cells, and CD34+ counts are used to judge the dose of a stem-cell graft. (First Aid — Immunology: Cell surface proteins)",
+   "optionExplanations": [
+    "",
+    "T-cell marker.",
+    "B-cell marker.",
+    "NK-cell marker.",
+    "Monocyte/macrophage marker."
+   ],
+   "images": [
+    "/recall-img/imm-hsc-c3a54680f8.jpg"
+   ],
+   "attribution": "Picture: “Hematopoiesis simple” by A. Rad and Mikael Häggström, CC BY-SA 3.0 (Wikimedia Commons)."
+  },
+  {
+   "topicSlug": "t-cell-b-cell-biology",
+   "stem": "Epstein-Barr virus enters B cells by binding which receptor?",
+   "options": [
+    "CD21 (complement receptor 2)",
+    "CD4",
+    "CD40",
+    "CD19",
+    "CCR5"
+   ],
+   "correctIndex": 0,
+   "explanation": "EBV gp350 binds CD21 (CR2) on B cells and epithelial cells, leading to infectious mononucleosis, with atypical lymphocytes that are actually reactive CD8+ T cells. (First Aid — Immunology: T-Cell & B-Cell Biology)",
+   "optionExplanations": [
+    "",
+    "HIV receptor.",
+    "Receptor for CD40L on B cells.",
+    "Co-receptor in the B-cell receptor complex.",
+    "HIV coreceptor for macrophages and memory T cells."
+   ],
+   "images": [
+    "/recall-img/imm-ebv-f3e516b646.jpg"
+   ],
+   "attribution": "Picture: “EBV infection cycle in healthy humans” by Graham Beards, CC BY-SA 3.0 (Wikimedia Commons)."
+  },
+  {
+   "topicSlug": "t-cell-b-cell-biology",
+   "stem": "Individuals homozygous for a 32-base-pair deletion in CCR5 are relatively protected against HIV-1 infection. Why?",
+   "options": [
+    "The virus cannot use CCR5 as the coreceptor to enter macrophages and CD4+ T cells",
+    "CD4 is not expressed on their T cells",
+    "Reverse transcriptase is inactive in their cells",
+    "They lack MHC class I molecules",
+    "They produce gp41-neutralizing IgA constitutively"
+   ],
+   "correctIndex": 0,
+   "explanation": "HIV gp120 binds CD4 and then a chemokine coreceptor (CCR5 early, CXCR4 later); gp41 mediates fusion. Without CCR5 the macrophage-tropic strains transmitted sexually cannot enter. Maraviroc blocks CCR5. (First Aid — Immunology: Cell surface proteins)",
+   "optionExplanations": [
+    "",
+    "CD4 expression is normal.",
+    "Not related to CCR5.",
+    "They express MHC I normally.",
+    "Not the explanation."
+   ],
+   "images": [
+    "/recall-img/imm-hivfusion-9584f22e65.jpg"
+   ],
+   "attribution": "Picture: “HIV Membrane fusion panel” by Mike Jones, CC BY-SA 3.0 (Wikimedia Commons)."
+  },
+  {
+   "topicSlug": "t-cell-b-cell-biology",
+   "stem": "Which complex is responsible for transducing the activation signal into the T cell after the TCR binds peptide-MHC?",
+   "options": [
+    "CD3 complex",
+    "CD28",
+    "CD40 ligand",
+    "CD45",
+    "B7"
+   ],
+   "correctIndex": 0,
+   "explanation": "The TCR itself has short cytoplasmic tails; the associated CD3 chains (γ, δ, ε, ζ) carry ITAMs that are phosphorylated by Lck and initiate signaling. CD4/CD8 co-receptors help recruit Lck. (First Aid — Immunology: T-Cell & B-Cell Biology)",
+   "optionExplanations": [
+    "",
+    "Costimulatory receptor binding B7.",
+    "Provides help to B cells.",
+    "A phosphatase that regulates Lck.",
+    "A ligand on the antigen-presenting cell."
+   ],
+   "images": [
+    "/recall-img/imm-tcr-84b71fde4b.jpg"
+   ],
+   "attribution": "Picture: “TCRComplex” by Anriar, CC BY-SA 3.0 (Wikimedia Commons)."
+  },
+  {
+   "topicSlug": "t-cell-b-cell-biology",
+   "stem": "A 19-year-old woman using a tampon develops high fever, diffuse erythroderma, hypotension and multi-organ dysfunction. Which mechanism explains the exaggerated immune response?",
+   "options": [
+    "Toxin cross-links MHC II with the TCR Vβ region, activating a large fraction of T cells nonspecifically",
+    "Toxin ADP-ribosylates elongation factor 2",
+    "Toxin cleaves SNARE proteins",
+    "Endotoxin activates TLR4",
+    "Toxin raises intracellular cAMP by ADP-ribosylation of Gs"
+   ],
+   "correctIndex": 0,
+   "explanation": "Staphylococcus aureus TSST-1 (and streptococcal pyrogenic exotoxins) are superantigens: they bind outside the peptide groove, activating up to 20% of T cells, which release IL-2, IFN-γ and TNF, causing shock. (First Aid — Immunology: T-cell and B-cell activation)",
+   "optionExplanations": [
+    "",
+    "Diphtheria toxin.",
+    "Clostridial neurotoxins.",
+    "Gram-negative LPS; S. aureus lacks LPS.",
+    "Cholera toxin."
+   ],
+   "images": [
+    "/recall-img/imm-supag-a212d347a3.jpg"
+   ],
+   "attribution": "Picture: “Sec-mhc” by Bassophile, CC BY-SA 3.0 (Wikimedia Commons)."
+  },
+  {
+   "topicSlug": "antibodies-vaccination",
+   "stem": "Treatment of an IgG molecule with papain would yield which fragments?",
+   "options": [
+    "Two Fab fragments and one Fc fragment",
+    "One F(ab')2 fragment and digested Fc pieces",
+    "Only light chains",
+    "Only heavy chains",
+    "One Fab and two Fc fragments"
+   ],
+   "correctIndex": 0,
+   "explanation": "Papain cleaves above the hinge disulfides: two monovalent Fab (antigen-binding) pieces and one Fc (effector function) piece. Pepsin cleaves below the hinge, producing one bivalent F(ab')2. (First Aid — Immunology: Antibodies & Vaccination)",
+   "optionExplanations": [
+    "",
+    "Pepsin product.",
+    "Needs reduction of disulfide bonds.",
+    "Needs reduction of disulfide bonds.",
+    "Wrong stoichiometry."
+   ],
+   "images": [
+    "/recall-img/imm-papain-81d65dbc60.jpg"
+   ],
+   "attribution": "Picture: “2fab fc” by Wikimedia Commons contributors, Public domain (Wikimedia Commons)."
+  },
+  {
+   "topicSlug": "antibodies-vaccination",
+   "stem": "Which part of an immunoglobulin determines its antigen specificity?",
+   "options": [
+    "Hypervariable (complementarity-determining) regions of the heavy and light variable domains",
+    "Constant region of the heavy chain",
+    "Hinge region",
+    "Fc portion",
+    "J chain"
+   ],
+   "correctIndex": 0,
+   "explanation": "Specificity comes from the CDRs of VH and VL, formed by V(D)J recombination plus junctional diversity and somatic hypermutation. The constant region determines the isotype and effector function. (First Aid — Immunology: Antibodies & Vaccination)",
+   "optionExplanations": [
+    "",
+    "Determines isotype and effector function.",
+    "Provides flexibility.",
+    "Binds Fc receptors and complement.",
+    "Joins IgM and IgA polymers."
+   ],
+   "images": [
+    "/recall-img/imm-cdr-b999eaae9f.jpg"
+   ],
+   "attribution": "Picture: “Complementarity determining regions” by Anypodetos, CC BY-SA 3.0 (Wikimedia Commons)."
+  },
+  {
+   "topicSlug": "antibodies-vaccination",
+   "stem": "Which immunoglobulin is produced first in a primary response and is the most efficient activator of the classical complement pathway?",
+   "options": [
+    "IgM",
+    "IgG",
+    "IgA",
+    "IgE",
+    "IgD"
+   ],
+   "correctIndex": 0,
+   "explanation": "IgM is a pentamer (J chain) with 10 antigen-binding sites, so it agglutinates and fixes complement efficiently; IgG also fixes complement but comes later and is monomeric. (First Aid — Immunology: Antibodies & Vaccination)",
+   "optionExplanations": [
+    "",
+    "Appears later in the primary response and is mostly monomeric.",
+    "Mucosal antibody; does not fix complement well.",
+    "Binds mast cells and does not activate complement.",
+    "Mainly a B-cell receptor."
+   ],
+   "images": [
+    "/recall-img/imm-igm-e271ea7ee5.jpg"
+   ],
+   "attribution": "Picture: “IgM scheme” by Wikimedia Commons contributor, CC BY-SA 2.5 (Wikimedia Commons)."
+  },
+  {
+   "topicSlug": "antibodies-vaccination",
+   "stem": "A healthy full-term newborn is protected against many infections in the first months of life. Which mechanism provides this protection?",
+   "options": [
+    "Maternal IgG transported across the placenta by the neonatal Fc receptor",
+    "Maternal IgM",
+    "Neonatal IgE",
+    "Neonatal IgD",
+    "Maternal IgA in serum"
+   ],
+   "correctIndex": 0,
+   "explanation": "IgG is the only isotype that crosses the placenta (via FcRn), providing passive immunity for 3–6 months; secretory IgA in breast milk gives mucosal protection. IgM does not cross, so a raised IgM in the newborn suggests intrauterine infection. (First Aid — Immunology: Antibodies & Vaccination)",
+   "optionExplanations": [
+    "",
+    "Pentamer cannot cross the placenta.",
+    "Not protective against infections.",
+    "Mainly a B-cell receptor.",
+    "Serum IgA is not transported across the placenta."
+   ],
+   "images": [
+    "/recall-img/imm-abbasic-6e3cde2f84.jpg"
+   ],
+   "attribution": "Picture: “Antibody basic unit” by Tokenzero, CC BY-SA 4.0 (Wikimedia Commons)."
+  },
+  {
+   "topicSlug": "antibodies-vaccination",
+   "stem": "Secretory IgA is transported across mucosal epithelial cells by which structure?",
+   "options": [
+    "Polymeric immunoglobulin receptor, which becomes the secretory component",
+    "Neonatal Fc receptor",
+    "Fcγ receptor III",
+    "Complement receptor 1",
+    "MHC class II"
+   ],
+   "correctIndex": 0,
+   "explanation": "Dimeric IgA (J chain) binds the pIgR on the basolateral surface, is transcytosed, and the cleaved receptor fragment remains attached as the secretory component, protecting IgA from proteases. It prevents attachment of pathogens to mucosa. (First Aid — Immunology: Antibodies & Vaccination)",
+   "optionExplanations": [
+    "",
+    "Transports IgG across the placenta.",
+    "NK-cell ADCC receptor.",
+    "Clears immune complexes.",
+    "Presents peptides to T cells."
+   ],
+   "images": [
+    "/recall-img/imm-iga-5077fde1cd.jpg"
+   ],
+   "attribution": "Picture: “Dimeric IgA schematic 01” by McortNGHH, CC BY-SA 4.0 (Wikimedia Commons)."
+  },
+  {
+   "topicSlug": "antibodies-vaccination",
+   "stem": "A child from a rural area has marked peripheral eosinophilia and a stool test positive for Ascaris eggs. Which antibody is the key mediator of eosinophil-dependent killing of helminths?",
+   "options": [
+    "IgE",
+    "IgG",
+    "IgM",
+    "IgA",
+    "IgD"
+   ],
+   "correctIndex": 0,
+   "explanation": "IgE coats helminths and binds Fcε receptors on eosinophils (and mast cells), triggering degranulation of major basic protein; Th2 cytokines IL-4 and IL-5 support this response. (First Aid — Immunology: Antibodies & Vaccination)",
+   "optionExplanations": [
+    "",
+    "Opsonizes bacteria and neutralizes toxins.",
+    "Early response and complement fixation.",
+    "Mucosal defence.",
+    "Naive B-cell receptor."
+   ],
+   "images": [
+    "/recall-img/imm-ige-24d411d43a.jpg"
+   ],
+   "attribution": "Picture: “IgE” by SariSabban, CC BY-SA 3.0 (Wikimedia Commons)."
+  },
+  {
+   "topicSlug": "antibodies-vaccination",
+   "stem": "Why does a pneumococcal conjugate vaccine provoke a better response than pure capsular polysaccharide in infants?",
+   "options": [
+    "The protein carrier recruits T-cell help, allowing class switching and memory",
+    "The polysaccharide binds TLR4 directly",
+    "The conjugate is a live attenuated organism",
+    "It activates complement without antibodies",
+    "It binds Fc receptors on macrophages"
+   ],
+   "correctIndex": 0,
+   "explanation": "Polysaccharides are T-independent antigens: they cross-link B-cell receptors, cause mostly IgM and little memory, and work poorly under 2 years. Conjugation to a protein carrier makes a T-dependent antigen. Examples: Hib, PCV13, meningococcal conjugates, typhoid conjugate vaccine. (First Aid — Immunology: Antibodies & Vaccination)",
+   "optionExplanations": [
+    "",
+    "That is not how capsule antigens work.",
+    "It is not; it is inactivated.",
+    "Not the explanation.",
+    "Not relevant."
+   ],
+   "images": [
+    "/recall-img/imm-tdep-68ea71cd7f.jpg"
+   ],
+   "attribution": "Picture: “T-dependent B cell activation” by Altaileopard, Public domain (Wikimedia Commons)."
+  },
+  {
+   "topicSlug": "antibodies-vaccination",
+   "stem": "A 30-year-old unvaccinated man has a dirty puncture wound. Which of the following provides passive immunity against tetanus?",
+   "options": [
+    "Tetanus immune globulin",
+    "Tetanus toxoid",
+    "MMR vaccine",
+    "Recovery from tetanus",
+    "Hepatitis B vaccine"
+   ],
+   "correctIndex": 0,
+   "explanation": "Passive immunity gives ready-made antibodies (rapid, short-lived, no memory): tetanus immune globulin, rabies or hepatitis B immune globulin, antivenom, and maternal IgG. Active immunity (toxoid, vaccines, infection) takes days to weeks but leaves memory. (First Aid — Immunology: Antibodies & Vaccination)",
+   "optionExplanations": [
+    "",
+    "Active immunization.",
+    "Active (live attenuated).",
+    "Natural infection gives little immunity because the toxin dose is too small.",
+    "Active, recombinant."
+   ],
+   "images": [
+    "/recall-img/imm-antitoxin-db9d891596.jpg"
+   ],
+   "attribution": "Picture: “Antitoxin diphtheria” by Unknown author, Public domain (Wikimedia Commons)."
+  },
+  {
+   "topicSlug": "antibodies-vaccination",
+   "stem": "Which vaccine should be avoided in a patient with severe combined immunodeficiency?",
+   "options": [
+    "MMR",
+    "Hepatitis B vaccine",
+    "Inactivated polio vaccine",
+    "Tetanus-diphtheria-pertussis",
+    "HPV vaccine"
+   ],
+   "correctIndex": 0,
+   "explanation": "Live attenuated vaccines (MMR, varicella, oral polio, BCG, yellow fever, intranasal influenza, rotavirus) may cause disease in severely immunocompromised hosts and should be avoided; inactivated and recombinant vaccines are safe. (First Aid — Immunology: Antibodies & Vaccination)",
+   "optionExplanations": [
+    "",
+    "Recombinant surface antigen; safe.",
+    "Killed; safe.",
+    "Toxoid and acellular components; safe.",
+    "Virus-like particle; safe."
+   ],
+   "images": [
+    "/recall-img/imm-vaccine-d28b51a0b7.jpg"
+   ],
+   "attribution": "Picture: “Smallpox vaccine” by James Gathany (CDC), Public domain (Wikimedia Commons)."
+  },
+  {
+   "topicSlug": "antibodies-vaccination",
+   "stem": "Oral polio vaccine induces better intestinal protection than inactivated polio vaccine because it stimulates which response?",
+   "options": [
+    "Secretory IgA at the gut mucosa",
+    "IgE in the gut wall",
+    "Complement-fixing IgM only",
+    "Cytotoxic NK cells",
+    "Mast-cell degranulation"
+   ],
+   "correctIndex": 0,
+   "explanation": "The live attenuated oral vaccine replicates in the gut and induces secretory IgA (as well as IgG), interrupting fecal-oral spread; the killed injectable vaccine gives IgG only. Rarely, the live strain reverts to cause vaccine-associated paralysis. (First Aid — Immunology: Antibodies & Vaccination)",
+   "optionExplanations": [
+    "",
+    "Allergic isotype.",
+    "Does not give lasting mucosal protection.",
+    "Not the main mechanism.",
+    "Not protective."
+   ],
+   "images": [
+    "/recall-img/imm-vaccine-d28b51a0b7.jpg"
+   ],
+   "attribution": "Picture: “Smallpox vaccine” by James Gathany (CDC), Public domain (Wikimedia Commons)."
+  },
+  {
+   "topicSlug": "antibodies-vaccination",
+   "stem": "Class switching to IgA in Peyer's patches is promoted by which cytokine?",
+   "options": [
+    "TGF-β",
+    "IL-4",
+    "IFN-γ",
+    "IL-2",
+    "IL-12"
+   ],
+   "correctIndex": 0,
+   "explanation": "TGF-β (with IL-5 and retinoic acid) drives IgA switching in mucosal lymphoid tissue; IL-4 drives IgE and IgG4, IFN-γ drives IgG, while IL-13 also promotes IgE. (First Aid — Immunology: Antibodies & Vaccination)",
+   "optionExplanations": [
+    "",
+    "IgE and IgG4 switching.",
+    "IgG switching.",
+    "T-cell growth factor.",
+    "Th1 differentiation."
+   ],
+   "images": [
+    "/recall-img/imm-peyer-7fd69fafea.jpg"
+   ],
+   "attribution": "Picture: “Peyer's patch (improved color)” by User:Plainpaper, CC BY-SA 3.0 (Wikimedia Commons)."
+  },
+  {
+   "topicSlug": "antibodies-vaccination",
+   "stem": "Which term describes the unique antigen-binding sequence formed by the variable regions of one particular antibody clone?",
+   "options": [
+    "Idiotype",
+    "Isotype",
+    "Allotype",
+    "Hapten",
+    "Adjuvant"
+   ],
+   "correctIndex": 0,
+   "explanation": "Idiotype is the unique variable-region structure (CDRs) of a given clone; isotype refers to the heavy-chain class; allotype refers to allelic polymorphism of the constant regions between individuals. (First Aid — Immunology: Antibody structure and function)",
+   "optionExplanations": [
+    "",
+    "Class of the heavy chain (IgG, IgM, etc.).",
+    "Allelic differences in constant regions.",
+    "A small molecule that needs a carrier to become immunogenic.",
+    "A substance that boosts vaccine response."
+   ],
+   "images": [
+    "/recall-img/imm-cdr-b999eaae9f.jpg"
+   ],
+   "attribution": "Picture: “Complementarity determining regions” by Anypodetos, CC BY-SA 3.0 (Wikimedia Commons)."
+  },
+  {
+   "topicSlug": "antibodies-vaccination",
+   "stem": "Which immunoglobulin is co-expressed with IgM on the surface of mature naive B cells?",
+   "options": [
+    "IgD",
+    "IgG",
+    "IgA",
+    "IgE",
+    "IgG4"
+   ],
+   "correctIndex": 0,
+   "explanation": "Mature naive B cells express surface IgM and IgD (through alternative splicing of the same heavy-chain transcript) as antigen receptors; after activation they class switch to IgG, IgA or IgE. (First Aid — Immunology: Antibodies & Vaccination)",
+   "optionExplanations": [
+    "",
+    "Appears after class switching.",
+    "Appears after class switching.",
+    "Appears after class switching.",
+    "Appears after class switching."
+   ],
+   "images": [
+    "/recall-img/imm-iso-371572c5d7.jpg"
+   ],
+   "attribution": "Picture: “Mono-und-Polymere” by Martin Brändli, CC BY-SA 2.5 (Wikimedia Commons)."
+  },
+  {
+   "topicSlug": "antibodies-vaccination",
+   "stem": "A booster dose of tetanus toxoid produces a faster and higher antibody response than the primary dose. What explains this?",
+   "options": [
+    "Pre-existing memory B and T cells producing class-switched, high-affinity IgG",
+    "Higher IgM production by plasma cells",
+    "Innate NK cells that remember the toxin",
+    "Complement amplification",
+    "Direct neutralization by mast cells"
+   ],
+   "correctIndex": 0,
+   "explanation": "The secondary response involves memory cells that have undergone class switching and affinity maturation, so IgG appears within days at higher titer with greater affinity. (First Aid — Immunology: Antibodies & Vaccination)",
+   "optionExplanations": [
+    "",
+    "IgM predominates in the primary response.",
+    "Innate cells lack classic memory.",
+    "Not antigen-specific memory.",
+    "Not relevant."
+   ],
+   "images": [
+    "/recall-img/imm-bmem-32bd46928a.jpg"
+   ],
+   "attribution": "Picture: “B cell activation naive to plasma cell” by Bobologist, CC BY-SA 3.0 (Wikimedia Commons)."
+  },
+  {
+   "topicSlug": "complement-cytokines-phagocytes",
+   "stem": "Which complement fragment is the principal opsonin that coats bacteria and promotes phagocytosis?",
+   "options": [
+    "C3b",
+    "C5a",
+    "C3a",
+    "C5b-9",
+    "C1 inhibitor"
+   ],
+   "correctIndex": 0,
+   "explanation": "C3b binds microbial surfaces and is recognized by CR1 on phagocytes, enhancing phagocytosis (opsonization); it also forms the C5 convertase. C3a and C5a are anaphylatoxins; C5a is a major chemoattractant. (First Aid — Immunology: Complement)",
+   "optionExplanations": [
+    "",
+    "Chemotactic for neutrophils and an anaphylatoxin.",
+    "Anaphylatoxin causing mast-cell degranulation.",
+    "Membrane attack complex that lyses cells.",
+    "A regulator that blocks C1r/C1s."
+   ],
+   "images": [
+    "/recall-img/imm-compl-c45dce1492.jpg"
+   ],
+   "attribution": "Picture: “Complement pathway” by DO11.10 and contributors, Public domain (Wikimedia Commons)."
+  },
+  {
+   "topicSlug": "complement-cytokines-phagocytes",
+   "stem": "Which complement fragment is the most potent chemoattractant for neutrophils?",
+   "options": [
+    "C5a",
+    "C3b",
+    "C5b",
+    "C1q",
+    "C5b-9"
+   ],
+   "correctIndex": 0,
+   "explanation": "C5a recruits neutrophils and also increases vascular permeability and induces mast-cell degranulation (anaphylatoxin); IL-8, LTB4 and bacterial peptides are other chemotactic factors. (First Aid — Immunology: Complement, Cytokines & Phagocytes)",
+   "optionExplanations": [
+    "",
+    "Opsonin.",
+    "Initiates formation of the membrane attack complex.",
+    "Initiates the classical pathway.",
+    "Lytic membrane attack complex."
+   ],
+   "images": [
+    "/recall-img/imm-compl-c45dce1492.jpg"
+   ],
+   "attribution": "Picture: “Complement pathway” by DO11.10 and contributors, Public domain (Wikimedia Commons)."
+  },
+  {
+   "topicSlug": "complement-cytokines-phagocytes",
+   "stem": "A 28-year-old woman has recurrent episodes of non-pruritic facial and laryngeal swelling after minor dental procedures, with no urticaria. Her father had similar attacks. Which laboratory finding is expected?",
+   "options": [
+    "Low C4 level",
+    "Elevated C3",
+    "Elevated serum IgE",
+    "Peripheral eosinophilia",
+    "Positive ANA"
+   ],
+   "correctIndex": 0,
+   "explanation": "Hereditary angioedema is due to C1 esterase inhibitor deficiency: uncontrolled C1 activity consumes C4 (low C4), and excess bradykinin causes edema. It does not respond to antihistamines or epinephrine; treat with C1-INH concentrate, icatibant or ecallantide, and use danazol for prophylaxis. ACE inhibitors worsen it. (First Aid — Immunology: Complement disorders)",
+   "optionExplanations": [
+    "",
+    "C3 is typically normal.",
+    "Not part of this disease.",
+    "Not seen.",
+    "Not a feature of HAE."
+   ],
+   "images": [
+    "/recall-img/imm-compl-c45dce1492.jpg"
+   ],
+   "attribution": "Picture: “Complement pathway” by DO11.10 and contributors, Public domain (Wikimedia Commons)."
+  },
+  {
+   "topicSlug": "complement-cytokines-phagocytes",
+   "stem": "A 19-year-old man has a second episode of Neisseria meningitidis meningitis. Which complement deficiency is most likely?",
+   "options": [
+    "C5–C9 (membrane attack complex) deficiency",
+    "C1 inhibitor deficiency",
+    "C1q, C2 or C4 deficiency",
+    "C3 deficiency",
+    "Decay-accelerating factor deficiency"
+   ],
+   "correctIndex": 0,
+   "explanation": "The membrane attack complex is essential for killing Neisseria; deficiency of terminal components (C5–C9) or properdin causes recurrent neisserial infections. Eculizumab (anti-C5) also increases this risk, so vaccination against N. meningitidis is required. (First Aid — Immunology: Complement, Cytokines & Phagocytes)",
+   "optionExplanations": [
+    "",
+    "Causes hereditary angioedema.",
+    "Predisposes to SLE-like disease.",
+    "Causes severe pyogenic infections and immune-complex disease.",
+    "Causes complement-mediated hemolysis."
+   ],
+   "images": [
+    "/recall-img/imm-mac-a9bdef80e2.jpg"
+   ],
+   "attribution": "Picture: “Membrane Attack Complex (Terminal Complement Complex C5b-9)” by SLiva2016, CC BY-SA 3.0 (Wikimedia Commons)."
+  },
+  {
+   "topicSlug": "complement-cytokines-phagocytes",
+   "stem": "A 32-year-old man has episodes of dark morning urine, anemia and a recent hepatic vein thrombosis. Flow cytometry shows absent CD55 and CD59. What is the underlying defect?",
+   "options": [
+    "Acquired mutation in PIGA that prevents synthesis of GPI anchors",
+    "Spectrin deficiency",
+    "G6PD deficiency",
+    "C1 esterase inhibitor deficiency",
+    "Factor V Leiden mutation"
+   ],
+   "correctIndex": 0,
+   "explanation": "Paroxysmal nocturnal hemoglobinuria: GPI-anchored complement regulators (DAF/CD55 and MIRL/CD59) are missing, so red cells undergo complement-mediated intravascular hemolysis (worse at night when mild acidosis activates complement). Treat with eculizumab (anti-C5). (First Aid — Immunology: Complement disorders)",
+   "optionExplanations": [
+    "",
+    "Hereditary spherocytosis.",
+    "Oxidant hemolysis with Heinz bodies.",
+    "Hereditary angioedema.",
+    "Thrombophilia without hemolysis."
+   ],
+   "images": [
+    "/recall-img/imm-compl-c45dce1492.jpg"
+   ],
+   "attribution": "Picture: “Complement pathway” by DO11.10 and contributors, Public domain (Wikimedia Commons)."
+  },
+  {
+   "topicSlug": "complement-cytokines-phagocytes",
+   "stem": "A 7-year-old boy has repeated severe pyogenic sinopulmonary infections and membranoproliferative glomerulonephritis. CH50 and C3 levels are very low. Which defect is most likely?",
+   "options": [
+    "C3 deficiency",
+    "C6 deficiency",
+    "C1 inhibitor deficiency",
+    "DAF (CD55) deficiency",
+    "Properdin deficiency"
+   ],
+   "correctIndex": 0,
+   "explanation": "C3 is central to opsonization and to all complement pathways; deficiency causes severe recurrent infections with encapsulated bacteria and immune-complex disease (type III hypersensitivity) because immune complexes are not cleared. (First Aid — Immunology: Complement, Cytokines & Phagocytes)",
+   "optionExplanations": [
+    "",
+    "Neisserial infections, with normal C3.",
+    "Angioedema; C3 normal.",
+    "Hemolysis in PNH.",
+    "Neisserial infections; C3 usually normal."
+   ],
+   "images": [
+    "/recall-img/imm-compl-c45dce1492.jpg"
+   ],
+   "attribution": "Picture: “Complement pathway” by DO11.10 and contributors, Public domain (Wikimedia Commons)."
+  },
+  {
+   "topicSlug": "complement-cytokines-phagocytes",
+   "stem": "Which cytokine is mainly responsible for the hepatic synthesis of C-reactive protein and fibrinogen during inflammation?",
+   "options": [
+    "IL-6",
+    "IL-2",
+    "IL-4",
+    "IFN-γ",
+    "IL-5"
+   ],
+   "correctIndex": 0,
+   "explanation": "IL-6 (from macrophages and T cells) induces acute-phase reactants (CRP, fibrinogen, hepcidin, serum amyloid A) in the liver and is an endogenous pyrogen. Tocilizumab blocks the IL-6 receptor. IL-1 and TNF-α also cause fever. (First Aid — Immunology: Complement, Cytokines & Phagocytes)",
+   "optionExplanations": [
+    "",
+    "T-cell growth factor.",
+    "Th2 cytokine.",
+    "Activates macrophages.",
+    "Eosinophil growth factor."
+   ],
+   "images": [
+    "/recall-img/imm-cytokine-64a989d40d.jpg"
+   ],
+   "attribution": "Picture: “Cytokine release” by www.scientificanimations.com, CC BY-SA 4.0 (Wikimedia Commons)."
+  },
+  {
+   "topicSlug": "complement-cytokines-phagocytes",
+   "stem": "A 50-year-old woman with rheumatoid arthritis treated with infliximab develops fever, weight loss and apical lung cavitation, and tests positive for Mycobacterium tuberculosis. Which mechanism explains her reactivation?",
+   "options": [
+    "Loss of TNF-α–dependent maintenance of granulomas",
+    "Impaired antibody class-switching",
+    "Neutropenia",
+    "Depletion of complement components",
+    "Mast cell depletion"
+   ],
+   "correctIndex": 0,
+   "explanation": "TNF-α is essential for macrophage activation and for maintaining granulomas that wall off M. tuberculosis. TNF inhibitors (infliximab, adalimumab, etanercept, golimumab, certolizumab) therefore increase the risk of reactivation, so screen for latent TB (IGRA or PPD) before therapy. (First Aid — Immunology: Immunosuppressants)",
+   "optionExplanations": [
+    "",
+    "Not an effect of anti-TNF therapy.",
+    "Not the principal effect.",
+    "Not an effect.",
+    "Not relevant to TB."
+   ],
+   "images": [
+    "/recall-img/imm-tnf-3b6e248bcc.jpg"
+   ],
+   "attribution": "Picture: “TNFR1 Cell Signaling” by AdeptLearner123, CC0 (Wikimedia Commons)."
+  },
+  {
+   "topicSlug": "complement-cytokines-phagocytes",
+   "stem": "Which cytokine, secreted mainly by activated T cells, stimulates proliferation of helper, cytotoxic and regulatory T cells and NK cells?",
+   "options": [
+    "IL-2",
+    "IL-3",
+    "IL-8",
+    "IL-10",
+    "IL-1"
+   ],
+   "correctIndex": 0,
+   "explanation": "IL-2 is the principal T-cell growth factor (autocrine/paracrine); calcineurin inhibitors (cyclosporine, tacrolimus) work by blocking its transcription. Aldesleukin (recombinant IL-2) is used in renal cell carcinoma and metastatic melanoma. (First Aid — Immunology: Complement, Cytokines & Phagocytes)",
+   "optionExplanations": [
+    "",
+    "Supports bone marrow multilineage progenitors.",
+    "Neutrophil chemotaxis.",
+    "Anti-inflammatory.",
+    "Pyrogen from macrophages."
+   ],
+   "images": [
+    "/recall-img/imm-lymphact-68377aa0a4.jpg"
+   ],
+   "attribution": "Picture: “Lymphocyte activation” by Mikael Häggström, Public domain (Wikimedia Commons)."
+  },
+  {
+   "topicSlug": "complement-cytokines-phagocytes",
+   "stem": "Which cytokine is the main chemoattractant for neutrophils to a site of bacterial infection?",
+   "options": [
+    "IL-8 (CXCL8)",
+    "IL-5",
+    "IL-4",
+    "IL-3",
+    "IFN-γ"
+   ],
+   "correctIndex": 0,
+   "explanation": "IL-8 is secreted by macrophages and endothelium and attracts neutrophils; neutrophils then roll, adhere and transmigrate. C5a, LTB4 and bacterial products are additional chemoattractants. (First Aid — Immunology: Important cytokines)",
+   "optionExplanations": [
+    "",
+    "Eosinophil differentiation and activation.",
+    "Th2 differentiation and IgE switching.",
+    "Early hematopoietic growth factor.",
+    "Macrophage activation."
+   ],
+   "images": [
+    "/recall-img/imm-extrav-ffd784a2d3.jpg"
+   ],
+   "attribution": "Picture: “Leukozytenmigration 01” by Kuebi (Armin Kübelbeck), CC BY 3.0 (Wikimedia Commons)."
+  },
+  {
+   "topicSlug": "complement-cytokines-phagocytes",
+   "stem": "A 4-year-old boy has recurrent abscesses and pneumonia caused by Staphylococcus aureus, Serratia and Aspergillus. A dihydrorhodamine flow-cytometry test shows no neutrophil fluorescence. Which enzyme is deficient?",
+   "options": [
+    "NADPH oxidase",
+    "Myeloperoxidase",
+    "LYST gene product (lysosomal trafficking regulator)",
+    "CD18 integrin",
+    "Adenosine deaminase"
+   ],
+   "correctIndex": 0,
+   "explanation": "Chronic granulomatous disease: absent NADPH oxidase prevents the respiratory burst, so phagocytes cannot generate superoxide and H2O2 and cannot kill catalase-positive organisms (catalase destroys the small amount of H2O2 made by the bacteria). NBT test is negative; give prophylactic TMP-SMX, itraconazole and IFN-γ. (First Aid — Immunology: Respiratory burst)",
+   "optionExplanations": [
+    "",
+    "Deficiency allows normal NBT and little susceptibility, except candidiasis.",
+    "Chédiak-Higashi syndrome with giant granules.",
+    "Leukocyte adhesion deficiency type 1.",
+    "Severe combined immunodeficiency."
+   ],
+   "images": [
+    "/recall-img/imm-nadph-970ff34778.jpg"
+   ],
+   "attribution": "Picture: “Figure 1. Overall reaction for the formation of superoxide from NADPH” by Marckhalaf, CC BY-SA 3.0 (Wikimedia Commons)."
+  },
+  {
+   "topicSlug": "complement-cytokines-phagocytes",
+   "stem": "Which enzyme catalyzes the formation of hypochlorous acid from hydrogen peroxide and chloride in neutrophil phagolysosomes?",
+   "options": [
+    "Myeloperoxidase",
+    "NADPH oxidase",
+    "Superoxide dismutase",
+    "Catalase",
+    "Glutathione peroxidase"
+   ],
+   "correctIndex": 0,
+   "explanation": "Respiratory burst: NADPH oxidase makes superoxide, superoxide dismutase converts it to H2O2, and myeloperoxidase uses H2O2 plus Cl- to make HOCl (bleach), which kills bacteria; MPO gives pus its green color. (First Aid — Immunology: Complement, Cytokines & Phagocytes)",
+   "optionExplanations": [
+    "",
+    "Makes superoxide.",
+    "Converts superoxide to H2O2.",
+    "Degrades H2O2 to water and oxygen.",
+    "Detoxifies H2O2 using glutathione."
+   ],
+   "images": [
+    "/recall-img/imm-nadph-970ff34778.jpg"
+   ],
+   "attribution": "Picture: “Figure 1. Overall reaction for the formation of superoxide from NADPH” by Marckhalaf, CC BY-SA 3.0 (Wikimedia Commons)."
+  },
+  {
+   "topicSlug": "complement-cytokines-phagocytes",
+   "stem": "How do type I interferons (IFN-α and IFN-β) protect neighboring cells during viral infection?",
+   "options": [
+    "They induce an antiviral state by activating RNase L and PKR, which degrade viral RNA and inhibit translation",
+    "They activate the classical complement pathway",
+    "They opsonize virions for phagocytosis",
+    "They stimulate IgE class switching",
+    "They downregulate MHC class I on infected cells"
+   ],
+   "correctIndex": 0,
+   "explanation": "Virus-infected cells secrete IFN-α/β, which bind receptors on nearby cells, upregulate MHC I, and induce enzymes that degrade viral RNA and shut down protein synthesis. Pegylated IFN-α is used in chronic hepatitis B/C. (First Aid — Immunology: Type I interferons)",
+   "optionExplanations": [
+    "",
+    "Interferons do not activate complement.",
+    "Antibodies and C3b do that.",
+    "IL-4 does that.",
+    "They upregulate MHC I."
+   ],
+   "images": [
+    "/recall-img/imm-ifn-41f3f650cb.jpg"
+   ],
+   "attribution": "Picture: “1RH2 Recombinant Human Interferon-Alpha 2b-01” by Nevit Dilmen, CC BY-SA 3.0 (Wikimedia Commons)."
+  },
+  {
+   "topicSlug": "complement-cytokines-phagocytes",
+   "stem": "A 22-year-old woman has SLE-like disease with a malar rash and recurrent infections. Deficiency of which group of complement components is most strongly associated with lupus?",
+   "options": [
+    "Early classical pathway components (C1q, C2, C4)",
+    "Terminal components C5–C9",
+    "Decay-accelerating factor",
+    "Properdin",
+    "Factor H"
+   ],
+   "correctIndex": 0,
+   "explanation": "Early classical components are needed to clear immune complexes and apoptotic debris; their absence leaves nuclear antigens exposed and promotes autoantibody formation. C1q deficiency has the strongest link with SLE. (First Aid — Immunology: Complement, Cytokines & Phagocytes)",
+   "optionExplanations": [
+    "",
+    "Recurrent neisserial infections.",
+    "Hemolysis in PNH.",
+    "Neisserial infections.",
+    "Atypical hemolytic uremic syndrome."
+   ],
+   "images": [
+    "/recall-img/imm-compl-c45dce1492.jpg"
+   ],
+   "attribution": "Picture: “Complement pathway” by DO11.10 and contributors, Public domain (Wikimedia Commons)."
+  },
+  {
+   "topicSlug": "hypersensitivity-transfusion",
+   "stem": "A man develops urticaria, wheezing and hypotension within minutes of a bee sting. What is the initial immunologic event?",
+   "options": [
+    "Cross-linking of IgE bound to FcεRI on mast cells, causing degranulation",
+    "Deposition of antigen-antibody complexes in vessel walls",
+    "Cytotoxic antibodies against cell surface antigens",
+    "T-cell release of cytokines after 48–72 hours",
+    "Antibodies to membrane receptors"
+   ],
+   "correctIndex": 0,
+   "explanation": "Type I hypersensitivity: previously formed IgE on mast cells and basophils is cross-linked by antigen, releasing preformed histamine and tryptase and then leukotrienes and prostaglandins. It requires sensitization and happens within minutes. (First Aid — Immunology: Hypersensitivity types)",
+   "optionExplanations": [
+    "",
+    "Type III.",
+    "Type II.",
+    "Type IV.",
+    "Type II variant (e.g., Graves disease)."
+   ],
+   "images": [
+    "/recall-img/imm-degran-cdcf86a607.jpg"
+   ],
+   "attribution": "Picture: “Allergy degranulation processes 01” by Paweł Kuźniar, CC BY-SA 3.0 (Wikimedia Commons)."
+  },
+  {
+   "topicSlug": "hypersensitivity-transfusion",
+   "stem": "What is the first-line treatment of anaphylaxis?",
+   "options": [
+    "Intramuscular epinephrine",
+    "Intravenous diphenhydramine",
+    "Oral prednisone",
+    "Inhaled albuterol",
+    "Intravenous hydrocortisone"
+   ],
+   "correctIndex": 0,
+   "explanation": "IM epinephrine (anterolateral thigh) reverses vasodilation, bronchospasm and edema through α1, β1 and β2 effects. Antihistamines, steroids and albuterol are adjuncts and do not replace it. (First Aid — Immunology: Hypersensitivity & Transfusion Reactions)",
+   "optionExplanations": [
+    "",
+    "Adjunct only; does not treat shock or airway obstruction.",
+    "Slow onset; not first line.",
+    "Helps bronchospasm only.",
+    "Prevents late-phase reaction but does not act quickly."
+   ],
+   "images": [
+    "/recall-img/imm-anaph-ceb8853b29.jpg"
+   ],
+   "attribution": "Picture: “Signs and symptoms of anaphylaxis” by Mikael Häggström, CC0 (Wikimedia Commons)."
+  },
+  {
+   "topicSlug": "hypersensitivity-transfusion",
+   "stem": "A 25-year-old smoker has hemoptysis and rapidly progressive glomerulonephritis. Immunofluorescence of a renal biopsy shows linear IgG deposition along the glomerular basement membrane. Which hypersensitivity type is this?",
+   "options": [
+    "Type II",
+    "Type I",
+    "Type III",
+    "Type IV",
+    "Graft-versus-host reaction"
+   ],
+   "correctIndex": 0,
+   "explanation": "Goodpasture syndrome is anti-GBM disease (antibodies against the α3 chain of collagen IV), a type II reaction in which antibodies bind fixed tissue antigens and activate complement. Type II also includes autoimmune hemolytic anemia, myasthenia gravis and Graves disease. (First Aid — Immunology: Hypersensitivity types)",
+   "optionExplanations": [
+    "",
+    "IgE-mediated immediate reaction.",
+    "Immune complexes show granular deposits.",
+    "Delayed T-cell reaction.",
+    "Donor lymphocytes attacking host tissues."
+   ],
+   "images": [
+    "/recall-img/imm-hyper-a1b4812032.jpg"
+   ],
+   "attribution": "Picture: “2228 Immune Hypersensitivity new” by OpenStax College, CC BY 3.0 (Wikimedia Commons)."
+  },
+  {
+   "topicSlug": "hypersensitivity-transfusion",
+   "stem": "Ten days after receiving equine antithymocyte globulin, a patient develops fever, rash, arthralgia and low serum C3. What is the mechanism?",
+   "options": [
+    "Deposition of antigen-antibody complexes with complement activation",
+    "Preformed IgE on mast cells",
+    "Cytotoxic CD8+ T cells",
+    "Antibodies to the basement membrane",
+    "Antibodies to the TSH receptor"
+   ],
+   "correctIndex": 0,
+   "explanation": "Serum sickness (type III) occurs 1–2 weeks after exposure to foreign proteins or drugs (penicillin, sulfonamides), when immune complexes form in antigen excess and deposit in vessels, joints and glomeruli. Complement is consumed, lowering C3 and C4. (First Aid — Immunology: Hypersensitivity & Transfusion Reactions)",
+   "optionExplanations": [
+    "",
+    "Type I immediate reaction.",
+    "Type IV.",
+    "Type II, as in Goodpasture.",
+    "Type II stimulatory."
+   ],
+   "images": [
+    "/recall-img/imm-hyper-a1b4812032.jpg"
+   ],
+   "attribution": "Picture: “2228 Immune Hypersensitivity new” by OpenStax College, CC BY 3.0 (Wikimedia Commons)."
+  },
+  {
+   "topicSlug": "hypersensitivity-transfusion",
+   "stem": "Within hours of a booster tetanus vaccination, a patient develops painful swelling and necrosis at the injection site. This local reaction is an example of which hypersensitivity type?",
+   "options": [
+    "Type III (Arthus reaction)",
+    "Type I",
+    "Type II",
+    "Type IV",
+    "Atopy with eosinophilia"
+   ],
+   "correctIndex": 0,
+   "explanation": "Arthus reaction is a local immune-complex reaction in a previously sensitized person with high antibody levels; complexes deposit in vessel walls with complement activation, neutrophil influx and necrosis within 4–10 hours. (First Aid — Immunology: Hypersensitivity & Transfusion Reactions)",
+   "optionExplanations": [
+    "",
+    "Occurs within minutes and shows urticaria.",
+    "Antibody to cell-surface antigens.",
+    "Delayed over 48–72 hours.",
+    "Not a mechanism."
+   ],
+   "images": [
+    "/recall-img/imm-hyper-a1b4812032.jpg"
+   ],
+   "attribution": "Picture: “2228 Immune Hypersensitivity new” by OpenStax College, CC BY 3.0 (Wikimedia Commons)."
+  },
+  {
+   "topicSlug": "hypersensitivity-transfusion",
+   "stem": "Which mechanism underlies a positive tuberculin skin test 48 hours after intradermal PPD?",
+   "options": [
+    "Th1 cells activating macrophages in a delayed-type hypersensitivity reaction",
+    "Cross-linking of IgE on mast cells",
+    "Immune-complex deposition",
+    "Complement-mediated lysis",
+    "NK cell-mediated ADCC"
+   ],
+   "correctIndex": 0,
+   "explanation": "Type IV hypersensitivity is T-cell mediated: sensitized CD4+ Th1 cells release IFN-γ and activate macrophages, causing induration at 48–72 hours. Contact dermatitis (nickel, poison ivy), transplant rejection and the TB granuloma are other type IV examples. (First Aid — Immunology: Hypersensitivity & Transfusion Reactions)",
+   "optionExplanations": [
+    "",
+    "Type I, minutes.",
+    "Type III.",
+    "Type II.",
+    "Type II antibody-dependent."
+   ],
+   "images": [
+    "/recall-img/imm-mantoux-862ad6ff2c.jpg"
+   ],
+   "attribution": "Picture: “Mantoux tuberculin skin test” by Greg Knobloch, Public domain (Wikimedia Commons)."
+  },
+  {
+   "topicSlug": "hypersensitivity-transfusion",
+   "stem": "Ten minutes after the start of a red cell transfusion, a patient develops fever, flank pain, hypotension and red urine. What is the mechanism?",
+   "options": [
+    "Preformed recipient IgM against donor ABO antigens causing complement-mediated intravascular hemolysis",
+    "Anti-IgA antibodies in an IgA-deficient recipient",
+    "Cytokines accumulated in stored platelets",
+    "Donor anti-HLA antibodies against recipient neutrophils",
+    "Rapid volume overload"
+   ],
+   "correctIndex": 0,
+   "explanation": "Acute hemolytic transfusion reaction (type II) is usually due to ABO mismatch from clerical error: recipient anti-A/anti-B IgM activate complement, leading to hemolysis, DIC and kidney injury. Stop the transfusion, support circulation and check the direct Coombs test. (First Aid — Immunology: Transfusion reactions)",
+   "optionExplanations": [
+    "",
+    "Anaphylaxis without hemolysis.",
+    "Febrile nonhemolytic reaction.",
+    "TRALI.",
+    "TACO; no hemolysis."
+   ],
+   "images": [
+    "/recall-img/imm-hemolytic-f3268eb147.jpg",
+    "/recall-img/imm-abo-49fb35121b.jpg"
+   ],
+   "attribution": "Picture: “Main symptoms of acute hemolytic reaction” by Mikael Häggström, Public domain; “ABO blood type” by InvictaHOG, Public domain (Wikimedia Commons)."
+  },
+  {
+   "topicSlug": "hypersensitivity-transfusion",
+   "stem": "A patient develops fever and chills 2 hours into a packed red cell transfusion. Vital signs are otherwise stable, and the direct Coombs test and urine are normal. What is the cause?",
+   "options": [
+    "Recipient antibodies against donor leukocytes and cytokines released by leukocytes during storage",
+    "ABO incompatibility",
+    "Anti-IgA antibodies",
+    "Donor antibodies against recipient neutrophils",
+    "Bacterial contamination of the unit"
+   ],
+   "correctIndex": 0,
+   "explanation": "Febrile nonhemolytic transfusion reaction is the most common reaction; it is mediated by recipient antibodies against donor WBC antigens and by IL-1, IL-6 and TNF-α in stored blood. Slow the transfusion, give antipyretics, and use leukoreduced products in the future. (First Aid — Immunology: Hypersensitivity & Transfusion Reactions)",
+   "optionExplanations": [
+    "",
+    "Would cause hemolysis and a positive Coombs test.",
+    "Anaphylaxis, usually within minutes.",
+    "TRALI, with respiratory distress.",
+    "Causes high fever, rigors and hypotension and requires a culture; a mild reaction suggests febrile nonhemolytic."
+   ],
+   "images": [
+    "/recall-img/imm-cytokine-64a989d40d.jpg"
+   ],
+   "attribution": "Picture: “Cytokine release” by www.scientificanimations.com, CC BY-SA 4.0 (Wikimedia Commons)."
+  },
+  {
+   "topicSlug": "hypersensitivity-transfusion",
+   "stem": "A 60-year-old woman develops sudden dyspnea and bilateral pulmonary infiltrates 3 hours after receiving fresh frozen plasma. Echocardiography shows a normal ejection fraction. What is the mechanism?",
+   "options": [
+    "Donor anti-HLA or anti-neutrophil antibodies activating recipient neutrophils in the pulmonary capillaries",
+    "Circulatory overload from rapid infusion",
+    "Anti-IgA antibodies",
+    "Complement-mediated hemolysis",
+    "Bacterial endotoxin"
+   ],
+   "correctIndex": 0,
+   "explanation": "Transfusion-related acute lung injury (TRALI) causes non-cardiogenic pulmonary edema within 6 hours; it is more common with plasma from multiparous female donors. Treatment is supportive; TACO, in contrast, presents with elevated BNP and cardiac overload. (First Aid — Immunology: Hypersensitivity & Transfusion Reactions)",
+   "optionExplanations": [
+    "",
+    "TACO; cardiogenic pattern.",
+    "Anaphylaxis.",
+    "ABO reaction.",
+    "Sepsis picture."
+   ],
+   "images": [
+    "/recall-img/imm-neutrophil-4472fdf9bd.jpg"
+   ],
+   "attribution": "Picture: “Blausen 0676 Neutrophil (crop)” by Blausen Medical, CC BY-SA 4.0 (Wikimedia Commons)."
+  },
+  {
+   "topicSlug": "hypersensitivity-transfusion",
+   "stem": "A patient with recurrent sinopulmonary infections and Giardia infection develops bronchospasm and hypotension within minutes of starting a transfusion. Which mechanism is most likely?",
+   "options": [
+    "Recipient anti-IgA antibodies reacting with donor plasma IgA",
+    "Recipient anti-A IgM",
+    "Donor anti-HLA antibodies",
+    "Cytokines in stored blood",
+    "Delayed anamnestic response to minor antigens"
+   ],
+   "correctIndex": 0,
+   "explanation": "Selective IgA deficiency is the most common primary immunodeficiency; some patients make anti-IgA IgE/IgG antibodies and have an anaphylactic transfusion reaction. Use washed red cells or IgA-deficient donor products. (First Aid — Immunology: Transfusion reactions)",
+   "optionExplanations": [
+    "",
+    "Hemolysis.",
+    "TRALI.",
+    "Febrile reaction.",
+    "Extravascular hemolysis after days."
+   ],
+   "images": [
+    "/recall-img/imm-iga-5077fde1cd.jpg"
+   ],
+   "attribution": "Picture: “Dimeric IgA schematic 01” by McortNGHH, CC BY-SA 4.0 (Wikimedia Commons)."
+  },
+  {
+   "topicSlug": "hypersensitivity-transfusion",
+   "stem": "An Rh-negative woman delivers an Rh-positive infant. Which measure best prevents hemolytic disease in her next pregnancy?",
+   "options": [
+    "Anti-D immune globulin at 28 weeks of gestation and within 72 hours of delivery",
+    "Prednisone for the mother",
+    "Exchange transfusion of the mother",
+    "Rh vaccination during pregnancy",
+    "Phototherapy for the mother"
+   ],
+   "correctIndex": 0,
+   "explanation": "Anti-D IgG clears fetal Rh-positive red cells before the mother mounts her own response, so no sensitization and no maternal IgG against fetal cells in later pregnancies. Rh disease is type II hypersensitivity with fetal hemolysis, hydrops fetalis and kernicterus. (First Aid — Immunology: Hypersensitivity & Transfusion Reactions)",
+   "optionExplanations": [
+    "",
+    "Does not prevent sensitization.",
+    "Not used.",
+    "That would sensitize her.",
+    "Used for neonatal jaundice, not prevention."
+   ],
+   "images": [
+    "/recall-img/imm-hdn-5081c4599e.jpg"
+   ],
+   "attribution": "Picture: “1910 Erythroblastosis Fetalis” by OpenStax College, CC BY 3.0 (Wikimedia Commons)."
+  },
+  {
+   "topicSlug": "hypersensitivity-transfusion",
+   "stem": "A direct antiglobulin (Coombs) test is positive in a patient with hemolytic anemia. What does the test detect?",
+   "options": [
+    "Immunoglobulin or complement bound to the patient's own red cells",
+    "Antibodies in the patient's serum against donor red cells",
+    "Free hemoglobin in plasma",
+    "Reduced complement levels",
+    "IgE on red cells"
+   ],
+   "correctIndex": 0,
+   "explanation": "The direct Coombs test mixes the patient's washed red cells with anti-human globulin; agglutination shows antibodies or C3 on the cell surface (autoimmune hemolysis, hemolytic disease of the newborn, drug-induced). The indirect test detects serum antibodies against reagent cells. (First Aid — Immunology: Hypersensitivity types)",
+   "optionExplanations": [
+    "",
+    "That is the indirect test.",
+    "Not measured by Coombs.",
+    "Measured by C3/C4 assays.",
+    "IgE is not involved."
+   ],
+   "images": [
+    "/recall-img/imm-coombs-078e6b1177.jpg"
+   ],
+   "attribution": "Picture: “Coombs test schematic” by A. Rad, CC BY-SA 3.0 (Wikimedia Commons)."
+  },
+  {
+   "topicSlug": "immunodeficiency-disorders",
+   "stem": "A 9-month-old boy has recurrent otitis media and pneumonia caused by Streptococcus pneumoniae and Haemophilus influenzae. His serum immunoglobulins of all classes are very low, tonsils are absent, and flow cytometry shows no CD19+ cells. Which defect is most likely?",
+   "options": [
+    "Mutation in Bruton tyrosine kinase causing a block at the pre-B-cell stage",
+    "CD40 ligand mutation",
+    "Adenosine deaminase deficiency",
+    "WAS gene mutation",
+    "Defective NADPH oxidase"
+   ],
+   "correctIndex": 0,
+   "explanation": "X-linked (Bruton) agammaglobulinemia: BTK mutation blocks B-cell maturation, so mature B cells and plasma cells are absent. Infections begin after maternal IgG wanes (about 6 months): encapsulated bacteria, enteroviruses and Giardia. T-cell function is normal. Treat with IVIG. (First Aid — Immunology: Immunodeficiencies)",
+   "optionExplanations": [
+    "",
+    "Hyper-IgM syndrome, with normal or high IgM and B cells present.",
+    "SCID with lymphopenia and T-cell absence.",
+    "Eczema, thrombocytopenia and low IgM.",
+    "Chronic granulomatous disease."
+   ],
+   "images": [
+    "/recall-img/imm-btk-4d4e96f605.jpg"
+   ],
+   "attribution": "Picture: “Involvement of Bruton’s tyrosine kinase in B cell receptor signaling” by Nickolasnikolic, CC BY-SA 4.0 (Wikimedia Commons)."
+  },
+  {
+   "topicSlug": "immunodeficiency-disorders",
+   "stem": "A 4-month-old girl has oral thrush, chronic diarrhea, failure to thrive and Pneumocystis jirovecii pneumonia. The thymic shadow is absent and T cells are very low. What is the most common genetic cause of this syndrome?",
+   "options": [
+    "Mutation of the common γ chain of the IL-2 receptor",
+    "BTK gene",
+    "CD40L gene",
+    "WAS gene",
+    "STAT3 gene"
+   ],
+   "correctIndex": 0,
+   "explanation": "X-linked SCID is the most common form: the shared γ chain (IL-2, 4, 7, 9, 15, 21 receptors) is defective, so T cells (and NK cells) fail to develop and B cells are nonfunctional. Treatment is hematopoietic stem cell transplant (or gene therapy); live vaccines are contraindicated. (First Aid — Immunology: Immunodeficiency Disorders)",
+   "optionExplanations": [
+    "",
+    "X-linked agammaglobulinemia with normal T cells.",
+    "Hyper-IgM.",
+    "Wiskott-Aldrich syndrome.",
+    "Hyper-IgE syndrome."
+   ],
+   "images": [
+    "/recall-img/imm-bdev-1d64e1e5cb.jpg"
+   ],
+   "attribution": "Picture: “Early B cell development” by Bobologist / M. Häggström, CC BY-SA 4.0 (Wikimedia Commons)."
+  },
+  {
+   "topicSlug": "immunodeficiency-disorders",
+   "stem": "In adenosine deaminase deficiency, lymphocytes die because of which mechanism?",
+   "options": [
+    "Accumulated deoxyadenosine/dATP inhibits ribonucleotide reductase and impairs DNA synthesis",
+    "Defective V(D)J recombination by RAG1/2",
+    "Absent MHC II expression",
+    "Absent respiratory burst",
+    "Lack of CD40 ligand"
+   ],
+   "correctIndex": 0,
+   "explanation": "ADA deficiency (autosomal recessive SCID) causes toxic purine metabolites to accumulate in lymphocytes, which are very sensitive to blocked DNA synthesis; T, B and NK cells are all depleted. Enzyme replacement (PEG-ADA) or transplantation is used. (First Aid — Immunology: Immunodeficiencies)",
+   "optionExplanations": [
+    "",
+    "Another cause of SCID but a different mechanism.",
+    "Bare lymphocyte syndrome.",
+    "Chronic granulomatous disease.",
+    "Hyper-IgM."
+   ],
+   "images": [
+    "/recall-img/imm-hsc-c3a54680f8.jpg"
+   ],
+   "attribution": "Picture: “Hematopoiesis simple” by A. Rad and Mikael Häggström, CC BY-SA 3.0 (Wikimedia Commons)."
+  },
+  {
+   "topicSlug": "immunodeficiency-disorders",
+   "stem": "A 2-year-old boy has eczema, easy bruising with petechiae and recurrent ear infections. His platelets are small and few. Which immunoglobulin pattern is expected?",
+   "options": [
+    "Low IgM with elevated IgE and IgA",
+    "Absence of all immunoglobulins with no B cells",
+    "Normal immunoglobulins with giant neutrophil granules",
+    "High IgM with low IgG, IgA, IgE",
+    "Normal immunoglobulins with absent CD18"
+   ],
+   "correctIndex": 0,
+   "explanation": "Wiskott-Aldrich syndrome (X-linked, WAS gene; defective actin cytoskeleton in hematopoietic cells) presents with the triad of thrombocytopenia (small platelets), eczema and recurrent infections, because polysaccharide antigens elicit poor IgM responses. Increased risk of autoimmunity and lymphoma; treat with HSCT. (First Aid — Immunology: Immunodeficiency Disorders)",
+   "optionExplanations": [
+    "",
+    "Bruton agammaglobulinemia.",
+    "Chediak-Higashi syndrome.",
+    "Hyper-IgM syndrome.",
+    "Leukocyte adhesion deficiency."
+   ],
+   "images": [
+    "/recall-img/imm-hsc-c3a54680f8.jpg"
+   ],
+   "attribution": "Picture: “Hematopoiesis simple” by A. Rad and Mikael Häggström, CC BY-SA 3.0 (Wikimedia Commons)."
+  },
+  {
+   "topicSlug": "immunodeficiency-disorders",
+   "stem": "A 5-year-old boy has gait ataxia, oculocutaneous telangiectasias and recurrent sinopulmonary infections. His serum alpha-fetoprotein is elevated. Which defect is responsible?",
+   "options": [
+    "Defective ATM kinase involved in repair of DNA double-strand breaks",
+    "Defective NADPH oxidase",
+    "Defective AIRE",
+    "Defective lysosomal trafficking regulator",
+    "CD40 ligand defect"
+   ],
+   "correctIndex": 0,
+   "explanation": "Ataxia-telangiectasia (autosomal recessive, ATM mutation): cerebellar ataxia, telangiectasias, IgA deficiency, increased AFP and high risk of lymphoma, leukemia and radiation sensitivity. (First Aid — Immunology: Immunodeficiency Disorders)",
+   "optionExplanations": [
+    "",
+    "Chronic granulomatous disease.",
+    "Autoimmune polyglandular syndrome.",
+    "Chediak-Higashi syndrome.",
+    "Hyper-IgM syndrome."
+   ],
+   "images": [
+    "/recall-img/imm-at-99b719aae1.jpg"
+   ],
+   "attribution": "Picture: “Photo Ocular telangiectasia in a person with A-T” by Thomas O. Crawford, CC BY-SA 3.0 (Wikimedia Commons)."
+  },
+  {
+   "topicSlug": "immunodeficiency-disorders",
+   "stem": "Which primary immunodeficiency is the most common and is often asymptomatic?",
+   "options": [
+    "Selective IgA deficiency",
+    "X-linked agammaglobulinemia",
+    "Common variable immunodeficiency",
+    "DiGeorge syndrome",
+    "Hyper-IgM syndrome"
+   ],
+   "correctIndex": 0,
+   "explanation": "Selective IgA deficiency (1 in 500) can be asymptomatic or cause recurrent sinopulmonary infections, Giardia diarrhea and celiac-like disease; there is a risk of anaphylaxis with blood products containing IgA. IgG and IgM are normal. (First Aid — Immunology: Immunodeficiency Disorders)",
+   "optionExplanations": [
+    "",
+    "Rare; all Ig classes are low.",
+    "Presents in adolescence or adulthood with low IgG and IgA.",
+    "T-cell deficiency with hypocalcemia.",
+    "Rare, with infections in infancy."
+   ],
+   "images": [
+    "/recall-img/imm-iga-5077fde1cd.jpg"
+   ],
+   "attribution": "Picture: “Dimeric IgA schematic 01” by McortNGHH, CC BY-SA 4.0 (Wikimedia Commons)."
+  },
+  {
+   "topicSlug": "immunodeficiency-disorders",
+   "stem": "A 30-year-old woman has recurrent sinusitis and pneumonia since adolescence, low IgG and IgA, and normal numbers of circulating B cells. Which abnormality best explains her disease?",
+   "options": [
+    "B cells fail to differentiate into plasma cells",
+    "Absent B cells due to BTK mutation",
+    "Absent T cells due to thymic aplasia",
+    "Absent complement component C3",
+    "Defective phagocyte oxidative burst"
+   ],
+   "correctIndex": 0,
+   "explanation": "Common variable immunodeficiency (CVID) shows normal B-cell numbers that do not mature into plasma cells; it presents after age 2 (typically adolescence or adulthood) with recurrent sinopulmonary infections, autoimmunity, and increased risk of lymphoma and gastric cancer. Treat with IVIG. (First Aid — Immunology: Immunodeficiency Disorders)",
+   "optionExplanations": [
+    "",
+    "Presents in infancy with absent B cells.",
+    "DiGeorge syndrome.",
+    "Pyogenic infections with low C3.",
+    "Chronic granulomatous disease."
+   ],
+   "images": [
+    "/recall-img/imm-bmem-32bd46928a.jpg"
+   ],
+   "attribution": "Picture: “B cell activation naive to plasma cell” by Bobologist, CC BY-SA 3.0 (Wikimedia Commons)."
+  },
+  {
+   "topicSlug": "immunodeficiency-disorders",
+   "stem": "A 10-year-old boy has coarse facies, recurrent cold staphylococcal skin abscesses, retained primary teeth, pathologic fractures and eosinophilia with very high IgE. What is the underlying defect?",
+   "options": [
+    "STAT3 mutation causing impaired Th17 differentiation",
+    "FOXP3 mutation",
+    "NADPH oxidase defect",
+    "BTK mutation",
+    "CD18 deficiency"
+   ],
+   "correctIndex": 0,
+   "explanation": "Hyper-IgE syndrome (Job syndrome): STAT3 defect reduces Th17 cells and IL-17/IL-22, which recruit neutrophils; abscesses are \"cold\" (no inflammation). Treat with antistaphylococcal prophylaxis. (First Aid — Immunology: Immunodeficiencies)",
+   "optionExplanations": [
+    "",
+    "IPEX syndrome.",
+    "CGD; hot abscesses and catalase-positive infections.",
+    "Agammaglobulinemia.",
+    "Leukocyte adhesion deficiency."
+   ],
+   "images": [
+    "/recall-img/imm-job-5e5419ca82.jpg"
+   ],
+   "attribution": "Picture: “Person with Job's syndrome” by Asifa et al., CC BY 4.0 (Wikimedia Commons)."
+  },
+  {
+   "topicSlug": "immunodeficiency-disorders",
+   "stem": "A 6-year-old girl has partial oculocutaneous albinism, silvery hair, recurrent staphylococcal infections and peripheral neuropathy. A blood smear shows giant granules in neutrophils. Which gene is mutated?",
+   "options": [
+    "LYST, impairing phagolysosome formation and lysosomal trafficking",
+    "CYBB (NADPH oxidase)",
+    "ITGB2 (CD18)",
+    "MPO",
+    "ADA"
+   ],
+   "correctIndex": 0,
+   "explanation": "Chédiak-Higashi syndrome is an autosomal recessive microtubule/lysosomal trafficking defect: giant lysosomal granules in leukocytes, neutropenia, albinism, neuropathy, and risk of an accelerated hemophagocytic phase. (First Aid — Immunology: Immunodeficiencies)",
+   "optionExplanations": [
+    "",
+    "CGD without giant granules.",
+    "LAD1 with absent pus formation.",
+    "Myeloperoxidase deficiency.",
+    "Adenosine deaminase deficiency."
+   ],
+   "images": [
+    "/recall-img/imm-neutrophil-4472fdf9bd.jpg"
+   ],
+   "attribution": "Picture: “Blausen 0676 Neutrophil (crop)” by Blausen Medical, CC BY-SA 4.0 (Wikimedia Commons)."
+  },
+  {
+   "topicSlug": "immunodeficiency-disorders",
+   "stem": "A newborn has delayed separation of the umbilical cord, omphalitis without pus, and marked neutrophilia. Which defect is most likely?",
+   "options": [
+    "Deficiency of the CD18 β2 integrin subunit",
+    "Sialyl Lewis X deficiency",
+    "NADPH oxidase deficiency",
+    "LYST deficiency",
+    "Adenosine deaminase deficiency"
+   ],
+   "correctIndex": 0,
+   "explanation": "Leukocyte adhesion deficiency type 1: absent LFA-1/Mac-1 integrins prevent firm adhesion and transmigration, so neutrophils accumulate in blood but cannot reach tissues (no pus, poor wound healing, delayed cord separation >30 days). Type 2 is a defect in sialyl Lewis X (rolling). (First Aid — Immunology: Immunodeficiencies)",
+   "optionExplanations": [
+    "",
+    "LAD2, with rolling defect, hypopigmentation and Bombay phenotype.",
+    "CGD with abscesses and pus.",
+    "Chédiak-Higashi.",
+    "SCID."
+   ],
+   "images": [
+    "/recall-img/imm-extrav-ffd784a2d3.jpg"
+   ],
+   "attribution": "Picture: “Leukozytenmigration 01” by Kuebi (Armin Kübelbeck), CC BY 3.0 (Wikimedia Commons)."
+  },
+  {
+   "topicSlug": "immunodeficiency-disorders",
+   "stem": "A 3-year-old girl develops disseminated infection after BCG vaccination and a later non-tuberculous mycobacterial infection. Other immune testing is normal. Which pathway is most likely defective?",
+   "options": [
+    "IL-12/IFN-γ signaling axis between macrophages and Th1 cells",
+    "Complement C3",
+    "IgA production",
+    "C1 esterase inhibitor",
+    "Bruton tyrosine kinase"
+   ],
+   "correctIndex": 0,
+   "explanation": "Mendelian susceptibility to mycobacterial disease: mutations in IL-12 or its receptor or in the IFN-γ receptor prevent macrophage activation by Th1 cells, giving severe infections with weakly virulent mycobacteria and Salmonella. IFN-γ therapy helps in some forms. (First Aid — Immunology: Immunodeficiency Disorders)",
+   "optionExplanations": [
+    "",
+    "Pyogenic infections.",
+    "Mucosal infections.",
+    "Angioedema.",
+    "Absent B cells and bacterial infections."
+   ],
+   "images": [
+    "/recall-img/imm-ifng-8a23f0f3d0.jpg"
+   ],
+   "attribution": "Picture: “1HIG Interferon-Gamma01” by Nevit Dilmen, CC BY-SA 3.0 (Wikimedia Commons)."
+  },
+  {
+   "topicSlug": "immunodeficiency-disorders",
+   "stem": "Compared with patients with B-cell deficiencies, those with severe T-cell deficiencies are particularly prone to which infections?",
+   "options": [
+    "Candida, Pneumocystis, cytomegalovirus and other intracellular or opportunistic pathogens",
+    "Recurrent infections with encapsulated bacteria only",
+    "Only catalase-positive bacteria",
+    "Neisseria species exclusively",
+    "Only Giardia and enteroviruses"
+   ],
+   "correctIndex": 0,
+   "explanation": "T-cell deficiency (DiGeorge, SCID, advanced HIV) predisposes to viral, fungal and intracellular infections (Candida, PJP, CMV, Mycobacteria). B-cell deficiency predisposes to encapsulated bacteria (S. pneumoniae, H. influenzae), enteroviruses and Giardia. (First Aid — Immunology: Infections in immunodeficiency)",
+   "optionExplanations": [
+    "",
+    "B-cell/opsonization defects.",
+    "Neutrophil oxidative defects.",
+    "Terminal complement deficiency.",
+    "B-cell deficiency."
+   ],
+   "images": [
+    "/recall-img/imm-tbact-748a719eb0.jpg"
+   ],
+   "attribution": "Picture: “Activation of T and B cells” by Immcarle105, CC BY-SA 4.0 (Wikimedia Commons)."
+  },
+  {
+   "topicSlug": "transplant-autoimmunity",
+   "stem": "Within minutes of reperfusion, a transplanted kidney becomes cyanotic and mottled with thrombosis of graft vessels. What is the cause?",
+   "options": [
+    "Preformed antibodies against donor HLA or ABO antigens",
+    "Infiltration by CD8+ T cells",
+    "Intimal fibrosis and vascular obliteration",
+    "Calcineurin inhibitor toxicity",
+    "Donor T cells attacking the host"
+   ],
+   "correctIndex": 0,
+   "explanation": "Hyperacute rejection is a type II hypersensitivity: preexisting recipient antibodies bind graft endothelium, activate complement and cause thrombosis and necrosis. It is prevented by ABO matching and a negative cross-match; the graft must be removed. (First Aid — Immunology: Transplant rejection)",
+   "optionExplanations": [
+    "",
+    "Acute cellular rejection (days to months).",
+    "Chronic rejection.",
+    "Occurs later, with vacuolization.",
+    "Graft-versus-host disease."
+   ],
+   "images": [
+    "/recall-img/imm-abo-49fb35121b.jpg"
+   ],
+   "attribution": "Picture: “ABO blood type” by InvictaHOG, Public domain (Wikimedia Commons)."
+  },
+  {
+   "topicSlug": "transplant-autoimmunity",
+   "stem": "Two months after a kidney transplant, a patient's creatinine rises. Biopsy shows interstitial lymphocytic infiltrate with tubulitis. What is the mechanism?",
+   "options": [
+    "Recipient CD8+ and CD4+ T cells reacting against donor MHC molecules",
+    "Preformed anti-ABO antibodies",
+    "Fibrosis and arteriolar thickening over years",
+    "Immune complex deposition from a prior infection",
+    "Direct tubular toxicity from calcineurin inhibitors"
+   ],
+   "correctIndex": 0,
+   "explanation": "Acute cellular rejection (weeks to months) is mediated by T cells recognizing donor MHC; it is treated with high-dose steroids and increased immunosuppression. Acute humoral rejection shows vasculitis and C4d deposition. (First Aid — Immunology: Transplant & Autoimmunity)",
+   "optionExplanations": [
+    "",
+    "Hyperacute rejection.",
+    "Chronic rejection.",
+    "A different disease.",
+    "Gives isometric vacuolization, not lymphocytic infiltrate."
+   ],
+   "images": [
+    "/recall-img/imm-acuterej-de1e90eee4.jpg"
+   ],
+   "attribution": "Picture: “Acute cellular rejection, renal graft biopsy” by Calicut Medical College pathology dept., CC BY-SA 4.0 (Wikimedia Commons)."
+  },
+  {
+   "topicSlug": "transplant-autoimmunity",
+   "stem": "A heart-transplant recipient develops progressive coronary vasculopathy with concentric intimal thickening 4 years after surgery. Which is the diagnosis?",
+   "options": [
+    "Chronic rejection",
+    "Hyperacute rejection",
+    "Acute cellular rejection",
+    "Graft-versus-host disease",
+    "Cyclosporine nephrotoxicity"
+   ],
+   "correctIndex": 0,
+   "explanation": "Chronic rejection (months to years) shows arteriosclerosis (vascular lesions in heart, kidney), bronchiolitis obliterans in lung, vanishing bile ducts in liver and glomerulopathy in kidney; it is mediated by T-cell cytokines and antibodies and is largely irreversible. (First Aid — Immunology: Transplant & Autoimmunity)",
+   "optionExplanations": [
+    "",
+    "Minutes.",
+    "Weeks to months with lymphocytic infiltrate.",
+    "Donor lymphocytes attacking host.",
+    "Kidney effect, not coronary."
+   ],
+   "images": [
+    "/recall-img/imm-chronicrej-9175e8d698.jpg"
+   ],
+   "attribution": "Picture: “Transplant glomerulopathy - very high mag” by Nephron, CC BY-SA 3.0 (Wikimedia Commons)."
+  },
+  {
+   "topicSlug": "transplant-autoimmunity",
+   "stem": "Ten days after an allogeneic bone marrow transplant, a patient develops a maculopapular rash, jaundice and diarrhea. What is the pathogenesis?",
+   "options": [
+    "Donor T cells recognizing host tissues as foreign",
+    "Preformed recipient antibodies to donor antigens",
+    "Recipient T cells attacking the graft",
+    "Complement activation by immune complexes",
+    "IgE-mediated mast-cell degranulation"
+   ],
+   "correctIndex": 0,
+   "explanation": "Graft-versus-host disease occurs when immunocompetent donor T cells attack the host's skin, liver and gut (rash, jaundice, diarrhea). It is more common with HLA mismatches and can have a beneficial graft-versus-leukemia effect. (First Aid — Immunology: Transplant rejection)",
+   "optionExplanations": [
+    "",
+    "Hyperacute rejection.",
+    "Host-versus-graft.",
+    "Serum sickness.",
+    "Type I."
+   ],
+   "images": [
+    "/recall-img/imm-gvhd-bb60dc3259.jpg"
+   ],
+   "attribution": "Picture: “Three phases of GVHD immuno-biology” by Reddy & Ferrara, CC BY 3.0 (Wikimedia Commons)."
+  },
+  {
+   "topicSlug": "transplant-autoimmunity",
+   "stem": "Which autoantibody is the most specific for systemic lupus erythematosus?",
+   "options": [
+    "Anti-Smith antibody",
+    "Antinuclear antibody",
+    "Anti-histone antibody",
+    "Anti-centromere antibody",
+    "Anti-Jo-1 antibody"
+   ],
+   "correctIndex": 0,
+   "explanation": "Anti-Smith (against snRNP core proteins) and anti-double-stranded DNA are highly specific for SLE; ANA is sensitive but not specific. Anti-histone is typical of drug-induced lupus. (First Aid — Immunology: Autoantibodies)",
+   "optionExplanations": [
+    "",
+    "Highly sensitive, not specific.",
+    "Drug-induced lupus.",
+    "Limited scleroderma (CREST).",
+    "Antisynthetase syndrome and polymyositis."
+   ],
+   "images": [
+    "/recall-img/imm-ana-b97c47af21.jpg"
+   ],
+   "attribution": "Picture: “ANA Immunofluorescence” by Simon Caulton, CC BY-SA 3.0 (Wikimedia Commons)."
+  },
+  {
+   "topicSlug": "transplant-autoimmunity",
+   "stem": "Which autoantibody is the most specific for rheumatoid arthritis and predicts erosive disease?",
+   "options": [
+    "Anti-cyclic citrullinated peptide (anti-CCP)",
+    "Rheumatoid factor",
+    "Antinuclear antibody",
+    "Anti-double-stranded DNA",
+    "Anti-Scl-70"
+   ],
+   "correctIndex": 0,
+   "explanation": "Anti-CCP has high specificity (>95%) for RA and can appear years before symptoms; rheumatoid factor (IgM against the Fc of IgG) is sensitive but less specific. (First Aid — Immunology: Autoantibodies)",
+   "optionExplanations": [
+    "",
+    "Less specific; present in other diseases such as hepatitis C.",
+    "SLE and other connective tissue diseases.",
+    "SLE.",
+    "Diffuse systemic sclerosis."
+   ],
+   "images": [
+    "/recall-img/imm-ra-46ce58e49a.jpg"
+   ],
+   "attribution": "Picture: “RheumatoideArthritisAP” by Bernd Brägelmann, CC BY 3.0 (Wikimedia Commons)."
+  },
+  {
+   "topicSlug": "transplant-autoimmunity",
+   "stem": "A 52-year-old woman has pruritus, fatigue and a markedly raised alkaline phosphatase, with normal bile ducts on ultrasound. Which autoantibody is most likely present?",
+   "options": [
+    "Anti-mitochondrial antibody",
+    "Anti-smooth muscle antibody",
+    "Anti-liver-kidney microsomal antibody",
+    "Anti-centromere antibody",
+    "p-ANCA"
+   ],
+   "correctIndex": 0,
+   "explanation": "Primary biliary cholangitis is autoimmune destruction of small intrahepatic bile ducts, usually in middle-aged women, with anti-mitochondrial antibodies, raised IgM and ALP; treat with ursodeoxycholic acid. (First Aid — Immunology: Autoantibodies)",
+   "optionExplanations": [
+    "",
+    "Autoimmune hepatitis.",
+    "Autoimmune hepatitis type 2.",
+    "CREST syndrome.",
+    "Primary sclerosing cholangitis and vasculitides."
+   ],
+   "images": [
+    "/recall-img/imm-ama-c65ad1241b.jpg"
+   ],
+   "attribution": "Picture: “ANA NUCLEAR DOT AND AMA” by Simon Caulton, CC BY-SA 3.0 (Wikimedia Commons)."
+  },
+  {
+   "topicSlug": "transplant-autoimmunity",
+   "stem": "Before a kidney transplant, the recipient's serum is mixed with donor lymphocytes, and complement-mediated lysis occurs. What does this positive cross-match predict?",
+   "options": [
+    "Hyperacute rejection",
+    "Chronic rejection",
+    "Acute cellular rejection",
+    "Graft-versus-host disease",
+    "No increased risk"
+   ],
+   "correctIndex": 0,
+   "explanation": "A positive cross-match shows preformed anti-donor HLA antibodies that will rapidly destroy the graft; the transplant should not proceed. Panel-reactive antibodies measure the degree of sensitization. (First Aid — Immunology: Transplant & Autoimmunity)",
+   "optionExplanations": [
+    "",
+    "Develops over years.",
+    "T-cell mediated.",
+    "Donor cells attack host.",
+    "Wrong: this is a contraindication."
+   ],
+   "images": [
+    "/recall-img/imm-abo-49fb35121b.jpg"
+   ],
+   "attribution": "Picture: “ABO blood type” by InvictaHOG, Public domain (Wikimedia Commons)."
+  },
+  {
+   "topicSlug": "immunopharmacology",
+   "stem": "How do cyclosporine and tacrolimus suppress the immune response?",
+   "options": [
+    "Inhibit calcineurin, blocking NFAT activation and IL-2 transcription",
+    "Inhibit mTOR",
+    "Inhibit inosine monophosphate dehydrogenase",
+    "Inhibit dihydrofolate reductase",
+    "Block the IL-2 receptor CD25"
+   ],
+   "correctIndex": 0,
+   "explanation": "Cyclosporine (binds cyclophilin) and tacrolimus (binds FKBP12) inhibit calcineurin, preventing dephosphorylation of NFAT and thus IL-2 gene transcription and T-cell activation. Adverse effects: nephrotoxicity, hypertension, hyperglycemia, tremor, neurotoxicity; tacrolimus causes more diabetes, cyclosporine more gingival hyperplasia and hirsutism. (First Aid — Immunology: Immunosuppressants)",
+   "optionExplanations": [
+    "",
+    "Sirolimus.",
+    "Mycophenolate.",
+    "Methotrexate.",
+    "Basiliximab."
+   ],
+   "images": [
+    "/recall-img/imm-cyclo-ab11d56daf.jpg"
+   ],
+   "attribution": "Picture: “Ciclosporin” by Yikrazuul, Public domain (Wikimedia Commons)."
+  },
+  {
+   "topicSlug": "immunopharmacology",
+   "stem": "A kidney-transplant recipient is switched to an immunosuppressant that blocks the response of T cells to IL-2 by inhibiting mTOR and is not nephrotoxic. Which drug is this?",
+   "options": [
+    "Sirolimus",
+    "Cyclosporine",
+    "Tacrolimus",
+    "Mycophenolate mofetil",
+    "Azathioprine"
+   ],
+   "correctIndex": 0,
+   "explanation": "Sirolimus (rapamycin) binds FKBP12 and inhibits mTOR, blocking the T-cell proliferative response to IL-2; it is kidney sparing but causes hyperlipidemia, thrombocytopenia and poor wound healing, and is used in drug-eluting stents. (First Aid — Immunology: Immunopharmacology)",
+   "optionExplanations": [
+    "",
+    "Nephrotoxic calcineurin inhibitor.",
+    "Nephrotoxic calcineurin inhibitor.",
+    "IMPDH inhibitor.",
+    "Purine analog."
+   ],
+   "images": [
+    "/recall-img/imm-siro-1ea59a4d64.jpg"
+   ],
+   "attribution": "Picture: “Sirolimus structure” by Vaccinationist, Public domain (Wikimedia Commons)."
+  },
+  {
+   "topicSlug": "immunopharmacology",
+   "stem": "Which immunosuppressant inhibits inosine monophosphate dehydrogenase and thus blocks de novo guanine nucleotide synthesis in lymphocytes?",
+   "options": [
+    "Mycophenolate mofetil",
+    "Azathioprine",
+    "Cyclosporine",
+    "Basiliximab",
+    "Sirolimus"
+   ],
+   "correctIndex": 0,
+   "explanation": "Lymphocytes depend on de novo purine synthesis, so mycophenolate's IMPDH inhibition selectively suppresses T- and B-cell proliferation; adverse effects include GI upset, pancytopenia and teratogenicity. (First Aid — Immunology: Immunopharmacology)",
+   "optionExplanations": [
+    "",
+    "Is converted to 6-MP and incorporated into DNA.",
+    "Calcineurin inhibitor.",
+    "Anti-CD25 monoclonal antibody.",
+    "mTOR inhibitor."
+   ],
+   "images": [
+    "/recall-img/imm-mmf-be3798f138.jpg"
+   ],
+   "attribution": "Picture: “Mycophenolate mofetil structure” by Meodipt (talk), Public domain (Wikimedia Commons)."
+  },
+  {
+   "topicSlug": "immunopharmacology",
+   "stem": "A patient taking azathioprine after a kidney transplant develops gout and is started on allopurinol; he then develops pancytopenia. Why?",
+   "options": [
+    "Allopurinol inhibits xanthine oxidase, so the active metabolite 6-mercaptopurine accumulates",
+    "Allopurinol induces CYP enzymes that increase azathioprine",
+    "Azathioprine blocks urate excretion in the kidney",
+    "Both drugs inhibit IMPDH",
+    "Allopurinol displaces azathioprine from albumin"
+   ],
+   "correctIndex": 0,
+   "explanation": "Azathioprine is converted to 6-MP, which xanthine oxidase inactivates. Allopurinol blocks that pathway and raises 6-MP levels, causing bone marrow toxicity, so the azathioprine dose must be reduced by about 75% (or febuxostat avoided, too). TPMT variants also increase toxicity. (First Aid — Immunology: Immunosuppressants)",
+   "optionExplanations": [
+    "",
+    "Not true.",
+    "Not the mechanism.",
+    "Only mycophenolate does.",
+    "Not the mechanism."
+   ],
+   "images": [
+    "/recall-img/imm-aza-397d9f78c8.jpg"
+   ],
+   "attribution": "Picture: “AZA metabolism” by Wikimedia Commons contributors, Public domain (Wikimedia Commons)."
+  },
+  {
+   "topicSlug": "immunopharmacology",
+   "stem": "Which monoclonal antibody, used for induction in kidney transplantation, blocks the IL-2 receptor α chain?",
+   "options": [
+    "Basiliximab",
+    "Rituximab",
+    "Infliximab",
+    "Natalizumab",
+    "Trastuzumab"
+   ],
+   "correctIndex": 0,
+   "explanation": "Basiliximab targets CD25 (the IL-2 receptor α chain) on activated T cells to prevent acute rejection. Other antibodies: rituximab (CD20), infliximab (TNF-α), alemtuzumab (CD52), natalizumab (α4 integrin). (First Aid — Immunology: Immunopharmacology)",
+   "optionExplanations": [
+    "",
+    "Anti-CD20.",
+    "Anti-TNF-α.",
+    "Anti-α4 integrin.",
+    "Anti-HER2."
+   ],
+   "images": [
+    "/recall-img/imm-lymphact-68377aa0a4.jpg"
+   ],
+   "attribution": "Picture: “Lymphocyte activation” by Mikael Häggström, Public domain (Wikimedia Commons)."
+  },
+  {
+   "topicSlug": "immunopharmacology",
+   "stem": "A patient receiving chemotherapy has severe thrombocytopenia. Which recombinant cytokine stimulates platelet production?",
+   "options": [
+    "Oprelvekin (IL-11)",
+    "Aldesleukin (IL-2)",
+    "Interferon-α",
+    "Filgrastim (G-CSF)",
+    "Epoetin alfa"
+   ],
+   "correctIndex": 0,
+   "explanation": "Oprelvekin is recombinant IL-11 that stimulates megakaryocyte progenitors. Other recombinant cytokines: filgrastim (G-CSF) for neutropenia, sargramostim (GM-CSF) for myeloid recovery, epoetin for anemia, aldesleukin (IL-2) for renal cell carcinoma and melanoma, interferon-α for hepatitis and some leukemias. (First Aid — Immunology: Recombinant cytokines)",
+   "optionExplanations": [
+    "",
+    "Renal cell carcinoma and melanoma.",
+    "Chronic hepatitis B/C and hairy cell leukemia.",
+    "Neutropenia.",
+    "Anemia of kidney disease."
+   ],
+   "images": [
+    "/recall-img/imm-hsc-c3a54680f8.jpg"
+   ],
+   "attribution": "Picture: “Hematopoiesis simple” by A. Rad and Mikael Häggström, CC BY-SA 3.0 (Wikimedia Commons)."
+  }
+ ]
+}
