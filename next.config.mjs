@@ -5,7 +5,6 @@ const nextConfig = {
       beforeFiles: [
         {
           source: "/",
-          missing: [{ type: "cookie", key: "fcps_session" }],
           destination: "/landing.html",
         },
       ],
@@ -18,6 +17,7 @@ const nextConfig = {
       { source: "/landing/:path*", headers: [{ key: "Cache-Control", value: day }] },
       { source: "/explanations/:path*", headers: [{ key: "Cache-Control", value: day }] },
       { source: "/landing/tutors.json", headers: [{ key: "Cache-Control", value: "public, max-age=0, must-revalidate" }] },
+      { source: "/landing/study-plan.json", headers: [{ key: "Cache-Control", value: "public, max-age=0, must-revalidate" }] },
       { source: "/landing/img/:path*", headers: [{ key: "Cache-Control", value: forever }] },
       { source: "/landing/fonts/:path*", headers: [{ key: "Cache-Control", value: forever }] },
       { source: "/recall-img/:path*", headers: [{ key: "Cache-Control", value: forever }] },
