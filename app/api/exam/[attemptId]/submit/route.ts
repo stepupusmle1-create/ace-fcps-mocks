@@ -1,11 +1,16 @@
 import { NextRequest, NextResponse } from "next/server";
 import { prisma } from "@/lib/prisma";
 import { getCurrentUser } from "@/lib/auth";
+import { hasFullAccess } from "@/lib/access";
 
 export async function POST(req: NextRequest, { params }: { params: { attemptId: string } }) {
   const user = await getCurrentUser();
   if (!user) {
     return NextResponse.json({ error: "Please log in first." }, { status: 401 });
+  }
+
+  if (!hasFullAccess(user)) {
+    return NextResponse.json({ error: "Your account has not been activated yet. Send your payment screenshot on WhatsApp to get full access." }, { status: 403 });
   }
 
   const attempt = await prisma.attempt.findUnique({ where: { id: params.attemptId } });

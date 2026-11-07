@@ -88,7 +88,7 @@ const TESTIMONIALS = [
     name: "Sana M.",
     role: "FCPS Part 1 candidate",
     quote:
-      "Free mocks with detailed per-option explanations after every wrong answer — that alone made the program worth it.",
+      "Mocks with detailed per-option explanations after every wrong answer — that alone made the program worth it.",
   },
 ];
 
@@ -124,12 +124,12 @@ export default async function HomePage() {
               href="/exams"
               className="rounded-xl border border-slate-300 bg-white px-6 py-3 text-sm font-semibold text-slate-700 shadow-sm transition hover:bg-slate-50"
             >
-              Try the mocks free
+              Explore the mocks
             </Link>
           </div>
           <p className="mt-4 flex items-center justify-center gap-1.5 text-[12px] font-medium text-slate-400">
-            <Sparkles size={14} className="text-emerald-500" /> Mock exams on this platform are always
-            free &mdash; no payment needed to practice.
+            <Sparkles size={14} className="text-emerald-500" /> Mocks, Q Bank and Recalls unlock once your
+            enrolment is confirmed.
           </p>
         </div>
       </div>
@@ -184,7 +184,7 @@ export default async function HomePage() {
                 </h3>
                 <p className="mt-1.5 text-[13px] leading-relaxed text-slate-600">
                   A full review pass across every subject, backed by the same system-wise mocks,
-                  Grand Mock, and detailed explanations &mdash; free to use on this platform.
+                  Grand Mock, and detailed explanations &mdash; included with your enrolment.
                 </p>
               </div>
             </div>
@@ -210,17 +210,17 @@ export default async function HomePage() {
 
               <div className="mt-6 rounded-2xl border border-brand-100 bg-gradient-to-br from-brand-600 via-brand-700 to-brand-950 p-5 text-white shadow-premium">
                 <span className="inline-flex items-center gap-1.5 rounded-full bg-white/15 px-3 py-1 text-[12px] font-semibold">
-                  <Sparkles size={12} /> Free, always
+                  <Sparkles size={12} /> Included with enrolment
                 </span>
                 <p className="mt-3 text-sm leading-relaxed text-white/85">
                   Every system &amp; topic mock, the full Grand Mock, and per-option explanations on
-                  ACE FCPS are 100% free to use &mdash; whether or not you join the coaching program.
+                  ACE FCPS are unlocked for enrolled students once the team confirms your email and payment.
                 </p>
                 <Link
                   href="/exams"
                   className="mt-4 inline-flex items-center gap-1.5 rounded-lg bg-white px-4 py-2 text-[13px] font-bold text-brand-700 shadow-sm transition hover:bg-brand-50"
                 >
-                  Try mocks free <ArrowRight size={14} />
+                  Explore mocks <ArrowRight size={14} />
                 </Link>
               </div>
             </div>
@@ -273,12 +273,12 @@ export default async function HomePage() {
             />
             <div className="relative">
               <span className="inline-flex items-center gap-1.5 rounded-full bg-white/15 px-3 py-1 text-[12px] font-semibold">
-                <Trophy size={13} /> Free, no card required
+                <Trophy size={13} /> Included with enrolment
               </span>
               <h2 className="mt-3 text-xl font-bold">Explore the mock exams</h2>
               <p className="mt-1 max-w-md text-sm text-white/85">
-                System mocks, the Grand Mock, Tutor mode, and Attempt Recalls &mdash; try every
-                format free, program or not.
+                System mocks, the Grand Mock, Tutor mode, and Attempt Recalls &mdash; every
+                format is unlocked once your enrolment is confirmed.
               </p>
             </div>
             <span className="relative flex items-center gap-2 rounded-xl bg-white px-5 py-3 text-sm font-bold text-gold-700 shadow-sm transition group-hover:bg-gold-50">

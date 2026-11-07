@@ -57,8 +57,8 @@ const FEATURES = [
     icon: ShieldCheck,
     bg: "bg-rose-50",
     text: "text-rose-600",
-    title: "100% free",
-    description: "Every mock, every mode, every explanation — always free, whether or not you join the coaching program.",
+    title: "Full access after enrolment",
+    description: "Every mock, every mode and every explanation opens as soon as the team confirms your email and payment.",
   },
 ];
 
@@ -93,7 +93,7 @@ export default async function ExamsPage() {
               href="/signup"
               className="group flex items-center gap-2 rounded-xl bg-gradient-to-br from-brand-600 to-brand-900 px-6 py-3 text-sm font-bold text-white shadow-premium transition hover:shadow-lg"
             >
-              Start mocking free
+              Create your account
               <ArrowRight size={16} className="transition group-hover:translate-x-0.5" />
             </Link>
             <Link

@@ -34,7 +34,7 @@ export function SiteHeader({ user }: { user: null }) {
             href="/signup"
             className="rounded-lg bg-gradient-to-b from-gold-500 to-gold-600 px-4 py-1.5 text-sm font-bold text-white shadow-[0_8px_20px_-8px_rgba(201,122,43,0.7)] transition hover:-translate-y-0.5"
           >
-            Sign up free
+            Create account
           </Link>
         </nav>
       </div>

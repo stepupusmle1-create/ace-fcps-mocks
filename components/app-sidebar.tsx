@@ -4,7 +4,7 @@ import Image from "next/image";
 import Link from "next/link";
 import { usePathname } from "next/navigation";
 import { useEffect, useState } from "react";
-import { GraduationCap, LayoutDashboard, Menu, PlusCircle, ShieldCheck, TrendingUp, Trophy, X, History as HistoryIcon } from "lucide-react";
+import { CalendarDays, GraduationCap, LayoutDashboard, Menu, PlusCircle, ShieldCheck, TrendingUp, Trophy, X, History as HistoryIcon } from "lucide-react";
 import { LogoutButton } from "@/components/logout-button";
 
 // Q Bank is hidden from navigation for now — the app is mocks-only.
@@ -18,6 +18,7 @@ const NAV_ITEMS = [
     match: (p: string) => p === "/mocks" || p.startsWith("/systems") || (p.startsWith("/exam") && p !== "/exam/grand"),
   },
   { href: "/exam/grand", label: "Grand Mock", icon: Trophy, match: (p: string) => p === "/exam/grand" },
+  { href: "/study-plan", label: "Study Plan", icon: CalendarDays, match: (p: string) => p.startsWith("/study-plan") },
   { href: "/progress", label: "Progress", icon: TrendingUp, match: (p: string) => p.startsWith("/progress") },
   { href: "/history", label: "History", icon: HistoryIcon, match: (p: string) => p.startsWith("/history") || p.startsWith("/attempt") },
 ];

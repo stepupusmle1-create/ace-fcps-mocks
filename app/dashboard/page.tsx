@@ -5,10 +5,15 @@ import { getCurrentUser } from "@/lib/auth";
 import { prisma } from "@/lib/prisma";
 import { getQuestionTotals } from "@/lib/cached";
 import { attemptTitle, PASS_PERCENT } from "@/lib/exam";
+import { hasFullAccess } from "@/lib/access";
+import { AccessLocked } from "@/components/access-locked";
 
 export default async function DashboardPage() {
   const user = await getCurrentUser();
   if (!user) redirect("/login");
+  if (!hasFullAccess(user)) {
+    return <AccessLocked name={user.name} email={user.email} />;
+  }
 
   const [submittedAttempts, totals] = await Promise.all([
     prisma.attempt.findMany({

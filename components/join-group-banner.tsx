@@ -18,7 +18,7 @@ export function JoinGroupBanner({ variant = "full" }: { variant?: "full" | "comp
             Join our free WhatsApp group
           </span>
           <span className="block truncate text-[12px] text-emerald-700">
-            Free mocks, updates &amp; FCPS demo classes
+            Updates, new question drops &amp; FCPS demo classes
           </span>
         </span>
         <ArrowUpRight size={16} className="flex-none text-emerald-500 transition group-hover:translate-x-0.5 group-hover:-translate-y-0.5" />
@@ -43,7 +43,7 @@ export function JoinGroupBanner({ variant = "full" }: { variant?: "full" | "comp
           </span>
           <h3 className="mt-3 text-xl font-bold sm:text-2xl">Join our WhatsApp community</h3>
           <p className="mt-1.5 max-w-md text-sm leading-relaxed text-white/85">
-            Get free further mocks, new question drops, and invites to Dr Bilal&apos;s live FCPS
+            Get updates, new question drops, and invites to Dr Bilal&apos;s live FCPS
             demo classes &mdash; straight to your phone.
           </p>
           <div className="mt-3 flex flex-wrap items-center gap-x-5 gap-y-1.5 text-[12px] font-medium text-white/80">
